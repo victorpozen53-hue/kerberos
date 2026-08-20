@@ -1,9 +1,0 @@
-[18:01:05] - Serveur Démarré
-[18:01:05] - FTP Port: 21
-[21:28:09] - [1] Connecté à 203.101.187.252. Collecte du Nom d'utilisateur.
-[21:28:10] - [1] Authentification Incorrect: Utilisateur WWW-DATA IP: 203.101.187.252
-[21:28:10] - [1] Client 203.101.187.252 Déconnecté (00:00:01 Min)
-[21:30:13] - [2] Connecté à 94.102.49.190. Collecte du Nom d'utilisateur.
-[21:30:13] - [2] Usager ANONYMOUS Connecté IP: 94.102.49.190
-[21:30:13] - [2] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 94.102.49.190
-[21:30:19] - [2] Client 94.102.49.190 Déconnecté (00:00:05 Min)
