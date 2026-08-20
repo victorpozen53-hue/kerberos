@@ -10,6 +10,11 @@ TEXT_COLOR = "#c9d1d9"     # Texte clair
 ACCENT_COLOR = "#00ff41"   # Vert hacker
 BTN_COLOR = "#238636"      # Vert bouton GitHub
 BTN_HOVER = "#2ea043"
+URL_COLOR = "#58a6ff"      # Bleu lien GitHub
+
+# --- Constantes du projet ---
+TARGET_DIR = r"H:\kerberos"
+GITHUB_URL = "https://github.com/victorpozen53-hue/kerberos"
 
 def log(message, color=TEXT_COLOR):
     """Ajoute un message dans la zone de log"""
@@ -22,7 +27,6 @@ def log(message, color=TEXT_COLOR):
 def run_git_command(command):
     """Exécute une commande Git et affiche la sortie en temps réel"""
     try:
-        # On utilise Popen pour lire la sortie ligne par ligne
         process = subprocess.Popen(
             command, 
             shell=True, 
@@ -31,10 +35,8 @@ def run_git_command(command):
             text=True,
             bufsize=1
         )
-        
         for line in process.stdout:
             log(line.strip())
-            
         process.wait()
         return process.returncode
     except Exception as e:
@@ -44,40 +46,37 @@ def run_git_command(command):
 def deploy():
     """Fonction principale déclenchée par le bouton"""
     message = entry_message.get().strip()
-    
     if not message:
         messagebox.showwarning("Attention", "Tu dois entrer un message de commit !")
         return
 
-    # Désactiver le bouton pendant le déploiement
+    # Désactiver l'interface pendant le travail
     btn_deploy.config(state=tk.DISABLED, text="Déploiement en cours...")
     entry_message.config(state=tk.DISABLED)
     
-    # Vider les logs précédents
+    # Vider les anciens logs
     log_area.config(state=tk.NORMAL)
     log_area.delete(1.0, tk.END)
     log_area.config(state=tk.DISABLED)
 
     log("🚀 === DÉPLOIEMENT KERBEROS VERS GITHUB ===", ACCENT_COLOR)
-    log(f" Dossier de travail : {os.getcwd()}\n")
+    log(f"📁 Dossier local : {TARGET_DIR}")
+    log(f"🌐 Repository   : {GITHUB_URL}\n")
 
-    # 1. Git Add
     log("📦 Étape 1 : Préparation des fichiers (git add)...", ACCENT_COLOR)
     run_git_command("git add .")
     log("")
 
-    # 2. Git Commit
-    log(f"🔒 Étape 2 : Sauvegarde locale (commit)...", ACCENT_COLOR)
+    log("🔒 Étape 2 : Sauvegarde locale (commit)...", ACCENT_COLOR)
     code = run_git_command(f'git commit -m "{message}"')
     
     if code != 0:
-        log("⚠️ Aucun changement détecté ou erreur de commit. Annulation de l'envoi.", "orange")
+        log("⚠️ Aucun changement détecté ou erreur. Annulation de l'envoi.", "orange")
         reset_ui()
         return
     log("")
 
-    # 3. Git Push
-    log(" Étape 3 : Envoi vers GitHub (git push)...", ACCENT_COLOR)
+    log("📬 Étape 3 : Envoi vers GitHub (git push)...", ACCENT_COLOR)
     run_git_command("git push -u origin main")
     
     log("\n✅ === TERMINÉ ! Ton binôme peut voir les modifs. ===", ACCENT_COLOR)
@@ -90,21 +89,31 @@ def reset_ui():
 
 # --- Création de la fenêtre Tkinter ---
 root = tk.Tk()
-root.title("Kerberos Git Deployer v1.0")
-root.geometry("700x500")
+root.title("Kerberos Git Deployer v1.1")
+root.geometry("750x550")
 root.configure(bg=BG_COLOR)
 root.resizable(False, False)
 
 # Titre
-title_label = tk.Label(root, text="️ KERBEROS GIT DEPLOYER", font=("Consolas", 16, "bold"), bg=BG_COLOR, fg=ACCENT_COLOR)
-title_label.pack(pady=15)
+title_label = tk.Label(root, text="🛡️ KERBEROS GIT DEPLOYER", font=("Consolas", 16, "bold"), bg=BG_COLOR, fg=ACCENT_COLOR)
+title_label.pack(pady=10)
+
+# Informations du projet (Chemin et Lien GitHub)
+info_frame = tk.Frame(root, bg=BG_COLOR)
+info_frame.pack(pady=5)
+
+tk.Label(info_frame, text=f"📁 Local : {TARGET_DIR}", font=("Consolas", 10), bg=BG_COLOR, fg=TEXT_COLOR).pack(anchor=tk.W)
+tk.Label(info_frame, text=f"🌐 GitHub : {GITHUB_URL}", font=("Consolas", 10), bg=BG_COLOR, fg=URL_COLOR).pack(anchor=tk.W)
+
+# Séparateur
+tk.Label(root, text="-" * 85, font=("Consolas", 8), bg=BG_COLOR, fg="#30363d").pack(pady=5)
 
 # Zone de saisie du message
 frame_input = tk.Frame(root, bg=BG_COLOR)
-frame_input.pack(pady=10, padx=20, fill=tk.X)
+frame_input.pack(pady=5, padx=20, fill=tk.X)
 
-tk.Label(frame_input, text="Message du commit :", font=("Consolas", 10), bg=BG_COLOR, fg=TEXT_COLOR).pack(anchor=tk.W)
-entry_message = tk.Entry(frame_input, font=("Consolas", 12), bg="#161b22", fg=TEXT_COLOR, insertbackground=TEXT_COLOR, relief=tk.FLAT, bd=2)
+tk.Label(frame_input, text="Message du commit :", font=("Consolas", 10, "bold"), bg=BG_COLOR, fg=TEXT_COLOR).pack(anchor=tk.W)
+entry_message = tk.Entry(frame_input, font=("Consolas", 11), bg="#161b22", fg=TEXT_COLOR, insertbackground=TEXT_COLOR, relief=tk.FLAT, bd=2)
 entry_message.pack(fill=tk.X, pady=5, ipady=5)
 
 # Bouton de déploiement
@@ -116,12 +125,12 @@ log_area = scrolledtext.ScrolledText(root, font=("Consolas", 10), bg="#161b22", 
 log_area.pack(pady=10, padx=20, fill=tk.BOTH, expand=True)
 
 # Configurer les couleurs de texte pour les tags
-log_area.tag_config("red", foreground="red")
-log_area.tag_config("orange", foreground="orange")
+log_area.tag_config("red", foreground="#ff7b72")
+log_area.tag_config("orange", foreground="#d29922")
 log_area.tag_config(ACCENT_COLOR, foreground=ACCENT_COLOR)
 
-# S'assurer qu'on est dans le bon dossier au démarrage
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# Forcer le script à travailler dans le bon dossier au démarrage
+os.chdir(TARGET_DIR)
 
 # Lancer l'application
 root.mainloop()
