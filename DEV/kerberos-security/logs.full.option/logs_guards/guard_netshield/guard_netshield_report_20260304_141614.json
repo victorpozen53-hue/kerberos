@@ -1,0 +1,11 @@
+{
+  "guard": "netshield",
+  "timestamp": "2026-03-04T13:16:14.645349+00:00",
+  "status": "active",
+  "total_connections": 1875,
+  "recent_connections": [],
+  "blocked_ips": [],
+  "blocklist_ranges": 0,
+  "whitelist_count": 6,
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_netshield"
+}

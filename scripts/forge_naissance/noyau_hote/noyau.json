@@ -1,0 +1,26 @@
+{
+  "type": "noyau_hote",
+  "created_at": "2026-01-16T20:57:43.215486+00:00",
+  "machine_fp": "a38846c5c65d",
+  "system": "Windows 10",
+  "architecture": "AMD64",
+  "disks": [
+    "C:\\",
+    "D:\\",
+    "E:\\",
+    "F:\\",
+    "G:\\",
+    "H:\\",
+    "I:\\"
+  ],
+  "modules_actifs": {
+    "analyse": [
+      "guard_genome.py",
+      "guard_lymphatic.py"
+    ],
+    "reaction": [
+      "guard_thymus.py",
+      "guard_vigil.py"
+    ]
+  }
+}

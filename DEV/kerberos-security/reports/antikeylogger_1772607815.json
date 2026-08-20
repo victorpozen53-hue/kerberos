@@ -1,0 +1,11 @@
+{
+  "guard": "antikeylogger",
+  "status": "ok",
+  "timestamp": "2026-03-04T08:03:35.667556",
+  "scanned_processes": 137,
+  "threats_detected": 0,
+  "threats": [],
+  "scan_duration_sec": 1.0,
+  "quarantine_required": false,
+  "report": "🛡️ RAPPORT ANTI-KEYLOGGER — Scan de sécurité\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nProcessus analysés : 137\nDurée du scan     : 1.00 secondes\nMenaces détectées : 0\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✅ Aucun keylogger détecté\nℹ️  Whitelist active : navigateurs et apps légitimes exclus du scan\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+}

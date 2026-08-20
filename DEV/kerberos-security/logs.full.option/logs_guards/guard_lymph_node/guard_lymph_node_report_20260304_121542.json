@@ -1,0 +1,10 @@
+{
+  "guard": "lymph_node",
+  "timestamp": "2026-03-04T12:15:42.101358",
+  "status": "active",
+  "total_filtered": 0,
+  "ranges_count": 0,
+  "trusted_count": 8,
+  "normal_mode": false,
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_lymph_node"
+}

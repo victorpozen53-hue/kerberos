@@ -1,0 +1,5261 @@
+============================================================
+RAPPORT KERBEROS – ANALYSE DE DISQUES
+============================================================
+Date : 2026-01-04 18:47:10
+Système : Windows 10
+Profondeur : 4
+Licence : GNU GPLv3 – https://liberapay.com/EthicalKerberos/
+============================================================
+
+
+============================================================
+CIBLE : H:\
+============================================================
+📊 Espace : 3.4 / 99.8 Go
+
+Arborescence :
+├── 📁 $RECYCLE.BIN
+│   ├── 📁 S-1-5-21-1620273336-4107859483-2306040055-1001
+│   │   ├── 📁 $R0IB7AV.frames
+│   │   ├── 📁 $R16J3RU
+│   │   │   └── 📁 html
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 $R1LKGC6.option
+│   │   │   ├── 📁 logs.anti.spamm
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 logs.simulation
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 $R3ZZ9OA
+│   │   ├── 📁 $R4969ZP
+│   │   ├── 📁 $R4J6AN4
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 $R7YSKNO
+│   │   │   ├── 📁 .devcontainer
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .githooks
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .github
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .vscode
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 Nuitka.egg-info
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 bin
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 build
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 debian
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 doc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 lib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 misc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 nuitka
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 rpm
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 LICENSE.txt
+│   │   │   ├── 📄 nuitka-crash-report.xml
+│   │   │   ├── 📄 requirements-devel.txt
+│   │   │   ├── 📄 requirements.txt
+│   │   │   ├── 🐍 setup.py
+│   │   │   └── 📄 [16 autre(s) fichier(s)]
+│   │   ├── 📁 $R8CNNF5
+│   │   │   └── 📁 scripts
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 $RAV8JUY
+│   │   ├── 📁 $RCI463X
+│   │   ├── 📁 $RD83ZLL
+│   │   ├── 📁 $RE16NLN
+│   │   │   ├── 📁 .devcontainer
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .githooks
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .github
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 .vscode
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 Nuitka.egg-info
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 bin
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 build
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 debian
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 doc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 lib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 misc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 nuitka
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 rpm
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 LICENSE.txt
+│   │   │   ├── 📄 nuitka-crash-report.xml
+│   │   │   ├── 📄 requirements-devel.txt
+│   │   │   ├── 📄 requirements.txt
+│   │   │   ├── 🐍 setup.py
+│   │   │   └── 📄 [16 autre(s) fichier(s)]
+│   │   ├── 📁 $RFRNAEV
+│   │   ├── 📁 $RHL5ZQG
+│   │   ├── 📁 $RITRM3F
+│   │   │   ├── 📁 bin
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 etc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 lib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 libexec
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 licenses
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 opt
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 share
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 x86_64-w64-mingw32
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 build-info.txt
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 $RJ7H3HO
+│   │   │   └── 📄 kerberos_compilation_summary_20260104_135709.txt
+│   │   ├── 📁 $RJAC44G
+│   │   │   ├── 📁 python-arbeit
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 python.32
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 python.64
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 $RL8LFK4
+│   │   ├── 📁 $RLZ5V2B.3
+│   │   │   ├── 📁 COPYING.MinGW-w64
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 COPYING.MinGW-w64-runtime
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mingw-w64-crt
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mingw-w64-doc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mingw-w64-headers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mingw-w64-libraries
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mingw-w64-tools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [11 autre(s) fichier(s)]
+│   │   ├── 📁 $RNIDTRM
+│   │   ├── 📁 $RSVK9D6
+│   │   │   ├── 📁 concurrent
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 idlelib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 test
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 $RTLI3YN
+│   │   ├── 📁 $RUNWGY3
+│   │   │   └── 📄 debug.log
+│   │   ├── 📁 $RWD7MGJ
+│   │   ├── 📁 $RWV8CT6
+│   │   ├── 📁 $RWWIZ0T
+│   │   │   └── 📄 kerberos_offline_deps_install.bat
+│   │   ├── 📁 $RZ8NBTY
+│   │   │   ├── 📁 html
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 idlelib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 test
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📄 $I0HZVCY.exe
+│   │   ├── 🐍 $I34X96P.py
+│   │   ├── 📄 $I6XZL1D.exe
+│   │   ├── 🐍 $I7F6MEG.py
+│   │   ├── 📄 $I8PDMXO.txt
+│   │   ├── 📄 $I8PU32V.txt
+│   │   ├── 📄 $IBHDE7S.exe
+│   │   ├── 📄 $ICM2LD3.exe
+│   │   ├── 🐍 $IDTHXB2.py
+│   │   ├── 📄 $IFZTLB7.txt
+│   │   ├── 📄 $IIO7W7I.txt
+│   │   ├── 📄 $IKM5W9Z.bat
+│   │   ├── 📄 $ILXGHYT.txt
+│   │   ├── 🐍 $IMIAQZS.py
+│   │   ├── 📄 $IOIFA0V.log
+│   │   ├── 📄 $IP811DI.txt
+│   │   ├── 🐍 $IPL9EWB.py
+│   │   ├── 🐍 $IQW20TT.py
+│   │   ├── 🐍 $IR0O77I.py
+│   │   ├── 📄 $IUP3V82.exe
+│   │   ├── 📄 $IWWP5ED.txt
+│   │   ├── 🐍 $IXTHQWY.py
+│   │   ├── 🐍 $IYC5IEK.py
+│   │   ├── 📄 $R0HZVCY.exe
+│   │   ├── 📄 $R6XZL1D.exe
+│   │   ├── 📄 $R8PDMXO.txt
+│   │   ├── 📄 $R8PU32V.txt
+│   │   ├── 📄 $RBHDE7S.exe
+│   │   ├── 📄 $RCM2LD3.exe
+│   │   ├── 🐍 $RDTHXB2.py
+│   │   ├── 📄 $RFZTLB7.txt
+│   │   ├── 📄 $RIO7W7I.txt
+│   │   ├── 📄 $RKM5W9Z.bat
+│   │   ├── 📄 $RLXGHYT.txt
+│   │   ├── 🐍 $RMIAQZS.py
+│   │   ├── 📄 $ROIFA0V.log
+│   │   ├── 📄 $RP811DI.txt
+│   │   ├── 🐍 $RPL9EWB.py
+│   │   ├── 🐍 $RQW20TT.py
+│   │   ├── 🐍 $RR0O77I.py
+│   │   ├── 📄 $RUP3V82.exe
+│   │   ├── 📄 $RWWP5ED.txt
+│   │   ├── 📄 desktop.ini
+│   │   └── 📄 [94 autre(s) fichier(s)]
+│   ├── 📁 S-1-5-21-1961243781-2251005023-79841022-1001
+│   │   📁 [accès refusé]
+│   └── 📁 S-1-5-21-2625007548-1641229155-634235479-1001
+│       📁 [accès refusé]
+├── 📁 Config.Msi
+│   📁 [accès refusé]
+├── 📁 Nuitka-develop
+│   ├── 📁 .agent
+│   │   └── 📁 rules
+│   │       └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 .devcontainer
+│   │   └── 📄 devcontainer.json
+│   ├── 📁 .githooks
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 .github
+│   │   ├── 📁 ISSUE_TEMPLATE
+│   │   │   ├── 📄 config.yml
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 workflows
+│   │   │   └── 📄 testing.yml
+│   │   ├── 📄 FUNDING.yml
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 .vscode
+│   │   ├── 📄 extensions.json
+│   │   ├── 📄 settings.json
+│   │   ├── 📄 tasks.json
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 bin
+│   │   └── 📄 [18 autre(s) fichier(s)]
+│   ├── 📁 debian
+│   │   ├── 📁 pbuilder-hookdir
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 source
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   └── 📄 [9 autre(s) fichier(s)]
+│   ├── 📁 doc
+│   │   ├── 📁 Logo
+│   │   │   ├── 📁 inkscape
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [3 autre(s) fichier(s)]
+│   │   ├── 📁 images
+│   │   │   └── 📄 [3 autre(s) fichier(s)]
+│   │   ├── 📁 uml
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📄 nuitka-man-include.txt
+│   │   └── 📄 [4 autre(s) fichier(s)]
+│   ├── 📁 lib
+│   │   └── 🐍 hints.py
+│   ├── 📁 misc
+│   │   ├── 📄 codespell-ignore.txt
+│   │   ├── 🐍 create-pbuilder-image.py
+│   │   ├── 🐍 dump-config-options.py
+│   │   ├── 🐍 install-git-hooks.py
+│   │   ├── 🐍 make-apidoc.py
+│   │   ├── 🐍 make-coverage-rendering.py
+│   │   ├── 🐍 make-deb-mentors-release.py
+│   │   ├── 🐍 make-deb-release.py
+│   │   ├── 🐍 make-pypi-upload.py
+│   │   ├── 🐍 make-release.py
+│   │   ├── 🐍 make-upload.py
+│   │   ├── 🐍 make-version-bump.py
+│   │   ├── 📄 nuitka-package-config-schema.json
+│   │   ├── 🐍 run-valgrind.py
+│   │   ├── 🐍 update-doc.py
+│   │   ├── 🐍 vscode_config_gen.py
+│   │   └── 📄 [3 autre(s) fichier(s)]
+│   ├── 📁 nuitka
+│   │   ├── 📁 build
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 inline_copy
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 static_src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 DataComposerInterface.py
+│   │   │   ├── 🐍 SconsCaching.py
+│   │   │   ├── 🐍 SconsCompilerSettings.py
+│   │   │   ├── 🐍 SconsHacks.py
+│   │   │   ├── 🐍 SconsInterface.py
+│   │   │   ├── 🐍 SconsProgress.py
+│   │   │   ├── 🐍 SconsPythonBuild.py
+│   │   │   ├── 🐍 SconsSpawn.py
+│   │   │   ├── 🐍 SconsUtils.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 code_generation
+│   │   │   ├── 📁 c_types
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 templates
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 templates_c
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 AsyncgenCodes.py
+│   │   │   ├── 🐍 AttributeCodes.py
+│   │   │   ├── 🐍 BinaryOperationHelperDefinitions.py
+│   │   │   ├── 🐍 BranchCodes.py
+│   │   │   ├── 🐍 BuiltinCodes.py
+│   │   │   ├── 🐍 CallCodes.py
+│   │   │   ├── 🐍 ClassCodes.py
+│   │   │   ├── 🐍 CodeGeneration.py
+│   │   │   ├── 🐍 CodeHelperSelection.py
+│   │   │   ├── 🐍 CodeHelpers.py
+│   │   │   ├── 🐍 CodeObjectCodes.py
+│   │   │   ├── 🐍 ComparisonCodes.py
+│   │   │   ├── 🐍 ComparisonHelperDefinitions.py
+│   │   │   ├── 🐍 ConditionalCodes.py
+│   │   │   ├── 🐍 ConstantCodes.py
+│   │   │   ├── 🐍 Contexts.py
+│   │   │   ├── 🐍 CoroutineCodes.py
+│   │   │   ├── 🐍 CtypesCodes.py
+│   │   │   ├── 🐍 DictCodes.py
+│   │   │   ├── 🐍 Emission.py
+│   │   │   ├── 🐍 ErrorCodes.py
+│   │   │   ├── 🐍 EvalCodes.py
+│   │   │   ├── 🐍 ExceptionCodes.py
+│   │   │   ├── 🐍 ExpressionCTypeSelectionHelpers.py
+│   │   │   ├── 🐍 ExpressionCodes.py
+│   │   │   ├── 🐍 FrameCodes.py
+│   │   │   ├── 🐍 FunctionCodes.py
+│   │   │   ├── 🐍 GeneratorCodes.py
+│   │   │   ├── 🐍 GlobalConstants.py
+│   │   │   ├── 🐍 GlobalsLocalsCodes.py
+│   │   │   ├── 🐍 IdCodes.py
+│   │   │   ├── 🐍 ImportCodes.py
+│   │   │   ├── 🐍 Indentation.py
+│   │   │   ├── 🐍 IndexCodes.py
+│   │   │   ├── 🐍 IntegerCodes.py
+│   │   │   ├── 🐍 IteratorCodes.py
+│   │   │   ├── 🐍 JitCodes.py
+│   │   │   ├── 🐍 LabelCodes.py
+│   │   │   ├── 🐍 LineNumberCodes.py
+│   │   │   ├── 🐍 ListCodes.py
+│   │   │   ├── 🐍 LoaderCodes.py
+│   │   │   ├── 🐍 LocalsDictCodes.py
+│   │   │   ├── 🐍 LoopCodes.py
+│   │   │   ├── 🐍 MatchCodes.py
+│   │   │   ├── 🐍 ModuleCodes.py
+│   │   │   ├── 🐍 Namify.py
+│   │   │   ├── 🐍 NetworkxCodes.py
+│   │   │   ├── 🐍 OperationCodes.py
+│   │   │   ├── 🐍 PackageResourceCodes.py
+│   │   │   ├── 🐍 PrintCodes.py
+│   │   │   ├── 🐍 PythonAPICodes.py
+│   │   │   ├── 🐍 RaisingCodes.py
+│   │   │   ├── 🐍 Reports.py
+│   │   │   ├── 🐍 ReturnCodes.py
+│   │   │   ├── 🐍 SetCodes.py
+│   │   │   ├── 🐍 SliceCodes.py
+│   │   │   ├── 🐍 StringCodes.py
+│   │   │   ├── 🐍 SubscriptCodes.py
+│   │   │   ├── 🐍 TensorflowCodes.py
+│   │   │   ├── 🐍 TryCodes.py
+│   │   │   ├── 🐍 TupleCodes.py
+│   │   │   ├── 🐍 TypeAliasCodes.py
+│   │   │   ├── 🐍 VariableCodes.py
+│   │   │   ├── 🐍 VariableDeclarations.py
+│   │   │   ├── 🐍 YieldCodes.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 containers
+│   │   │   ├── 🐍 Namedtuples.py
+│   │   │   ├── 🐍 OrderedDicts.py
+│   │   │   ├── 🐍 OrderedSets.py
+│   │   │   ├── 🐍 OrderedSetsFallback.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 distutils
+│   │   │   ├── 🐍 Build.py
+│   │   │   ├── 🐍 DistutilsCommands.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 finalizations
+│   │   │   ├── 🐍 Finalization.py
+│   │   │   ├── 🐍 FinalizeMarkups.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 format
+│   │   │   ├── 🐍 BiomeFormatter.py
+│   │   │   ├── 🐍 FileFormatting.py
+│   │   │   ├── 🐍 PythonFormatting.py
+│   │   │   ├── 🐍 YamlChecker.py
+│   │   │   ├── 🐍 YamlFormatter.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 biome.json
+│   │   ├── 📁 freezer
+│   │   │   ├── 🐍 DependsExe.py
+│   │   │   ├── 🐍 DllDependenciesCommon.py
+│   │   │   ├── 🐍 DllDependenciesMacOS.py
+│   │   │   ├── 🐍 DllDependenciesPosix.py
+│   │   │   ├── 🐍 DllDependenciesWin32.py
+│   │   │   ├── 🐍 ImportDetection.py
+│   │   │   ├── 🐍 IncludedDataFiles.py
+│   │   │   ├── 🐍 IncludedEntryPoints.py
+│   │   │   ├── 🐍 Onefile.py
+│   │   │   ├── 🐍 Standalone.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 importing
+│   │   │   ├── 🐍 IgnoreListing.py
+│   │   │   ├── 🐍 ImportCache.py
+│   │   │   ├── 🐍 ImportResolving.py
+│   │   │   ├── 🐍 Importing.py
+│   │   │   ├── 🐍 PreloadedPackages.py
+│   │   │   ├── 🐍 Recursion.py
+│   │   │   ├── 🐍 StandardLibrary.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 nodes
+│   │   │   ├── 📁 shapes
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 AsyncgenNodes.py
+│   │   │   ├── 🐍 AttributeLookupNodes.py
+│   │   │   ├── 🐍 AttributeNodes.py
+│   │   │   ├── 🐍 AttributeNodesGenerated.py
+│   │   │   ├── 🐍 BuiltinAllNodes.py
+│   │   │   ├── 🐍 BuiltinAnyNodes.py
+│   │   │   ├── 🐍 BuiltinComplexNodes.py
+│   │   │   ├── 🐍 BuiltinDecodingNodes.py
+│   │   │   ├── 🐍 BuiltinDecoratorNodes.py
+│   │   │   ├── 🐍 BuiltinDictNodes.py
+│   │   │   ├── 🐍 BuiltinFormatNodes.py
+│   │   │   ├── 🐍 BuiltinHashNodes.py
+│   │   │   ├── 🐍 BuiltinInputNodes.py
+│   │   │   ├── 🐍 BuiltinIntegerNodes.py
+│   │   │   ├── 🐍 BuiltinIteratorNodes.py
+│   │   │   ├── 🐍 BuiltinLenNodes.py
+│   │   │   ├── 🐍 BuiltinNextNodes.py
+│   │   │   ├── 🐍 BuiltinOpenNodes.py
+│   │   │   ├── 🐍 BuiltinOperationNodeBasesGenerated.py
+│   │   │   ├── 🐍 BuiltinRangeNodes.py
+│   │   │   ├── 🐍 BuiltinRefNodes.py
+│   │   │   ├── 🐍 BuiltinSumNodes.py
+│   │   │   ├── 🐍 BuiltinTemplateNodes.py
+│   │   │   ├── 🐍 BuiltinTypeNodes.py
+│   │   │   ├── 🐍 BuiltinVarsNodes.py
+│   │   │   ├── 🐍 BytesNodes.py
+│   │   │   ├── 🐍 CallNodes.py
+│   │   │   ├── 🐍 Checkers.py
+│   │   │   ├── 🐍 ChildrenHavingMixins.py
+│   │   │   ├── 🐍 ClassNodes.py
+│   │   │   ├── 🐍 CodeObjectSpecs.py
+│   │   │   ├── 🐍 ComparisonNodes.py
+│   │   │   ├── 🐍 ConditionalNodes.py
+│   │   │   ├── 🐍 ConstantRefNodes.py
+│   │   │   ├── 🐍 ContainerMakingNodes.py
+│   │   │   ├── 🐍 ContainerOperationNodes.py
+│   │   │   ├── 🐍 CoroutineNodes.py
+│   │   │   ├── 🐍 CtypesNodes.py
+│   │   │   ├── 🐍 DictionaryNodes.py
+│   │   │   ├── 🐍 ExceptionNodes.py
+│   │   │   ├── 🐍 ExecEvalNodes.py
+│   │   │   ├── 🐍 ExpressionBases.py
+│   │   │   ├── 🐍 ExpressionBasesGenerated.py
+│   │   │   ├── 🐍 ExpressionShapeMixins.py
+│   │   │   ├── 🐍 FrameNodes.py
+│   │   │   ├── 🐍 FunctionAttributeNodes.py
+│   │   │   ├── 🐍 FunctionNodes.py
+│   │   │   ├── 🐍 FutureSpecs.py
+│   │   │   ├── 🐍 GeneratorNodes.py
+│   │   │   ├── 🐍 GlobalsLocalsNodes.py
+│   │   │   ├── 🐍 HardImportNodesGenerated.py
+│   │   │   ├── 🐍 ImportHardNodes.py
+│   │   │   ├── 🐍 ImportNodes.py
+│   │   │   ├── 🐍 IndicatorMixins.py
+│   │   │   ├── 🐍 IterationHandles.py
+│   │   │   ├── 🐍 KeyValuePairNodes.py
+│   │   │   ├── 🐍 ListOperationNodes.py
+│   │   │   ├── 🐍 LocalsDictNodes.py
+│   │   │   ├── 🐍 LocalsScopes.py
+│   │   │   ├── 🐍 LoopNodes.py
+│   │   │   ├── 🐍 MatchNodes.py
+│   │   │   ├── 🐍 ModuleAttributeNodes.py
+│   │   │   ├── 🐍 ModuleNodes.py
+│   │   │   ├── 🐍 NetworkxNodes.py
+│   │   │   ├── 🐍 NodeBases.py
+│   │   │   ├── 🐍 NodeMakingHelpers.py
+│   │   │   ├── 🐍 NodeMetaClasses.py
+│   │   │   ├── 🐍 OperatorNodes.py
+│   │   │   ├── 🐍 OperatorNodesUnary.py
+│   │   │   ├── 🐍 OsSysNodes.py
+│   │   │   ├── 🐍 OutlineNodes.py
+│   │   │   ├── 🐍 PackageMetadataNodes.py
+│   │   │   ├── 🐍 PackageResourceNodes.py
+│   │   │   ├── 🐍 PrintNodes.py
+│   │   │   ├── 🐍 ReturnNodes.py
+│   │   │   ├── 🐍 SideEffectNodes.py
+│   │   │   ├── 🐍 SliceNodes.py
+│   │   │   ├── 🐍 StatementBasesGenerated.py
+│   │   │   ├── 🐍 StatementNodes.py
+│   │   │   ├── 🐍 StrNodes.py
+│   │   │   ├── 🐍 StringConcatenationNodes.py
+│   │   │   ├── 🐍 SubscriptNodes.py
+│   │   │   ├── 🐍 TensorflowNodes.py
+│   │   │   ├── 🐍 TryNodes.py
+│   │   │   ├── 🐍 TypeMatchNodes.py
+│   │   │   ├── 🐍 TypeNodes.py
+│   │   │   ├── 🐍 VariableAssignNodes.py
+│   │   │   ├── 🐍 VariableDelNodes.py
+│   │   │   ├── 🐍 VariableNameNodes.py
+│   │   │   ├── 🐍 VariableRefNodes.py
+│   │   │   ├── 🐍 VariableReleaseNodes.py
+│   │   │   ├── 🐍 YieldNodes.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 optimizations
+│   │   │   ├── 🐍 BytecodeDemotion.py
+│   │   │   ├── 🐍 FunctionInlining.py
+│   │   │   ├── 🐍 Graphs.py
+│   │   │   ├── 🐍 Optimization.py
+│   │   │   ├── 🐍 OptimizeBuiltinCalls.py
+│   │   │   ├── 🐍 Tags.py
+│   │   │   ├── 🐍 TraceCollections.py
+│   │   │   ├── 🐍 ValueTraces.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 options
+│   │   │   ├── 🐍 BuildPackage.py
+│   │   │   ├── 🐍 CommandLineOptionsTools.py
+│   │   │   ├── 🐍 OptionParsing.py
+│   │   │   ├── 🐍 Options.py
+│   │   │   ├── 🐍 Poetry.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 pgo
+│   │   │   ├── 🐍 PGO.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 plugins
+│   │   │   ├── 📁 standard
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 Hooks.py
+│   │   │   ├── 🐍 PluginBase.py
+│   │   │   ├── 🐍 Plugins.py
+│   │   │   ├── 🐍 YamlPluginBase.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 reports
+│   │   │   ├── 🐍 CompilationReportReader.py
+│   │   │   ├── 🐍 Reports.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 specs
+│   │   │   ├── 🐍 BuiltinBytesOperationSpecs.py
+│   │   │   ├── 🐍 BuiltinDictOperationSpecs.py
+│   │   │   ├── 🐍 BuiltinListOperationSpecs.py
+│   │   │   ├── 🐍 BuiltinParameterSpecs.py
+│   │   │   ├── 🐍 BuiltinStrOperationSpecs.py
+│   │   │   ├── 🐍 BuiltinTypeOperationSpecs.py
+│   │   │   ├── 🐍 BuiltinUnicodeOperationSpecs.py
+│   │   │   ├── 🐍 HardImportSpecs.py
+│   │   │   ├── 🐍 ParameterSpecs.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 tools
+│   │   │   ├── 📁 commercial
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 data_composer
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 environments
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 general
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 onefile_compressor
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 podman
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 profiler
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 quality
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 release
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 scanning
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 specialize
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 testing
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 watch
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 Basics.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 tree
+│   │   │   ├── 🐍 Building.py
+│   │   │   ├── 🐍 ComplexCallHelperFunctions.py
+│   │   │   ├── 🐍 Extractions.py
+│   │   │   ├── 🐍 FutureSpecState.py
+│   │   │   ├── 🐍 InternalModule.py
+│   │   │   ├── 🐍 Operations.py
+│   │   │   ├── 🐍 ReformulationAssertStatements.py
+│   │   │   ├── 🐍 ReformulationAssignmentStatements.py
+│   │   │   ├── 🐍 ReformulationBooleanExpressions.py
+│   │   │   ├── 🐍 ReformulationCallExpressions.py
+│   │   │   ├── 🐍 ReformulationClasses.py
+│   │   │   ├── 🐍 ReformulationClasses3.py
+│   │   │   ├── 🐍 ReformulationComparisonExpressions.py
+│   │   │   ├── 🐍 ReformulationContractionExpressions.py
+│   │   │   ├── 🐍 ReformulationDictionaryCreation.py
+│   │   │   ├── 🐍 ReformulationExecStatements.py
+│   │   │   ├── 🐍 ReformulationForLoopStatements.py
+│   │   │   ├── 🐍 ReformulationFunctionStatements.py
+│   │   │   ├── 🐍 ReformulationImportStatements.py
+│   │   │   ├── 🐍 ReformulationLambdaExpressions.py
+│   │   │   ├── 🐍 ReformulationMatchStatements.py
+│   │   │   ├── 🐍 ReformulationMultidist.py
+│   │   │   ├── 🐍 ReformulationNamespacePackages.py
+│   │   │   ├── 🐍 ReformulationPrintStatements.py
+│   │   │   ├── 🐍 ReformulationSequenceCreation.py
+│   │   │   ├── 🐍 ReformulationSubscriptExpressions.py
+│   │   │   ├── 🐍 ReformulationTryExceptStatements.py
+│   │   │   ├── 🐍 ReformulationTryFinallyStatements.py
+│   │   │   ├── 🐍 ReformulationWhileLoopStatements.py
+│   │   │   ├── 🐍 ReformulationWithStatements.py
+│   │   │   ├── 🐍 ReformulationYieldExpressions.py
+│   │   │   ├── 🐍 SourceHandling.py
+│   │   │   ├── 🐍 SyntaxErrors.py
+│   │   │   ├── 🐍 TreeHelpers.py
+│   │   │   ├── 🐍 VariableClosure.py
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 utils
+│   │   │   ├── 🐍 AppDirs.py
+│   │   │   ├── 🐍 CStrings.py
+│   │   │   ├── 🐍 Distributions.py
+│   │   │   ├── 🐍 Download.py
+│   │   │   ├── 🐍 Execution.py
+│   │   │   ├── 🐍 FileOperations.py
+│   │   │   ├── 🐍 Hashing.py
+│   │   │   ├── 🐍 Images.py
+│   │   │   ├── 🐍 Importing.py
+│   │   │   ├── 🐍 InlineCopies.py
+│   │   │   ├── 🐍 InstalledPythons.py
+│   │   │   ├── 🐍 InstanceCounters.py
+│   │   │   ├── 🐍 Jinja2.py
+│   │   │   ├── 🐍 Json.py
+│   │   │   ├── 🐍 MacOSApp.py
+│   │   │   ├── 🐍 MacOSDmg.py
+│   │   │   ├── 🐍 MemoryUsage.py
+│   │   │   ├── 🐍 ModuleNames.py
+│   │   │   ├── 🐍 PackageResources.py
+│   │   │   ├── 🐍 PrivatePipSpace.py
+│   │   │   ├── 🐍 Profiling.py
+│   │   │   ├── 🐍 ReExecute.py
+│   │   │   ├── 🐍 Rest.py
+│   │   │   ├── 🐍 SharedLibraries.py
+│   │   │   ├── 🐍 Shebang.py
+│   │   │   ├── 🐍 Signing.py
+│   │   │   ├── 🐍 SlotMetaClasses.py
+│   │   │   ├── 🐍 StaticLibraries.py
+│   │   │   ├── 🐍 ThreadedExecutor.py
+│   │   │   ├── 🐍 Timing.py
+│   │   │   ├── 🐍 Toml.py
+│   │   │   ├── 🐍 Utils.py
+│   │   │   ├── 🐍 WindowsFileUsage.py
+│   │   │   ├── 🐍 WindowsResources.py
+│   │   │   ├── 🐍 Yaml.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 requirements-private.txt
+│   │   ├── 🐍 Builtins.py
+│   │   ├── 🐍 BytecodeCaching.py
+│   │   ├── 🐍 Bytecodes.py
+│   │   ├── 🐍 CacheCleanup.py
+│   │   ├── 🐍 Constants.py
+│   │   ├── 🐍 Errors.py
+│   │   ├── 🐍 HardImportRegistry.py
+│   │   ├── 🐍 MainControl.py
+│   │   ├── 🐍 ModuleRegistry.py
+│   │   ├── 🐍 OutputDirectories.py
+│   │   ├── 🐍 PostProcessing.py
+│   │   ├── 🐍 Progress.py
+│   │   ├── 🐍 PythonFlavors.py
+│   │   ├── 🐍 PythonOperators.py
+│   │   ├── 🐍 PythonVersions.py
+│   │   ├── 🐍 Serialization.py
+│   │   ├── 🐍 SourceCodeReferences.py
+│   │   ├── 🐍 States.py
+│   │   ├── 🐍 Tracing.py
+│   │   ├── 🐍 TreeXML.py
+│   │   ├── 🐍 Variables.py
+│   │   ├── 🐍 Version.py
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 __main__.py
+│   │   └── 🐍 __past__.py
+│   ├── 📁 rpm
+│   │   ├── 🐍 check-osc-status.py
+│   │   ├── 🐍 make-osc-upload.py
+│   │   └── 📄 [2 autre(s) fichier(s)]
+│   ├── 📁 tests
+│   │   ├── 📁 PyPI-pytest
+│   │   │   ├── 📄 packages.json
+│   │   │   ├── 🐍 run_all.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 basics
+│   │   │   ├── 🐍 AssertsTest.py
+│   │   │   ├── 🐍 AssignmentsTest.py
+│   │   │   ├── 🐍 AssignmentsTest32.py
+│   │   │   ├── 🐍 BranchingTest.py
+│   │   │   ├── 🐍 BuiltinOverload.py
+│   │   │   ├── 🐍 BuiltinSuperTest.py
+│   │   │   ├── 🐍 BuiltinsTest.py
+│   │   │   ├── 🐍 ClassMinimalTest.py
+│   │   │   ├── 🐍 ClassesTest.py
+│   │   │   ├── 🐍 ClassesTest32.py
+│   │   │   ├── 🐍 ClassesTest34.py
+│   │   │   ├── 🐍 ComparisonChainsTest.py
+│   │   │   ├── 🐍 ConstantsTest.py
+│   │   │   ├── 🐍 ConstantsTest27.py
+│   │   │   ├── 🐍 DecoratorsTest.py
+│   │   │   ├── 🐍 DefaultParametersTest.py
+│   │   │   ├── 🐍 DoubleDeletionsTest.py
+│   │   │   ├── 🐍 EmptyModuleTest.py
+│   │   │   ├── 🐍 ExceptionRaisingTest32.py
+│   │   │   ├── 🐍 ExceptionRaisingTest33.py
+│   │   │   ├── 🐍 ExceptionRaisingTest_2.py
+│   │   │   ├── 🐍 ExecEvalTest_2.py
+│   │   │   ├── 🐍 ExtremeClosureTest.py
+│   │   │   ├── 🐍 FunctionObjectsTest.py
+│   │   │   ├── 🐍 FunctionsTest.py
+│   │   │   ├── 🐍 FunctionsTest32.py
+│   │   │   ├── 🐍 FunctionsTest_2.py
+│   │   │   ├── 🐍 FutureTest32.py
+│   │   │   ├── 🐍 GeneratorExpressionsTest.py
+│   │   │   ├── 🐍 GeneratorExpressionsTest_37.py
+│   │   │   ├── 🐍 GlobalStatementTest.py
+│   │   │   ├── 🐍 HelloWorldTest_2.py
+│   │   │   ├── 🐍 ImportingTest.py
+│   │   │   ├── 🐍 InplaceOperationsTest.py
+│   │   │   ├── 🐍 InspectionTest.py
+│   │   │   ├── 🐍 InspectionTest_35.py
+│   │   │   ├── 🐍 InspectionTest_36.py
+│   │   │   ├── 🐍 LambdasTest.py
+│   │   │   ├── 🐍 LateClosureAssignmentTest.py
+│   │   │   ├── 🐍 ListContractionsTest.py
+│   │   │   ├── 🐍 LoopingTest.py
+│   │   │   ├── 🐍 MainProgramsTest.py
+│   │   │   ├── 🐍 ModuleAttributesTest.py
+│   │   │   ├── 🐍 OperatorsTest.py
+│   │   │   ├── 🐍 OrderChecksTest.py
+│   │   │   ├── 🐍 OrderChecksTest27.py
+│   │   │   ├── 🐍 OverflowFunctionsTest_2.py
+│   │   │   ├── 🐍 ParameterErrorsTest.py
+│   │   │   ├── 🐍 ParameterErrorsTest32.py
+│   │   │   ├── 🐍 PrintFutureTest.py
+│   │   │   ├── 🐍 PrintingTest_2.py
+│   │   │   ├── 🐍 RecursionTest.py
+│   │   │   ├── 🐍 ReferencingTest.py
+│   │   │   ├── 🐍 ReferencingTest27.py
+│   │   │   ├── 🐍 ReferencingTest33.py
+│   │   │   ├── 🐍 ReferencingTest35.py
+│   │   │   ├── 🐍 ReferencingTest36.py
+│   │   │   ├── 🐍 ReferencingTest_2.py
+│   │   │   ├── 🐍 SlotsTest.py
+│   │   │   ├── 🐍 ThreadedGeneratorsTest.py
+│   │   │   ├── 🐍 TrickAssignmentsTest32.py
+│   │   │   ├── 🐍 TrickAssignmentsTest35.py
+│   │   │   ├── 🐍 TrickAssignmentsTest_2.py
+│   │   │   ├── 🐍 TryContinueFinallyTest.py
+│   │   │   ├── 🐍 TryExceptContinueTest.py
+│   │   │   ├── 🐍 TryExceptFinallyTest.py
+│   │   │   ├── 🐍 TryExceptFramesTest.py
+│   │   │   ├── 🐍 TryReturnFinallyTest.py
+│   │   │   ├── 🐍 TryYieldFinallyTest.py
+│   │   │   ├── 🐍 UnicodeTest.py
+│   │   │   ├── 🐍 UnpackingTest35.py
+│   │   │   ├── 🐍 VarargsTest.py
+│   │   │   ├── 🐍 WithStatementsTest.py
+│   │   │   ├── 🐍 YieldFromTest33.py
+│   │   │   ├── 🐍 run_all.py
+│   │   │   ├── 🐍 run_xml.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 benchmarks
+│   │   │   ├── 📁 comparisons
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 constructs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pybench
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 binary-trees.py
+│   │   │   ├── 🐍 mandelbrot.py
+│   │   │   ├── 🐍 nbody_bench.py
+│   │   │   ├── 🐍 pystone.py
+│   │   │   ├── 🐍 pystone3.py
+│   │   │   └── 🐍 recipe-577834-1.py
+│   │   ├── 📁 codegen-analysis
+│   │   │   └── 📄 README.txt
+│   │   ├── 📁 distutils
+│   │   │   ├── 📁 example_1_pyproject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_1_setuptools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_2_pyproject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_2_setuptools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_3_dependencies_pyproject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_3_pyproject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_3_setuptools32
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_4_dependencies_pyproject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_4_setuptools_cfg
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_5_versioneer_setuptools32
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_multiple_packages
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_nested_namespaces32
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_package_and_module
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 example_pymodules_only
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 run_all.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 generated
+│   │   │   ├── 🐍 run_all.py
+│   │   │   └── 📄 [7 autre(s) fichier(s)]
+│   │   ├── 📁 library
+│   │   │   ├── 🐍 check_yaml_anti_bloat_modules.py
+│   │   │   ├── 🐍 compile_extension_modules.py
+│   │   │   └── 🐍 compile_python_modules.py
+│   │   ├── 📁 onefile
+│   │   │   ├── 📁 external-data
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 ExternalDataTest.py
+│   │   │   ├── 🐍 HelloWorldTest.py
+│   │   │   ├── 🐍 KeyboardInterruptTest.py
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 optimizations
+│   │   │   ├── 🐍 ArgumentTypes.py
+│   │   │   ├── 🐍 AttributesTest.py
+│   │   │   ├── 🐍 CallsTest.py
+│   │   │   ├── 🐍 ConditionsTest.py
+│   │   │   ├── 🐍 DecodingOperationsTest.py
+│   │   │   ├── 🐍 FormatStringsTest36.py
+│   │   │   ├── 🐍 HardImportsTest.py
+│   │   │   ├── 🐍 HardImportsTest_2.py
+│   │   │   ├── 🐍 Iterations.py
+│   │   │   ├── 🐍 LenTest.py
+│   │   │   ├── 🐍 MatchingTest310.py
+│   │   │   ├── 🐍 OperationsTest.py
+│   │   │   ├── 🐍 SubscriptsTest.py
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 packages
+│   │   │   ├── 📁 package_import_success_after_failure
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sub_package
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 top_level_attributes_3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 pgo
+│   │   │   ├── 📁 unused_module
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 plugins
+│   │   │   ├── 📁 data_files
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dill_compat
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 parameters
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 run_all.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 programs
+│   │   │   ├── 📁 absolute_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 case_imports1
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 case_imports2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 case_imports3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 cyclic_imports
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dash_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dash_main
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 deep
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dunderinit_imports
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 import_variants
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 main_raises
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 main_raises2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 module_attributes
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 module_exits
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 module_object_replacing
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 multiprocessing_using
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 named_imports
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_code
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_contains_main
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_init_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_init_issue
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_missing_init
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_module_collision
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_overload
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_prevents_submodule
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 package_program
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pkgutil_itermodules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pkgutil_usage
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 plugin_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 reimport_main_dynamic
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 reimport_main_static
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 relative_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 resource_reader37
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 stdlib_overload
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 syntax_errors
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 unicode_bom
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 with space
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 reflected
+│   │   │   └── 🐍 compile_itself.py
+│   │   ├── 📁 standalone
+│   │   │   ├── 📁 zip_importer
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 BrotliUsing.py
+│   │   │   ├── 🐍 CtypesUsing.py
+│   │   │   ├── 🐍 DateutilsUsing.py
+│   │   │   ├── 🐍 FlaskUsing.py
+│   │   │   ├── 🐍 GlfwUsing.py
+│   │   │   ├── 🐍 GtkUsing.py
+│   │   │   ├── 🐍 HexEncodingTest_2.py
+│   │   │   ├── 🐍 IdnaUsing.py
+│   │   │   ├── 🐍 LxmlUsing.py
+│   │   │   ├── 🐍 MatplotlibUsing.py
+│   │   │   ├── 🐍 MetadataPackagesUsing.py
+│   │   │   ├── 🐍 NumpyUsing.py
+│   │   │   ├── 🐍 OpenGLUsing.py
+│   │   │   ├── 🐍 PandasUsing.py
+│   │   │   ├── 🐍 PasslibUsing.py
+│   │   │   ├── 🐍 PendulumUsing.py
+│   │   │   ├── 🐍 PkgResourcesRequiresUsing.py
+│   │   │   ├── 🐍 PmwUsing.py
+│   │   │   ├── 🐍 PyQt5Plugins.py
+│   │   │   ├── 🐍 PyQt5SSLSupport.py
+│   │   │   ├── 🐍 PyQt5Using.py
+│   │   │   ├── 🐍 PyQt6Plugins.py
+│   │   │   ├── 🐍 PyQt6Using.py
+│   │   │   ├── 🐍 PySide2Using.py
+│   │   │   ├── 🐍 PySide6Plugins.py
+│   │   │   ├── 🐍 PySide6Using.py
+│   │   │   ├── 🐍 RsaUsing.py
+│   │   │   ├── 🐍 SetuptoolsUsing_311.py
+│   │   │   ├── 🐍 ShlibUsing.py
+│   │   │   ├── 🐍 SocketUsing.py
+│   │   │   ├── 🐍 TkInterUsing.py
+│   │   │   ├── 🐍 Urllib3Using.py
+│   │   │   ├── 🐍 Win32ComUsing.py
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 syntax
+│   │   │   ├── 🐍 AsyncgenReturn36.py
+│   │   │   ├── 🐍 AwaitInModule36.py
+│   │   │   ├── 🐍 BreakWithoutLoop.py
+│   │   │   ├── 🐍 ClassReturn.py
+│   │   │   ├── 🐍 ClosureDel_2.py
+│   │   │   ├── 🐍 ContinueWithoutLoop.py
+│   │   │   ├── 🐍 DuplicateArgument.py
+│   │   │   ├── 🐍 ExecWithNesting_2.py
+│   │   │   ├── 🐍 FutureBraces.py
+│   │   │   ├── 🐍 FutureUnknown.py
+│   │   │   ├── 🐍 GeneratorExpressions38.py
+│   │   │   ├── 🐍 GeneratorReturn_2.py
+│   │   │   ├── 🐍 GlobalForParameter.py
+│   │   │   ├── 🐍 Importing32.py
+│   │   │   ├── 🐍 IndentationError.py
+│   │   │   ├── 🐍 LateFutureImport.py
+│   │   │   ├── 🐍 MisplacedFutureImport.py
+│   │   │   ├── 🐍 ModuleReturn.py
+│   │   │   ├── 🐍 NonAsciiWithoutEncoding_2.py
+│   │   │   ├── 🐍 NonlocalForParameter32.py
+│   │   │   ├── 🐍 NonlocalNotFound32.py
+│   │   │   ├── 🐍 StarImportExtra.py
+│   │   │   ├── 🐍 SyntaxError.py
+│   │   │   ├── 🐍 TryExceptAllNotLast.py
+│   │   │   ├── 🐍 TryFinallyContinue_37.py
+│   │   │   ├── 🐍 UnpackNoTuple.py
+│   │   │   ├── 🐍 UnpackTwoStars32.py
+│   │   │   ├── 🐍 YieldFromInModule.py
+│   │   │   ├── 🐍 YieldInAsync35.py
+│   │   │   ├── 🐍 YieldInGenexp38.py
+│   │   │   ├── 🐍 YieldInModule.py
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 test-runners
+│   │   │   ├── 📁 subject
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 run_all.py
+│   │   ├── 📁 type_inference
+│   │   │   ├── 🐍 Test1.py
+│   │   │   ├── 🐍 Test2.py
+│   │   │   ├── 🐍 Test3.py
+│   │   │   └── 🐍 Test4.py
+│   │   ├── 📄 README.txt
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📄 LICENSE.txt
+│   ├── 📄 requirements-devel.txt
+│   ├── 📄 requirements.txt
+│   ├── 🐍 setup.py
+│   └── 📄 [17 autre(s) fichier(s)]
+├── 📁 System Volume Information
+│   📁 [accès refusé]
+├── 📁 archives
+├── 📁 build
+│   ├── 🐍 kerberos_bubbled_32.py
+│   ├── 📄 kerberos_compilation_32.log
+│   ├── 📄 kerberos_compilation_summary_20260104_153637.txt
+│   ├── 📄 kerberos_compilation_summary_20260104_184301.txt
+│   └── 📄 kerberos_env_check.txt
+├── 📁 favicon
+│   └── 📄 [4 autre(s) fichier(s)]
+├── 📁 mingw-w64-v11.0.0
+│   ├── 📁 COPYING.MinGW-w64
+│   │   └── 📄 COPYING.MinGW-w64.txt
+│   ├── 📁 COPYING.MinGW-w64-runtime
+│   │   └── 📄 COPYING.MinGW-w64-runtime.txt
+│   ├── 📁 build-aux
+│   │   └── 📄 [4 autre(s) fichier(s)]
+│   ├── 📁 mingw-w64-crt
+│   │   ├── 📁 build-aux
+│   │   │   └── 📄 [8 autre(s) fichier(s)]
+│   │   ├── 📁 cfguard
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 complex
+│   │   │   └── 📄 [76 autre(s) fichier(s)]
+│   │   ├── 📁 crt
+│   │   │   └── 📄 [46 autre(s) fichier(s)]
+│   │   ├── 📁 def-include
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 gdtoa
+│   │   │   └── 📄 [28 autre(s) fichier(s)]
+│   │   ├── 📁 include
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 intrincs
+│   │   │   └── 📄 [100 autre(s) fichier(s)]
+│   │   ├── 📁 lib-common
+│   │   │   └── 📄 [544 autre(s) fichier(s)]
+│   │   ├── 📁 lib32
+│   │   │   └── 📄 [531 autre(s) fichier(s)]
+│   │   ├── 📁 lib64
+│   │   │   └── 📄 [500 autre(s) fichier(s)]
+│   │   ├── 📁 libarm32
+│   │   │   └── 📄 [679 autre(s) fichier(s)]
+│   │   ├── 📁 libarm64
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 libce
+│   │   │   └── 📄 [57 autre(s) fichier(s)]
+│   │   ├── 📁 libsrc
+│   │   │   ├── 📁 ws2tcpip
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 wspiapi
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [95 autre(s) fichier(s)]
+│   │   ├── 📁 math
+│   │   │   ├── 📁 DFP
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 arm
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 arm-common
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 arm64
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 softmath
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 x86
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [95 autre(s) fichier(s)]
+│   │   ├── 📁 mingw
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 misc
+│   │   │   └── 📄 [100 autre(s) fichier(s)]
+│   │   ├── 📁 profile
+│   │   │   └── 📄 [9 autre(s) fichier(s)]
+│   │   ├── 📁 secapi
+│   │   │   └── 📄 [43 autre(s) fichier(s)]
+│   │   ├── 📁 ssp
+│   │   │   └── 📄 [13 autre(s) fichier(s)]
+│   │   ├── 📁 stdio
+│   │   │   └── 📄 [117 autre(s) fichier(s)]
+│   │   ├── 📁 string
+│   │   │   └── 📄 [12 autre(s) fichier(s)]
+│   │   ├── 📁 testcases
+│   │   │   ├── 📁 complex
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [46 autre(s) fichier(s)]
+│   │   └── 📄 [14 autre(s) fichier(s)]
+│   ├── 📁 mingw-w64-doc
+│   │   ├── 📁 headers-ref
+│   │   │   └── 📄 header_doc.txt
+│   │   └── 📁 howto-build
+│   │       ├── 📄 mingw-w64-howto-build-adv.txt
+│   │       └── 📄 mingw-w64-howto-build.txt
+│   ├── 📁 mingw-w64-headers
+│   │   ├── 📁 build-aux
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 crt
+│   │   │   ├── 📁 sdks
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sec_api
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sys
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [90 autre(s) fichier(s)]
+│   │   ├── 📁 ddk
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 readme.txt
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 defaults
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 include
+│   │   │   ├── 📁 GL
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 KHR
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 gdiplus
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 psdk_inc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 wrl
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [1652 autre(s) fichier(s)]
+│   │   ├── 📁 testcases
+│   │   │   ├── 📁 2009
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 tlb
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   └── 📄 [14 autre(s) fichier(s)]
+│   ├── 📁 mingw-w64-libraries
+│   │   ├── 📁 libmangle
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 html
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [14 autre(s) fichier(s)]
+│   │   ├── 📁 pseh
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [8 autre(s) fichier(s)]
+│   │   ├── 📁 winpthreads
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 include
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 m4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests_pthread
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [8 autre(s) fichier(s)]
+│   │   └── 📁 winstorecompat
+│   │       ├── 📁 build-aux
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 src
+│   │       │   └── [...] (limite profondeur)
+│   │       └── 📄 [9 autre(s) fichier(s)]
+│   ├── 📁 mingw-w64-tools
+│   │   ├── 📁 gendef
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [13 autre(s) fichier(s)]
+│   │   ├── 📁 genidl
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [12 autre(s) fichier(s)]
+│   │   ├── 📁 genlib
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [9 autre(s) fichier(s)]
+│   │   ├── 📁 genpeimg
+│   │   │   ├── 📁 build-aux
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 src
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [7 autre(s) fichier(s)]
+│   │   └── 📁 widl
+│   │       ├── 📁 build-aux
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 include
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 m4
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 patches
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 src
+│   │       │   └── [...] (limite profondeur)
+│   │       └── 📄 [8 autre(s) fichier(s)]
+│   └── 📄 [11 autre(s) fichier(s)]
+├── 📁 mingw32
+│   ├── 📁 Doc
+│   │   └── 📁 html
+│   ├── 📁 Tools
+│   │   └── 📁 scripts
+│   ├── 📁 bin
+│   │   ├── 📄 addr2line.exe
+│   │   ├── 📄 ar.exe
+│   │   ├── 📄 as.exe
+│   │   ├── 📄 c++.exe
+│   │   ├── 📄 c++filt.exe
+│   │   ├── 📄 cc.exe
+│   │   ├── 📄 cpp.exe
+│   │   ├── 📄 dlltool.exe
+│   │   ├── 📄 dllwrap.exe
+│   │   ├── 📄 elfedit.exe
+│   │   ├── 📄 g++.exe
+│   │   ├── 📄 gcc-ar.exe
+│   │   ├── 📄 gcc-nm.exe
+│   │   ├── 📄 gcc-ranlib.exe
+│   │   ├── 📄 gcc.exe
+│   │   ├── 📄 gcov-dump.exe
+│   │   ├── 📄 gcov-tool.exe
+│   │   ├── 📄 gcov.exe
+│   │   ├── 📄 gdb.exe
+│   │   ├── 📄 gdborig.exe
+│   │   ├── 📄 gdbserver.exe
+│   │   ├── 📄 gendef.exe
+│   │   ├── 📄 genidl.exe
+│   │   ├── 📄 genpeimg.exe
+│   │   ├── 📄 gfortran.exe
+│   │   ├── 📄 gprof.exe
+│   │   ├── 📄 i686-w64-mingw32-c++.exe
+│   │   ├── 📄 i686-w64-mingw32-g++.exe
+│   │   ├── 📄 i686-w64-mingw32-gcc-15.2.0.exe
+│   │   ├── 📄 i686-w64-mingw32-gcc-ar.exe
+│   │   ├── 📄 i686-w64-mingw32-gcc-nm.exe
+│   │   ├── 📄 i686-w64-mingw32-gcc-ranlib.exe
+│   │   ├── 📄 i686-w64-mingw32-gcc.exe
+│   │   ├── 📄 i686-w64-mingw32-gfortran.exe
+│   │   ├── 📄 ld.bfd.exe
+│   │   ├── 📄 ld.exe
+│   │   ├── 📄 lto-dump.exe
+│   │   ├── 📄 mingw32-make.exe
+│   │   ├── 📄 nm.exe
+│   │   ├── 📄 objcopy.exe
+│   │   ├── 📄 objdump.exe
+│   │   ├── 📄 ranlib.exe
+│   │   ├── 📄 readelf.exe
+│   │   ├── 📄 size.exe
+│   │   ├── 📄 strings.exe
+│   │   ├── 📄 strip.exe
+│   │   ├── 📄 widl.exe
+│   │   ├── 📄 windmc.exe
+│   │   ├── 📄 windres.exe
+│   │   └── 📄 [9 autre(s) fichier(s)]
+│   ├── 📁 etc
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 i686-w64-mingw32
+│   │   ├── 📁 bin
+│   │   │   ├── 📄 ar.exe
+│   │   │   ├── 📄 as.exe
+│   │   │   ├── 📄 dlltool.exe
+│   │   │   ├── 📄 ld.bfd.exe
+│   │   │   ├── 📄 ld.exe
+│   │   │   ├── 📄 nm.exe
+│   │   │   ├── 📄 objcopy.exe
+│   │   │   ├── 📄 objdump.exe
+│   │   │   ├── 📄 ranlib.exe
+│   │   │   ├── 📄 readelf.exe
+│   │   │   └── 📄 strip.exe
+│   │   ├── 📁 include
+│   │   │   ├── 📁 GL
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 KHR
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ddk
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 gdiplus
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 psdk_inc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sdks
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sec_api
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sys
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 wrl
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [1550 autre(s) fichier(s)]
+│   │   └── 📁 lib
+│   │       ├── 📁 ldscripts
+│   │       │   └── [...] (limite profondeur)
+│   │       └── 📄 [495 autre(s) fichier(s)]
+│   ├── 📁 include
+│   │   ├── 📁 gdb
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 libiberty
+│   │   │   └── 📄 [14 autre(s) fichier(s)]
+│   │   ├── 📁 sim
+│   │   └── 📄 [13 autre(s) fichier(s)]
+│   ├── 📁 lib
+│   │   ├── 📁 bfd-plugins
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 gcc
+│   │   │   └── 📁 i686-w64-mingw32
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 site-packages
+│   │   │   └── 📁 _distutils_hack
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 test
+│   │   │   └── 📁 test_json
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 tkinter
+│   │   │   └── 📁 test
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 xml
+│   │   │   └── 📁 __pycache__
+│   │   │       └── [...] (limite profondeur)
+│   │   └── 📄 [7 autre(s) fichier(s)]
+│   ├── 📁 libexec
+│   │   └── 📁 gcc
+│   │       └── 📁 i686-w64-mingw32
+│   │           └── [...] (limite profondeur)
+│   ├── 📁 licenses
+│   │   ├── 📁 binutils
+│   │   │   └── 📄 [6 autre(s) fichier(s)]
+│   │   ├── 📁 bzip2
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 cloog
+│   │   │   └── 📄 license.txt
+│   │   ├── 📁 expat
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 gcc
+│   │   │   └── 📄 [5 autre(s) fichier(s)]
+│   │   ├── 📁 gdb
+│   │   │   └── 📄 [6 autre(s) fichier(s)]
+│   │   ├── 📁 gmp
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 isl
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 libffi
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 libiconv
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 make
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 mingw-libgnurx
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 mingw-w64
+│   │   │   ├── 📄 COPYING.MinGW-w64-runtime.txt
+│   │   │   ├── 📄 COPYING.MinGW-w64.txt
+│   │   │   ├── 📄 ddk-readme.txt
+│   │   │   ├── 📄 direct-x-readme.txt
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 mpc
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 mpfr
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 ncurses
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 openssl
+│   │   │   └── 📄 LICENSE.txt
+│   │   ├── 📁 ppl
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 python
+│   │   │   └── 📄 LICENSE.txt
+│   │   ├── 📁 readline
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 sqlite
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 tcl
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 tk
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 winpthreads
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 xz
+│   │   │   ├── 📄 COPYING.txt
+│   │   │   └── 📄 [3 autre(s) fichier(s)]
+│   │   └── 📁 zlib
+│   │       └── 📄 copying.txt
+│   ├── 📁 opt
+│   │   ├── 📁 bin
+│   │   │   ├── 📄 python3.12.exe
+│   │   │   ├── 📄 python3.exe
+│   │   │   ├── 📄 python3w.exe
+│   │   │   └── 📄 [22 autre(s) fichier(s)]
+│   │   ├── 📁 include
+│   │   │   ├── 📁 X11
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 lzma
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ncursesw
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 openssl
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 python3.12
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 readline
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tcl-private
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tk-private
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [42 autre(s) fichier(s)]
+│   │   ├── 📁 info
+│   │   │   └── 📄 [5 autre(s) fichier(s)]
+│   │   ├── 📁 lib
+│   │   │   ├── 📁 cmake
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dde1.4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 engines-3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 itcl4.2.1
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ossl-modules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 python3.12
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 reg1.3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sqlite3.34.0
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tcl8
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tcl8.6
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tdbc1.1.2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tdbcmysql1.1.2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tdbcodbc1.1.2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tdbcpostgres1.1.2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 terminfo
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 thread2.8.6
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tk8.6
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [37 autre(s) fichier(s)]
+│   │   ├── 📁 share
+│   │   │   ├── 📁 tabset
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 terminfo
+│   │   │       └── [...] (limite profondeur)
+│   │   └── 📁 ssl
+│   │       ├── 📁 certs
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 misc
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 private
+│   │       │   └── [...] (limite profondeur)
+│   │       └── 📄 [4 autre(s) fichier(s)]
+│   ├── 📁 share
+│   │   ├── 📁 gcc-15.2.0
+│   │   │   └── 📁 python
+│   │   │       └── [...] (limite profondeur)
+│   │   └── 📁 gdb
+│   │       ├── 📁 python
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 syscalls
+│   │       │   └── [...] (limite profondeur)
+│   │       └── 📁 system-gdbinit
+│   │           └── [...] (limite profondeur)
+│   ├── 📄 build-info.txt
+│   └── 📄 [1 autre(s) fichier(s)]
+├── 📁 python.32
+│   ├── 📁 DLLs
+│   │   └── 📄 [39 autre(s) fichier(s)]
+│   ├── 📁 Doc
+│   │   └── 📁 html
+│   │       ├── 📁 _downloads
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 _images
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 _static
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 c-api
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 distributing
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 distutils
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 extending
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 faq
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 howto
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 install
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 installing
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 library
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 reference
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 tutorial
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 using
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 whatsnew
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📄 about.html
+│   │       ├── 📄 bugs.html
+│   │       ├── 📄 contents.html
+│   │       ├── 📄 copyright.html
+│   │       ├── 📄 download.html
+│   │       ├── 📄 genindex-A.html
+│   │       ├── 📄 genindex-B.html
+│   │       ├── 📄 genindex-C.html
+│   │       ├── 📄 genindex-D.html
+│   │       ├── 📄 genindex-E.html
+│   │       ├── 📄 genindex-F.html
+│   │       ├── 📄 genindex-G.html
+│   │       ├── 📄 genindex-H.html
+│   │       ├── 📄 genindex-I.html
+│   │       ├── 📄 genindex-J.html
+│   │       ├── 📄 genindex-K.html
+│   │       ├── 📄 genindex-L.html
+│   │       ├── 📄 genindex-M.html
+│   │       ├── 📄 genindex-N.html
+│   │       ├── 📄 genindex-O.html
+│   │       ├── 📄 genindex-P.html
+│   │       ├── 📄 genindex-Q.html
+│   │       ├── 📄 genindex-R.html
+│   │       ├── 📄 genindex-S.html
+│   │       ├── 📄 genindex-Symbols.html
+│   │       ├── 📄 genindex-T.html
+│   │       ├── 📄 genindex-U.html
+│   │       ├── 📄 genindex-V.html
+│   │       ├── 📄 genindex-W.html
+│   │       ├── 📄 genindex-X.html
+│   │       ├── 📄 genindex-Y.html
+│   │       ├── 📄 genindex-Z.html
+│   │       ├── 📄 genindex-_.html
+│   │       ├── 📄 genindex-all.html
+│   │       ├── 📄 genindex.html
+│   │       ├── 📄 glossary.html
+│   │       ├── 📄 index.html
+│   │       ├── 📄 license.html
+│   │       ├── 📄 py-modindex.html
+│   │       ├── 📄 search.html
+│   │       └── 📄 [4 autre(s) fichier(s)]
+│   ├── 📁 Lib
+│   │   ├── 📁 __phello__
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ham
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 spam.py
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [501 autre(s) fichier(s)]
+│   │   ├── 📁 asyncio
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 base_events.py
+│   │   │   ├── 🐍 base_futures.py
+│   │   │   ├── 🐍 base_subprocess.py
+│   │   │   ├── 🐍 base_tasks.py
+│   │   │   ├── 🐍 constants.py
+│   │   │   ├── 🐍 coroutines.py
+│   │   │   ├── 🐍 events.py
+│   │   │   ├── 🐍 exceptions.py
+│   │   │   ├── 🐍 format_helpers.py
+│   │   │   ├── 🐍 futures.py
+│   │   │   ├── 🐍 locks.py
+│   │   │   ├── 🐍 log.py
+│   │   │   ├── 🐍 mixins.py
+│   │   │   ├── 🐍 proactor_events.py
+│   │   │   ├── 🐍 protocols.py
+│   │   │   ├── 🐍 queues.py
+│   │   │   ├── 🐍 runners.py
+│   │   │   ├── 🐍 selector_events.py
+│   │   │   ├── 🐍 sslproto.py
+│   │   │   ├── 🐍 staggered.py
+│   │   │   ├── 🐍 streams.py
+│   │   │   ├── 🐍 subprocess.py
+│   │   │   ├── 🐍 taskgroups.py
+│   │   │   ├── 🐍 tasks.py
+│   │   │   ├── 🐍 threads.py
+│   │   │   ├── 🐍 timeouts.py
+│   │   │   ├── 🐍 transports.py
+│   │   │   ├── 🐍 trsock.py
+│   │   │   ├── 🐍 unix_events.py
+│   │   │   ├── 🐍 windows_events.py
+│   │   │   └── 🐍 windows_utils.py
+│   │   ├── 📁 collections
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 abc.py
+│   │   ├── 📁 concurrent
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 futures
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 ctypes
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 macholib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _aix.py
+│   │   │   ├── 🐍 _endian.py
+│   │   │   ├── 🐍 util.py
+│   │   │   └── 🐍 wintypes.py
+│   │   ├── 📁 curses
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 ascii.py
+│   │   │   ├── 🐍 has_key.py
+│   │   │   ├── 🐍 panel.py
+│   │   │   └── 🐍 textpad.py
+│   │   ├── 📁 dbm
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 dumb.py
+│   │   │   ├── 🐍 gnu.py
+│   │   │   └── 🐍 ndbm.py
+│   │   ├── 📁 distutils
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 command
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _msvccompiler.py
+│   │   │   ├── 🐍 archive_util.py
+│   │   │   ├── 🐍 bcppcompiler.py
+│   │   │   ├── 🐍 ccompiler.py
+│   │   │   ├── 🐍 cmd.py
+│   │   │   ├── 🐍 config.py
+│   │   │   ├── 🐍 core.py
+│   │   │   ├── 🐍 cygwinccompiler.py
+│   │   │   ├── 🐍 debug.py
+│   │   │   ├── 🐍 dep_util.py
+│   │   │   ├── 🐍 dir_util.py
+│   │   │   ├── 🐍 dist.py
+│   │   │   ├── 🐍 errors.py
+│   │   │   ├── 🐍 extension.py
+│   │   │   ├── 🐍 fancy_getopt.py
+│   │   │   ├── 🐍 file_util.py
+│   │   │   ├── 🐍 filelist.py
+│   │   │   ├── 🐍 log.py
+│   │   │   ├── 🐍 msvc9compiler.py
+│   │   │   ├── 🐍 msvccompiler.py
+│   │   │   ├── 🐍 spawn.py
+│   │   │   ├── 🐍 sysconfig.py
+│   │   │   ├── 🐍 text_file.py
+│   │   │   ├── 🐍 unixccompiler.py
+│   │   │   ├── 🐍 util.py
+│   │   │   ├── 🐍 version.py
+│   │   │   ├── 🐍 versionpredicate.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 email
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mime
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _encoded_words.py
+│   │   │   ├── 🐍 _header_value_parser.py
+│   │   │   ├── 🐍 _parseaddr.py
+│   │   │   ├── 🐍 _policybase.py
+│   │   │   ├── 🐍 base64mime.py
+│   │   │   ├── 🐍 charset.py
+│   │   │   ├── 🐍 contentmanager.py
+│   │   │   ├── 🐍 encoders.py
+│   │   │   ├── 🐍 errors.py
+│   │   │   ├── 🐍 feedparser.py
+│   │   │   ├── 🐍 generator.py
+│   │   │   ├── 🐍 header.py
+│   │   │   ├── 🐍 headerregistry.py
+│   │   │   ├── 🐍 iterators.py
+│   │   │   ├── 🐍 message.py
+│   │   │   ├── 🐍 parser.py
+│   │   │   ├── 🐍 policy.py
+│   │   │   ├── 🐍 quoprimime.py
+│   │   │   ├── 🐍 utils.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 encodings
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 aliases.py
+│   │   │   ├── 🐍 ascii.py
+│   │   │   ├── 🐍 base64_codec.py
+│   │   │   ├── 🐍 big5.py
+│   │   │   ├── 🐍 big5hkscs.py
+│   │   │   ├── 🐍 bz2_codec.py
+│   │   │   ├── 🐍 charmap.py
+│   │   │   ├── 🐍 cp037.py
+│   │   │   ├── 🐍 cp1006.py
+│   │   │   ├── 🐍 cp1026.py
+│   │   │   ├── 🐍 cp1125.py
+│   │   │   ├── 🐍 cp1140.py
+│   │   │   ├── 🐍 cp1250.py
+│   │   │   ├── 🐍 cp1251.py
+│   │   │   ├── 🐍 cp1252.py
+│   │   │   ├── 🐍 cp1253.py
+│   │   │   ├── 🐍 cp1254.py
+│   │   │   ├── 🐍 cp1255.py
+│   │   │   ├── 🐍 cp1256.py
+│   │   │   ├── 🐍 cp1257.py
+│   │   │   ├── 🐍 cp1258.py
+│   │   │   ├── 🐍 cp273.py
+│   │   │   ├── 🐍 cp424.py
+│   │   │   ├── 🐍 cp437.py
+│   │   │   ├── 🐍 cp500.py
+│   │   │   ├── 🐍 cp720.py
+│   │   │   ├── 🐍 cp737.py
+│   │   │   ├── 🐍 cp775.py
+│   │   │   ├── 🐍 cp850.py
+│   │   │   ├── 🐍 cp852.py
+│   │   │   ├── 🐍 cp855.py
+│   │   │   ├── 🐍 cp856.py
+│   │   │   ├── 🐍 cp857.py
+│   │   │   ├── 🐍 cp858.py
+│   │   │   ├── 🐍 cp860.py
+│   │   │   ├── 🐍 cp861.py
+│   │   │   ├── 🐍 cp862.py
+│   │   │   ├── 🐍 cp863.py
+│   │   │   ├── 🐍 cp864.py
+│   │   │   ├── 🐍 cp865.py
+│   │   │   ├── 🐍 cp866.py
+│   │   │   ├── 🐍 cp869.py
+│   │   │   ├── 🐍 cp874.py
+│   │   │   ├── 🐍 cp875.py
+│   │   │   ├── 🐍 cp932.py
+│   │   │   ├── 🐍 cp949.py
+│   │   │   ├── 🐍 cp950.py
+│   │   │   ├── 🐍 euc_jis_2004.py
+│   │   │   ├── 🐍 euc_jisx0213.py
+│   │   │   ├── 🐍 euc_jp.py
+│   │   │   ├── 🐍 euc_kr.py
+│   │   │   ├── 🐍 gb18030.py
+│   │   │   ├── 🐍 gb2312.py
+│   │   │   ├── 🐍 gbk.py
+│   │   │   ├── 🐍 hex_codec.py
+│   │   │   ├── 🐍 hp_roman8.py
+│   │   │   ├── 🐍 hz.py
+│   │   │   ├── 🐍 idna.py
+│   │   │   ├── 🐍 iso2022_jp.py
+│   │   │   ├── 🐍 iso2022_jp_1.py
+│   │   │   ├── 🐍 iso2022_jp_2.py
+│   │   │   ├── 🐍 iso2022_jp_2004.py
+│   │   │   ├── 🐍 iso2022_jp_3.py
+│   │   │   ├── 🐍 iso2022_jp_ext.py
+│   │   │   ├── 🐍 iso2022_kr.py
+│   │   │   ├── 🐍 iso8859_1.py
+│   │   │   ├── 🐍 iso8859_10.py
+│   │   │   ├── 🐍 iso8859_11.py
+│   │   │   ├── 🐍 iso8859_13.py
+│   │   │   ├── 🐍 iso8859_14.py
+│   │   │   ├── 🐍 iso8859_15.py
+│   │   │   ├── 🐍 iso8859_16.py
+│   │   │   ├── 🐍 iso8859_2.py
+│   │   │   ├── 🐍 iso8859_3.py
+│   │   │   ├── 🐍 iso8859_4.py
+│   │   │   ├── 🐍 iso8859_5.py
+│   │   │   ├── 🐍 iso8859_6.py
+│   │   │   ├── 🐍 iso8859_7.py
+│   │   │   ├── 🐍 iso8859_8.py
+│   │   │   ├── 🐍 iso8859_9.py
+│   │   │   ├── 🐍 johab.py
+│   │   │   ├── 🐍 koi8_r.py
+│   │   │   ├── 🐍 koi8_t.py
+│   │   │   ├── 🐍 koi8_u.py
+│   │   │   ├── 🐍 kz1048.py
+│   │   │   ├── 🐍 latin_1.py
+│   │   │   ├── 🐍 mac_arabic.py
+│   │   │   ├── 🐍 mac_croatian.py
+│   │   │   ├── 🐍 mac_cyrillic.py
+│   │   │   ├── 🐍 mac_farsi.py
+│   │   │   ├── 🐍 mac_greek.py
+│   │   │   ├── 🐍 mac_iceland.py
+│   │   │   ├── 🐍 mac_latin2.py
+│   │   │   ├── 🐍 mac_roman.py
+│   │   │   ├── 🐍 mac_romanian.py
+│   │   │   ├── 🐍 mac_turkish.py
+│   │   │   ├── 🐍 mbcs.py
+│   │   │   ├── 🐍 oem.py
+│   │   │   ├── 🐍 palmos.py
+│   │   │   ├── 🐍 ptcp154.py
+│   │   │   ├── 🐍 punycode.py
+│   │   │   ├── 🐍 quopri_codec.py
+│   │   │   ├── 🐍 raw_unicode_escape.py
+│   │   │   ├── 🐍 rot_13.py
+│   │   │   ├── 🐍 shift_jis.py
+│   │   │   ├── 🐍 shift_jis_2004.py
+│   │   │   ├── 🐍 shift_jisx0213.py
+│   │   │   ├── 🐍 tis_620.py
+│   │   │   ├── 🐍 undefined.py
+│   │   │   ├── 🐍 unicode_escape.py
+│   │   │   ├── 🐍 utf_16.py
+│   │   │   ├── 🐍 utf_16_be.py
+│   │   │   ├── 🐍 utf_16_le.py
+│   │   │   ├── 🐍 utf_32.py
+│   │   │   ├── 🐍 utf_32_be.py
+│   │   │   ├── 🐍 utf_32_le.py
+│   │   │   ├── 🐍 utf_7.py
+│   │   │   ├── 🐍 utf_8.py
+│   │   │   ├── 🐍 utf_8_sig.py
+│   │   │   ├── 🐍 uu_codec.py
+│   │   │   └── 🐍 zlib_codec.py
+│   │   ├── 📁 ensurepip
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 _bundled
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   └── 🐍 _uninstall.py
+│   │   ├── 📁 html
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 entities.py
+│   │   │   └── 🐍 parser.py
+│   │   ├── 📁 http
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 client.py
+│   │   │   ├── 🐍 cookiejar.py
+│   │   │   ├── 🐍 cookies.py
+│   │   │   └── 🐍 server.py
+│   │   ├── 📁 idlelib
+│   │   │   ├── 📁 Icons
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 idle_test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 CREDITS.txt
+│   │   │   ├── 📄 HISTORY.txt
+│   │   │   ├── 📄 NEWS2x.txt
+│   │   │   ├── 📄 News3.txt
+│   │   │   ├── 📄 README.txt
+│   │   │   ├── 📄 TODO.txt
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 autocomplete.py
+│   │   │   ├── 🐍 autocomplete_w.py
+│   │   │   ├── 🐍 autoexpand.py
+│   │   │   ├── 🐍 browser.py
+│   │   │   ├── 🐍 calltip.py
+│   │   │   ├── 🐍 calltip_w.py
+│   │   │   ├── 🐍 codecontext.py
+│   │   │   ├── 🐍 colorizer.py
+│   │   │   ├── 🐍 config.py
+│   │   │   ├── 🐍 config_key.py
+│   │   │   ├── 🐍 configdialog.py
+│   │   │   ├── 🐍 debugger.py
+│   │   │   ├── 🐍 debugger_r.py
+│   │   │   ├── 🐍 debugobj.py
+│   │   │   ├── 🐍 debugobj_r.py
+│   │   │   ├── 🐍 delegator.py
+│   │   │   ├── 🐍 dynoption.py
+│   │   │   ├── 🐍 editor.py
+│   │   │   ├── 📄 extend.txt
+│   │   │   ├── 🐍 filelist.py
+│   │   │   ├── 🐍 format.py
+│   │   │   ├── 🐍 grep.py
+│   │   │   ├── 📄 help.html
+│   │   │   ├── 🐍 help.py
+│   │   │   ├── 🐍 help_about.py
+│   │   │   ├── 🐍 history.py
+│   │   │   ├── 🐍 hyperparser.py
+│   │   │   ├── 📄 idle.bat
+│   │   │   ├── 🐍 idle.py
+│   │   │   ├── 🐍 iomenu.py
+│   │   │   ├── 🐍 macosx.py
+│   │   │   ├── 🐍 mainmenu.py
+│   │   │   ├── 🐍 multicall.py
+│   │   │   ├── 🐍 outwin.py
+│   │   │   ├── 🐍 parenmatch.py
+│   │   │   ├── 🐍 pathbrowser.py
+│   │   │   ├── 🐍 percolator.py
+│   │   │   ├── 🐍 pyparse.py
+│   │   │   ├── 🐍 pyshell.py
+│   │   │   ├── 🐍 query.py
+│   │   │   ├── 🐍 redirector.py
+│   │   │   ├── 🐍 replace.py
+│   │   │   ├── 🐍 rpc.py
+│   │   │   ├── 🐍 run.py
+│   │   │   ├── 🐍 runscript.py
+│   │   │   ├── 🐍 scrolledlist.py
+│   │   │   ├── 🐍 search.py
+│   │   │   ├── 🐍 searchbase.py
+│   │   │   ├── 🐍 searchengine.py
+│   │   │   ├── 🐍 sidebar.py
+│   │   │   ├── 🐍 squeezer.py
+│   │   │   ├── 🐍 stackviewer.py
+│   │   │   ├── 🐍 statusbar.py
+│   │   │   ├── 🐍 textview.py
+│   │   │   ├── 🐍 tooltip.py
+│   │   │   ├── 🐍 tree.py
+│   │   │   ├── 🐍 undo.py
+│   │   │   ├── 🐍 util.py
+│   │   │   ├── 🐍 window.py
+│   │   │   ├── 🐍 zoomheight.py
+│   │   │   ├── 🐍 zzdummy.py
+│   │   │   └── 📄 [6 autre(s) fichier(s)]
+│   │   ├── 📁 importlib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 metadata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 resources
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _abc.py
+│   │   │   ├── 🐍 _bootstrap.py
+│   │   │   ├── 🐍 _bootstrap_external.py
+│   │   │   ├── 🐍 abc.py
+│   │   │   ├── 🐍 machinery.py
+│   │   │   ├── 🐍 readers.py
+│   │   │   ├── 🐍 simple.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 json
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 decoder.py
+│   │   │   ├── 🐍 encoder.py
+│   │   │   ├── 🐍 scanner.py
+│   │   │   └── 🐍 tool.py
+│   │   ├── 📁 lib2to3
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 fixes
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pgen2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 Grammar.txt
+│   │   │   ├── 📄 PatternGrammar.txt
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 btm_matcher.py
+│   │   │   ├── 🐍 btm_utils.py
+│   │   │   ├── 🐍 fixer_base.py
+│   │   │   ├── 🐍 fixer_util.py
+│   │   │   ├── 🐍 main.py
+│   │   │   ├── 🐍 patcomp.py
+│   │   │   ├── 🐍 pygram.py
+│   │   │   ├── 🐍 pytree.py
+│   │   │   └── 🐍 refactor.py
+│   │   ├── 📁 logging
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 config.py
+│   │   │   └── 🐍 handlers.py
+│   │   ├── 📁 msilib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 schema.py
+│   │   │   ├── 🐍 sequence.py
+│   │   │   └── 🐍 text.py
+│   │   ├── 📁 multiprocessing
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dummy
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 connection.py
+│   │   │   ├── 🐍 context.py
+│   │   │   ├── 🐍 forkserver.py
+│   │   │   ├── 🐍 heap.py
+│   │   │   ├── 🐍 managers.py
+│   │   │   ├── 🐍 pool.py
+│   │   │   ├── 🐍 popen_fork.py
+│   │   │   ├── 🐍 popen_forkserver.py
+│   │   │   ├── 🐍 popen_spawn_posix.py
+│   │   │   ├── 🐍 popen_spawn_win32.py
+│   │   │   ├── 🐍 process.py
+│   │   │   ├── 🐍 queues.py
+│   │   │   ├── 🐍 reduction.py
+│   │   │   ├── 🐍 resource_sharer.py
+│   │   │   ├── 🐍 resource_tracker.py
+│   │   │   ├── 🐍 shared_memory.py
+│   │   │   ├── 🐍 sharedctypes.py
+│   │   │   ├── 🐍 spawn.py
+│   │   │   ├── 🐍 synchronize.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 pydoc_data
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 topics.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 re
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _casefix.py
+│   │   │   ├── 🐍 _compiler.py
+│   │   │   ├── 🐍 _constants.py
+│   │   │   └── 🐍 _parser.py
+│   │   ├── 📁 site-packages
+│   │   │   └── 📄 README.txt
+│   │   ├── 📁 sqlite3
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 dbapi2.py
+│   │   │   └── 🐍 dump.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 audiodata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 certdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 cjkencodings
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 configdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 crashers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 data
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 decimaltestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dtracedata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 encoded_modules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 imghdrdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 leakers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 libregrtest
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 regrtestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sndhdrdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 subprocessdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 support
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_asyncio
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_capi
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_concurrent_futures
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_cppext
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_dataclasses
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_doctest
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_email
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_future_stmt
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_gdb
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_importlib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_inspect
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_json
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_module
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_fork
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_forkserver
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_spawn
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_peg_generator
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_pydoc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_sqlite3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_tomllib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_tools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_warnings
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_zoneinfo
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tokenizedata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tracedmodules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 typinganndata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 xmltestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ziptestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 _test_atexit.py
+│   │   │   ├── 🐍 _test_eintr.py
+│   │   │   ├── 🐍 _test_embed_set_config.py
+│   │   │   ├── 🐍 _test_embed_structseq.py
+│   │   │   ├── 🐍 _test_multiprocessing.py
+│   │   │   ├── 🐍 _test_venv_multiprocessing.py
+│   │   │   ├── 🐍 archiver_tests.py
+│   │   │   ├── 🐍 audiotests.py
+│   │   │   ├── 🐍 audit-tests.py
+│   │   │   ├── 🐍 autotest.py
+│   │   │   ├── 🐍 bisect_cmd.py
+│   │   │   ├── 📄 cmath_testcases.txt
+│   │   │   ├── 🐍 curses_tests.py
+│   │   │   ├── 🐍 datetimetester.py
+│   │   │   ├── 🐍 dis_module.py
+│   │   │   ├── 📄 exception_hierarchy.txt
+│   │   │   ├── 📄 floating_points.txt
+│   │   │   ├── 🐍 fork_wait.py
+│   │   │   ├── 📄 formatfloat_testcases.txt
+│   │   │   ├── 📄 ieee754.txt
+│   │   │   ├── 🐍 imp_dummy.py
+│   │   │   ├── 🐍 list_tests.py
+│   │   │   ├── 🐍 lock_tests.py
+│   │   │   ├── 📄 mailcap.txt
+│   │   │   ├── 🐍 mapping_tests.py
+│   │   │   ├── 📄 math_testcases.txt
+│   │   │   ├── 🐍 memory_watchdog.py
+│   │   │   ├── 🐍 mock_socket.py
+│   │   │   ├── 🐍 mp_fork_bomb.py
+│   │   │   ├── 🐍 mp_preload.py
+│   │   │   ├── 🐍 multibytecodec_support.py
+│   │   │   ├── 🐍 pickletester.py
+│   │   │   ├── 🐍 profilee.py
+│   │   │   ├── 🐍 pyclbr_input.py
+│   │   │   ├── 🐍 pythoninfo.py
+│   │   │   ├── 🐍 re_tests.py
+│   │   │   ├── 🐍 regrtest.py
+│   │   │   ├── 🐍 relimport.py
+│   │   │   ├── 🐍 reperf.py
+│   │   │   ├── 🐍 seq_tests.py
+│   │   │   ├── 🐍 signalinterproctester.py
+│   │   │   ├── 🐍 ssl_servers.py
+│   │   │   ├── 🐍 ssltests.py
+│   │   │   ├── 🐍 string_tests.py
+│   │   │   ├── 🐍 test___all__.py
+│   │   │   ├── 🐍 test__locale.py
+│   │   │   ├── 🐍 test__opcode.py
+│   │   │   ├── 🐍 test__osx_support.py
+│   │   │   ├── 🐍 test__xxsubinterpreters.py
+│   │   │   ├── 🐍 test_abc.py
+│   │   │   ├── 🐍 test_abstract_numbers.py
+│   │   │   ├── 🐍 test_aifc.py
+│   │   │   ├── 🐍 test_argparse.py
+│   │   │   ├── 🐍 test_array.py
+│   │   │   ├── 🐍 test_asdl_parser.py
+│   │   │   ├── 🐍 test_ast.py
+│   │   │   ├── 🐍 test_asyncgen.py
+│   │   │   ├── 🐍 test_asynchat.py
+│   │   │   ├── 🐍 test_asyncore.py
+│   │   │   ├── 🐍 test_atexit.py
+│   │   │   ├── 🐍 test_audioop.py
+│   │   │   ├── 🐍 test_audit.py
+│   │   │   ├── 🐍 test_augassign.py
+│   │   │   ├── 🐍 test_base64.py
+│   │   │   ├── 🐍 test_baseexception.py
+│   │   │   ├── 🐍 test_bdb.py
+│   │   │   ├── 🐍 test_bigaddrspace.py
+│   │   │   ├── 🐍 test_bigmem.py
+│   │   │   ├── 🐍 test_binascii.py
+│   │   │   ├── 🐍 test_binop.py
+│   │   │   ├── 🐍 test_bisect.py
+│   │   │   ├── 🐍 test_bool.py
+│   │   │   ├── 🐍 test_buffer.py
+│   │   │   ├── 🐍 test_bufio.py
+│   │   │   ├── 🐍 test_builtin.py
+│   │   │   ├── 🐍 test_bytes.py
+│   │   │   ├── 🐍 test_bz2.py
+│   │   │   ├── 🐍 test_c_locale_coercion.py
+│   │   │   ├── 🐍 test_calendar.py
+│   │   │   ├── 🐍 test_call.py
+│   │   │   ├── 🐍 test_cgi.py
+│   │   │   ├── 🐍 test_cgitb.py
+│   │   │   ├── 🐍 test_charmapcodec.py
+│   │   │   ├── 🐍 test_check_c_globals.py
+│   │   │   ├── 🐍 test_class.py
+│   │   │   ├── 🐍 test_clinic.py
+│   │   │   ├── 🐍 test_cmath.py
+│   │   │   ├── 🐍 test_cmd.py
+│   │   │   ├── 🐍 test_cmd_line.py
+│   │   │   ├── 🐍 test_cmd_line_script.py
+│   │   │   ├── 🐍 test_code.py
+│   │   │   ├── 🐍 test_code_module.py
+│   │   │   ├── 🐍 test_codeccallbacks.py
+│   │   │   ├── 🐍 test_codecencodings_cn.py
+│   │   │   ├── 🐍 test_codecencodings_hk.py
+│   │   │   ├── 🐍 test_codecencodings_iso2022.py
+│   │   │   ├── 🐍 test_codecencodings_jp.py
+│   │   │   ├── 🐍 test_codecencodings_kr.py
+│   │   │   ├── 🐍 test_codecencodings_tw.py
+│   │   │   ├── 🐍 test_codecmaps_cn.py
+│   │   │   ├── 🐍 test_codecmaps_hk.py
+│   │   │   ├── 🐍 test_codecmaps_jp.py
+│   │   │   ├── 🐍 test_codecmaps_kr.py
+│   │   │   ├── 🐍 test_codecmaps_tw.py
+│   │   │   ├── 🐍 test_codecs.py
+│   │   │   ├── 🐍 test_codeop.py
+│   │   │   ├── 🐍 test_collections.py
+│   │   │   ├── 🐍 test_colorsys.py
+│   │   │   ├── 🐍 test_compare.py
+│   │   │   ├── 🐍 test_compile.py
+│   │   │   ├── 🐍 test_compileall.py
+│   │   │   ├── 🐍 test_complex.py
+│   │   │   ├── 🐍 test_configparser.py
+│   │   │   ├── 🐍 test_contains.py
+│   │   │   ├── 🐍 test_context.py
+│   │   │   ├── 🐍 test_contextlib.py
+│   │   │   ├── 🐍 test_contextlib_async.py
+│   │   │   ├── 🐍 test_copy.py
+│   │   │   ├── 🐍 test_copyreg.py
+│   │   │   ├── 🐍 test_coroutines.py
+│   │   │   ├── 🐍 test_cprofile.py
+│   │   │   ├── 🐍 test_crashers.py
+│   │   │   ├── 🐍 test_crypt.py
+│   │   │   ├── 🐍 test_csv.py
+│   │   │   ├── 🐍 test_ctypes.py
+│   │   │   ├── 🐍 test_curses.py
+│   │   │   ├── 🐍 test_datetime.py
+│   │   │   ├── 🐍 test_dbm.py
+│   │   │   ├── 🐍 test_dbm_dumb.py
+│   │   │   ├── 🐍 test_dbm_gnu.py
+│   │   │   ├── 🐍 test_dbm_ndbm.py
+│   │   │   ├── 🐍 test_decimal.py
+│   │   │   ├── 🐍 test_decorators.py
+│   │   │   ├── 🐍 test_defaultdict.py
+│   │   │   ├── 🐍 test_deque.py
+│   │   │   ├── 🐍 test_descr.py
+│   │   │   ├── 🐍 test_descrtut.py
+│   │   │   ├── 🐍 test_devpoll.py
+│   │   │   ├── 🐍 test_dict.py
+│   │   │   ├── 🐍 test_dict_version.py
+│   │   │   ├── 🐍 test_dictcomps.py
+│   │   │   ├── 🐍 test_dictviews.py
+│   │   │   ├── 🐍 test_difflib.py
+│   │   │   ├── 📄 test_difflib_expect.html
+│   │   │   ├── 🐍 test_dis.py
+│   │   │   ├── 🐍 test_distutils.py
+│   │   │   ├── 🐍 test_docxmlrpc.py
+│   │   │   ├── 🐍 test_dtrace.py
+│   │   │   ├── 🐍 test_dynamic.py
+│   │   │   ├── 🐍 test_dynamicclassattribute.py
+│   │   │   ├── 🐍 test_eintr.py
+│   │   │   ├── 🐍 test_embed.py
+│   │   │   ├── 🐍 test_ensurepip.py
+│   │   │   ├── 🐍 test_enum.py
+│   │   │   ├── 🐍 test_enumerate.py
+│   │   │   ├── 🐍 test_eof.py
+│   │   │   ├── 🐍 test_epoll.py
+│   │   │   ├── 🐍 test_errno.py
+│   │   │   ├── 🐍 test_except_star.py
+│   │   │   ├── 🐍 test_exception_group.py
+│   │   │   ├── 🐍 test_exception_hierarchy.py
+│   │   │   ├── 🐍 test_exception_variations.py
+│   │   │   ├── 🐍 test_exceptions.py
+│   │   │   ├── 🐍 test_extcall.py
+│   │   │   ├── 🐍 test_faulthandler.py
+│   │   │   ├── 🐍 test_fcntl.py
+│   │   │   ├── 🐍 test_file.py
+│   │   │   ├── 🐍 test_file_eintr.py
+│   │   │   ├── 🐍 test_filecmp.py
+│   │   │   ├── 🐍 test_fileinput.py
+│   │   │   ├── 🐍 test_fileio.py
+│   │   │   ├── 🐍 test_fileutils.py
+│   │   │   ├── 🐍 test_finalization.py
+│   │   │   ├── 🐍 test_float.py
+│   │   │   ├── 🐍 test_flufl.py
+│   │   │   ├── 🐍 test_fnmatch.py
+│   │   │   ├── 🐍 test_fork1.py
+│   │   │   ├── 🐍 test_format.py
+│   │   │   ├── 🐍 test_fractions.py
+│   │   │   ├── 🐍 test_frame.py
+│   │   │   ├── 🐍 test_frozen.py
+│   │   │   ├── 🐍 test_fstring.py
+│   │   │   ├── 🐍 test_ftplib.py
+│   │   │   ├── 🐍 test_funcattrs.py
+│   │   │   ├── 🐍 test_functools.py
+│   │   │   ├── 🐍 test_gc.py
+│   │   │   ├── 🐍 test_generator_stop.py
+│   │   │   ├── 🐍 test_generators.py
+│   │   │   ├── 🐍 test_genericalias.py
+│   │   │   ├── 🐍 test_genericclass.py
+│   │   │   ├── 🐍 test_genericpath.py
+│   │   │   ├── 🐍 test_genexps.py
+│   │   │   ├── 🐍 test_getopt.py
+│   │   │   ├── 🐍 test_getpass.py
+│   │   │   ├── 🐍 test_getpath.py
+│   │   │   ├── 🐍 test_gettext.py
+│   │   │   ├── 🐍 test_glob.py
+│   │   │   ├── 🐍 test_global.py
+│   │   │   ├── 🐍 test_grammar.py
+│   │   │   ├── 🐍 test_graphlib.py
+│   │   │   ├── 🐍 test_grp.py
+│   │   │   ├── 🐍 test_gzip.py
+│   │   │   ├── 🐍 test_hash.py
+│   │   │   ├── 🐍 test_hashlib.py
+│   │   │   ├── 🐍 test_heapq.py
+│   │   │   ├── 🐍 test_hmac.py
+│   │   │   ├── 🐍 test_html.py
+│   │   │   ├── 🐍 test_htmlparser.py
+│   │   │   ├── 🐍 test_http_cookiejar.py
+│   │   │   ├── 🐍 test_http_cookies.py
+│   │   │   ├── 🐍 test_httplib.py
+│   │   │   ├── 🐍 test_httpservers.py
+│   │   │   ├── 🐍 test_idle.py
+│   │   │   ├── 🐍 test_imaplib.py
+│   │   │   ├── 🐍 test_imghdr.py
+│   │   │   ├── 🐍 test_imp.py
+│   │   │   ├── 🐍 test_index.py
+│   │   │   ├── 🐍 test_int.py
+│   │   │   ├── 🐍 test_int_literal.py
+│   │   │   ├── 🐍 test_interpreters.py
+│   │   │   ├── 🐍 test_io.py
+│   │   │   ├── 🐍 test_ioctl.py
+│   │   │   ├── 🐍 test_ipaddress.py
+│   │   │   ├── 🐍 test_isinstance.py
+│   │   │   ├── 🐍 test_iter.py
+│   │   │   ├── 🐍 test_iterlen.py
+│   │   │   ├── 🐍 test_itertools.py
+│   │   │   ├── 🐍 test_keyword.py
+│   │   │   ├── 🐍 test_keywordonlyarg.py
+│   │   │   ├── 🐍 test_kqueue.py
+│   │   │   ├── 🐍 test_largefile.py
+│   │   │   ├── 🐍 test_launcher.py
+│   │   │   ├── 🐍 test_lib2to3.py
+│   │   │   ├── 🐍 test_linecache.py
+│   │   │   ├── 🐍 test_list.py
+│   │   │   ├── 🐍 test_listcomps.py
+│   │   │   ├── 🐍 test_lltrace.py
+│   │   │   ├── 🐍 test_locale.py
+│   │   │   ├── 🐍 test_logging.py
+│   │   │   ├── 🐍 test_long.py
+│   │   │   ├── 🐍 test_longexp.py
+│   │   │   ├── 🐍 test_lzma.py
+│   │   │   ├── 🐍 test_mailbox.py
+│   │   │   ├── 🐍 test_mailcap.py
+│   │   │   ├── 🐍 test_marshal.py
+│   │   │   ├── 🐍 test_math.py
+│   │   │   ├── 🐍 test_memoryio.py
+│   │   │   ├── 🐍 test_memoryview.py
+│   │   │   ├── 🐍 test_metaclass.py
+│   │   │   ├── 🐍 test_mimetypes.py
+│   │   │   ├── 🐍 test_minidom.py
+│   │   │   ├── 🐍 test_mmap.py
+│   │   │   ├── 🐍 test_modulefinder.py
+│   │   │   ├── 🐍 test_msilib.py
+│   │   │   ├── 🐍 test_multibytecodec.py
+│   │   │   ├── 🐍 test_multiprocessing_main_handling.py
+│   │   │   ├── 🐍 test_named_expressions.py
+│   │   │   ├── 🐍 test_netrc.py
+│   │   │   ├── 🐍 test_nis.py
+│   │   │   ├── 🐍 test_nntplib.py
+│   │   │   ├── 🐍 test_ntpath.py
+│   │   │   ├── 🐍 test_numeric_tower.py
+│   │   │   ├── 🐍 test_opcache.py
+│   │   │   ├── 🐍 test_opcodes.py
+│   │   │   ├── 🐍 test_openpty.py
+│   │   │   ├── 🐍 test_operator.py
+│   │   │   ├── 🐍 test_optparse.py
+│   │   │   ├── 🐍 test_ordered_dict.py
+│   │   │   ├── 🐍 test_os.py
+│   │   │   ├── 🐍 test_ossaudiodev.py
+│   │   │   ├── 🐍 test_osx_env.py
+│   │   │   ├── 🐍 test_pathlib.py
+│   │   │   ├── 🐍 test_patma.py
+│   │   │   ├── 🐍 test_pdb.py
+│   │   │   ├── 🐍 test_peepholer.py
+│   │   │   ├── 🐍 test_pep646_syntax.py
+│   │   │   ├── 🐍 test_pickle.py
+│   │   │   ├── 🐍 test_picklebuffer.py
+│   │   │   ├── 🐍 test_pickletools.py
+│   │   │   ├── 🐍 test_pipes.py
+│   │   │   ├── 🐍 test_pkg.py
+│   │   │   ├── 🐍 test_pkgutil.py
+│   │   │   ├── 🐍 test_platform.py
+│   │   │   ├── 🐍 test_plistlib.py
+│   │   │   ├── 🐍 test_poll.py
+│   │   │   ├── 🐍 test_popen.py
+│   │   │   ├── 🐍 test_poplib.py
+│   │   │   ├── 🐍 test_positional_only_arg.py
+│   │   │   ├── 🐍 test_posix.py
+│   │   │   ├── 🐍 test_posixpath.py
+│   │   │   ├── 🐍 test_pow.py
+│   │   │   ├── 🐍 test_pprint.py
+│   │   │   ├── 🐍 test_print.py
+│   │   │   ├── 🐍 test_profile.py
+│   │   │   ├── 🐍 test_property.py
+│   │   │   ├── 🐍 test_pstats.py
+│   │   │   ├── 🐍 test_pty.py
+│   │   │   ├── 🐍 test_pulldom.py
+│   │   │   ├── 🐍 test_pwd.py
+│   │   │   ├── 🐍 test_py_compile.py
+│   │   │   ├── 🐍 test_pyclbr.py
+│   │   │   ├── 🐍 test_pyexpat.py
+│   │   │   ├── 🐍 test_queue.py
+│   │   │   ├── 🐍 test_quopri.py
+│   │   │   ├── 🐍 test_raise.py
+│   │   │   ├── 🐍 test_random.py
+│   │   │   ├── 🐍 test_range.py
+│   │   │   ├── 🐍 test_re.py
+│   │   │   ├── 🐍 test_readline.py
+│   │   │   ├── 🐍 test_regrtest.py
+│   │   │   ├── 🐍 test_repl.py
+│   │   │   ├── 🐍 test_reprlib.py
+│   │   │   ├── 🐍 test_resource.py
+│   │   │   ├── 🐍 test_richcmp.py
+│   │   │   ├── 🐍 test_rlcompleter.py
+│   │   │   ├── 🐍 test_robotparser.py
+│   │   │   ├── 🐍 test_runpy.py
+│   │   │   ├── 🐍 test_sax.py
+│   │   │   ├── 🐍 test_sched.py
+│   │   │   ├── 🐍 test_scope.py
+│   │   │   ├── 🐍 test_script_helper.py
+│   │   │   ├── 🐍 test_secrets.py
+│   │   │   ├── 🐍 test_select.py
+│   │   │   ├── 🐍 test_selectors.py
+│   │   │   ├── 🐍 test_set.py
+│   │   │   ├── 🐍 test_setcomps.py
+│   │   │   ├── 🐍 test_shelve.py
+│   │   │   ├── 🐍 test_shlex.py
+│   │   │   ├── 🐍 test_shutil.py
+│   │   │   ├── 🐍 test_signal.py
+│   │   │   ├── 🐍 test_site.py
+│   │   │   ├── 🐍 test_slice.py
+│   │   │   ├── 🐍 test_smtpd.py
+│   │   │   ├── 🐍 test_smtplib.py
+│   │   │   ├── 🐍 test_smtpnet.py
+│   │   │   ├── 🐍 test_sndhdr.py
+│   │   │   ├── 🐍 test_socket.py
+│   │   │   ├── 🐍 test_socketserver.py
+│   │   │   ├── 🐍 test_sort.py
+│   │   │   ├── 🐍 test_source_encoding.py
+│   │   │   ├── 🐍 test_spwd.py
+│   │   │   ├── 🐍 test_ssl.py
+│   │   │   ├── 🐍 test_stable_abi_ctypes.py
+│   │   │   ├── 🐍 test_startfile.py
+│   │   │   ├── 🐍 test_stat.py
+│   │   │   ├── 🐍 test_statistics.py
+│   │   │   ├── 🐍 test_strftime.py
+│   │   │   ├── 🐍 test_string.py
+│   │   │   ├── 🐍 test_string_literals.py
+│   │   │   ├── 🐍 test_stringprep.py
+│   │   │   ├── 🐍 test_strptime.py
+│   │   │   ├── 🐍 test_strtod.py
+│   │   │   ├── 🐍 test_struct.py
+│   │   │   ├── 🐍 test_structseq.py
+│   │   │   ├── 🐍 test_subclassinit.py
+│   │   │   ├── 🐍 test_subprocess.py
+│   │   │   ├── 🐍 test_sunau.py
+│   │   │   ├── 🐍 test_sundry.py
+│   │   │   ├── 🐍 test_super.py
+│   │   │   ├── 🐍 test_support.py
+│   │   │   ├── 🐍 test_symtable.py
+│   │   │   ├── 🐍 test_syntax.py
+│   │   │   ├── 🐍 test_sys.py
+│   │   │   ├── 🐍 test_sys_setprofile.py
+│   │   │   ├── 🐍 test_sys_settrace.py
+│   │   │   ├── 🐍 test_sysconfig.py
+│   │   │   ├── 🐍 test_syslog.py
+│   │   │   ├── 🐍 test_tabnanny.py
+│   │   │   ├── 🐍 test_tarfile.py
+│   │   │   ├── 🐍 test_tcl.py
+│   │   │   ├── 🐍 test_telnetlib.py
+│   │   │   ├── 🐍 test_tempfile.py
+│   │   │   ├── 🐍 test_termios.py
+│   │   │   ├── 🐍 test_textwrap.py
+│   │   │   ├── 🐍 test_thread.py
+│   │   │   ├── 🐍 test_threadedtempfile.py
+│   │   │   ├── 🐍 test_threading.py
+│   │   │   ├── 🐍 test_threading_local.py
+│   │   │   ├── 🐍 test_threadsignals.py
+│   │   │   ├── 🐍 test_time.py
+│   │   │   ├── 🐍 test_timeit.py
+│   │   │   ├── 🐍 test_timeout.py
+│   │   │   ├── 🐍 test_tix.py
+│   │   │   ├── 🐍 test_tk.py
+│   │   │   ├── 🐍 test_tokenize.py
+│   │   │   ├── 🐍 test_trace.py
+│   │   │   ├── 🐍 test_traceback.py
+│   │   │   ├── 🐍 test_tracemalloc.py
+│   │   │   ├── 🐍 test_ttk_guionly.py
+│   │   │   ├── 🐍 test_ttk_textonly.py
+│   │   │   ├── 🐍 test_tty.py
+│   │   │   ├── 🐍 test_tuple.py
+│   │   │   ├── 🐍 test_turtle.py
+│   │   │   ├── 🐍 test_type_annotations.py
+│   │   │   ├── 🐍 test_type_cache.py
+│   │   │   ├── 🐍 test_type_comments.py
+│   │   │   ├── 🐍 test_typechecks.py
+│   │   │   ├── 🐍 test_types.py
+│   │   │   ├── 🐍 test_typing.py
+│   │   │   ├── 🐍 test_ucn.py
+│   │   │   ├── 🐍 test_unary.py
+│   │   │   ├── 🐍 test_unicode.py
+│   │   │   ├── 🐍 test_unicode_file.py
+│   │   │   ├── 🐍 test_unicode_file_functions.py
+│   │   │   ├── 🐍 test_unicode_identifiers.py
+│   │   │   ├── 🐍 test_unicodedata.py
+│   │   │   ├── 🐍 test_unittest.py
+│   │   │   ├── 🐍 test_univnewlines.py
+│   │   │   ├── 🐍 test_unpack.py
+│   │   │   ├── 🐍 test_unpack_ex.py
+│   │   │   ├── 🐍 test_unparse.py
+│   │   │   ├── 🐍 test_urllib.py
+│   │   │   ├── 🐍 test_urllib2.py
+│   │   │   ├── 🐍 test_urllib2_localnet.py
+│   │   │   ├── 🐍 test_urllib2net.py
+│   │   │   ├── 🐍 test_urllib_response.py
+│   │   │   ├── 🐍 test_urllibnet.py
+│   │   │   ├── 🐍 test_urlparse.py
+│   │   │   ├── 🐍 test_userdict.py
+│   │   │   ├── 🐍 test_userlist.py
+│   │   │   ├── 🐍 test_userstring.py
+│   │   │   ├── 🐍 test_utf8_mode.py
+│   │   │   ├── 🐍 test_utf8source.py
+│   │   │   ├── 🐍 test_uu.py
+│   │   │   ├── 🐍 test_uuid.py
+│   │   │   ├── 🐍 test_venv.py
+│   │   │   ├── 🐍 test_wait3.py
+│   │   │   ├── 🐍 test_wait4.py
+│   │   │   ├── 🐍 test_wave.py
+│   │   │   ├── 🐍 test_weakref.py
+│   │   │   ├── 🐍 test_weakset.py
+│   │   │   ├── 🐍 test_webbrowser.py
+│   │   │   ├── 🐍 test_winconsoleio.py
+│   │   │   ├── 🐍 test_winreg.py
+│   │   │   ├── 🐍 test_winsound.py
+│   │   │   ├── 🐍 test_with.py
+│   │   │   ├── 🐍 test_wsgiref.py
+│   │   │   ├── 🐍 test_xdrlib.py
+│   │   │   ├── 🐍 test_xml_dom_minicompat.py
+│   │   │   ├── 🐍 test_xml_etree.py
+│   │   │   ├── 🐍 test_xml_etree_c.py
+│   │   │   ├── 🐍 test_xmlrpc.py
+│   │   │   ├── 🐍 test_xmlrpc_net.py
+│   │   │   ├── 🐍 test_xxlimited.py
+│   │   │   ├── 🐍 test_xxtestfuzz.py
+│   │   │   ├── 🐍 test_yield_from.py
+│   │   │   ├── 🐍 test_zipapp.py
+│   │   │   ├── 🐍 test_zipfile.py
+│   │   │   ├── 🐍 test_zipfile64.py
+│   │   │   ├── 🐍 test_zipimport.py
+│   │   │   ├── 🐍 test_zipimport_support.py
+│   │   │   ├── 🐍 test_zlib.py
+│   │   │   ├── 🐍 testcodec.py
+│   │   │   ├── 🐍 tf_inherit_check.py
+│   │   │   ├── 🐍 time_hashlib.py
+│   │   │   ├── 🐍 win_console_handler.py
+│   │   │   ├── 🐍 xmltests.py
+│   │   │   └── 📄 [16 autre(s) fichier(s)]
+│   │   ├── 📁 tkinter
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 colorchooser.py
+│   │   │   ├── 🐍 commondialog.py
+│   │   │   ├── 🐍 constants.py
+│   │   │   ├── 🐍 dialog.py
+│   │   │   ├── 🐍 dnd.py
+│   │   │   ├── 🐍 filedialog.py
+│   │   │   ├── 🐍 font.py
+│   │   │   ├── 🐍 messagebox.py
+│   │   │   ├── 🐍 scrolledtext.py
+│   │   │   ├── 🐍 simpledialog.py
+│   │   │   ├── 🐍 tix.py
+│   │   │   └── 🐍 ttk.py
+│   │   ├── 📁 tomllib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _parser.py
+│   │   │   ├── 🐍 _re.py
+│   │   │   └── 🐍 _types.py
+│   │   ├── 📁 turtledemo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 bytedesign.py
+│   │   │   ├── 🐍 chaos.py
+│   │   │   ├── 🐍 clock.py
+│   │   │   ├── 🐍 colormixer.py
+│   │   │   ├── 🐍 forest.py
+│   │   │   ├── 🐍 fractalcurves.py
+│   │   │   ├── 🐍 lindenmayer.py
+│   │   │   ├── 🐍 minimal_hanoi.py
+│   │   │   ├── 🐍 nim.py
+│   │   │   ├── 🐍 paint.py
+│   │   │   ├── 🐍 peace.py
+│   │   │   ├── 🐍 penrose.py
+│   │   │   ├── 🐍 planet_and_moon.py
+│   │   │   ├── 🐍 rosette.py
+│   │   │   ├── 🐍 round_dance.py
+│   │   │   ├── 🐍 sorting_animate.py
+│   │   │   ├── 🐍 tree.py
+│   │   │   ├── 🐍 two_canvases.py
+│   │   │   ├── 🐍 yinyang.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 unittest
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 _log.py
+│   │   │   ├── 🐍 async_case.py
+│   │   │   ├── 🐍 case.py
+│   │   │   ├── 🐍 loader.py
+│   │   │   ├── 🐍 main.py
+│   │   │   ├── 🐍 mock.py
+│   │   │   ├── 🐍 result.py
+│   │   │   ├── 🐍 runner.py
+│   │   │   ├── 🐍 signals.py
+│   │   │   ├── 🐍 suite.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 urllib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 error.py
+│   │   │   ├── 🐍 parse.py
+│   │   │   ├── 🐍 request.py
+│   │   │   ├── 🐍 response.py
+│   │   │   └── 🐍 robotparser.py
+│   │   ├── 📁 venv
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 scripts
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 __main__.py
+│   │   ├── 📁 wsgiref
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 handlers.py
+│   │   │   ├── 🐍 headers.py
+│   │   │   ├── 🐍 simple_server.py
+│   │   │   ├── 🐍 types.py
+│   │   │   ├── 🐍 util.py
+│   │   │   └── 🐍 validate.py
+│   │   ├── 📁 xml
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dom
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 etree
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 parsers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sax
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 xmlrpc
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 client.py
+│   │   │   └── 🐍 server.py
+│   │   ├── 📁 zoneinfo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _common.py
+│   │   │   ├── 🐍 _tzpath.py
+│   │   │   └── 🐍 _zoneinfo.py
+│   │   ├── 🐍 __future__.py
+│   │   ├── 🐍 __hello__.py
+│   │   ├── 🐍 _aix_support.py
+│   │   ├── 🐍 _bootsubprocess.py
+│   │   ├── 🐍 _collections_abc.py
+│   │   ├── 🐍 _compat_pickle.py
+│   │   ├── 🐍 _compression.py
+│   │   ├── 🐍 _markupbase.py
+│   │   ├── 🐍 _osx_support.py
+│   │   ├── 🐍 _py_abc.py
+│   │   ├── 🐍 _pydecimal.py
+│   │   ├── 🐍 _pyio.py
+│   │   ├── 🐍 _sitebuiltins.py
+│   │   ├── 🐍 _strptime.py
+│   │   ├── 🐍 _threading_local.py
+│   │   ├── 🐍 _weakrefset.py
+│   │   ├── 🐍 abc.py
+│   │   ├── 🐍 aifc.py
+│   │   ├── 🐍 antigravity.py
+│   │   ├── 🐍 argparse.py
+│   │   ├── 🐍 ast.py
+│   │   ├── 🐍 asynchat.py
+│   │   ├── 🐍 asyncore.py
+│   │   ├── 🐍 base64.py
+│   │   ├── 🐍 bdb.py
+│   │   ├── 🐍 bisect.py
+│   │   ├── 🐍 bz2.py
+│   │   ├── 🐍 cProfile.py
+│   │   ├── 🐍 calendar.py
+│   │   ├── 🐍 cgi.py
+│   │   ├── 🐍 cgitb.py
+│   │   ├── 🐍 chunk.py
+│   │   ├── 🐍 cmd.py
+│   │   ├── 🐍 code.py
+│   │   ├── 🐍 codecs.py
+│   │   ├── 🐍 codeop.py
+│   │   ├── 🐍 colorsys.py
+│   │   ├── 🐍 compileall.py
+│   │   ├── 🐍 configparser.py
+│   │   ├── 🐍 contextlib.py
+│   │   ├── 🐍 contextvars.py
+│   │   ├── 🐍 copy.py
+│   │   ├── 🐍 copyreg.py
+│   │   ├── 🐍 crypt.py
+│   │   ├── 🐍 csv.py
+│   │   ├── 🐍 dataclasses.py
+│   │   ├── 🐍 datetime.py
+│   │   ├── 🐍 decimal.py
+│   │   ├── 🐍 difflib.py
+│   │   ├── 🐍 dis.py
+│   │   ├── 🐍 doctest.py
+│   │   ├── 🐍 enum.py
+│   │   ├── 🐍 filecmp.py
+│   │   ├── 🐍 fileinput.py
+│   │   ├── 🐍 fnmatch.py
+│   │   ├── 🐍 fractions.py
+│   │   ├── 🐍 ftplib.py
+│   │   ├── 🐍 functools.py
+│   │   ├── 🐍 genericpath.py
+│   │   ├── 🐍 getopt.py
+│   │   ├── 🐍 getpass.py
+│   │   ├── 🐍 gettext.py
+│   │   ├── 🐍 glob.py
+│   │   ├── 🐍 graphlib.py
+│   │   ├── 🐍 gzip.py
+│   │   ├── 🐍 hashlib.py
+│   │   ├── 🐍 heapq.py
+│   │   ├── 🐍 hmac.py
+│   │   ├── 🐍 imaplib.py
+│   │   ├── 🐍 imghdr.py
+│   │   ├── 🐍 imp.py
+│   │   ├── 🐍 inspect.py
+│   │   ├── 🐍 io.py
+│   │   ├── 🐍 ipaddress.py
+│   │   ├── 🐍 keyword.py
+│   │   ├── 🐍 linecache.py
+│   │   ├── 🐍 locale.py
+│   │   ├── 🐍 lzma.py
+│   │   ├── 🐍 mailbox.py
+│   │   ├── 🐍 mailcap.py
+│   │   ├── 🐍 mimetypes.py
+│   │   ├── 🐍 modulefinder.py
+│   │   ├── 🐍 netrc.py
+│   │   ├── 🐍 nntplib.py
+│   │   ├── 🐍 ntpath.py
+│   │   ├── 🐍 nturl2path.py
+│   │   ├── 🐍 numbers.py
+│   │   ├── 🐍 opcode.py
+│   │   ├── 🐍 operator.py
+│   │   ├── 🐍 optparse.py
+│   │   ├── 🐍 os.py
+│   │   ├── 🐍 pathlib.py
+│   │   ├── 🐍 pdb.py
+│   │   ├── 🐍 pickle.py
+│   │   ├── 🐍 pickletools.py
+│   │   ├── 🐍 pipes.py
+│   │   ├── 🐍 pkgutil.py
+│   │   ├── 🐍 platform.py
+│   │   ├── 🐍 plistlib.py
+│   │   ├── 🐍 poplib.py
+│   │   ├── 🐍 posixpath.py
+│   │   ├── 🐍 pprint.py
+│   │   ├── 🐍 profile.py
+│   │   ├── 🐍 pstats.py
+│   │   ├── 🐍 pty.py
+│   │   ├── 🐍 py_compile.py
+│   │   ├── 🐍 pyclbr.py
+│   │   ├── 🐍 pydoc.py
+│   │   ├── 🐍 queue.py
+│   │   ├── 🐍 quopri.py
+│   │   ├── 🐍 random.py
+│   │   ├── 🐍 reprlib.py
+│   │   ├── 🐍 rlcompleter.py
+│   │   ├── 🐍 runpy.py
+│   │   ├── 🐍 sched.py
+│   │   ├── 🐍 secrets.py
+│   │   ├── 🐍 selectors.py
+│   │   ├── 🐍 shelve.py
+│   │   ├── 🐍 shlex.py
+│   │   ├── 🐍 shutil.py
+│   │   ├── 🐍 signal.py
+│   │   ├── 🐍 site.py
+│   │   ├── 🐍 smtpd.py
+│   │   ├── 🐍 smtplib.py
+│   │   ├── 🐍 sndhdr.py
+│   │   ├── 🐍 socket.py
+│   │   ├── 🐍 socketserver.py
+│   │   ├── 🐍 sre_compile.py
+│   │   ├── 🐍 sre_constants.py
+│   │   ├── 🐍 sre_parse.py
+│   │   ├── 🐍 ssl.py
+│   │   ├── 🐍 stat.py
+│   │   ├── 🐍 statistics.py
+│   │   ├── 🐍 string.py
+│   │   ├── 🐍 stringprep.py
+│   │   ├── 🐍 struct.py
+│   │   ├── 🐍 subprocess.py
+│   │   ├── 🐍 sunau.py
+│   │   ├── 🐍 symtable.py
+│   │   ├── 🐍 sysconfig.py
+│   │   ├── 🐍 tabnanny.py
+│   │   ├── 🐍 tarfile.py
+│   │   ├── 🐍 telnetlib.py
+│   │   ├── 🐍 tempfile.py
+│   │   ├── 🐍 textwrap.py
+│   │   ├── 🐍 this.py
+│   │   ├── 🐍 threading.py
+│   │   ├── 🐍 timeit.py
+│   │   ├── 🐍 token.py
+│   │   ├── 🐍 tokenize.py
+│   │   ├── 🐍 trace.py
+│   │   ├── 🐍 traceback.py
+│   │   ├── 🐍 tracemalloc.py
+│   │   ├── 🐍 tty.py
+│   │   ├── 🐍 turtle.py
+│   │   ├── 🐍 types.py
+│   │   ├── 🐍 typing.py
+│   │   ├── 🐍 uu.py
+│   │   ├── 🐍 uuid.py
+│   │   ├── 🐍 warnings.py
+│   │   ├── 🐍 wave.py
+│   │   ├── 🐍 weakref.py
+│   │   ├── 🐍 webbrowser.py
+│   │   ├── 🐍 xdrlib.py
+│   │   ├── 🐍 zipapp.py
+│   │   ├── 🐍 zipfile.py
+│   │   └── 🐍 zipimport.py
+│   ├── 📁 Scripts
+│   ├── 📁 Tools
+│   │   ├── 📁 demo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 beer.py
+│   │   │   ├── 🐍 eiffel.py
+│   │   │   ├── 🐍 hanoi.py
+│   │   │   ├── 🐍 life.py
+│   │   │   ├── 🐍 markov.py
+│   │   │   ├── 🐍 mcast.py
+│   │   │   ├── 🐍 queens.py
+│   │   │   ├── 🐍 redemo.py
+│   │   │   ├── 🐍 rpython.py
+│   │   │   ├── 🐍 rpythond.py
+│   │   │   ├── 🐍 sortvisu.py
+│   │   │   ├── 🐍 spreadsheet.py
+│   │   │   └── 🐍 vector.py
+│   │   ├── 📁 i18n
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 makelocalealias.py
+│   │   │   ├── 🐍 msgfmt.py
+│   │   │   └── 🐍 pygettext.py
+│   │   └── 📁 scripts
+│   │       ├── 📁 __pycache__
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 🐍 2to3.py
+│   │       ├── 🐍 abitype.py
+│   │       ├── 🐍 analyze_dxp.py
+│   │       ├── 🐍 byext.py
+│   │       ├── 🐍 byteyears.py
+│   │       ├── 🐍 checkpip.py
+│   │       ├── 🐍 cleanfuture.py
+│   │       ├── 🐍 combinerefs.py
+│   │       ├── 🐍 copytime.py
+│   │       ├── 🐍 crlf.py
+│   │       ├── 🐍 db2pickle.py
+│   │       ├── 🐍 deepfreeze.py
+│   │       ├── 🐍 diff.py
+│   │       ├── 🐍 dutree.py
+│   │       ├── 🐍 eptags.py
+│   │       ├── 🐍 find-uname.py
+│   │       ├── 🐍 find_recursionlimit.py
+│   │       ├── 🐍 finddiv.py
+│   │       ├── 🐍 findlinksto.py
+│   │       ├── 🐍 findnocoding.py
+│   │       ├── 🐍 fixcid.py
+│   │       ├── 🐍 fixdiv.py
+│   │       ├── 🐍 fixheader.py
+│   │       ├── 🐍 fixnotice.py
+│   │       ├── 🐍 fixps.py
+│   │       ├── 🐍 freeze_modules.py
+│   │       ├── 🐍 generate_global_objects.py
+│   │       ├── 🐍 generate_opcode_h.py
+│   │       ├── 🐍 generate_re_casefix.py
+│   │       ├── 🐍 generate_sre_constants.py
+│   │       ├── 🐍 generate_stdlib_module_names.py
+│   │       ├── 🐍 generate_token.py
+│   │       ├── 🐍 get-remote-certificate.py
+│   │       ├── 🐍 google.py
+│   │       ├── 🐍 gprof2html.py
+│   │       ├── 🐍 highlight.py
+│   │       ├── 🐍 ifdef.py
+│   │       ├── 🐍 import_diagnostics.py
+│   │       ├── 🐍 lfcr.py
+│   │       ├── 🐍 linktree.py
+│   │       ├── 🐍 lll.py
+│   │       ├── 🐍 mailerdaemon.py
+│   │       ├── 🐍 make_ctype.py
+│   │       ├── 🐍 md5sum.py
+│   │       ├── 🐍 mkreal.py
+│   │       ├── 🐍 ndiff.py
+│   │       ├── 🐍 nm2def.py
+│   │       ├── 🐍 objgraph.py
+│   │       ├── 🐍 parse_html5_entities.py
+│   │       ├── 🐍 parseentities.py
+│   │       ├── 🐍 patchcheck.py
+│   │       ├── 🐍 pathfix.py
+│   │       ├── 🐍 pdeps.py
+│   │       ├── 🐍 pep384_macrocheck.py
+│   │       ├── 🐍 pickle2db.py
+│   │       ├── 🐍 pindent.py
+│   │       ├── 🐍 ptags.py
+│   │       ├── 🐍 pydoc3.py
+│   │       ├── 🐍 pysource.py
+│   │       ├── 🐍 reindent-rst.py
+│   │       ├── 🐍 reindent.py
+│   │       ├── 🐍 rgrep.py
+│   │       ├── 🐍 run_tests.py
+│   │       ├── 🐍 smelly.py
+│   │       ├── 🐍 sortperf.py
+│   │       ├── 🐍 stable_abi.py
+│   │       ├── 🐍 startuptime.py
+│   │       ├── 🐍 suff.py
+│   │       ├── 🐍 summarize_stats.py
+│   │       ├── 🐍 texi2html.py
+│   │       ├── 🐍 umarshal.py
+│   │       ├── 🐍 untabify.py
+│   │       ├── 🐍 update_file.py
+│   │       ├── 🐍 var_access_benchmark.py
+│   │       ├── 🐍 verify_ensurepip_wheels.py
+│   │       ├── 🐍 which.py
+│   │       └── 🐍 win_add2path.py
+│   ├── 📁 include
+│   │   ├── 📁 cpython
+│   │   │   └── 📄 [48 autre(s) fichier(s)]
+│   │   ├── 📁 internal
+│   │   │   └── 📄 [68 autre(s) fichier(s)]
+│   │   └── 📄 [73 autre(s) fichier(s)]
+│   ├── 📁 libs
+│   │   └── 📄 [3 autre(s) fichier(s)]
+│   ├── 📁 tcl
+│   │   ├── 📁 dde1.4
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 nmake
+│   │   │   ├── 📄 x86_64-w64-mingw32-nmakehlp.exe
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 reg1.3
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 tcl8
+│   │   │   ├── 📁 8.4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 8.5
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 8.6
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 tcl8.6
+│   │   │   ├── 📁 encoding
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 http1.0
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 msgs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 opt0.4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tzdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [10 autre(s) fichier(s)]
+│   │   ├── 📁 tix8.4.3
+│   │   │   ├── 📁 bitmaps
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pref
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [70 autre(s) fichier(s)]
+│   │   ├── 📁 tk8.6
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 images
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 msgs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ttk
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [34 autre(s) fichier(s)]
+│   │   └── 📄 [6 autre(s) fichier(s)]
+│   ├── 📄 LICENSE.txt
+│   ├── 📄 NEWS.txt
+│   ├── 📄 python-3.11.9.exe
+│   ├── 📄 python.exe
+│   ├── 📄 pythonw.exe
+│   └── 📄 [3 autre(s) fichier(s)]
+├── 📁 python.64
+│   ├── 📁 DLLs
+│   │   └── 📄 [39 autre(s) fichier(s)]
+│   ├── 📁 Doc
+│   │   └── 📁 html
+│   │       ├── 📁 _downloads
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 _images
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 _static
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 c-api
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 distributing
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 distutils
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 extending
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 faq
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 howto
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 install
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 installing
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 library
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 reference
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 tutorial
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 using
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 whatsnew
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📄 about.html
+│   │       ├── 📄 bugs.html
+│   │       ├── 📄 contents.html
+│   │       ├── 📄 copyright.html
+│   │       ├── 📄 download.html
+│   │       ├── 📄 genindex-A.html
+│   │       ├── 📄 genindex-B.html
+│   │       ├── 📄 genindex-C.html
+│   │       ├── 📄 genindex-D.html
+│   │       ├── 📄 genindex-E.html
+│   │       ├── 📄 genindex-F.html
+│   │       ├── 📄 genindex-G.html
+│   │       ├── 📄 genindex-H.html
+│   │       ├── 📄 genindex-I.html
+│   │       ├── 📄 genindex-J.html
+│   │       ├── 📄 genindex-K.html
+│   │       ├── 📄 genindex-L.html
+│   │       ├── 📄 genindex-M.html
+│   │       ├── 📄 genindex-N.html
+│   │       ├── 📄 genindex-O.html
+│   │       ├── 📄 genindex-P.html
+│   │       ├── 📄 genindex-Q.html
+│   │       ├── 📄 genindex-R.html
+│   │       ├── 📄 genindex-S.html
+│   │       ├── 📄 genindex-Symbols.html
+│   │       ├── 📄 genindex-T.html
+│   │       ├── 📄 genindex-U.html
+│   │       ├── 📄 genindex-V.html
+│   │       ├── 📄 genindex-W.html
+│   │       ├── 📄 genindex-X.html
+│   │       ├── 📄 genindex-Y.html
+│   │       ├── 📄 genindex-Z.html
+│   │       ├── 📄 genindex-_.html
+│   │       ├── 📄 genindex-all.html
+│   │       ├── 📄 genindex.html
+│   │       ├── 📄 glossary.html
+│   │       ├── 📄 index.html
+│   │       ├── 📄 license.html
+│   │       ├── 📄 py-modindex.html
+│   │       ├── 📄 search.html
+│   │       └── 📄 [4 autre(s) fichier(s)]
+│   ├── 📁 Lib
+│   │   ├── 📁 __phello__
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ham
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 spam.py
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [501 autre(s) fichier(s)]
+│   │   ├── 📁 asyncio
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 base_events.py
+│   │   │   ├── 🐍 base_futures.py
+│   │   │   ├── 🐍 base_subprocess.py
+│   │   │   ├── 🐍 base_tasks.py
+│   │   │   ├── 🐍 constants.py
+│   │   │   ├── 🐍 coroutines.py
+│   │   │   ├── 🐍 events.py
+│   │   │   ├── 🐍 exceptions.py
+│   │   │   ├── 🐍 format_helpers.py
+│   │   │   ├── 🐍 futures.py
+│   │   │   ├── 🐍 locks.py
+│   │   │   ├── 🐍 log.py
+│   │   │   ├── 🐍 mixins.py
+│   │   │   ├── 🐍 proactor_events.py
+│   │   │   ├── 🐍 protocols.py
+│   │   │   ├── 🐍 queues.py
+│   │   │   ├── 🐍 runners.py
+│   │   │   ├── 🐍 selector_events.py
+│   │   │   ├── 🐍 sslproto.py
+│   │   │   ├── 🐍 staggered.py
+│   │   │   ├── 🐍 streams.py
+│   │   │   ├── 🐍 subprocess.py
+│   │   │   ├── 🐍 taskgroups.py
+│   │   │   ├── 🐍 tasks.py
+│   │   │   ├── 🐍 threads.py
+│   │   │   ├── 🐍 timeouts.py
+│   │   │   ├── 🐍 transports.py
+│   │   │   ├── 🐍 trsock.py
+│   │   │   ├── 🐍 unix_events.py
+│   │   │   ├── 🐍 windows_events.py
+│   │   │   └── 🐍 windows_utils.py
+│   │   ├── 📁 collections
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 abc.py
+│   │   ├── 📁 concurrent
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 futures
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 ctypes
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 macholib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _aix.py
+│   │   │   ├── 🐍 _endian.py
+│   │   │   ├── 🐍 util.py
+│   │   │   └── 🐍 wintypes.py
+│   │   ├── 📁 curses
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 ascii.py
+│   │   │   ├── 🐍 has_key.py
+│   │   │   ├── 🐍 panel.py
+│   │   │   └── 🐍 textpad.py
+│   │   ├── 📁 dbm
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 dumb.py
+│   │   │   ├── 🐍 gnu.py
+│   │   │   └── 🐍 ndbm.py
+│   │   ├── 📁 distutils
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 command
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _msvccompiler.py
+│   │   │   ├── 🐍 archive_util.py
+│   │   │   ├── 🐍 bcppcompiler.py
+│   │   │   ├── 🐍 ccompiler.py
+│   │   │   ├── 🐍 cmd.py
+│   │   │   ├── 🐍 config.py
+│   │   │   ├── 🐍 core.py
+│   │   │   ├── 🐍 cygwinccompiler.py
+│   │   │   ├── 🐍 debug.py
+│   │   │   ├── 🐍 dep_util.py
+│   │   │   ├── 🐍 dir_util.py
+│   │   │   ├── 🐍 dist.py
+│   │   │   ├── 🐍 errors.py
+│   │   │   ├── 🐍 extension.py
+│   │   │   ├── 🐍 fancy_getopt.py
+│   │   │   ├── 🐍 file_util.py
+│   │   │   ├── 🐍 filelist.py
+│   │   │   ├── 🐍 log.py
+│   │   │   ├── 🐍 msvc9compiler.py
+│   │   │   ├── 🐍 msvccompiler.py
+│   │   │   ├── 🐍 spawn.py
+│   │   │   ├── 🐍 sysconfig.py
+│   │   │   ├── 🐍 text_file.py
+│   │   │   ├── 🐍 unixccompiler.py
+│   │   │   ├── 🐍 util.py
+│   │   │   ├── 🐍 version.py
+│   │   │   ├── 🐍 versionpredicate.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 email
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mime
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _encoded_words.py
+│   │   │   ├── 🐍 _header_value_parser.py
+│   │   │   ├── 🐍 _parseaddr.py
+│   │   │   ├── 🐍 _policybase.py
+│   │   │   ├── 🐍 base64mime.py
+│   │   │   ├── 🐍 charset.py
+│   │   │   ├── 🐍 contentmanager.py
+│   │   │   ├── 🐍 encoders.py
+│   │   │   ├── 🐍 errors.py
+│   │   │   ├── 🐍 feedparser.py
+│   │   │   ├── 🐍 generator.py
+│   │   │   ├── 🐍 header.py
+│   │   │   ├── 🐍 headerregistry.py
+│   │   │   ├── 🐍 iterators.py
+│   │   │   ├── 🐍 message.py
+│   │   │   ├── 🐍 parser.py
+│   │   │   ├── 🐍 policy.py
+│   │   │   ├── 🐍 quoprimime.py
+│   │   │   ├── 🐍 utils.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 encodings
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 aliases.py
+│   │   │   ├── 🐍 ascii.py
+│   │   │   ├── 🐍 base64_codec.py
+│   │   │   ├── 🐍 big5.py
+│   │   │   ├── 🐍 big5hkscs.py
+│   │   │   ├── 🐍 bz2_codec.py
+│   │   │   ├── 🐍 charmap.py
+│   │   │   ├── 🐍 cp037.py
+│   │   │   ├── 🐍 cp1006.py
+│   │   │   ├── 🐍 cp1026.py
+│   │   │   ├── 🐍 cp1125.py
+│   │   │   ├── 🐍 cp1140.py
+│   │   │   ├── 🐍 cp1250.py
+│   │   │   ├── 🐍 cp1251.py
+│   │   │   ├── 🐍 cp1252.py
+│   │   │   ├── 🐍 cp1253.py
+│   │   │   ├── 🐍 cp1254.py
+│   │   │   ├── 🐍 cp1255.py
+│   │   │   ├── 🐍 cp1256.py
+│   │   │   ├── 🐍 cp1257.py
+│   │   │   ├── 🐍 cp1258.py
+│   │   │   ├── 🐍 cp273.py
+│   │   │   ├── 🐍 cp424.py
+│   │   │   ├── 🐍 cp437.py
+│   │   │   ├── 🐍 cp500.py
+│   │   │   ├── 🐍 cp720.py
+│   │   │   ├── 🐍 cp737.py
+│   │   │   ├── 🐍 cp775.py
+│   │   │   ├── 🐍 cp850.py
+│   │   │   ├── 🐍 cp852.py
+│   │   │   ├── 🐍 cp855.py
+│   │   │   ├── 🐍 cp856.py
+│   │   │   ├── 🐍 cp857.py
+│   │   │   ├── 🐍 cp858.py
+│   │   │   ├── 🐍 cp860.py
+│   │   │   ├── 🐍 cp861.py
+│   │   │   ├── 🐍 cp862.py
+│   │   │   ├── 🐍 cp863.py
+│   │   │   ├── 🐍 cp864.py
+│   │   │   ├── 🐍 cp865.py
+│   │   │   ├── 🐍 cp866.py
+│   │   │   ├── 🐍 cp869.py
+│   │   │   ├── 🐍 cp874.py
+│   │   │   ├── 🐍 cp875.py
+│   │   │   ├── 🐍 cp932.py
+│   │   │   ├── 🐍 cp949.py
+│   │   │   ├── 🐍 cp950.py
+│   │   │   ├── 🐍 euc_jis_2004.py
+│   │   │   ├── 🐍 euc_jisx0213.py
+│   │   │   ├── 🐍 euc_jp.py
+│   │   │   ├── 🐍 euc_kr.py
+│   │   │   ├── 🐍 gb18030.py
+│   │   │   ├── 🐍 gb2312.py
+│   │   │   ├── 🐍 gbk.py
+│   │   │   ├── 🐍 hex_codec.py
+│   │   │   ├── 🐍 hp_roman8.py
+│   │   │   ├── 🐍 hz.py
+│   │   │   ├── 🐍 idna.py
+│   │   │   ├── 🐍 iso2022_jp.py
+│   │   │   ├── 🐍 iso2022_jp_1.py
+│   │   │   ├── 🐍 iso2022_jp_2.py
+│   │   │   ├── 🐍 iso2022_jp_2004.py
+│   │   │   ├── 🐍 iso2022_jp_3.py
+│   │   │   ├── 🐍 iso2022_jp_ext.py
+│   │   │   ├── 🐍 iso2022_kr.py
+│   │   │   ├── 🐍 iso8859_1.py
+│   │   │   ├── 🐍 iso8859_10.py
+│   │   │   ├── 🐍 iso8859_11.py
+│   │   │   ├── 🐍 iso8859_13.py
+│   │   │   ├── 🐍 iso8859_14.py
+│   │   │   ├── 🐍 iso8859_15.py
+│   │   │   ├── 🐍 iso8859_16.py
+│   │   │   ├── 🐍 iso8859_2.py
+│   │   │   ├── 🐍 iso8859_3.py
+│   │   │   ├── 🐍 iso8859_4.py
+│   │   │   ├── 🐍 iso8859_5.py
+│   │   │   ├── 🐍 iso8859_6.py
+│   │   │   ├── 🐍 iso8859_7.py
+│   │   │   ├── 🐍 iso8859_8.py
+│   │   │   ├── 🐍 iso8859_9.py
+│   │   │   ├── 🐍 johab.py
+│   │   │   ├── 🐍 koi8_r.py
+│   │   │   ├── 🐍 koi8_t.py
+│   │   │   ├── 🐍 koi8_u.py
+│   │   │   ├── 🐍 kz1048.py
+│   │   │   ├── 🐍 latin_1.py
+│   │   │   ├── 🐍 mac_arabic.py
+│   │   │   ├── 🐍 mac_croatian.py
+│   │   │   ├── 🐍 mac_cyrillic.py
+│   │   │   ├── 🐍 mac_farsi.py
+│   │   │   ├── 🐍 mac_greek.py
+│   │   │   ├── 🐍 mac_iceland.py
+│   │   │   ├── 🐍 mac_latin2.py
+│   │   │   ├── 🐍 mac_roman.py
+│   │   │   ├── 🐍 mac_romanian.py
+│   │   │   ├── 🐍 mac_turkish.py
+│   │   │   ├── 🐍 mbcs.py
+│   │   │   ├── 🐍 oem.py
+│   │   │   ├── 🐍 palmos.py
+│   │   │   ├── 🐍 ptcp154.py
+│   │   │   ├── 🐍 punycode.py
+│   │   │   ├── 🐍 quopri_codec.py
+│   │   │   ├── 🐍 raw_unicode_escape.py
+│   │   │   ├── 🐍 rot_13.py
+│   │   │   ├── 🐍 shift_jis.py
+│   │   │   ├── 🐍 shift_jis_2004.py
+│   │   │   ├── 🐍 shift_jisx0213.py
+│   │   │   ├── 🐍 tis_620.py
+│   │   │   ├── 🐍 undefined.py
+│   │   │   ├── 🐍 unicode_escape.py
+│   │   │   ├── 🐍 utf_16.py
+│   │   │   ├── 🐍 utf_16_be.py
+│   │   │   ├── 🐍 utf_16_le.py
+│   │   │   ├── 🐍 utf_32.py
+│   │   │   ├── 🐍 utf_32_be.py
+│   │   │   ├── 🐍 utf_32_le.py
+│   │   │   ├── 🐍 utf_7.py
+│   │   │   ├── 🐍 utf_8.py
+│   │   │   ├── 🐍 utf_8_sig.py
+│   │   │   ├── 🐍 uu_codec.py
+│   │   │   └── 🐍 zlib_codec.py
+│   │   ├── 📁 ensurepip
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 _bundled
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   └── 🐍 _uninstall.py
+│   │   ├── 📁 html
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 entities.py
+│   │   │   └── 🐍 parser.py
+│   │   ├── 📁 http
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 client.py
+│   │   │   ├── 🐍 cookiejar.py
+│   │   │   ├── 🐍 cookies.py
+│   │   │   └── 🐍 server.py
+│   │   ├── 📁 idlelib
+│   │   │   ├── 📁 Icons
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 idle_test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 CREDITS.txt
+│   │   │   ├── 📄 HISTORY.txt
+│   │   │   ├── 📄 NEWS2x.txt
+│   │   │   ├── 📄 News3.txt
+│   │   │   ├── 📄 README.txt
+│   │   │   ├── 📄 TODO.txt
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 autocomplete.py
+│   │   │   ├── 🐍 autocomplete_w.py
+│   │   │   ├── 🐍 autoexpand.py
+│   │   │   ├── 🐍 browser.py
+│   │   │   ├── 🐍 calltip.py
+│   │   │   ├── 🐍 calltip_w.py
+│   │   │   ├── 🐍 codecontext.py
+│   │   │   ├── 🐍 colorizer.py
+│   │   │   ├── 🐍 config.py
+│   │   │   ├── 🐍 config_key.py
+│   │   │   ├── 🐍 configdialog.py
+│   │   │   ├── 🐍 debugger.py
+│   │   │   ├── 🐍 debugger_r.py
+│   │   │   ├── 🐍 debugobj.py
+│   │   │   ├── 🐍 debugobj_r.py
+│   │   │   ├── 🐍 delegator.py
+│   │   │   ├── 🐍 dynoption.py
+│   │   │   ├── 🐍 editor.py
+│   │   │   ├── 📄 extend.txt
+│   │   │   ├── 🐍 filelist.py
+│   │   │   ├── 🐍 format.py
+│   │   │   ├── 🐍 grep.py
+│   │   │   ├── 📄 help.html
+│   │   │   ├── 🐍 help.py
+│   │   │   ├── 🐍 help_about.py
+│   │   │   ├── 🐍 history.py
+│   │   │   ├── 🐍 hyperparser.py
+│   │   │   ├── 📄 idle.bat
+│   │   │   ├── 🐍 idle.py
+│   │   │   ├── 🐍 iomenu.py
+│   │   │   ├── 🐍 macosx.py
+│   │   │   ├── 🐍 mainmenu.py
+│   │   │   ├── 🐍 multicall.py
+│   │   │   ├── 🐍 outwin.py
+│   │   │   ├── 🐍 parenmatch.py
+│   │   │   ├── 🐍 pathbrowser.py
+│   │   │   ├── 🐍 percolator.py
+│   │   │   ├── 🐍 pyparse.py
+│   │   │   ├── 🐍 pyshell.py
+│   │   │   ├── 🐍 query.py
+│   │   │   ├── 🐍 redirector.py
+│   │   │   ├── 🐍 replace.py
+│   │   │   ├── 🐍 rpc.py
+│   │   │   ├── 🐍 run.py
+│   │   │   ├── 🐍 runscript.py
+│   │   │   ├── 🐍 scrolledlist.py
+│   │   │   ├── 🐍 search.py
+│   │   │   ├── 🐍 searchbase.py
+│   │   │   ├── 🐍 searchengine.py
+│   │   │   ├── 🐍 sidebar.py
+│   │   │   ├── 🐍 squeezer.py
+│   │   │   ├── 🐍 stackviewer.py
+│   │   │   ├── 🐍 statusbar.py
+│   │   │   ├── 🐍 textview.py
+│   │   │   ├── 🐍 tooltip.py
+│   │   │   ├── 🐍 tree.py
+│   │   │   ├── 🐍 undo.py
+│   │   │   ├── 🐍 util.py
+│   │   │   ├── 🐍 window.py
+│   │   │   ├── 🐍 zoomheight.py
+│   │   │   ├── 🐍 zzdummy.py
+│   │   │   └── 📄 [6 autre(s) fichier(s)]
+│   │   ├── 📁 importlib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 metadata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 resources
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _abc.py
+│   │   │   ├── 🐍 _bootstrap.py
+│   │   │   ├── 🐍 _bootstrap_external.py
+│   │   │   ├── 🐍 abc.py
+│   │   │   ├── 🐍 machinery.py
+│   │   │   ├── 🐍 readers.py
+│   │   │   ├── 🐍 simple.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 json
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 decoder.py
+│   │   │   ├── 🐍 encoder.py
+│   │   │   ├── 🐍 scanner.py
+│   │   │   └── 🐍 tool.py
+│   │   ├── 📁 lib2to3
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 fixes
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pgen2
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tests
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 Grammar.txt
+│   │   │   ├── 📄 PatternGrammar.txt
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 btm_matcher.py
+│   │   │   ├── 🐍 btm_utils.py
+│   │   │   ├── 🐍 fixer_base.py
+│   │   │   ├── 🐍 fixer_util.py
+│   │   │   ├── 🐍 main.py
+│   │   │   ├── 🐍 patcomp.py
+│   │   │   ├── 🐍 pygram.py
+│   │   │   ├── 🐍 pytree.py
+│   │   │   └── 🐍 refactor.py
+│   │   ├── 📁 logging
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 config.py
+│   │   │   └── 🐍 handlers.py
+│   │   ├── 📁 msilib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 schema.py
+│   │   │   ├── 🐍 sequence.py
+│   │   │   └── 🐍 text.py
+│   │   ├── 📁 multiprocessing
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dummy
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 connection.py
+│   │   │   ├── 🐍 context.py
+│   │   │   ├── 🐍 forkserver.py
+│   │   │   ├── 🐍 heap.py
+│   │   │   ├── 🐍 managers.py
+│   │   │   ├── 🐍 pool.py
+│   │   │   ├── 🐍 popen_fork.py
+│   │   │   ├── 🐍 popen_forkserver.py
+│   │   │   ├── 🐍 popen_spawn_posix.py
+│   │   │   ├── 🐍 popen_spawn_win32.py
+│   │   │   ├── 🐍 process.py
+│   │   │   ├── 🐍 queues.py
+│   │   │   ├── 🐍 reduction.py
+│   │   │   ├── 🐍 resource_sharer.py
+│   │   │   ├── 🐍 resource_tracker.py
+│   │   │   ├── 🐍 shared_memory.py
+│   │   │   ├── 🐍 sharedctypes.py
+│   │   │   ├── 🐍 spawn.py
+│   │   │   ├── 🐍 synchronize.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 pydoc_data
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 topics.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 re
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _casefix.py
+│   │   │   ├── 🐍 _compiler.py
+│   │   │   ├── 🐍 _constants.py
+│   │   │   └── 🐍 _parser.py
+│   │   ├── 📁 site-packages
+│   │   │   └── 📄 README.txt
+│   │   ├── 📁 sqlite3
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 dbapi2.py
+│   │   │   └── 🐍 dump.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 audiodata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 certdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 cjkencodings
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 configdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 crashers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 data
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 decimaltestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dtracedata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 encoded_modules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 imghdrdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 leakers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 libregrtest
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 regrtestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sndhdrdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 subprocessdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 support
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_asyncio
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_capi
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_concurrent_futures
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_cppext
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_dataclasses
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_doctest
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_email
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_future_stmt
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_gdb
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_import
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_importlib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_inspect
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_json
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_module
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_fork
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_forkserver
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_multiprocessing_spawn
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_peg_generator
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_pydoc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_sqlite3
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_tomllib
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_tools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_warnings
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test_zoneinfo
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tokenizedata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tracedmodules
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 typinganndata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 xmltestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ziptestdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 _test_atexit.py
+│   │   │   ├── 🐍 _test_eintr.py
+│   │   │   ├── 🐍 _test_embed_set_config.py
+│   │   │   ├── 🐍 _test_embed_structseq.py
+│   │   │   ├── 🐍 _test_multiprocessing.py
+│   │   │   ├── 🐍 _test_venv_multiprocessing.py
+│   │   │   ├── 🐍 archiver_tests.py
+│   │   │   ├── 🐍 audiotests.py
+│   │   │   ├── 🐍 audit-tests.py
+│   │   │   ├── 🐍 autotest.py
+│   │   │   ├── 🐍 bisect_cmd.py
+│   │   │   ├── 📄 cmath_testcases.txt
+│   │   │   ├── 🐍 curses_tests.py
+│   │   │   ├── 🐍 datetimetester.py
+│   │   │   ├── 🐍 dis_module.py
+│   │   │   ├── 📄 exception_hierarchy.txt
+│   │   │   ├── 📄 floating_points.txt
+│   │   │   ├── 🐍 fork_wait.py
+│   │   │   ├── 📄 formatfloat_testcases.txt
+│   │   │   ├── 📄 ieee754.txt
+│   │   │   ├── 🐍 imp_dummy.py
+│   │   │   ├── 🐍 list_tests.py
+│   │   │   ├── 🐍 lock_tests.py
+│   │   │   ├── 📄 mailcap.txt
+│   │   │   ├── 🐍 mapping_tests.py
+│   │   │   ├── 📄 math_testcases.txt
+│   │   │   ├── 🐍 memory_watchdog.py
+│   │   │   ├── 🐍 mock_socket.py
+│   │   │   ├── 🐍 mp_fork_bomb.py
+│   │   │   ├── 🐍 mp_preload.py
+│   │   │   ├── 🐍 multibytecodec_support.py
+│   │   │   ├── 🐍 pickletester.py
+│   │   │   ├── 🐍 profilee.py
+│   │   │   ├── 🐍 pyclbr_input.py
+│   │   │   ├── 🐍 pythoninfo.py
+│   │   │   ├── 🐍 re_tests.py
+│   │   │   ├── 🐍 regrtest.py
+│   │   │   ├── 🐍 relimport.py
+│   │   │   ├── 🐍 reperf.py
+│   │   │   ├── 🐍 seq_tests.py
+│   │   │   ├── 🐍 signalinterproctester.py
+│   │   │   ├── 🐍 ssl_servers.py
+│   │   │   ├── 🐍 ssltests.py
+│   │   │   ├── 🐍 string_tests.py
+│   │   │   ├── 🐍 test___all__.py
+│   │   │   ├── 🐍 test__locale.py
+│   │   │   ├── 🐍 test__opcode.py
+│   │   │   ├── 🐍 test__osx_support.py
+│   │   │   ├── 🐍 test__xxsubinterpreters.py
+│   │   │   ├── 🐍 test_abc.py
+│   │   │   ├── 🐍 test_abstract_numbers.py
+│   │   │   ├── 🐍 test_aifc.py
+│   │   │   ├── 🐍 test_argparse.py
+│   │   │   ├── 🐍 test_array.py
+│   │   │   ├── 🐍 test_asdl_parser.py
+│   │   │   ├── 🐍 test_ast.py
+│   │   │   ├── 🐍 test_asyncgen.py
+│   │   │   ├── 🐍 test_asynchat.py
+│   │   │   ├── 🐍 test_asyncore.py
+│   │   │   ├── 🐍 test_atexit.py
+│   │   │   ├── 🐍 test_audioop.py
+│   │   │   ├── 🐍 test_audit.py
+│   │   │   ├── 🐍 test_augassign.py
+│   │   │   ├── 🐍 test_base64.py
+│   │   │   ├── 🐍 test_baseexception.py
+│   │   │   ├── 🐍 test_bdb.py
+│   │   │   ├── 🐍 test_bigaddrspace.py
+│   │   │   ├── 🐍 test_bigmem.py
+│   │   │   ├── 🐍 test_binascii.py
+│   │   │   ├── 🐍 test_binop.py
+│   │   │   ├── 🐍 test_bisect.py
+│   │   │   ├── 🐍 test_bool.py
+│   │   │   ├── 🐍 test_buffer.py
+│   │   │   ├── 🐍 test_bufio.py
+│   │   │   ├── 🐍 test_builtin.py
+│   │   │   ├── 🐍 test_bytes.py
+│   │   │   ├── 🐍 test_bz2.py
+│   │   │   ├── 🐍 test_c_locale_coercion.py
+│   │   │   ├── 🐍 test_calendar.py
+│   │   │   ├── 🐍 test_call.py
+│   │   │   ├── 🐍 test_cgi.py
+│   │   │   ├── 🐍 test_cgitb.py
+│   │   │   ├── 🐍 test_charmapcodec.py
+│   │   │   ├── 🐍 test_check_c_globals.py
+│   │   │   ├── 🐍 test_class.py
+│   │   │   ├── 🐍 test_clinic.py
+│   │   │   ├── 🐍 test_cmath.py
+│   │   │   ├── 🐍 test_cmd.py
+│   │   │   ├── 🐍 test_cmd_line.py
+│   │   │   ├── 🐍 test_cmd_line_script.py
+│   │   │   ├── 🐍 test_code.py
+│   │   │   ├── 🐍 test_code_module.py
+│   │   │   ├── 🐍 test_codeccallbacks.py
+│   │   │   ├── 🐍 test_codecencodings_cn.py
+│   │   │   ├── 🐍 test_codecencodings_hk.py
+│   │   │   ├── 🐍 test_codecencodings_iso2022.py
+│   │   │   ├── 🐍 test_codecencodings_jp.py
+│   │   │   ├── 🐍 test_codecencodings_kr.py
+│   │   │   ├── 🐍 test_codecencodings_tw.py
+│   │   │   ├── 🐍 test_codecmaps_cn.py
+│   │   │   ├── 🐍 test_codecmaps_hk.py
+│   │   │   ├── 🐍 test_codecmaps_jp.py
+│   │   │   ├── 🐍 test_codecmaps_kr.py
+│   │   │   ├── 🐍 test_codecmaps_tw.py
+│   │   │   ├── 🐍 test_codecs.py
+│   │   │   ├── 🐍 test_codeop.py
+│   │   │   ├── 🐍 test_collections.py
+│   │   │   ├── 🐍 test_colorsys.py
+│   │   │   ├── 🐍 test_compare.py
+│   │   │   ├── 🐍 test_compile.py
+│   │   │   ├── 🐍 test_compileall.py
+│   │   │   ├── 🐍 test_complex.py
+│   │   │   ├── 🐍 test_configparser.py
+│   │   │   ├── 🐍 test_contains.py
+│   │   │   ├── 🐍 test_context.py
+│   │   │   ├── 🐍 test_contextlib.py
+│   │   │   ├── 🐍 test_contextlib_async.py
+│   │   │   ├── 🐍 test_copy.py
+│   │   │   ├── 🐍 test_copyreg.py
+│   │   │   ├── 🐍 test_coroutines.py
+│   │   │   ├── 🐍 test_cprofile.py
+│   │   │   ├── 🐍 test_crashers.py
+│   │   │   ├── 🐍 test_crypt.py
+│   │   │   ├── 🐍 test_csv.py
+│   │   │   ├── 🐍 test_ctypes.py
+│   │   │   ├── 🐍 test_curses.py
+│   │   │   ├── 🐍 test_datetime.py
+│   │   │   ├── 🐍 test_dbm.py
+│   │   │   ├── 🐍 test_dbm_dumb.py
+│   │   │   ├── 🐍 test_dbm_gnu.py
+│   │   │   ├── 🐍 test_dbm_ndbm.py
+│   │   │   ├── 🐍 test_decimal.py
+│   │   │   ├── 🐍 test_decorators.py
+│   │   │   ├── 🐍 test_defaultdict.py
+│   │   │   ├── 🐍 test_deque.py
+│   │   │   ├── 🐍 test_descr.py
+│   │   │   ├── 🐍 test_descrtut.py
+│   │   │   ├── 🐍 test_devpoll.py
+│   │   │   ├── 🐍 test_dict.py
+│   │   │   ├── 🐍 test_dict_version.py
+│   │   │   ├── 🐍 test_dictcomps.py
+│   │   │   ├── 🐍 test_dictviews.py
+│   │   │   ├── 🐍 test_difflib.py
+│   │   │   ├── 📄 test_difflib_expect.html
+│   │   │   ├── 🐍 test_dis.py
+│   │   │   ├── 🐍 test_distutils.py
+│   │   │   ├── 🐍 test_docxmlrpc.py
+│   │   │   ├── 🐍 test_dtrace.py
+│   │   │   ├── 🐍 test_dynamic.py
+│   │   │   ├── 🐍 test_dynamicclassattribute.py
+│   │   │   ├── 🐍 test_eintr.py
+│   │   │   ├── 🐍 test_embed.py
+│   │   │   ├── 🐍 test_ensurepip.py
+│   │   │   ├── 🐍 test_enum.py
+│   │   │   ├── 🐍 test_enumerate.py
+│   │   │   ├── 🐍 test_eof.py
+│   │   │   ├── 🐍 test_epoll.py
+│   │   │   ├── 🐍 test_errno.py
+│   │   │   ├── 🐍 test_except_star.py
+│   │   │   ├── 🐍 test_exception_group.py
+│   │   │   ├── 🐍 test_exception_hierarchy.py
+│   │   │   ├── 🐍 test_exception_variations.py
+│   │   │   ├── 🐍 test_exceptions.py
+│   │   │   ├── 🐍 test_extcall.py
+│   │   │   ├── 🐍 test_faulthandler.py
+│   │   │   ├── 🐍 test_fcntl.py
+│   │   │   ├── 🐍 test_file.py
+│   │   │   ├── 🐍 test_file_eintr.py
+│   │   │   ├── 🐍 test_filecmp.py
+│   │   │   ├── 🐍 test_fileinput.py
+│   │   │   ├── 🐍 test_fileio.py
+│   │   │   ├── 🐍 test_fileutils.py
+│   │   │   ├── 🐍 test_finalization.py
+│   │   │   ├── 🐍 test_float.py
+│   │   │   ├── 🐍 test_flufl.py
+│   │   │   ├── 🐍 test_fnmatch.py
+│   │   │   ├── 🐍 test_fork1.py
+│   │   │   ├── 🐍 test_format.py
+│   │   │   ├── 🐍 test_fractions.py
+│   │   │   ├── 🐍 test_frame.py
+│   │   │   ├── 🐍 test_frozen.py
+│   │   │   ├── 🐍 test_fstring.py
+│   │   │   ├── 🐍 test_ftplib.py
+│   │   │   ├── 🐍 test_funcattrs.py
+│   │   │   ├── 🐍 test_functools.py
+│   │   │   ├── 🐍 test_gc.py
+│   │   │   ├── 🐍 test_generator_stop.py
+│   │   │   ├── 🐍 test_generators.py
+│   │   │   ├── 🐍 test_genericalias.py
+│   │   │   ├── 🐍 test_genericclass.py
+│   │   │   ├── 🐍 test_genericpath.py
+│   │   │   ├── 🐍 test_genexps.py
+│   │   │   ├── 🐍 test_getopt.py
+│   │   │   ├── 🐍 test_getpass.py
+│   │   │   ├── 🐍 test_getpath.py
+│   │   │   ├── 🐍 test_gettext.py
+│   │   │   ├── 🐍 test_glob.py
+│   │   │   ├── 🐍 test_global.py
+│   │   │   ├── 🐍 test_grammar.py
+│   │   │   ├── 🐍 test_graphlib.py
+│   │   │   ├── 🐍 test_grp.py
+│   │   │   ├── 🐍 test_gzip.py
+│   │   │   ├── 🐍 test_hash.py
+│   │   │   ├── 🐍 test_hashlib.py
+│   │   │   ├── 🐍 test_heapq.py
+│   │   │   ├── 🐍 test_hmac.py
+│   │   │   ├── 🐍 test_html.py
+│   │   │   ├── 🐍 test_htmlparser.py
+│   │   │   ├── 🐍 test_http_cookiejar.py
+│   │   │   ├── 🐍 test_http_cookies.py
+│   │   │   ├── 🐍 test_httplib.py
+│   │   │   ├── 🐍 test_httpservers.py
+│   │   │   ├── 🐍 test_idle.py
+│   │   │   ├── 🐍 test_imaplib.py
+│   │   │   ├── 🐍 test_imghdr.py
+│   │   │   ├── 🐍 test_imp.py
+│   │   │   ├── 🐍 test_index.py
+│   │   │   ├── 🐍 test_int.py
+│   │   │   ├── 🐍 test_int_literal.py
+│   │   │   ├── 🐍 test_interpreters.py
+│   │   │   ├── 🐍 test_io.py
+│   │   │   ├── 🐍 test_ioctl.py
+│   │   │   ├── 🐍 test_ipaddress.py
+│   │   │   ├── 🐍 test_isinstance.py
+│   │   │   ├── 🐍 test_iter.py
+│   │   │   ├── 🐍 test_iterlen.py
+│   │   │   ├── 🐍 test_itertools.py
+│   │   │   ├── 🐍 test_keyword.py
+│   │   │   ├── 🐍 test_keywordonlyarg.py
+│   │   │   ├── 🐍 test_kqueue.py
+│   │   │   ├── 🐍 test_largefile.py
+│   │   │   ├── 🐍 test_launcher.py
+│   │   │   ├── 🐍 test_lib2to3.py
+│   │   │   ├── 🐍 test_linecache.py
+│   │   │   ├── 🐍 test_list.py
+│   │   │   ├── 🐍 test_listcomps.py
+│   │   │   ├── 🐍 test_lltrace.py
+│   │   │   ├── 🐍 test_locale.py
+│   │   │   ├── 🐍 test_logging.py
+│   │   │   ├── 🐍 test_long.py
+│   │   │   ├── 🐍 test_longexp.py
+│   │   │   ├── 🐍 test_lzma.py
+│   │   │   ├── 🐍 test_mailbox.py
+│   │   │   ├── 🐍 test_mailcap.py
+│   │   │   ├── 🐍 test_marshal.py
+│   │   │   ├── 🐍 test_math.py
+│   │   │   ├── 🐍 test_memoryio.py
+│   │   │   ├── 🐍 test_memoryview.py
+│   │   │   ├── 🐍 test_metaclass.py
+│   │   │   ├── 🐍 test_mimetypes.py
+│   │   │   ├── 🐍 test_minidom.py
+│   │   │   ├── 🐍 test_mmap.py
+│   │   │   ├── 🐍 test_modulefinder.py
+│   │   │   ├── 🐍 test_msilib.py
+│   │   │   ├── 🐍 test_multibytecodec.py
+│   │   │   ├── 🐍 test_multiprocessing_main_handling.py
+│   │   │   ├── 🐍 test_named_expressions.py
+│   │   │   ├── 🐍 test_netrc.py
+│   │   │   ├── 🐍 test_nis.py
+│   │   │   ├── 🐍 test_nntplib.py
+│   │   │   ├── 🐍 test_ntpath.py
+│   │   │   ├── 🐍 test_numeric_tower.py
+│   │   │   ├── 🐍 test_opcache.py
+│   │   │   ├── 🐍 test_opcodes.py
+│   │   │   ├── 🐍 test_openpty.py
+│   │   │   ├── 🐍 test_operator.py
+│   │   │   ├── 🐍 test_optparse.py
+│   │   │   ├── 🐍 test_ordered_dict.py
+│   │   │   ├── 🐍 test_os.py
+│   │   │   ├── 🐍 test_ossaudiodev.py
+│   │   │   ├── 🐍 test_osx_env.py
+│   │   │   ├── 🐍 test_pathlib.py
+│   │   │   ├── 🐍 test_patma.py
+│   │   │   ├── 🐍 test_pdb.py
+│   │   │   ├── 🐍 test_peepholer.py
+│   │   │   ├── 🐍 test_pep646_syntax.py
+│   │   │   ├── 🐍 test_pickle.py
+│   │   │   ├── 🐍 test_picklebuffer.py
+│   │   │   ├── 🐍 test_pickletools.py
+│   │   │   ├── 🐍 test_pipes.py
+│   │   │   ├── 🐍 test_pkg.py
+│   │   │   ├── 🐍 test_pkgutil.py
+│   │   │   ├── 🐍 test_platform.py
+│   │   │   ├── 🐍 test_plistlib.py
+│   │   │   ├── 🐍 test_poll.py
+│   │   │   ├── 🐍 test_popen.py
+│   │   │   ├── 🐍 test_poplib.py
+│   │   │   ├── 🐍 test_positional_only_arg.py
+│   │   │   ├── 🐍 test_posix.py
+│   │   │   ├── 🐍 test_posixpath.py
+│   │   │   ├── 🐍 test_pow.py
+│   │   │   ├── 🐍 test_pprint.py
+│   │   │   ├── 🐍 test_print.py
+│   │   │   ├── 🐍 test_profile.py
+│   │   │   ├── 🐍 test_property.py
+│   │   │   ├── 🐍 test_pstats.py
+│   │   │   ├── 🐍 test_pty.py
+│   │   │   ├── 🐍 test_pulldom.py
+│   │   │   ├── 🐍 test_pwd.py
+│   │   │   ├── 🐍 test_py_compile.py
+│   │   │   ├── 🐍 test_pyclbr.py
+│   │   │   ├── 🐍 test_pyexpat.py
+│   │   │   ├── 🐍 test_queue.py
+│   │   │   ├── 🐍 test_quopri.py
+│   │   │   ├── 🐍 test_raise.py
+│   │   │   ├── 🐍 test_random.py
+│   │   │   ├── 🐍 test_range.py
+│   │   │   ├── 🐍 test_re.py
+│   │   │   ├── 🐍 test_readline.py
+│   │   │   ├── 🐍 test_regrtest.py
+│   │   │   ├── 🐍 test_repl.py
+│   │   │   ├── 🐍 test_reprlib.py
+│   │   │   ├── 🐍 test_resource.py
+│   │   │   ├── 🐍 test_richcmp.py
+│   │   │   ├── 🐍 test_rlcompleter.py
+│   │   │   ├── 🐍 test_robotparser.py
+│   │   │   ├── 🐍 test_runpy.py
+│   │   │   ├── 🐍 test_sax.py
+│   │   │   ├── 🐍 test_sched.py
+│   │   │   ├── 🐍 test_scope.py
+│   │   │   ├── 🐍 test_script_helper.py
+│   │   │   ├── 🐍 test_secrets.py
+│   │   │   ├── 🐍 test_select.py
+│   │   │   ├── 🐍 test_selectors.py
+│   │   │   ├── 🐍 test_set.py
+│   │   │   ├── 🐍 test_setcomps.py
+│   │   │   ├── 🐍 test_shelve.py
+│   │   │   ├── 🐍 test_shlex.py
+│   │   │   ├── 🐍 test_shutil.py
+│   │   │   ├── 🐍 test_signal.py
+│   │   │   ├── 🐍 test_site.py
+│   │   │   ├── 🐍 test_slice.py
+│   │   │   ├── 🐍 test_smtpd.py
+│   │   │   ├── 🐍 test_smtplib.py
+│   │   │   ├── 🐍 test_smtpnet.py
+│   │   │   ├── 🐍 test_sndhdr.py
+│   │   │   ├── 🐍 test_socket.py
+│   │   │   ├── 🐍 test_socketserver.py
+│   │   │   ├── 🐍 test_sort.py
+│   │   │   ├── 🐍 test_source_encoding.py
+│   │   │   ├── 🐍 test_spwd.py
+│   │   │   ├── 🐍 test_ssl.py
+│   │   │   ├── 🐍 test_stable_abi_ctypes.py
+│   │   │   ├── 🐍 test_startfile.py
+│   │   │   ├── 🐍 test_stat.py
+│   │   │   ├── 🐍 test_statistics.py
+│   │   │   ├── 🐍 test_strftime.py
+│   │   │   ├── 🐍 test_string.py
+│   │   │   ├── 🐍 test_string_literals.py
+│   │   │   ├── 🐍 test_stringprep.py
+│   │   │   ├── 🐍 test_strptime.py
+│   │   │   ├── 🐍 test_strtod.py
+│   │   │   ├── 🐍 test_struct.py
+│   │   │   ├── 🐍 test_structseq.py
+│   │   │   ├── 🐍 test_subclassinit.py
+│   │   │   ├── 🐍 test_subprocess.py
+│   │   │   ├── 🐍 test_sunau.py
+│   │   │   ├── 🐍 test_sundry.py
+│   │   │   ├── 🐍 test_super.py
+│   │   │   ├── 🐍 test_support.py
+│   │   │   ├── 🐍 test_symtable.py
+│   │   │   ├── 🐍 test_syntax.py
+│   │   │   ├── 🐍 test_sys.py
+│   │   │   ├── 🐍 test_sys_setprofile.py
+│   │   │   ├── 🐍 test_sys_settrace.py
+│   │   │   ├── 🐍 test_sysconfig.py
+│   │   │   ├── 🐍 test_syslog.py
+│   │   │   ├── 🐍 test_tabnanny.py
+│   │   │   ├── 🐍 test_tarfile.py
+│   │   │   ├── 🐍 test_tcl.py
+│   │   │   ├── 🐍 test_telnetlib.py
+│   │   │   ├── 🐍 test_tempfile.py
+│   │   │   ├── 🐍 test_termios.py
+│   │   │   ├── 🐍 test_textwrap.py
+│   │   │   ├── 🐍 test_thread.py
+│   │   │   ├── 🐍 test_threadedtempfile.py
+│   │   │   ├── 🐍 test_threading.py
+│   │   │   ├── 🐍 test_threading_local.py
+│   │   │   ├── 🐍 test_threadsignals.py
+│   │   │   ├── 🐍 test_time.py
+│   │   │   ├── 🐍 test_timeit.py
+│   │   │   ├── 🐍 test_timeout.py
+│   │   │   ├── 🐍 test_tix.py
+│   │   │   ├── 🐍 test_tk.py
+│   │   │   ├── 🐍 test_tokenize.py
+│   │   │   ├── 🐍 test_trace.py
+│   │   │   ├── 🐍 test_traceback.py
+│   │   │   ├── 🐍 test_tracemalloc.py
+│   │   │   ├── 🐍 test_ttk_guionly.py
+│   │   │   ├── 🐍 test_ttk_textonly.py
+│   │   │   ├── 🐍 test_tty.py
+│   │   │   ├── 🐍 test_tuple.py
+│   │   │   ├── 🐍 test_turtle.py
+│   │   │   ├── 🐍 test_type_annotations.py
+│   │   │   ├── 🐍 test_type_cache.py
+│   │   │   ├── 🐍 test_type_comments.py
+│   │   │   ├── 🐍 test_typechecks.py
+│   │   │   ├── 🐍 test_types.py
+│   │   │   ├── 🐍 test_typing.py
+│   │   │   ├── 🐍 test_ucn.py
+│   │   │   ├── 🐍 test_unary.py
+│   │   │   ├── 🐍 test_unicode.py
+│   │   │   ├── 🐍 test_unicode_file.py
+│   │   │   ├── 🐍 test_unicode_file_functions.py
+│   │   │   ├── 🐍 test_unicode_identifiers.py
+│   │   │   ├── 🐍 test_unicodedata.py
+│   │   │   ├── 🐍 test_unittest.py
+│   │   │   ├── 🐍 test_univnewlines.py
+│   │   │   ├── 🐍 test_unpack.py
+│   │   │   ├── 🐍 test_unpack_ex.py
+│   │   │   ├── 🐍 test_unparse.py
+│   │   │   ├── 🐍 test_urllib.py
+│   │   │   ├── 🐍 test_urllib2.py
+│   │   │   ├── 🐍 test_urllib2_localnet.py
+│   │   │   ├── 🐍 test_urllib2net.py
+│   │   │   ├── 🐍 test_urllib_response.py
+│   │   │   ├── 🐍 test_urllibnet.py
+│   │   │   ├── 🐍 test_urlparse.py
+│   │   │   ├── 🐍 test_userdict.py
+│   │   │   ├── 🐍 test_userlist.py
+│   │   │   ├── 🐍 test_userstring.py
+│   │   │   ├── 🐍 test_utf8_mode.py
+│   │   │   ├── 🐍 test_utf8source.py
+│   │   │   ├── 🐍 test_uu.py
+│   │   │   ├── 🐍 test_uuid.py
+│   │   │   ├── 🐍 test_venv.py
+│   │   │   ├── 🐍 test_wait3.py
+│   │   │   ├── 🐍 test_wait4.py
+│   │   │   ├── 🐍 test_wave.py
+│   │   │   ├── 🐍 test_weakref.py
+│   │   │   ├── 🐍 test_weakset.py
+│   │   │   ├── 🐍 test_webbrowser.py
+│   │   │   ├── 🐍 test_winconsoleio.py
+│   │   │   ├── 🐍 test_winreg.py
+│   │   │   ├── 🐍 test_winsound.py
+│   │   │   ├── 🐍 test_with.py
+│   │   │   ├── 🐍 test_wsgiref.py
+│   │   │   ├── 🐍 test_xdrlib.py
+│   │   │   ├── 🐍 test_xml_dom_minicompat.py
+│   │   │   ├── 🐍 test_xml_etree.py
+│   │   │   ├── 🐍 test_xml_etree_c.py
+│   │   │   ├── 🐍 test_xmlrpc.py
+│   │   │   ├── 🐍 test_xmlrpc_net.py
+│   │   │   ├── 🐍 test_xxlimited.py
+│   │   │   ├── 🐍 test_xxtestfuzz.py
+│   │   │   ├── 🐍 test_yield_from.py
+│   │   │   ├── 🐍 test_zipapp.py
+│   │   │   ├── 🐍 test_zipfile.py
+│   │   │   ├── 🐍 test_zipfile64.py
+│   │   │   ├── 🐍 test_zipimport.py
+│   │   │   ├── 🐍 test_zipimport_support.py
+│   │   │   ├── 🐍 test_zlib.py
+│   │   │   ├── 🐍 testcodec.py
+│   │   │   ├── 🐍 tf_inherit_check.py
+│   │   │   ├── 🐍 time_hashlib.py
+│   │   │   ├── 🐍 win_console_handler.py
+│   │   │   ├── 🐍 xmltests.py
+│   │   │   └── 📄 [16 autre(s) fichier(s)]
+│   │   ├── 📁 tkinter
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 colorchooser.py
+│   │   │   ├── 🐍 commondialog.py
+│   │   │   ├── 🐍 constants.py
+│   │   │   ├── 🐍 dialog.py
+│   │   │   ├── 🐍 dnd.py
+│   │   │   ├── 🐍 filedialog.py
+│   │   │   ├── 🐍 font.py
+│   │   │   ├── 🐍 messagebox.py
+│   │   │   ├── 🐍 scrolledtext.py
+│   │   │   ├── 🐍 simpledialog.py
+│   │   │   ├── 🐍 tix.py
+│   │   │   └── 🐍 ttk.py
+│   │   ├── 📁 tomllib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _parser.py
+│   │   │   ├── 🐍 _re.py
+│   │   │   └── 🐍 _types.py
+│   │   ├── 📁 turtledemo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 bytedesign.py
+│   │   │   ├── 🐍 chaos.py
+│   │   │   ├── 🐍 clock.py
+│   │   │   ├── 🐍 colormixer.py
+│   │   │   ├── 🐍 forest.py
+│   │   │   ├── 🐍 fractalcurves.py
+│   │   │   ├── 🐍 lindenmayer.py
+│   │   │   ├── 🐍 minimal_hanoi.py
+│   │   │   ├── 🐍 nim.py
+│   │   │   ├── 🐍 paint.py
+│   │   │   ├── 🐍 peace.py
+│   │   │   ├── 🐍 penrose.py
+│   │   │   ├── 🐍 planet_and_moon.py
+│   │   │   ├── 🐍 rosette.py
+│   │   │   ├── 🐍 round_dance.py
+│   │   │   ├── 🐍 sorting_animate.py
+│   │   │   ├── 🐍 tree.py
+│   │   │   ├── 🐍 two_canvases.py
+│   │   │   ├── 🐍 yinyang.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 unittest
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 __main__.py
+│   │   │   ├── 🐍 _log.py
+│   │   │   ├── 🐍 async_case.py
+│   │   │   ├── 🐍 case.py
+│   │   │   ├── 🐍 loader.py
+│   │   │   ├── 🐍 main.py
+│   │   │   ├── 🐍 mock.py
+│   │   │   ├── 🐍 result.py
+│   │   │   ├── 🐍 runner.py
+│   │   │   ├── 🐍 signals.py
+│   │   │   ├── 🐍 suite.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 urllib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 error.py
+│   │   │   ├── 🐍 parse.py
+│   │   │   ├── 🐍 request.py
+│   │   │   ├── 🐍 response.py
+│   │   │   └── 🐍 robotparser.py
+│   │   ├── 📁 venv
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 scripts
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 🐍 __main__.py
+│   │   ├── 📁 wsgiref
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 handlers.py
+│   │   │   ├── 🐍 headers.py
+│   │   │   ├── 🐍 simple_server.py
+│   │   │   ├── 🐍 types.py
+│   │   │   ├── 🐍 util.py
+│   │   │   └── 🐍 validate.py
+│   │   ├── 📁 xml
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dom
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 etree
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 parsers
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 sax
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 🐍 __init__.py
+│   │   ├── 📁 xmlrpc
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 client.py
+│   │   │   └── 🐍 server.py
+│   │   ├── 📁 zoneinfo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 _common.py
+│   │   │   ├── 🐍 _tzpath.py
+│   │   │   └── 🐍 _zoneinfo.py
+│   │   ├── 🐍 __future__.py
+│   │   ├── 🐍 __hello__.py
+│   │   ├── 🐍 _aix_support.py
+│   │   ├── 🐍 _bootsubprocess.py
+│   │   ├── 🐍 _collections_abc.py
+│   │   ├── 🐍 _compat_pickle.py
+│   │   ├── 🐍 _compression.py
+│   │   ├── 🐍 _markupbase.py
+│   │   ├── 🐍 _osx_support.py
+│   │   ├── 🐍 _py_abc.py
+│   │   ├── 🐍 _pydecimal.py
+│   │   ├── 🐍 _pyio.py
+│   │   ├── 🐍 _sitebuiltins.py
+│   │   ├── 🐍 _strptime.py
+│   │   ├── 🐍 _threading_local.py
+│   │   ├── 🐍 _weakrefset.py
+│   │   ├── 🐍 abc.py
+│   │   ├── 🐍 aifc.py
+│   │   ├── 🐍 antigravity.py
+│   │   ├── 🐍 argparse.py
+│   │   ├── 🐍 ast.py
+│   │   ├── 🐍 asynchat.py
+│   │   ├── 🐍 asyncore.py
+│   │   ├── 🐍 base64.py
+│   │   ├── 🐍 bdb.py
+│   │   ├── 🐍 bisect.py
+│   │   ├── 🐍 bz2.py
+│   │   ├── 🐍 cProfile.py
+│   │   ├── 🐍 calendar.py
+│   │   ├── 🐍 cgi.py
+│   │   ├── 🐍 cgitb.py
+│   │   ├── 🐍 chunk.py
+│   │   ├── 🐍 cmd.py
+│   │   ├── 🐍 code.py
+│   │   ├── 🐍 codecs.py
+│   │   ├── 🐍 codeop.py
+│   │   ├── 🐍 colorsys.py
+│   │   ├── 🐍 compileall.py
+│   │   ├── 🐍 configparser.py
+│   │   ├── 🐍 contextlib.py
+│   │   ├── 🐍 contextvars.py
+│   │   ├── 🐍 copy.py
+│   │   ├── 🐍 copyreg.py
+│   │   ├── 🐍 crypt.py
+│   │   ├── 🐍 csv.py
+│   │   ├── 🐍 dataclasses.py
+│   │   ├── 🐍 datetime.py
+│   │   ├── 🐍 decimal.py
+│   │   ├── 🐍 difflib.py
+│   │   ├── 🐍 dis.py
+│   │   ├── 🐍 doctest.py
+│   │   ├── 🐍 enum.py
+│   │   ├── 🐍 filecmp.py
+│   │   ├── 🐍 fileinput.py
+│   │   ├── 🐍 fnmatch.py
+│   │   ├── 🐍 fractions.py
+│   │   ├── 🐍 ftplib.py
+│   │   ├── 🐍 functools.py
+│   │   ├── 🐍 genericpath.py
+│   │   ├── 🐍 getopt.py
+│   │   ├── 🐍 getpass.py
+│   │   ├── 🐍 gettext.py
+│   │   ├── 🐍 glob.py
+│   │   ├── 🐍 graphlib.py
+│   │   ├── 🐍 gzip.py
+│   │   ├── 🐍 hashlib.py
+│   │   ├── 🐍 heapq.py
+│   │   ├── 🐍 hmac.py
+│   │   ├── 🐍 imaplib.py
+│   │   ├── 🐍 imghdr.py
+│   │   ├── 🐍 imp.py
+│   │   ├── 🐍 inspect.py
+│   │   ├── 🐍 io.py
+│   │   ├── 🐍 ipaddress.py
+│   │   ├── 🐍 keyword.py
+│   │   ├── 🐍 linecache.py
+│   │   ├── 🐍 locale.py
+│   │   ├── 🐍 lzma.py
+│   │   ├── 🐍 mailbox.py
+│   │   ├── 🐍 mailcap.py
+│   │   ├── 🐍 mimetypes.py
+│   │   ├── 🐍 modulefinder.py
+│   │   ├── 🐍 netrc.py
+│   │   ├── 🐍 nntplib.py
+│   │   ├── 🐍 ntpath.py
+│   │   ├── 🐍 nturl2path.py
+│   │   ├── 🐍 numbers.py
+│   │   ├── 🐍 opcode.py
+│   │   ├── 🐍 operator.py
+│   │   ├── 🐍 optparse.py
+│   │   ├── 🐍 os.py
+│   │   ├── 🐍 pathlib.py
+│   │   ├── 🐍 pdb.py
+│   │   ├── 🐍 pickle.py
+│   │   ├── 🐍 pickletools.py
+│   │   ├── 🐍 pipes.py
+│   │   ├── 🐍 pkgutil.py
+│   │   ├── 🐍 platform.py
+│   │   ├── 🐍 plistlib.py
+│   │   ├── 🐍 poplib.py
+│   │   ├── 🐍 posixpath.py
+│   │   ├── 🐍 pprint.py
+│   │   ├── 🐍 profile.py
+│   │   ├── 🐍 pstats.py
+│   │   ├── 🐍 pty.py
+│   │   ├── 🐍 py_compile.py
+│   │   ├── 🐍 pyclbr.py
+│   │   ├── 🐍 pydoc.py
+│   │   ├── 🐍 queue.py
+│   │   ├── 🐍 quopri.py
+│   │   ├── 🐍 random.py
+│   │   ├── 🐍 reprlib.py
+│   │   ├── 🐍 rlcompleter.py
+│   │   ├── 🐍 runpy.py
+│   │   ├── 🐍 sched.py
+│   │   ├── 🐍 secrets.py
+│   │   ├── 🐍 selectors.py
+│   │   ├── 🐍 shelve.py
+│   │   ├── 🐍 shlex.py
+│   │   ├── 🐍 shutil.py
+│   │   ├── 🐍 signal.py
+│   │   ├── 🐍 site.py
+│   │   ├── 🐍 smtpd.py
+│   │   ├── 🐍 smtplib.py
+│   │   ├── 🐍 sndhdr.py
+│   │   ├── 🐍 socket.py
+│   │   ├── 🐍 socketserver.py
+│   │   ├── 🐍 sre_compile.py
+│   │   ├── 🐍 sre_constants.py
+│   │   ├── 🐍 sre_parse.py
+│   │   ├── 🐍 ssl.py
+│   │   ├── 🐍 stat.py
+│   │   ├── 🐍 statistics.py
+│   │   ├── 🐍 string.py
+│   │   ├── 🐍 stringprep.py
+│   │   ├── 🐍 struct.py
+│   │   ├── 🐍 subprocess.py
+│   │   ├── 🐍 sunau.py
+│   │   ├── 🐍 symtable.py
+│   │   ├── 🐍 sysconfig.py
+│   │   ├── 🐍 tabnanny.py
+│   │   ├── 🐍 tarfile.py
+│   │   ├── 🐍 telnetlib.py
+│   │   ├── 🐍 tempfile.py
+│   │   ├── 🐍 textwrap.py
+│   │   ├── 🐍 this.py
+│   │   ├── 🐍 threading.py
+│   │   ├── 🐍 timeit.py
+│   │   ├── 🐍 token.py
+│   │   ├── 🐍 tokenize.py
+│   │   ├── 🐍 trace.py
+│   │   ├── 🐍 traceback.py
+│   │   ├── 🐍 tracemalloc.py
+│   │   ├── 🐍 tty.py
+│   │   ├── 🐍 turtle.py
+│   │   ├── 🐍 types.py
+│   │   ├── 🐍 typing.py
+│   │   ├── 🐍 uu.py
+│   │   ├── 🐍 uuid.py
+│   │   ├── 🐍 warnings.py
+│   │   ├── 🐍 wave.py
+│   │   ├── 🐍 weakref.py
+│   │   ├── 🐍 webbrowser.py
+│   │   ├── 🐍 xdrlib.py
+│   │   ├── 🐍 zipapp.py
+│   │   ├── 🐍 zipfile.py
+│   │   └── 🐍 zipimport.py
+│   ├── 📁 Scripts
+│   ├── 📁 Tools
+│   │   ├── 📁 demo
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 beer.py
+│   │   │   ├── 🐍 eiffel.py
+│   │   │   ├── 🐍 hanoi.py
+│   │   │   ├── 🐍 life.py
+│   │   │   ├── 🐍 markov.py
+│   │   │   ├── 🐍 mcast.py
+│   │   │   ├── 🐍 queens.py
+│   │   │   ├── 🐍 redemo.py
+│   │   │   ├── 🐍 rpython.py
+│   │   │   ├── 🐍 rpythond.py
+│   │   │   ├── 🐍 sortvisu.py
+│   │   │   ├── 🐍 spreadsheet.py
+│   │   │   └── 🐍 vector.py
+│   │   ├── 📁 i18n
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 makelocalealias.py
+│   │   │   ├── 🐍 msgfmt.py
+│   │   │   └── 🐍 pygettext.py
+│   │   └── 📁 scripts
+│   │       ├── 📁 __pycache__
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 🐍 2to3.py
+│   │       ├── 🐍 abitype.py
+│   │       ├── 🐍 analyze_dxp.py
+│   │       ├── 🐍 byext.py
+│   │       ├── 🐍 byteyears.py
+│   │       ├── 🐍 checkpip.py
+│   │       ├── 🐍 cleanfuture.py
+│   │       ├── 🐍 combinerefs.py
+│   │       ├── 🐍 copytime.py
+│   │       ├── 🐍 crlf.py
+│   │       ├── 🐍 db2pickle.py
+│   │       ├── 🐍 deepfreeze.py
+│   │       ├── 🐍 diff.py
+│   │       ├── 🐍 dutree.py
+│   │       ├── 🐍 eptags.py
+│   │       ├── 🐍 find-uname.py
+│   │       ├── 🐍 find_recursionlimit.py
+│   │       ├── 🐍 finddiv.py
+│   │       ├── 🐍 findlinksto.py
+│   │       ├── 🐍 findnocoding.py
+│   │       ├── 🐍 fixcid.py
+│   │       ├── 🐍 fixdiv.py
+│   │       ├── 🐍 fixheader.py
+│   │       ├── 🐍 fixnotice.py
+│   │       ├── 🐍 fixps.py
+│   │       ├── 🐍 freeze_modules.py
+│   │       ├── 🐍 generate_global_objects.py
+│   │       ├── 🐍 generate_opcode_h.py
+│   │       ├── 🐍 generate_re_casefix.py
+│   │       ├── 🐍 generate_sre_constants.py
+│   │       ├── 🐍 generate_stdlib_module_names.py
+│   │       ├── 🐍 generate_token.py
+│   │       ├── 🐍 get-remote-certificate.py
+│   │       ├── 🐍 google.py
+│   │       ├── 🐍 gprof2html.py
+│   │       ├── 🐍 highlight.py
+│   │       ├── 🐍 ifdef.py
+│   │       ├── 🐍 import_diagnostics.py
+│   │       ├── 🐍 lfcr.py
+│   │       ├── 🐍 linktree.py
+│   │       ├── 🐍 lll.py
+│   │       ├── 🐍 mailerdaemon.py
+│   │       ├── 🐍 make_ctype.py
+│   │       ├── 🐍 md5sum.py
+│   │       ├── 🐍 mkreal.py
+│   │       ├── 🐍 ndiff.py
+│   │       ├── 🐍 nm2def.py
+│   │       ├── 🐍 objgraph.py
+│   │       ├── 🐍 parse_html5_entities.py
+│   │       ├── 🐍 parseentities.py
+│   │       ├── 🐍 patchcheck.py
+│   │       ├── 🐍 pathfix.py
+│   │       ├── 🐍 pdeps.py
+│   │       ├── 🐍 pep384_macrocheck.py
+│   │       ├── 🐍 pickle2db.py
+│   │       ├── 🐍 pindent.py
+│   │       ├── 🐍 ptags.py
+│   │       ├── 🐍 pydoc3.py
+│   │       ├── 🐍 pysource.py
+│   │       ├── 🐍 reindent-rst.py
+│   │       ├── 🐍 reindent.py
+│   │       ├── 🐍 rgrep.py
+│   │       ├── 🐍 run_tests.py
+│   │       ├── 🐍 smelly.py
+│   │       ├── 🐍 sortperf.py
+│   │       ├── 🐍 stable_abi.py
+│   │       ├── 🐍 startuptime.py
+│   │       ├── 🐍 suff.py
+│   │       ├── 🐍 summarize_stats.py
+│   │       ├── 🐍 texi2html.py
+│   │       ├── 🐍 umarshal.py
+│   │       ├── 🐍 untabify.py
+│   │       ├── 🐍 update_file.py
+│   │       ├── 🐍 var_access_benchmark.py
+│   │       ├── 🐍 verify_ensurepip_wheels.py
+│   │       ├── 🐍 which.py
+│   │       └── 🐍 win_add2path.py
+│   ├── 📁 include
+│   │   ├── 📁 cpython
+│   │   │   └── 📄 [48 autre(s) fichier(s)]
+│   │   ├── 📁 internal
+│   │   │   └── 📄 [68 autre(s) fichier(s)]
+│   │   └── 📄 [73 autre(s) fichier(s)]
+│   ├── 📁 libs
+│   │   └── 📄 [3 autre(s) fichier(s)]
+│   ├── 📁 tcl
+│   │   ├── 📁 dde1.4
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 nmake
+│   │   │   ├── 📄 x86_64-w64-mingw32-nmakehlp.exe
+│   │   │   └── 📄 [4 autre(s) fichier(s)]
+│   │   ├── 📁 reg1.3
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 tcl8
+│   │   │   ├── 📁 8.4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 8.5
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📁 8.6
+│   │   │       └── [...] (limite profondeur)
+│   │   ├── 📁 tcl8.6
+│   │   │   ├── 📁 encoding
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 http1.0
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 msgs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 opt0.4
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tzdata
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [10 autre(s) fichier(s)]
+│   │   ├── 📁 tix8.4.3
+│   │   │   ├── 📁 bitmaps
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pref
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [70 autre(s) fichier(s)]
+│   │   ├── 📁 tk8.6
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 images
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 msgs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ttk
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   └── 📄 [34 autre(s) fichier(s)]
+│   │   └── 📄 [6 autre(s) fichier(s)]
+│   ├── 📄 LICENSE.txt
+│   ├── 📄 NEWS.txt
+│   ├── 📄 python.exe
+│   ├── 📄 pythonw.exe
+│   └── 📄 [4 autre(s) fichier(s)]
+├── 📁 site-packages
+│   ├── 📁 PIL
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [95 autre(s) fichier(s)]
+│   │   ├── 🐍 BdfFontFile.py
+│   │   ├── 🐍 BlpImagePlugin.py
+│   │   ├── 🐍 BmpImagePlugin.py
+│   │   ├── 🐍 BufrStubImagePlugin.py
+│   │   ├── 🐍 ContainerIO.py
+│   │   ├── 🐍 CurImagePlugin.py
+│   │   ├── 🐍 DcxImagePlugin.py
+│   │   ├── 🐍 DdsImagePlugin.py
+│   │   ├── 🐍 EpsImagePlugin.py
+│   │   ├── 🐍 ExifTags.py
+│   │   ├── 🐍 FitsImagePlugin.py
+│   │   ├── 🐍 FliImagePlugin.py
+│   │   ├── 🐍 FontFile.py
+│   │   ├── 🐍 FpxImagePlugin.py
+│   │   ├── 🐍 FtexImagePlugin.py
+│   │   ├── 🐍 GbrImagePlugin.py
+│   │   ├── 🐍 GdImageFile.py
+│   │   ├── 🐍 GifImagePlugin.py
+│   │   ├── 🐍 GimpGradientFile.py
+│   │   ├── 🐍 GimpPaletteFile.py
+│   │   ├── 🐍 GribStubImagePlugin.py
+│   │   ├── 🐍 Hdf5StubImagePlugin.py
+│   │   ├── 🐍 IcnsImagePlugin.py
+│   │   ├── 🐍 IcoImagePlugin.py
+│   │   ├── 🐍 ImImagePlugin.py
+│   │   ├── 🐍 Image.py
+│   │   ├── 🐍 ImageChops.py
+│   │   ├── 🐍 ImageCms.py
+│   │   ├── 🐍 ImageColor.py
+│   │   ├── 🐍 ImageDraw.py
+│   │   ├── 🐍 ImageDraw2.py
+│   │   ├── 🐍 ImageEnhance.py
+│   │   ├── 🐍 ImageFile.py
+│   │   ├── 🐍 ImageFilter.py
+│   │   ├── 🐍 ImageFont.py
+│   │   ├── 🐍 ImageGrab.py
+│   │   ├── 🐍 ImageMath.py
+│   │   ├── 🐍 ImageMode.py
+│   │   ├── 🐍 ImageMorph.py
+│   │   ├── 🐍 ImageOps.py
+│   │   ├── 🐍 ImagePalette.py
+│   │   ├── 🐍 ImagePath.py
+│   │   ├── 🐍 ImageQt.py
+│   │   ├── 🐍 ImageSequence.py
+│   │   ├── 🐍 ImageShow.py
+│   │   ├── 🐍 ImageStat.py
+│   │   ├── 🐍 ImageTk.py
+│   │   ├── 🐍 ImageTransform.py
+│   │   ├── 🐍 ImageWin.py
+│   │   ├── 🐍 ImtImagePlugin.py
+│   │   ├── 🐍 IptcImagePlugin.py
+│   │   ├── 🐍 Jpeg2KImagePlugin.py
+│   │   ├── 🐍 JpegImagePlugin.py
+│   │   ├── 🐍 JpegPresets.py
+│   │   ├── 🐍 McIdasImagePlugin.py
+│   │   ├── 🐍 MicImagePlugin.py
+│   │   ├── 🐍 MpegImagePlugin.py
+│   │   ├── 🐍 MpoImagePlugin.py
+│   │   ├── 🐍 MspImagePlugin.py
+│   │   ├── 🐍 PSDraw.py
+│   │   ├── 🐍 PaletteFile.py
+│   │   ├── 🐍 PalmImagePlugin.py
+│   │   ├── 🐍 PcdImagePlugin.py
+│   │   ├── 🐍 PcfFontFile.py
+│   │   ├── 🐍 PcxImagePlugin.py
+│   │   ├── 🐍 PdfImagePlugin.py
+│   │   ├── 🐍 PdfParser.py
+│   │   ├── 🐍 PixarImagePlugin.py
+│   │   ├── 🐍 PngImagePlugin.py
+│   │   ├── 🐍 PpmImagePlugin.py
+│   │   ├── 🐍 PsdImagePlugin.py
+│   │   ├── 🐍 PyAccess.py
+│   │   ├── 🐍 QoiImagePlugin.py
+│   │   ├── 🐍 SgiImagePlugin.py
+│   │   ├── 🐍 SpiderImagePlugin.py
+│   │   ├── 🐍 SunImagePlugin.py
+│   │   ├── 🐍 TarIO.py
+│   │   ├── 🐍 TgaImagePlugin.py
+│   │   ├── 🐍 TiffImagePlugin.py
+│   │   ├── 🐍 TiffTags.py
+│   │   ├── 🐍 WalImageFile.py
+│   │   ├── 🐍 WebPImagePlugin.py
+│   │   ├── 🐍 WmfImagePlugin.py
+│   │   ├── 🐍 XVThumbImagePlugin.py
+│   │   ├── 🐍 XbmImagePlugin.py
+│   │   ├── 🐍 XpmImagePlugin.py
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 __main__.py
+│   │   ├── 🐍 _binary.py
+│   │   ├── 🐍 _deprecate.py
+│   │   ├── 🐍 _tkinter_finder.py
+│   │   ├── 🐍 _typing.py
+│   │   ├── 🐍 _util.py
+│   │   ├── 🐍 _version.py
+│   │   ├── 🐍 features.py
+│   │   └── 📄 [9 autre(s) fichier(s)]
+│   ├── 📁 __pycache__
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 adodbapi
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [9 autre(s) fichier(s)]
+│   │   ├── 📁 examples
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 db_print.py
+│   │   │   ├── 🐍 db_table_names.py
+│   │   │   ├── 🐍 xls_read.py
+│   │   │   └── 🐍 xls_write.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 adodbapitest.py
+│   │   │   ├── 🐍 adodbapitestconfig.py
+│   │   │   ├── 🐍 dbapi20.py
+│   │   │   ├── 🐍 is64bit.py
+│   │   │   ├── 🐍 setuptestframework.py
+│   │   │   ├── 🐍 test_adodbapi_dbapi20.py
+│   │   │   └── 🐍 tryconnection.py
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 ado_consts.py
+│   │   ├── 🐍 adodbapi.py
+│   │   ├── 🐍 apibase.py
+│   │   ├── 🐍 is64bit.py
+│   │   ├── 📄 license.txt
+│   │   ├── 🐍 process_connect_string.py
+│   │   ├── 📄 readme.txt
+│   │   ├── 🐍 remote.py
+│   │   ├── 🐍 schema_table.py
+│   │   └── 🐍 setup.py
+│   ├── 📁 bin
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 🐍 pywin32_postinstall.py
+│   │   └── 🐍 pywin32_testall.py
+│   ├── 📁 isapi
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [5 autre(s) fichier(s)]
+│   │   ├── 📁 doc
+│   │   │   └── 📄 isapi.html
+│   │   ├── 📁 samples
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 README.txt
+│   │   │   ├── 🐍 advanced.py
+│   │   │   ├── 🐍 redirector.py
+│   │   │   ├── 🐍 redirector_asynch.py
+│   │   │   ├── 🐍 redirector_with_filter.py
+│   │   │   └── 🐍 test.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 README.txt
+│   │   │   └── 🐍 extension_simple.py
+│   │   ├── 📄 README.txt
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 install.py
+│   │   ├── 🐍 isapicon.py
+│   │   ├── 🐍 simple.py
+│   │   ├── 🐍 threaded_extension.py
+│   │   └── 📄 [1 autre(s) fichier(s)]
+│   ├── 📁 pillow-10.2.0.dist-info
+│   │   ├── 📄 direct_url.json
+│   │   ├── 📄 top_level.txt
+│   │   └── 📄 [7 autre(s) fichier(s)]
+│   ├── 📁 pystray
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [9 autre(s) fichier(s)]
+│   │   ├── 📁 _util
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 gtk.py
+│   │   │   ├── 🐍 notify_dbus.py
+│   │   │   └── 🐍 win32.py
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 _appindicator.py
+│   │   ├── 🐍 _base.py
+│   │   ├── 🐍 _darwin.py
+│   │   ├── 🐍 _dummy.py
+│   │   ├── 🐍 _gtk.py
+│   │   ├── 🐍 _info.py
+│   │   ├── 🐍 _win32.py
+│   │   └── 🐍 _xorg.py
+│   ├── 📁 pystray-0.19.5.dist-info
+│   │   ├── 📄 direct_url.json
+│   │   ├── 📄 top_level.txt
+│   │   └── 📄 [8 autre(s) fichier(s)]
+│   ├── 📁 pythonwin
+│   │   ├── 📁 pywin
+│   │   │   ├── 📁 Demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 debugger
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dialogs
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 docking
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 framework
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 idle
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 mfc
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 scintilla
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 tools
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📄 Pythonwin.exe
+│   │   ├── 📄 license.txt
+│   │   └── 📄 [6 autre(s) fichier(s)]
+│   ├── 📁 pywin32-306.dist-info
+│   │   ├── 📄 direct_url.json
+│   │   ├── 📄 top_level.txt
+│   │   └── 📄 [5 autre(s) fichier(s)]
+│   ├── 📁 pywin32_system32
+│   │   └── 📄 [2 autre(s) fichier(s)]
+│   ├── 📁 six-1.17.0.dist-info
+│   │   ├── 📄 top_level.txt
+│   │   └── 📄 [5 autre(s) fichier(s)]
+│   ├── 📁 win32
+│   │   ├── 📁 Demos
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 c_extension
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 dde
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 images
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 pipes
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 security
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 service
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 win32wnet
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 BackupRead_BackupWrite.py
+│   │   │   ├── 🐍 BackupSeek_streamheaders.py
+│   │   │   ├── 🐍 CopyFileEx.py
+│   │   │   ├── 🐍 CreateFileTransacted_MiniVersion.py
+│   │   │   ├── 🐍 EvtFormatMessage.py
+│   │   │   ├── 🐍 EvtSubscribe_pull.py
+│   │   │   ├── 🐍 EvtSubscribe_push.py
+│   │   │   ├── 🐍 FileSecurityTest.py
+│   │   │   ├── 🐍 GetSaveFileName.py
+│   │   │   ├── 🐍 NetValidatePasswordPolicy.py
+│   │   │   ├── 🐍 OpenEncryptedFileRaw.py
+│   │   │   ├── 🐍 RegCreateKeyTransacted.py
+│   │   │   ├── 🐍 RegRestoreKey.py
+│   │   │   ├── 🐍 SystemParametersInfo.py
+│   │   │   ├── 🐍 cerapi.py
+│   │   │   ├── 🐍 desktopmanager.py
+│   │   │   ├── 🐍 eventLogDemo.py
+│   │   │   ├── 🐍 getfilever.py
+│   │   │   ├── 🐍 mmapfile_demo.py
+│   │   │   ├── 🐍 print_desktop.py
+│   │   │   ├── 🐍 rastest.py
+│   │   │   ├── 🐍 timer_demo.py
+│   │   │   ├── 🐍 win32clipboardDemo.py
+│   │   │   ├── 🐍 win32clipboard_bitmapdemo.py
+│   │   │   ├── 🐍 win32comport_demo.py
+│   │   │   ├── 🐍 win32console_demo.py
+│   │   │   ├── 🐍 win32cred_demo.py
+│   │   │   ├── 🐍 win32fileDemo.py
+│   │   │   ├── 🐍 win32gui_demo.py
+│   │   │   ├── 🐍 win32gui_devicenotify.py
+│   │   │   ├── 🐍 win32gui_dialog.py
+│   │   │   ├── 🐍 win32gui_menu.py
+│   │   │   ├── 🐍 win32gui_taskbar.py
+│   │   │   ├── 🐍 win32netdemo.py
+│   │   │   ├── 🐍 win32rcparser_demo.py
+│   │   │   ├── 🐍 win32servicedemo.py
+│   │   │   ├── 🐍 win32ts_logoff_disconnected.py
+│   │   │   └── 🐍 winprocess.py
+│   │   ├── 📁 include
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 lib
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 afxres.py
+│   │   │   ├── 🐍 commctrl.py
+│   │   │   ├── 🐍 dbi.py
+│   │   │   ├── 🐍 mmsystem.py
+│   │   │   ├── 🐍 netbios.py
+│   │   │   ├── 🐍 ntsecuritycon.py
+│   │   │   ├── 🐍 pywin32_bootstrap.py
+│   │   │   ├── 🐍 pywin32_testutil.py
+│   │   │   ├── 🐍 pywintypes.py
+│   │   │   ├── 🐍 rasutil.py
+│   │   │   ├── 🐍 regcheck.py
+│   │   │   ├── 🐍 regutil.py
+│   │   │   ├── 🐍 sspi.py
+│   │   │   ├── 🐍 sspicon.py
+│   │   │   ├── 🐍 win2kras.py
+│   │   │   ├── 🐍 win32con.py
+│   │   │   ├── 🐍 win32cryptcon.py
+│   │   │   ├── 🐍 win32evtlogutil.py
+│   │   │   ├── 🐍 win32gui_struct.py
+│   │   │   ├── 🐍 win32inetcon.py
+│   │   │   ├── 🐍 win32netcon.py
+│   │   │   ├── 🐍 win32pdhquery.py
+│   │   │   ├── 🐍 win32pdhutil.py
+│   │   │   ├── 🐍 win32rcparser.py
+│   │   │   ├── 🐍 win32serviceutil.py
+│   │   │   ├── 🐍 win32timezone.py
+│   │   │   ├── 🐍 win32traceutil.py
+│   │   │   ├── 🐍 win32verstamp.py
+│   │   │   ├── 🐍 winerror.py
+│   │   │   ├── 🐍 winioctlcon.py
+│   │   │   ├── 🐍 winnt.py
+│   │   │   ├── 🐍 winperf.py
+│   │   │   └── 🐍 winxptheme.py
+│   │   ├── 📁 libs
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 scripts
+│   │   │   ├── 📁 VersionStamp
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 ce
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 ControlService.py
+│   │   │   ├── 🐍 backupEventLog.py
+│   │   │   ├── 🐍 killProcName.py
+│   │   │   ├── 🐍 rasutil.py
+│   │   │   ├── 🐍 regsetup.py
+│   │   │   └── 🐍 setup_d.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 win32rcparser
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 handles.py
+│   │   │   ├── 🐍 test_clipboard.py
+│   │   │   ├── 🐍 test_exceptions.py
+│   │   │   ├── 🐍 test_odbc.py
+│   │   │   ├── 🐍 test_pywintypes.py
+│   │   │   ├── 🐍 test_security.py
+│   │   │   ├── 🐍 test_sspi.py
+│   │   │   ├── 🐍 test_win32api.py
+│   │   │   ├── 🐍 test_win32crypt.py
+│   │   │   ├── 🐍 test_win32event.py
+│   │   │   ├── 🐍 test_win32file.py
+│   │   │   ├── 🐍 test_win32gui.py
+│   │   │   ├── 🐍 test_win32guistruct.py
+│   │   │   ├── 🐍 test_win32inet.py
+│   │   │   ├── 🐍 test_win32net.py
+│   │   │   ├── 🐍 test_win32pipe.py
+│   │   │   ├── 🐍 test_win32print.py
+│   │   │   ├── 🐍 test_win32profile.py
+│   │   │   ├── 🐍 test_win32rcparser.py
+│   │   │   ├── 🐍 test_win32timezone.py
+│   │   │   ├── 🐍 test_win32trace.py
+│   │   │   ├── 🐍 test_win32wnet.py
+│   │   │   └── 🐍 testall.py
+│   │   ├── 📄 license.txt
+│   │   ├── 📄 pythonservice.exe
+│   │   └── 📄 [35 autre(s) fichier(s)]
+│   ├── 📁 win32com
+│   │   ├── 📁 HTML
+│   │   │   ├── 📁 image
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📄 GeneratedSupport.html
+│   │   │   ├── 📄 PythonCOM.html
+│   │   │   ├── 📄 QuickStartClientCom.html
+│   │   │   ├── 📄 QuickStartServerCom.html
+│   │   │   ├── 📄 docindex.html
+│   │   │   ├── 📄 index.html
+│   │   │   ├── 📄 misc.html
+│   │   │   ├── 📄 package.html
+│   │   │   └── 📄 variant.html
+│   │   ├── 📁 __pycache__
+│   │   │   └── 📄 [5 autre(s) fichier(s)]
+│   │   ├── 📁 client
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 CLSIDToClass.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 build.py
+│   │   │   ├── 🐍 combrowse.py
+│   │   │   ├── 🐍 connect.py
+│   │   │   ├── 🐍 dynamic.py
+│   │   │   ├── 🐍 gencache.py
+│   │   │   ├── 🐍 genpy.py
+│   │   │   ├── 🐍 makepy.py
+│   │   │   ├── 🐍 selecttlb.py
+│   │   │   ├── 🐍 tlbrowse.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 demos
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 connect.py
+│   │   │   ├── 🐍 dump_clipboard.py
+│   │   │   ├── 🐍 eventsApartmentThreaded.py
+│   │   │   ├── 🐍 eventsFreeThreaded.py
+│   │   │   ├── 🐍 excelAddin.py
+│   │   │   ├── 🐍 excelRTDServer.py
+│   │   │   ├── 🐍 iebutton.py
+│   │   │   ├── 🐍 ietoolbar.py
+│   │   │   ├── 🐍 outlookAddin.py
+│   │   │   └── 🐍 trybag.py
+│   │   ├── 📁 include
+│   │   │   └── 📄 [3 autre(s) fichier(s)]
+│   │   ├── 📁 libs
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 makegw
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 makegw.py
+│   │   │   ├── 🐍 makegwenum.py
+│   │   │   └── 🐍 makegwparse.py
+│   │   ├── 📁 server
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 connect.py
+│   │   │   ├── 🐍 dispatcher.py
+│   │   │   ├── 🐍 exception.py
+│   │   │   ├── 🐍 factory.py
+│   │   │   ├── 🐍 localserver.py
+│   │   │   ├── 🐍 policy.py
+│   │   │   ├── 🐍 register.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 servers
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 PythonTools.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 dictionary.py
+│   │   │   ├── 🐍 interp.py
+│   │   │   ├── 🐍 perfmon.py
+│   │   │   └── 🐍 test_pycomtest.py
+│   │   ├── 📁 test
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 GenTestScripts.py
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 daodump.py
+│   │   │   ├── 🐍 errorSemantics.py
+│   │   │   ├── 🐍 pippo_server.py
+│   │   │   ├── 🐍 policySemantics.py
+│   │   │   ├── 📄 readme.txt
+│   │   │   ├── 🐍 testADOEvents.py
+│   │   │   ├── 🐍 testAXScript.py
+│   │   │   ├── 🐍 testAccess.py
+│   │   │   ├── 🐍 testArrays.py
+│   │   │   ├── 🐍 testClipboard.py
+│   │   │   ├── 🐍 testCollections.py
+│   │   │   ├── 🐍 testConversionErrors.py
+│   │   │   ├── 🐍 testDCOM.py
+│   │   │   ├── 🐍 testDates.py
+│   │   │   ├── 🐍 testDictionary.py
+│   │   │   ├── 🐍 testDynamic.py
+│   │   │   ├── 🐍 testExchange.py
+│   │   │   ├── 🐍 testExplorer.py
+│   │   │   ├── 🐍 testGIT.py
+│   │   │   ├── 🐍 testGatewayAddresses.py
+│   │   │   ├── 🐍 testIterators.py
+│   │   │   ├── 🐍 testMSOffice.py
+│   │   │   ├── 🐍 testMSOfficeEvents.py
+│   │   │   ├── 🐍 testMarshal.py
+│   │   │   ├── 🐍 testNetscape.py
+│   │   │   ├── 🐍 testPersist.py
+│   │   │   ├── 🐍 testPippo.py
+│   │   │   ├── 🐍 testPyComTest.py
+│   │   │   ├── 🐍 testROT.py
+│   │   │   ├── 🐍 testServers.py
+│   │   │   ├── 🐍 testShell.py
+│   │   │   ├── 🐍 testStorage.py
+│   │   │   ├── 🐍 testStreams.py
+│   │   │   ├── 🐍 testWMI.py
+│   │   │   ├── 🐍 testall.py
+│   │   │   ├── 🐍 testmakepy.py
+│   │   │   ├── 🐍 testvb.py
+│   │   │   ├── 🐍 testvbscript_regexp.py
+│   │   │   ├── 🐍 testxslt.py
+│   │   │   ├── 🐍 util.py
+│   │   │   └── 📄 [7 autre(s) fichier(s)]
+│   │   ├── 📄 License.txt
+│   │   ├── 🐍 __init__.py
+│   │   ├── 🐍 olectl.py
+│   │   ├── 📄 readme.html
+│   │   ├── 🐍 storagecon.py
+│   │   ├── 🐍 universal.py
+│   │   └── 🐍 util.py
+│   ├── 📁 win32comext
+│   │   ├── 📁 adsi
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 adsicon.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 authorization
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 axcontrol
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 axdebug
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 adb.py
+│   │   │   ├── 🐍 codecontainer.py
+│   │   │   ├── 🐍 contexts.py
+│   │   │   ├── 🐍 debugger.py
+│   │   │   ├── 🐍 documents.py
+│   │   │   ├── 🐍 dump.py
+│   │   │   ├── 🐍 expressions.py
+│   │   │   ├── 🐍 gateways.py
+│   │   │   ├── 🐍 stackframe.py
+│   │   │   └── 🐍 util.py
+│   │   ├── 📁 axscript
+│   │   │   ├── 📁 Demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 client
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 server
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 asputil.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 bits
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 directsound
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 ifilter
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demo
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 ifiltercon.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 internet
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 inetcon.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 mapi
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 emsabtags.py
+│   │   │   ├── 🐍 mapitags.py
+│   │   │   ├── 🐍 mapiutil.py
+│   │   │   └── 📄 [2 autre(s) fichier(s)]
+│   │   ├── 📁 propsys
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 pscon.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   ├── 📁 shell
+│   │   │   ├── 📁 __pycache__
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 demos
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 📁 test
+│   │   │   │   └── [...] (limite profondeur)
+│   │   │   ├── 🐍 __init__.py
+│   │   │   ├── 🐍 shellcon.py
+│   │   │   └── 📄 [1 autre(s) fichier(s)]
+│   │   └── 📁 taskscheduler
+│   │       ├── 📁 __pycache__
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 📁 test
+│   │       │   └── [...] (limite profondeur)
+│   │       ├── 🐍 __init__.py
+│   │       └── 📄 [1 autre(s) fichier(s)]
+│   ├── 🐍 pythoncom.py
+│   ├── 📄 pywin32.version.txt
+│   ├── 🐍 six.py
+│   └── 📄 [2 autre(s) fichier(s)]
+├── 📁 tkdnd286
+│   └── 📁 tkdnd2.8
+│       ├── 📁 kerberos test
+│       └── 📄 [8 autre(s) fichier(s)]
+├── 📁 tmp-deps
+│   └── 📄 [4 autre(s) fichier(s)]
+├── 🐍 NuitkaDetector.detect_nuitka.py
+├── 🐍 fix_pywin32.py
+├── 📄 kerberos_env_setup.bat
+└── 🐍 kerberos_nuitka_builder.py
+
+✅ Rapport généré – Projet Kerberos (GPLv3)

@@ -1,0 +1,11 @@
+{
+  "active_connections": 8,
+  "outgoing": 8,
+  "incoming": 0,
+  "history_size": 50,
+  "last_scan": "2026-03-04T10:21:11.101083",
+  "guard": "cybermap",
+  "timestamp": "2026-03-04T10:21:11.101083",
+  "status": "active",
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_cybermap"
+}

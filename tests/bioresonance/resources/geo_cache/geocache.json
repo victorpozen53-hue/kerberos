@@ -1,0 +1,23 @@
+{
+  "ccbee73cd81c7f42405e1920409247ec": {
+    "source": "Triangulation (Nominatim + Photon)",
+    "lat": 48.85762038235294,
+    "lon": 2.3267117058823525,
+    "nom": "Triangulé depuis 2 sources",
+    "score": 17
+  },
+  "10b53d95e2d38e0eb267fb09022ef215": {
+    "source": "Triangulation (Nominatim + Photon)",
+    "lat": 45.7578137,
+    "lon": 4.8320114,
+    "nom": "Triangulé depuis 2 sources",
+    "score": 16
+  },
+  "0291d0ee809eb60deedc864e0c10380d": {
+    "source": "Triangulation (Nominatim + Photon)",
+    "lat": 48.85762038235294,
+    "lon": 2.3267117058823525,
+    "nom": "Triangulé depuis 2 sources",
+    "score": 17
+  }
+}

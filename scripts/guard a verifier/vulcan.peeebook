@@ -1,0 +1,12 @@
+# vulcan.peeebook — base anti-faux-sites (GPLv3)
+# Format : regex = description
+# Tous les patterns sont compilés en re.IGNORECASE
+
+.*\.xyz$ = Domaine à haut risque (phishing)
+.*\.top$ = Domaine à haut risque (phishing)
+.*paypa[l1] = Usurpation PayPal (ex: paypa1.com)
+.*amaz[0o]n = Usurpation Amazon (ex: amaz0n-shop.xyz)
+.*micros[0o]ft = Usurpation Microsoft
+.*impots\.gouv\.fr\.|.*impot\.gouv\. = Usurpation impôts (officiel : impots.gouv.fr)
+.*banque.*\.(xyz|top|ga|gq|cf) = Banque factice
+login.*\.(xyz|top|ga) = Page de login frauduleuse

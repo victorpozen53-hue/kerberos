@@ -1,0 +1,12 @@
+{
+  "guard": "cortex",
+  "version": "4.1",
+  "last_heartbeat": "2026-02-17T16:50:50.466780+00:00",
+  "uptime_sec": 0,
+  "active_guards": [],
+  "memory_integrity": "degraded",
+  "reflexes_active": true,
+  "threat_level": "amber",
+  "quarantine_count": 0,
+  "last_threat_timestamp": null
+}

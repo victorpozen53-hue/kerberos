@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kerberos v4.2 — Rapport d'Audit</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=Exo+2:wght@300;400;600&display=swap');
+
+  :root {
+    --bg:        #04070f;
+    --bg2:       #080d1a;
+    --bg3:       #0c1525;
+    --cyan:      #00ffcc;
+    --cyan-dim:  #00aa88;
+    --red:       #ff2244;
+    --orange:    #ff8800;
+    --yellow:    #ffdd00;
+    --green:     #00ff88;
+    --blue:      #1a8fff;
+    --purple:    #aa44ff;
+    --text:      #c8d8e8;
+    --text-dim:  #6a8099;
+    --border:    rgba(0,255,204,0.15);
+    --glow:      0 0 20px rgba(0,255,204,0.2);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* === SCANLINE OVERLAY === */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.08) 2px,
+      rgba(0,0,0,0.08) 4px
+    );
+    pointer-events: none;
+    z-index: 999;
+  }
+
+  /* === NOISE TEXTURE === */
+  body::after {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 998;
+    opacity: 0.4;
+  }
+
+  /* === HEADER === */
+  header {
+    position: relative;
+    padding: 60px 40px 40px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(0,255,204,0.04) 0%, transparent 100%);
+    overflow: hidden;
+  }
+
+  header::before {
+    content: 'KERBEROS';
+    position: absolute;
+    top: -20px; right: -20px;
+    font-family: 'Orbitron', monospace;
+    font-size: 180px;
+    font-weight: 900;
+    color: rgba(0,255,204,0.025);
+    letter-spacing: -10px;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  .header-badge {
+    display: inline-block;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    color: var(--cyan);
+    border: 1px solid var(--cyan-dim);
+    padding: 3px 10px;
+    border-radius: 2px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    animation: pulse-border 3s infinite;
+  }
+
+  @keyframes pulse-border {
+    0%, 100% { border-color: var(--cyan-dim); box-shadow: 0 0 8px rgba(0,255,204,0.1); }
+    50%       { border-color: var(--cyan);    box-shadow: 0 0 20px rgba(0,255,204,0.3); }
+  }
+
+  h1 {
+    font-family: 'Orbitron', monospace;
+    font-size: clamp(24px, 4vw, 42px);
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: 2px;
+    line-height: 1.1;
+    margin-bottom: 8px;
+  }
+
+  h1 span { color: var(--cyan); }
+
+  .header-meta {
+    display: flex;
+    gap: 30px;
+    margin-top: 24px;
+    flex-wrap: wrap;
+  }
+
+  .meta-item {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+
+  .meta-item strong {
+    display: block;
+    color: var(--cyan);
+    font-size: 14px;
+    margin-bottom: 2px;
+  }
+
+  /* === SUMMARY GRID === */
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin: 40px 40px 0;
+  }
+
+  .summary-card {
+    background: var(--bg2);
+    padding: 28px 20px;
+    text-align: center;
+    position: relative;
+    transition: background 0.2s;
+  }
+
+  .summary-card:hover { background: var(--bg3); }
+
+  .summary-card .count {
+    font-family: 'Orbitron', monospace;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+
+  .summary-card .label {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+
+  .c-red    { color: var(--red); text-shadow: 0 0 20px rgba(255,34,68,0.5); }
+  .c-orange { color: var(--orange); text-shadow: 0 0 20px rgba(255,136,0,0.5); }
+  .c-yellow { color: var(--yellow); text-shadow: 0 0 20px rgba(255,221,0,0.4); }
+  .c-green  { color: var(--green); text-shadow: 0 0 20px rgba(0,255,136,0.4); }
+  .c-cyan   { color: var(--cyan); text-shadow: 0 0 20px rgba(0,255,204,0.4); }
+  .c-blue   { color: var(--blue); }
+  .c-purple { color: var(--purple); }
+
+  /* === MAIN LAYOUT === */
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  /* === SECTION TITLES === */
+  .section-title {
+    font-family: 'Orbitron', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--cyan);
+    margin: 60px 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--cyan-dim), transparent);
+  }
+
+  /* === ISSUE CARDS === */
+  .issues-list { display: flex; flex-direction: column; gap: 16px; }
+
+  .issue-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-left: 3px solid transparent;
+    border-radius: 2px;
+    overflow: hidden;
+    transition: transform 0.15s, box-shadow 0.15s;
+    cursor: pointer;
+  }
+
+  .issue-card:hover {
+    transform: translateX(4px);
+    box-shadow: var(--glow);
+  }
+
+  .issue-card.crit  { border-left-color: var(--red);    }
+  .issue-card.high  { border-left-color: var(--orange);  }
+  .issue-card.med   { border-left-color: var(--yellow);  }
+  .issue-card.info  { border-left-color: var(--blue);    }
+
+  .issue-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 20px;
+    user-select: none;
+  }
+
+  .issue-num {
+    font-family: 'Orbitron', monospace;
+    font-size: 20px;
+    font-weight: 700;
+    min-width: 48px;
+    text-align: center;
+  }
+
+  .issue-card.crit  .issue-num { color: var(--red); }
+  .issue-card.high  .issue-num { color: var(--orange); }
+  .issue-card.med   .issue-num { color: var(--yellow); }
+  .issue-card.info  .issue-num { color: var(--blue); }
+
+  .issue-meta { flex: 1; min-width: 0; }
+
+  .issue-title {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .issue-subtitle {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+
+  .severity-badge {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding: 4px 10px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .badge-crit   { background: rgba(255,34,68,0.15);   color: var(--red);    border: 1px solid rgba(255,34,68,0.3); }
+  .badge-high   { background: rgba(255,136,0,0.15);   color: var(--orange); border: 1px solid rgba(255,136,0,0.3); }
+  .badge-med    { background: rgba(255,221,0,0.1);    color: var(--yellow); border: 1px solid rgba(255,221,0,0.25); }
+  .badge-info   { background: rgba(26,143,255,0.1);   color: var(--blue);   border: 1px solid rgba(26,143,255,0.25); }
+
+  .issue-body {
+    display: none;
+    padding: 0 20px 20px 84px;
+    border-top: 1px solid var(--border);
+  }
+
+  .issue-card.open .issue-body { display: block; }
+
+  .issue-desc {
+    font-size: 14px;
+    color: var(--text);
+    margin: 16px 0 12px;
+    line-height: 1.7;
+  }
+
+  .code-block {
+    background: #020509;
+    border: 1px solid rgba(0,255,204,0.1);
+    border-radius: 3px;
+    padding: 14px 16px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 12px;
+    line-height: 1.8;
+    overflow-x: auto;
+    margin: 12px 0;
+    position: relative;
+  }
+
+  .code-block .bad  { color: var(--red); }
+  .code-block .good { color: var(--green); }
+  .code-block .cmt  { color: var(--text-dim); }
+  .code-block .loc  { color: var(--orange); }
+  .code-block .kw   { color: var(--purple); }
+
+  .code-label {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-top: 14px;
+    margin-bottom: 4px;
+  }
+
+  .fix-label {
+    display: inline-block;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--green);
+    padding: 2px 8px;
+    border: 1px solid rgba(0,255,136,0.3);
+    border-radius: 2px;
+    margin-bottom: 8px;
+    margin-top: 14px;
+  }
+
+  .files-affected {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .file-tag {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    color: var(--cyan);
+    background: rgba(0,255,204,0.07);
+    border: 1px solid rgba(0,255,204,0.2);
+    padding: 3px 10px;
+    border-radius: 2px;
+  }
+
+  /* === PRIORITY TABLE === */
+  .priority-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px;
+    margin-top: 24px;
+  }
+
+  .priority-table th {
+    text-align: left;
+    padding: 12px 16px;
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    border-bottom: 1px solid var(--border);
+    background: var(--bg3);
+  }
+
+  .priority-table td {
+    padding: 12px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    vertical-align: middle;
+  }
+
+  .priority-table tr:hover td { background: rgba(255,255,255,0.02); }
+
+  .dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+
+  .dot-red    { background: var(--red);    box-shadow: 0 0 8px var(--red); }
+  .dot-orange { background: var(--orange); box-shadow: 0 0 8px var(--orange); }
+  .dot-yellow { background: var(--yellow); box-shadow: 0 0 8px var(--yellow); }
+  .dot-blue   { background: var(--blue);   box-shadow: 0 0 8px var(--blue); }
+
+  /* === FOOTER === */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 30px 40px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  footer .ft-logo {
+    font-family: 'Orbitron', monospace;
+    font-weight: 700;
+    color: var(--cyan-dim);
+    font-size: 12px;
+    letter-spacing: 3px;
+  }
+
+  footer .ft-info {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+
+  /* === TOGGLE CHEVRON === */
+  .chevron {
+    color: var(--text-dim);
+    font-size: 14px;
+    transition: transform 0.2s;
+    user-select: none;
+  }
+  .issue-card.open .chevron { transform: rotate(180deg); }
+
+  /* === INTRO BAR === */
+  .intro-bar {
+    background: rgba(0,255,204,0.04);
+    border: 1px solid rgba(0,255,204,0.12);
+    border-radius: 3px;
+    padding: 18px 24px;
+    margin-top: 40px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.8;
+  }
+
+  .intro-bar strong { color: var(--cyan); }
+
+  /* === ANIMATE ON LOAD === */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .issue-card {
+    animation: fadeUp 0.4s ease both;
+  }
+
+  .issue-card:nth-child(1)  { animation-delay: 0.05s; }
+  .issue-card:nth-child(2)  { animation-delay: 0.10s; }
+  .issue-card:nth-child(3)  { animation-delay: 0.15s; }
+  .issue-card:nth-child(4)  { animation-delay: 0.20s; }
+  .issue-card:nth-child(5)  { animation-delay: 0.25s; }
+  .issue-card:nth-child(6)  { animation-delay: 0.30s; }
+  .issue-card:nth-child(7)  { animation-delay: 0.35s; }
+  .issue-card:nth-child(8)  { animation-delay: 0.40s; }
+  .issue-card:nth-child(9)  { animation-delay: 0.45s; }
+  .issue-card:nth-child(10) { animation-delay: 0.50s; }
+  .issue-card:nth-child(11) { animation-delay: 0.55s; }
+  .issue-card:nth-child(12) { animation-delay: 0.60s; }
+  .issue-card:nth-child(13) { animation-delay: 0.65s; }
+  .issue-card:nth-child(14) { animation-delay: 0.70s; }
+  .issue-card:nth-child(15) { animation-delay: 0.75s; }
+  .issue-card:nth-child(16) { animation-delay: 0.80s; }
+  .issue-card:nth-child(17) { animation-delay: 0.85s; }
+  .issue-card:nth-child(18) { animation-delay: 0.90s; }
+
+  /* === SCROLLBAR === */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--cyan-dim); border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-badge">▶ AUDIT TECHNIQUE // v4.2 ULTIMATE</div>
+  <h1>KERBEROS <span>v4.2</span><br>Rapport d'Incohérences</h1>
+  <div class="header-meta">
+    <div class="meta-item"><strong>Date</strong>2026-02-28</div>
+    <div class="meta-item"><strong>Fichiers analysés</strong>23 modules Python</div>
+    <div class="meta-item"><strong>Guards audités</strong>19 guards actifs</div>
+    <div class="meta-item"><strong>Licence</strong>GPLv3 — Victor Pozen</div>
+    <div class="meta-item"><strong>Analyste</strong>Claude (Anthropic)</div>
+  </div>
+</header>
+
+<!-- SUMMARY GRID -->
+<div class="summary-grid">
+  <div class="summary-card"><div class="count c-red">7</div><div class="label">Critiques 🔴</div></div>
+  <div class="summary-card"><div class="count c-orange">6</div><div class="label">Importants 🟠</div></div>
+  <div class="summary-card"><div class="count c-yellow">5</div><div class="label">Mineurs 🟡</div></div>
+  <div class="summary-card"><div class="count c-cyan">18</div><div class="label">Total Issues</div></div>
+  <div class="summary-card"><div class="count c-green">23</div><div class="label">Fichiers scannés</div></div>
+  <div class="summary-card"><div class="count c-blue">4</div><div class="label">Manifest paths</div></div>
+</div>
+
+<div class="container">
+
+  <div class="intro-bar">
+    🔬 Audit croisé de <strong>23 fichiers Python</strong> composant Kerberos v4.2 Ultimate.<br>
+    Les incohérences sont classées par <strong>criticité décroissante</strong>. Cliquer sur une carte pour voir le détail, l'extrait de code concerné et la correction recommandée.
+  </div>
+
+  <!-- ============================= CRITIQUES ============================= -->
+  <div class="section-title">🔴 Bugs Critiques — Crashent ou Silencieux</div>
+  <div class="issues-list">
+
+    <!-- #1 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#01</div>
+        <div class="issue-meta">
+          <div class="issue-title">GUARDS_DIR défini deux fois — le second écrase le premier</div>
+          <div class="issue-subtitle">kerberos.py — Lignes 67 et 286</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          <code>GUARDS_DIR</code> est défini deux fois dans <code>kerberos.py</code>. La première définition est correcte : elle utilise <code>KERBEROS_ROOT</code> pour pointer vers <code>/guards</code>. La seconde, ligne 286, pointe sur <code>Path(__file__).parent</code> soit la <strong>racine</strong> du projet. Toutes les fonctions qui utilisent <code>GUARDS_DIR</code> après la ligne 286 (onglet Guards, cortex, explainer…) travaillent sur le mauvais dossier.
+        </div>
+        <div class="code-label">État actuel — INCORRECT</div>
+        <div class="code-block">
+<span class="loc">L67 :</span>  <span class="kw">GUARDS_DIR</span> = KERBEROS_ROOT / <span class="good">"guards"</span>   <span class="cmt"># ✅ correct</span>
+<span class="cmt">...</span>
+<span class="loc">L285:</span>  MANIFEST_FILE = Path(<span class="good">"guards_manifest.json"</span>)
+<span class="loc">L286:</span>  <span class="kw">GUARDS_DIR</span> = Path(__file__).parent               <span class="bad"># ❌ écrase L67 — pointe sur /, pas /guards</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="cmt"># Supprimer complètement les lignes 285-286.</span>
+<span class="cmt"># La définition L67 suffit. MANIFEST_FILE peut être :</span>
+MANIFEST_FILE = GUARDS_DIR / <span class="good">"guards_manifest.json"</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">kerberos.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #2 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#02</div>
+        <div class="issue-meta">
+          <div class="issue-title">guards_manifest.json — 4 chemins différents selon le guard</div>
+          <div class="issue-subtitle">guard_cortex.py, guard_auto_discovery.py, guard_auto_activate.py, guard_integrity_check.py</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Chaque guard cherche et crée le manifest à un endroit différent. Résultat : <strong>4 fichiers manifest peuvent coexister</strong> avec des contenus différents. L'activation des guards est donc incohérente selon qui l'a lancé en dernier.
+        </div>
+        <div class="code-label">Chemins actuels — DIVERGENTS</div>
+        <div class="code-block">
+<span class="loc">guard_cortex.py      :</span>  Path(<span class="bad">"guards_manifest.json"</span>)          <span class="cmt"># relatif au CWD</span>
+<span class="loc">guard_auto_discovery :</span>  Path(<span class="bad">"guards_manifest.json"</span>)          <span class="cmt"># relatif au CWD</span>
+<span class="loc">guard_auto_activate  :</span>  GUARDS_DIR / <span class="bad">"guards_manifest.json"</span>   <span class="cmt"># dans /guards</span>
+<span class="loc">guard_integrity_check:</span>  KERBEROS_ROOT / <span class="bad">"guards_manifest.json"</span>  <span class="cmt"># à la racine</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="cmt"># Définir UNE constante partagée dans un module commun (ex: config.py)</span>
+<span class="cmt"># ou dans kerberos.py et l'importer :</span>
+MANIFEST_FILE = KERBEROS_ROOT / <span class="good">"guards_manifest.json"</span>
+<span class="cmt"># → tous les guards utilisent la même source de vérité</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_cortex.py</span>
+          <span class="file-tag">guard_auto_discovery.py</span>
+          <span class="file-tag">guard_auto_activate.py</span>
+          <span class="file-tag">guard_integrity_check.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #3 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#03</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_ui_manager._stats_refresh() appelle _refresh_guards_vu() supprimée</div>
+          <div class="issue-subtitle">guard_ui_manager.py — L284 / kerberos.py — refactor Guards Panel</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Suite au refactor de l'onglet Guards vers <code>guard_guards_panel.py</code>, la méthode <code>_refresh_guards_vu()</code> a été supprimée de <code>KerberosApp</code>. Mais le UI Manager y fait toujours référence. À chaque alerte d'un guard, le refresh silhouette échoue sans erreur visible (exception avalée par le try/except).
+        </div>
+        <div class="code-label">Code actuel — CASSÉ</div>
+        <div class="code-block">
+<span class="cmt"># guard_ui_manager.py L281</span>
+<span class="kw">def</span> _stats_refresh():
+    <span class="kw">if</span> hasattr(app_instance, <span class="bad">'_refresh_guards_vu'</span>):  <span class="cmt"># ❌ n'existe plus</span>
+        app_instance._refresh_guards_vu()
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="kw">def</span> _stats_refresh():
+    <span class="cmt"># Via le nouveau panel</span>
+    <span class="kw">if</span> hasattr(app_instance, <span class="good">'_guards_panel'</span>) <span class="kw">and</span> app_instance._guards_panel:
+        <span class="kw">try</span>:
+            app_instance._guards_panel.<span class="good">refresh</span>()
+        <span class="kw">except</span> Exception:
+            <span class="kw">pass</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_ui_manager.py</span>
+          <span class="file-tag">kerberos.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #4 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#04</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_yara.py — API yara-python incorrecte sur match.strings</div>
+          <div class="issue-subtitle">guard_yara.py — L180</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          L'accès aux chaînes détectées par YARA utilise des attributs <code>s.plaintext</code> et <code>s.hex_data</code> qui n'existent pas dans l'API yara-python. Le résultat : <strong>dès qu'une règle YARA trouve une correspondance, le guard plante</strong> avec <code>AttributeError</code> (silencieusement avalé).
+        </div>
+        <div class="code-label">Code actuel — CRASH</div>
+        <div class="code-block">
+<span class="cmt"># guard_yara.py L180</span>
+<span class="bad">"value": s.plaintext or s.hex_data</span>   <span class="cmt"># ❌ AttributeError — ces attributs n'existent pas</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION (API yara-python correcte)</div>
+        <div class="code-block">
+<span class="cmt"># Un StringMatch est un tuple : (offset, identifier, data)</span>
+<span class="good">"value": s[2].decode('utf-8', errors='replace') if isinstance(s[2], bytes) else str(s[2])</span>
+<span class="cmt"># ou plus simple si on veut juste un label lisible :</span>
+<span class="good">"value": repr(s[2])</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_yara.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #5 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#05</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_vigil.py — import circulaire de fonctions inexistantes</div>
+          <div class="issue-subtitle">guard_vigil.py — L195</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Vigil tente d'importer <code>_show_nag</code> et <code>_set_tray_state</code> depuis <code>kerberos</code>. Ces deux fonctions n'existent pas dans <code>kerberos.py</code>. Le guard encapsule l'import dans un try/except silencieux donc les alertes Vigil n'atteignent jamais l'UI. De plus, importer <code>kerberos</code> depuis un guard crée un import circulaire.
+        </div>
+        <div class="code-label">Code actuel — SILENCIEUSEMENT CASSÉ</div>
+        <div class="code-block">
+<span class="kw">try</span>:
+    <span class="bad">from kerberos import _show_nag, _set_tray_state</span>   <span class="cmt"># ❌ import circulaire + fonctions inexistantes</span>
+    _set_tray_state(<span class="good">"alert"</span>)
+    _show_nag(...)
+<span class="kw">except</span>:
+    <span class="bad">pass</span>   <span class="cmt"># ← erreur avalée, zéro alerte UI</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION — passer par guard_ui_manager</div>
+        <div class="code-block">
+<span class="kw">try</span>:
+    <span class="kw">import</span> sys
+    _ui = sys.modules.get(<span class="good">"guard_ui_manager"</span>)
+    <span class="kw">if</span> _ui:
+        _ui.fire_alert(<span class="good">"guard_vigil.py"</span>, <span class="good">"#ff2244"</span>,
+                       f<span class="good">"{report['total_threats']} processus avec DLL suspectes"</span>)
+<span class="kw">except</span> Exception:
+    <span class="kw">pass</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_vigil.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #6 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#06</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_thymus.py — cherche kerberos.ultimate.py au lieu de kerberos.py</div>
+          <div class="issue-subtitle">guard_thymus.py — L25</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          La fonction <code>_find_kerberos_root()</code> de Thymus cherche <code>kerberos.ultimate.py</code> — un nom qui n'existe plus. Le fichier réel s'appelle <code>kerberos.py</code>. Résultat : <code>KERBEROS_ROOT = Path.cwd()</code> (fallback). Tous les chemins dérivés (<code>LYMPH_DIR</code>, <code>PLASMA_DIR</code>, <code>GENOME_FILE</code>) pointent vers le mauvais endroit.
+        </div>
+        <div class="code-label">Code actuel — MAUVAISE RACINE</div>
+        <div class="code-block">
+<span class="kw">if</span> (parent / <span class="bad">"kerberos.ultimate.py"</span>).exists() <span class="kw">or</span> ...  <span class="cmt"># ❌ fichier renommé depuis longtemps</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="kw">if</span> (parent / <span class="good">"kerberos.py"</span>).exists() <span class="kw">or</span> (parent / <span class="good">"LICENCE.txt"</span>).exists():
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_thymus.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #7 -->
+    <div class="issue-card crit" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#07</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_family.py — aucun import défini, tous les symboles manquent</div>
+          <div class="issue-subtitle">guard_family.py — Fichier entier</div>
+        </div>
+        <span class="severity-badge badge-crit">CRITIQUE</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Le fichier ne contient aucune ligne d'import (<code>import socket</code>, <code>import threading</code>, etc.) mais utilise massivement ces modules. De plus, des constantes utilisées dans le code (<code>KERBEROS_ROOT</code>, <code>GUARDS_DIR</code>, <code>DISCOVERY_PORT</code>, <code>SYNC_PORT</code>, <code>mother_tree</code>) ne sont définies nulle part. Le fichier est inopérant à l'état actuel — c'est un squelette incomplet.
+        </div>
+        <div class="code-label">Symboles manquants</div>
+        <div class="code-block">
+<span class="bad">socket</span>, <span class="bad">threading</span>, <span class="bad">json</span>, <span class="bad">time</span>             <span class="cmt"># imports absents</span>
+<span class="bad">KERBEROS_ROOT</span>, <span class="bad">GUARDS_DIR</span>                   <span class="cmt"># constantes non définies</span>
+<span class="bad">DISCOVERY_PORT</span>, <span class="bad">SYNC_PORT</span>                   <span class="cmt"># ports non définis</span>
+<span class="bad">mother_tree</span>                                  <span class="cmt"># instance référencée sans instanciation</span>
+<span class="bad">start_guard()</span>                                <span class="cmt"># point d'entrée Cortex manquant</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="cmt"># Ajouter en tête de fichier :</span>
+<span class="kw">import</span> socket, threading, json, time, ttk
+<span class="kw">from pathlib import</span> Path
+
+KERBEROS_ROOT  = Path(__file__).parent.parent
+GUARDS_DIR     = KERBEROS_ROOT / <span class="good">"guards"</span>
+DISCOVERY_PORT = <span class="good">47474</span>
+SYNC_PORT      = <span class="good">47475</span>
+
+<span class="kw">def</span> <span class="good">start_guard</span>():
+    mother = KerberosMotherTree()
+    t = threading.Thread(target=mother.listen_for_seeds, daemon=<span class="kw">True</span>)
+    t.start()
+    <span class="kw">return</span> t
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_family.py</span>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /critiques -->
+
+
+  <!-- ============================= IMPORTANTS ============================= -->
+  <div class="section-title">🟠 Incohérences Importantes</div>
+  <div class="issues-list">
+
+    <!-- #8 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#08</div>
+        <div class="issue-meta">
+          <div class="issue-title">sync_main_metrics() jamais appelé dans kerberos.py</div>
+          <div class="issue-subtitle">guard_ui_manager.py — API publique non connectée</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          <code>guard_ui_manager.py</code> expose <code>sync_main_metrics()</code> avec la doc explicite "à appeler dans kerberos.py juste après l'import". Cet appel est absent. Résultat : <code>_GUARD_METRICS</code> de kerberos est un dict ordinaire et n'est jamais synchronisé avec le proxy du registry. Les VU-mètres lisent donc un dict fantôme.
+        </div>
+        <div class="code-label">Correction — dans kerberos.py, après le chargement du UI Manager</div>
+        <div class="code-block">
+<span class="cmt"># Dans _init_guards() ou __init__, après l'import dynamique de guard_ui_manager :</span>
+<span class="kw">if</span> hasattr(_ui_mod, <span class="good">'sync_main_metrics'</span>):
+    _ui_mod.<span class="good">sync_main_metrics</span>()   <span class="cmt"># ← manquant</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">kerberos.py</span>
+          <span class="file-tag">guard_ui_manager.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #9 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#09</div>
+        <div class="issue-meta">
+          <div class="issue-title">Double activation des guards — Cortex ET Auto-Activate font la même chose</div>
+          <div class="issue-subtitle">guard_cortex.py + guard_auto_activate.py</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Les deux guards chargent le manifest et appellent <code>start_guard()</code> sur chaque guard listé. Si les deux sont actifs simultanément, chaque guard se retrouve <strong>chargé deux fois</strong> dans des threads séparés. Le flag anti-boucle de Cortex (<code>CORTEX_FLAG_FILE</code>) ne protège pas contre Auto-Activate qui a sa propre logique.
+        </div>
+        <div class="code-label">Rôles actuels — REDONDANTS</div>
+        <div class="code-block">
+<span class="loc">guard_cortex.py       :</span>  charge manifest → active guards → flag anti-boucle
+<span class="loc">guard_auto_activate.py:</span>  charge manifest → active guards → pas de déduplication croisée
+<span class="cmt">→ Si les deux tournent : chaque guard x2</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION — Choisir un seul orchestrateur</div>
+        <div class="code-block">
+<span class="cmt"># Option A : Cortex = seul chef, Auto-Activate = déprécié</span>
+<span class="cmt"># Option B : Auto-Activate délègue à Cortex :</span>
+<span class="kw">def</span> start_guard():
+    <span class="kw">from</span> guards.guard_cortex <span class="kw">import</span> start_guard <span class="kw">as</span> cortex_start
+    <span class="kw">return</span> cortex_start()   <span class="cmt"># délégation propre</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_cortex.py</span>
+          <span class="file-tag">guard_auto_activate.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #10 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#10</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_auto_discovery.py — fallback is_self() valide le mauvais dossier</div>
+          <div class="issue-subtitle">guard_auto_discovery.py — L27-29</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Quand <code>immune_core</code> n'est pas importable, le fallback valide tout fichier <code>.py</code> dont le parent est <code>GUARDS_DIR.parent</code> (la racine). Donc tous les <code>.py</code> à la racine Kerberos (<code>kerberos.py</code>, <code>immune_core.py</code>, etc.) passeraient comme "guards valides" et seraient ajoutés au manifest.
+        </div>
+        <div class="code-label">Fallback actuel — TROP PERMISSIF</div>
+        <div class="code-block">
+<span class="kw">def</span> is_self(filepath):
+    <span class="kw">return</span> Path(filepath).resolve().parent == <span class="bad">GUARDS_DIR.parent</span>  <span class="cmt"># ❌ racine, pas /guards</span>
+           <span class="kw">and</span> Path(filepath).suffix == <span class="good">".py"</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="kw">def</span> is_self(filepath):
+    p = Path(filepath).resolve()
+    <span class="kw">return</span> p.parent == <span class="good">GUARDS_DIR</span> <span class="kw">and</span> p.suffix == <span class="good">".py"</span>
+           <span class="kw">and</span> p.name.startswith(<span class="good">"guard_"</span>)
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_auto_discovery.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #11 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#11</div>
+        <div class="issue-meta">
+          <div class="issue-title">_create_default_cortex() génère une version tronquée et incompatible</div>
+          <div class="issue-subtitle">kerberos.py — L280-309</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Si <code>guard_cortex.py</code> est absent, Kerberos en génère un automatiquement. Mais le cortex généré ne contient pas le flag anti-boucle persistant, pas <code>_active_guards</code>, et <code>start_guard()</code> appelle <code>reload_guards()</code> sans réellement charger les modules. Si quelqu'un supprime le vrai cortex, la version de secours est silencieusement moins capable.
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="cmt"># Option 1 : Embarquer le vrai cortex en string (long mais fiable)</span>
+<span class="cmt"># Option 2 : Logger un warning clair et ne pas créer de fausse version :</span>
+<span class="kw">if not</span> cortex_path.exists():
+    print(<span class="good">"⚠️ [Kerberos] guard_cortex.py manquant — guards non activés"</span>)
+    <span class="kw">return</span>   <span class="cmt"># ne pas créer un cortex fantôme</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">kerberos.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #12 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#12</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_cortex.py se liste dans le manifest puis s'exclut lui-même</div>
+          <div class="issue-subtitle">guard_cortex.py — L75 + L111</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Le manifest par défaut généré par Cortex contient <code>"guard_cortex.py"</code>. Mais <code>_activate_guard()</code> l'exclut explicitement avec le commentaire "anti-boucle". Résultat dans les logs : <code>⚠️ guard_cortex.py: exclu (anti-boucle)</code> à chaque démarrage — ce qui est confusant et pollue les logs inutilement.
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+<span class="cmt"># Simplement retirer "guard_cortex.py" du manifest par défaut :</span>
+<span class="good">"active_guards"</span>: [
+    <span class="good">"guard_genome.py"</span>,
+    <span class="good">"guard_thymus.py"</span>,
+    <span class="cmt"># guard_cortex.py retiré — il s'auto-charge</span>
+    ...
+]
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_cortex.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #13 -->
+    <div class="issue-card high" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#13</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_lymph_node.py — start_guard() retourne l'objet, pas le thread</div>
+          <div class="issue-subtitle">guard_lymph_node.py — L220-226</div>
+        </div>
+        <span class="severity-badge badge-high">IMPORTANT</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          La convention Kerberos veut que <code>start_guard()</code> retourne le thread démarré (ou <code>None</code> pour les guards sans thread). LymphNode retourne l'objet <code>LymphNodeFilter</code> au lieu du thread, ce qui casse toute logique qui fait <code>thread.is_alive()</code> ou <code>thread.join()</code> sur le retour.
+        </div>
+        <div class="code-label">Code actuel</div>
+        <div class="code-block">
+<span class="kw">def</span> start_guard():
+    node = LymphNodeFilter()
+    thread = threading.Thread(target=node.monitor, daemon=<span class="kw">True</span>)
+    thread.start()
+    <span class="bad">return node</span>   <span class="cmt"># ❌ retourne l'objet, pas le thread</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+    <span class="good">return thread</span>   <span class="cmt"># ✅ convention respectée</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_lymph_node.py</span>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /importants -->
+
+
+  <!-- ============================= MINEURS ============================= -->
+  <div class="section-title">🟡 Points Mineurs &amp; Améliorations</div>
+  <div class="issues-list">
+
+    <!-- #14 -->
+    <div class="issue-card med" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#14</div>
+        <div class="issue-meta">
+          <div class="issue-title">Quarantaines dispersées à 3 endroits sans dossier central</div>
+          <div class="issue-subtitle">guard_frog_toxic.py, guard_ftp_organic.py, guard_neutralizer.py</div>
+        </div>
+        <span class="severity-badge badge-med">MINEUR</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Chaque guard gère sa propre quarantaine dans un dossier différent. L'utilisateur ne peut pas voir l'ensemble des fichiers mis en quarantaine depuis un seul endroit.
+        </div>
+        <div class="code-label">Dossiers actuels</div>
+        <div class="code-block">
+<span class="loc">guard_frog_toxic :</span>  <span class="bad">soins_vibratoires/quarantine_frog/</span>
+<span class="loc">guard_ftp_organic:</span>  <span class="bad">quarantine_ftp/</span>  <span class="cmt">(relatif au CWD !)</span>
+<span class="loc">guard_neutralizer:</span>  <span class="bad">lymph/neutralizer/quarantine/</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION — Centraliser</div>
+        <div class="code-block">
+<span class="cmt"># Un seul dossier commun :</span>
+QUARANTINE_DIR = KERBEROS_ROOT / <span class="good">"lymph" / "quarantine"</span>
+<span class="cmt"># Sous-dossiers par guard : quarantine/frog/, quarantine/ftp/, quarantine/neutralizer/</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_frog_toxic.py</span>
+          <span class="file-tag">guard_ftp_organic.py</span>
+          <span class="file-tag">guard_neutralizer.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #15 -->
+    <div class="issue-card med" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#15</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_tardigrade.py — VITAL_STATE pointe sur des fichiers inexistants</div>
+          <div class="issue-subtitle">guard_tardigrade.py — L57-63</div>
+        </div>
+        <span class="severity-badge badge-med">MINEUR</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          Le snapshot de cryptobiose tente de sauvegarder <code>genome.json</code> — mais le vrai fichier créé par <code>guard_genome.py</code> s'appelle <code>genome_v2.json</code>. Le snapshot ZIP serait incomplet au premier lancement.
+        </div>
+        <div class="code-label">Noms actuels — DIVERGENTS</div>
+        <div class="code-block">
+<span class="loc">guard_tardigrade.py :</span>  LYMPH_DIR / <span class="bad">"genome.json"</span>     <span class="cmt"># cherche ce fichier</span>
+<span class="loc">guard_genome.py     :</span>  LYMPH_DIR / <span class="good">"genome_v2.json"</span>  <span class="cmt"># crée celui-ci</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION</div>
+        <div class="code-block">
+VITAL_STATE = [
+    LYMPH_DIR / <span class="good">"genome_v2.json"</span>,   <span class="cmt"># ← corriger le nom</span>
+    ...
+]
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_tardigrade.py</span>
+          <span class="file-tag">guard_genome.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #16 -->
+    <div class="issue-card med" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#16</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_neutralizer.py — shutil.copy2 au lieu de move (fichier malveillant reste en place)</div>
+          <div class="issue-subtitle">guard_neutralizer.py — L152</div>
+        </div>
+        <span class="severity-badge badge-med">MINEUR</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          La quarantaine copie le fichier mais ne supprime pas l'original (commentaire <code># filepath.unlink()</code> désactivé). Le fichier suspect reste donc en place, ce qui peut tromper l'utilisateur qui croit que la menace est neutralisée.
+        </div>
+        <div class="fix-label">▶ CORRECTION — avec option de confirmation</div>
+        <div class="code-block">
+shutil.copy2(filepath, quarantine_path)
+<span class="cmt"># En mode auto ou après confirmation :</span>
+<span class="kw">if</span> self.auto_mode <span class="kw">or</span> confirmed:
+    filepath.<span class="good">unlink</span>(missing_ok=<span class="kw">True</span>)   <span class="cmt"># ← activer la suppression</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_neutralizer.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #17 -->
+    <div class="issue-card med" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#17</div>
+        <div class="issue-meta">
+          <div class="issue-title">guard_ftp_organic.py — scan FTP vide (boucle sur un socket mal utilisé)</div>
+          <div class="issue-subtitle">guard_ftp_organic.py — L67-70</div>
+        </div>
+        <span class="severity-badge badge-med">MINEUR</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          La fonction <code>scan_ftp_activity()</code> tente d'itérer sur un <code>socket.socket()</code> dans un bloc <code>for</code>, ce qui est invalide. Le code est dans un try/except silencieux donc aucune erreur n'est visible, mais la surveillance FTP ne fonctionne pas du tout.
+        </div>
+        <div class="code-label">Code actuel — NE FONCTIONNE PAS</div>
+        <div class="code-block">
+<span class="kw">for</span> conn <span class="kw">in</span> <span class="bad">socket.socket(socket.AF_INET, socket.SOCK_STREAM)</span>:  <span class="cmt"># ❌ TypeError</span>
+    <span class="kw">pass</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION — utiliser psutil</div>
+        <div class="code-block">
+<span class="kw">import</span> psutil
+active_ftp = [
+    c <span class="kw">for</span> c <span class="kw">in</span> psutil.<span class="good">net_connections</span>(kind=<span class="good">'inet'</span>)
+    <span class="kw">if</span> c.status == <span class="good">'ESTABLISHED'</span> <span class="kw">and</span> c.raddr <span class="kw">and</span> c.raddr.port == <span class="good">21</span>
+]
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">guard_ftp_organic.py</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- #18 -->
+    <div class="issue-card med" onclick="toggle(this)">
+      <div class="issue-header">
+        <div class="issue-num">#18</div>
+        <div class="issue-meta">
+          <div class="issue-title">immune_core.py — GENOME_FILE dans /plasma/, guard_genome.py dans /lymph/</div>
+          <div class="issue-subtitle">immune_core.py vs guard_genome.py — chemins divergents</div>
+        </div>
+        <span class="severity-badge badge-med">MINEUR</span>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="issue-body">
+        <div class="issue-desc">
+          <code>immune_core.py</code> stocke le génome dans <code>lymph/plasma/kerberos_genome.{FORMAT}</code>. <code>guard_genome.py</code> stocke son état dans <code>lymph/genome_v2.json</code>. Les deux systèmes de génome coexistent sans se connaître. Le Thymus utilise <code>lymph/genome.json</code> (un troisième emplacement). Aucun des trois ne parle aux deux autres.
+        </div>
+        <div class="code-label">3 fichiers génome distincts</div>
+        <div class="code-block">
+<span class="loc">immune_core.py  :</span>  <span class="bad">lymph/plasma/kerberos_genome.txt</span>
+<span class="loc">guard_genome.py :</span>  <span class="bad">lymph/genome_v2.json</span>
+<span class="loc">guard_thymus.py :</span>  <span class="bad">lymph/genome.json</span>
+        </div>
+        <div class="fix-label">▶ CORRECTION — unifier</div>
+        <div class="code-block">
+<span class="cmt"># Un seul fichier de référence :</span>
+GENOME_FILE = KERBEROS_ROOT / <span class="good">"lymph" / "genome.json"</span>
+<span class="cmt"># immune_core, guard_genome, guard_thymus → tous lisent/écrivent ce même fichier</span>
+        </div>
+        <div class="files-affected">
+          <span class="file-tag">immune_core.py</span>
+          <span class="file-tag">guard_genome.py</span>
+          <span class="file-tag">guard_thymus.py</span>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /mineurs -->
+
+
+  <!-- ============================= TABLE PRIORITÉ ============================= -->
+  <div class="section-title">📋 Tableau de Priorité</div>
+
+  <table class="priority-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Fichier(s)</th>
+        <th>Problème</th>
+        <th>Impact</th>
+        <th>Priorité</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="dot dot-red"></span>01</td><td>kerberos.py</td><td>GUARDS_DIR écrasé L286</td><td>Tous les chemins guards faux</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>02</td><td>4 fichiers</td><td>Manifest à 4 endroits différents</td><td>4 manifests peuvent coexister</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>03</td><td>guard_ui_manager</td><td>_refresh_guards_vu() supprimée</td><td>Refresh UI silencieusement cassé</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>04</td><td>guard_yara.py</td><td>s.plaintext — API invalide</td><td>Crash dès 1ère correspondance YARA</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>05</td><td>guard_vigil.py</td><td>import kerberos circulaire</td><td>Alertes Vigil perdues</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>06</td><td>guard_thymus.py</td><td>cherche kerberos.ultimate.py</td><td>KERBEROS_ROOT = CWD — chemins faux</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-red"></span>07</td><td>guard_family.py</td><td>Aucun import, symboles manquants</td><td>Fichier inopérant</td><td class="c-red">🔴 CRITIQUE</td></tr>
+      <tr><td><span class="dot dot-orange"></span>08</td><td>kerberos.py</td><td>sync_main_metrics() non appelé</td><td>VU-mètres non synchronisés</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-orange"></span>09</td><td>cortex + auto_activate</td><td>Double activation guards</td><td>Chaque guard lancé 2 fois</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-orange"></span>10</td><td>guard_auto_discovery</td><td>Fallback is_self() trop large</td><td>Faux guards ajoutés au manifest</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-orange"></span>11</td><td>kerberos.py</td><td>Cortex généré = version tronquée</td><td>Guards non activés si cortex absent</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-orange"></span>12</td><td>guard_cortex.py</td><td>Se liste + s'exclut lui-même</td><td>Logs pollués à chaque démarrage</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-orange"></span>13</td><td>guard_lymph_node</td><td>start_guard() retourne objet</td><td>Convention brisée</td><td class="c-orange">🟠 IMPORTANT</td></tr>
+      <tr><td><span class="dot dot-yellow"></span>14</td><td>3 guards</td><td>Quarantaines dispersées</td><td>UX dégradée, pas de vue unifiée</td><td class="c-yellow">🟡 MINEUR</td></tr>
+      <tr><td><span class="dot dot-yellow"></span>15</td><td>guard_tardigrade</td><td>genome.json vs genome_v2.json</td><td>Snapshot vide au 1er lancement</td><td class="c-yellow">🟡 MINEUR</td></tr>
+      <tr><td><span class="dot dot-yellow"></span>16</td><td>guard_neutralizer</td><td>copy2 sans unlink</td><td>Fichier malveillant reste en place</td><td class="c-yellow">🟡 MINEUR</td></tr>
+      <tr><td><span class="dot dot-yellow"></span>17</td><td>guard_ftp_organic</td><td>scan FTP vide (socket mal utilisé)</td><td>Surveillance FTP inopérante</td><td class="c-yellow">🟡 MINEUR</td></tr>
+      <tr><td><span class="dot dot-yellow"></span>18</td><td>3 modules</td><td>3 fichiers génome distincts</td><td>Incohérence ADN inter-modules</td><td class="c-yellow">🟡 MINEUR</td></tr>
+    </tbody>
+  </table>
+
+</div><!-- /container -->
+
+<footer>
+  <div class="ft-logo">KERBEROS v4.2 ULTIMATE</div>
+  <div class="ft-info">Audit généré le 2026-02-28 — 18 incohérences détectées — 7 critiques à corriger en priorité</div>
+  <div class="ft-logo">GPLv3 // VICTOR POZEN</div>
+</footer>
+
+<script>
+function toggle(card) {
+  card.classList.toggle('open');
+}
+// Ouvrir la première carte par défaut
+document.querySelector('.issue-card').classList.add('open');
+</script>
+</body>
+</html>

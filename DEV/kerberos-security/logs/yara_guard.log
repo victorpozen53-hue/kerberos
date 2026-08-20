@@ -1,0 +1,10 @@
+[2026-08-19 20:24:31] [INFO] 🧬 [YARA] Démarrage du guard...
+[2026-08-19 20:24:31] [WARN] ⚠️ frogs-toxic.yar absent — règles embarquées
+[2026-08-19 20:24:31] [WARN] ⚠️ bubble-shield.yar absent — règles embarquées
+[2026-08-19 20:24:31] [OK] ✅ 2 règle(s) compilée(s)
+[2026-08-19 20:24:31] [OK] ✅ [YARA] Rules chargées — guard actif
+[2026-08-19 22:04:19] [INFO] 🧬 [YARA] Démarrage du guard...
+[2026-08-19 22:04:19] [WARN] ⚠️ frogs-toxic.yar absent — règles embarquées
+[2026-08-19 22:04:19] [WARN] ⚠️ bubble-shield.yar absent — règles embarquées
+[2026-08-19 22:04:19] [OK] ✅ 2 règle(s) compilée(s)
+[2026-08-19 22:04:19] [OK] ✅ [YARA] Rules chargées — guard actif

@@ -1,0 +1,9 @@
+# forme;label;couleur — DOCTRINE CIVILE (observation, jamais de ciblage)
+# générée par argos_demil.py — GPLv3 Victor Pozen
+triangle;AVION LEGER;orange
+rectangle;CAMION;jaune
+carre;BATIMENT;magenta
+croix;AVION COMMERCIAL;blanc
+x;HELICO;cyan
+rond;DOME OU RESERVOIR;rouge
+ligne;ROUTE;rouge_sombre

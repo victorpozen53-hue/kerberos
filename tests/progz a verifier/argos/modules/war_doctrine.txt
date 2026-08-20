@@ -1,0 +1,8 @@
+# forme;label;couleur
+triangle;CHASSEUR DELTA;orange
+rectangle;CAMION;jaune
+carre;TANK;magenta
+croix;AVION COMMERCIAL;blanc
+x;HELICO;cyan
+rond;DOME/RADAR;rouge
+ligne;PISTE/ROUTE;rouge_sombre

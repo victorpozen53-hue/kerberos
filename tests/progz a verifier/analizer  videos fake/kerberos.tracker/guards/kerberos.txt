@@ -1,0 +1,4 @@
+KERBEROS VIDEO ANALYZER v7.2
+Licence: GPLv3
+Author: Victor Pozen
+Architecture modulaire avec orchestration pipeline

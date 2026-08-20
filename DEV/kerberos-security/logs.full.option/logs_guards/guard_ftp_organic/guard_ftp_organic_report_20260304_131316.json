@@ -1,0 +1,13 @@
+{
+  "guard": "ftp_organic",
+  "timestamp": "2026-03-04T13:13:16.284168",
+  "status": "active",
+  "config_loaded": true,
+  "quarantine_ready": true,
+  "allowed_ips_count": 5,
+  "blocked_ips_count": 0,
+  "total_transfers": 0,
+  "suspicious_transfers": 0,
+  "auto_block": true,
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_ftp_organic"
+}

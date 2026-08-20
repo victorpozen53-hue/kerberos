@@ -1,0 +1,31 @@
+{
+  "pause": 1.5,
+  "bateau": "",
+  "termes_extra": [],
+  "cibles": [
+    {
+      "nom": "BOYER",
+      "prenom": "Marie jeanne palmyre",
+      "naissance": 1914,
+      "lieu": "Saint-Bonnet-En-Champsaur",
+      "pays": "france",
+      "front": "France"
+    },
+    {
+      "nom": "TINCHANT",
+      "prenom": "josé adelina tinchant",
+      "naissance": 1916,
+      "lieu": "",
+      "pays": "belgique",
+      "front": "Belgique"
+    },
+    {
+      "nom": "COUCHINE",
+      "prenom": "mirco",
+      "naissance": 1909,
+      "lieu": "frioul",
+      "pays": "italie",
+      "front": "Italie"
+    }
+  ]
+}

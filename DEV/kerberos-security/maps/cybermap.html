@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kerberos — Carte Cyber Interactive</title>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0a0f1a; color: #00ffcc; font-family: 'Consolas', monospace; overflow: hidden; }
+#map { height: 100vh; width: 100%; }
+.leaflet-tile { filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%); }
+.info-panel {
+position: absolute; top: 10px; right: 10px;
+background: rgba(10,15,26,0.95); border: 2px solid #00ffcc;
+border-radius: 10px; padding: 15px; z-index: 1000;
+min-width: 280px; box-shadow: 0 0 20px rgba(0,255,204,0.3);
+}
+.info-panel h3 { color: #00ffcc; margin-bottom: 10px; font-size: 14px; }
+.info-panel .stat { display: flex; justify-content: space-between; margin: 5px 0; font-size: 12px; }
+.info-panel .stat-value { color: #00ffcc; font-weight: bold; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="info-panel">
+<h3>🗺️ CYBERMAP KERBEROS v4.2</h3>
+<div class="stat"><span>Connexions:</span><span class="stat-value" id="connCount">0</span></div>
+<div class="stat"><span>🟢 Sûres:</span><span class="stat-value" style="color:#4CAF50" id="safeCount">0</span></div>
+<div class="stat"><span>🟡 Suspectes:</span><span class="stat-value" style="color:#ff9800" id="suspectCount">0</span></div>
+<div class="stat"><span>🔴 Bloquées:</span><span class="stat-value" style="color:#ff5252" id="blockedCount">0</span></div>
+</div>
+<script>
+const map = L.map('map').setView([20, 0], 2);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: '© OpenStreetMap', maxZoom: 18, minZoom: 2
+}).addTo(map);
+const markers = {};
+let markerId = 0;
+let stats = {allowed: 0, suspect: 0, blocked: 0};
+function addMarker(lat, lng, ip, threat, region) {
+const colors = {allowed: '#4CAF50', suspect: '#ff9800', blocked: '#ff5252'};
+const icon = L.divIcon({
+className: 'custom-marker',
+html: `<div style="background:${colors[threat]};width:14px;height:14px;border-radius:50%;border:2px solid #fff;"></div>`,
+iconSize: [14, 14]
+});
+const marker = L.marker([lat, lng], {icon: icon}).addTo(map);
+marker.bindPopup(`<div style="background:#0a0f1a;color:#00ffcc;padding:10px;"><strong>${ip}</strong><br>${region}<br>${threat}</div>`);
+markers[markerId++] = marker;
+stats[threat] = (stats[threat] || 0) + 1;
+updateStats();
+}
+function updateStats() {
+document.getElementById('connCount').textContent = markerId;
+document.getElementById('safeCount').textContent = stats.allowed || 0;
+document.getElementById('suspectCount').textContent = stats.suspect || 0;
+document.getElementById('blockedCount').textContent = stats.blocked || 0;
+}
+L.marker([48.8566, 2.3522]).addTo(map)
+.bindPopup('<div style="background:#0a0f1a;color:#00ffcc;padding:10px;"><strong>🛡️ KERBEROS</strong><br>France</div>')
+.openPopup();
+window.addConnection = function(lat, lng, ip, threat, region) { addMarker(lat, lng, ip, threat, region); };
+</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>⚡ Rapport Auto-Activate — Kerberos v4.2</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#c9d1d9;font-family:'Consolas',monospace;padding:30px}
+.header{background:#161b27;border-left:4px solid #00ffcc;padding:20px 30px;margin-bottom:24px;display:flex;align-items:center;justify-content:space-between}
+.header h1{color:#00ffcc;font-size:1.6em}
+.badge{background:#0a1a2a;color:#00aaff;border:1px solid #00aaff;padding:6px 14px;font-size:.85em}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:24px}
+.mc{background:#161b27;padding:16px;text-align:center;border-top:2px solid #00ffcc}
+.mc .val{font-size:2em;font-weight:bold;color:#ff4444}
+.mc .lbl{color:#607080;font-size:.8em;margin-top:4px}
+.banner{background:#2a1a0a;border:1px solid #ff4444;color:#ff4444;padding:16px 24px;font-size:1.1em;font-weight:bold;margin-bottom:24px;text-align:center}
+table{width:100%;border-collapse:collapse;margin-bottom:24px}
+th{background:#161b27;color:#00ffcc;padding:10px 14px;text-align:left;border-bottom:2px solid #00ffcc}
+td{padding:8px 14px;border-bottom:1px solid #21262d}
+tr:hover td{background:#161b27}
+h2{color:#00ffcc;margin:20px 0 12px;font-size:1em}
+.footer{border-top:1px solid #21262d;padding-top:16px;color:#607080;font-size:.8em;text-align:center}
+.footer a{color:#00ffcc;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="header">
+    <h1>⚡ GUARD AUTO-ACTIVATE</h1>
+    <div class="badge">● GUARD_MANAGEMENT</div>
+</div>
+<div class="metrics">
+    <div class="mc"><div class="val">29</div><div class="lbl">Guards total</div></div>
+    <div class="mc"><div class="val" style="color:#00ff88">0</div><div class="lbl">Activés</div></div>
+    <div class="mc"><div class="val" style="color:#ff4444">28</div><div class="lbl">Échoués</div></div>
+    <div class="mc"><div class="val" style="color:#ff4444">⚠️</div><div class="lbl">Statut</div></div>
+</div>
+<div class="banner">⚠️ 28 guard(s) en échec</div>
+
+
+<div class="footer">
+    <p>🕐 Activation : 2026-03-03 20:06:27</p>
+    <p>📁 Log : logs.full.option/logs_guards/guard_auto_activate.log</p>
+    <p style="margin-top:8px">
+        📜 Licence GPLv3 — Victor Pozen &nbsp;|&nbsp;
+        <a href="https://github.com/victorpozen">github.com/victorpozen</a> &nbsp;|&nbsp;
+        <a href="https://liberapay.com/EthicalKerberos">liberapay.com/EthicalKerberos</a>
+    </p>
+</div>
+</body>
+</html>

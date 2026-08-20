@@ -1,0 +1,33 @@
+{
+  "version": "2.0",
+  "active_guards": [
+    "guard_antikeylogger.py",
+    "guard_browser_shield.py",
+    "guard_cortex.py",
+    "guard_frog_toxic.py",
+    "guard_ftp_organic.py",
+    "guard_genome.py",
+    "guard_integrity_check.py",
+    "guard_lymphatic.py",
+    "guard_tardigrade.py",
+    "guard_thymus.py",
+    "guard_vigil.py",
+    "guard_yara.py"
+  ],
+  "auto_discovered": [
+    "guard_antikeylogger.py",
+    "guard_browser_shield.py",
+    "guard_cortex.py",
+    "guard_frog_toxic.py",
+    "guard_ftp_organic.py",
+    "guard_genome.py",
+    "guard_integrity_check.py",
+    "guard_lymphatic.py",
+    "guard_tardigrade.py",
+    "guard_thymus.py",
+    "guard_vigil.py",
+    "guard_yara.py"
+  ],
+  "last_scan": "2026-02-16T04:32:57.961704",
+  "discovered_count": 12
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'>
+<title>🔍 Rapport Integrity Check</title>
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#c9d1d9;font-family:Consolas,monospace;padding:30px}
+.hdr{background:#161b27;border-left:4px solid #00ffcc;padding:20px 30px;margin-bottom:24px;display:flex;justify-content:space-between;align-items:center}
+.hdr h1{color:#00ffcc;font-size:1.5em}.badge{background:#0a1a2a;color:#00aaff;border:1px solid #00aaff;padding:6px 14px;font-size:.85em}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:24px}
+.mc{background:#161b27;padding:16px;text-align:center;border-top:2px solid #00ffcc}
+.mc .val{font-size:2em;font-weight:bold}.mc .lbl{color:#607080;font-size:.8em;margin-top:4px}
+.banner{background:#2a1a0a;border:1px solid #ff8800;color:#ff8800;padding:14px;font-size:1.1em;font-weight:bold;text-align:center;margin-bottom:24px}
+ul{background:#161b27;padding:14px 24px;list-style:disc inside;margin-bottom:16px}
+h2{color:#00ffcc;margin:16px 0 8px}
+.footer{border-top:1px solid #21262d;padding-top:12px;color:#607080;font-size:.8em;text-align:center}
+.footer a{color:#00ffcc;text-decoration:none}</style></head><body>
+<div class='hdr'><h1>🔍 GUARD INTEGRITY CHECK</h1><div class='badge'>● SYSTEM</div></div>
+<div class='metrics'>
+<div class='mc'><div class='val'>33</div><div class='lbl'>Sur disque</div></div>
+<div class='mc'><div class='val'>29</div><div class='lbl'>Dans manifest</div></div>
+<div class='mc'><div class='val' style='color:#ff8800'>4</div><div class='lbl'>Orphelins</div></div>
+<div class='mc'><div class='val' style='color:#ff4444'>0</div><div class='lbl'>Manquants</div></div>
+</div>
+<div class='banner'>⚠️ Statut : partial</div>
+<h2>⚠️ Guards orphelins</h2><ul><li style='color:#ff8800'>guard_auto_discovery</li><li style='color:#ff8800'>guard_family</li><li style='color:#ff8800'>guard_reports</li><li style='color:#ff8800'>guard_ui_manager</li></ul>
+
+<div class='footer'><p>📁 Log : logs.full.option/logs_guards/guard_integrity_check.log</p>
+<p style='margin-top:8px'>📜 GPLv3 — Victor Pozen &nbsp;|&nbsp;
+<a href='https://github.com/victorpozen'>github.com/victorpozen</a> &nbsp;|&nbsp;
+<a href='https://liberapay.com/EthicalKerberos'>liberapay.com/EthicalKerberos</a></p>
+</div></body></html>

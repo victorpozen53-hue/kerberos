@@ -1,0 +1,1 @@
+import threading; print('[✅] Bulle LV7 active → 127.0.0.1:7777'); import socket; s=socket.socket(); s.bind(('127.0.0.1',7777)); threading.Thread(target=lambda: s.listen(5) or [s.accept() for _ in iter(int,1)], daemon=True).start()

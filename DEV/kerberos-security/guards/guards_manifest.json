@@ -1,0 +1,23 @@
+{
+  "active_guards": [
+    "guard_genome.py",
+    "guard_thymus.py",
+    "guard_cortex.py",
+    "guard_cybermap.py",
+    "guard_antikeylogger.py",
+    "guard_browser_shield.py",
+    "guard_bubble_shield.py",
+    "guard_frog_toxic.py",
+    "guard_ftp_organic.py",
+    "guard_integrity_check.py",
+    "guard_lymph_node.py",
+    "guard_lymphatic.py",
+    "guard_lymphatic_heart.py",
+    "guard_netshield.py",
+    "guard_tardigrade.py",
+    "guard_vigil.py",
+    "guard_yara.py"
+  ],
+  "version": "4.2",
+  "auto_activate_enabled": true
+}

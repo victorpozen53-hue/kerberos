@@ -1,0 +1,3 @@
+ARGOS ORBITAL — modules/
+Flotte de vision (argos_*.py) — le LiDAR, le RECON, le sonar…
+(GPLv3 — Victor Pozen)

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "F:\kerberos-security\kerberos.py", line 808, in <module>
+    print("\U0001f6e1\ufe0f KERBEROS ULTIMATE v4.2 — Démarrage...")
+  File "H:\python.64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>

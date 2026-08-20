@@ -1,0 +1,10 @@
+{
+  "gardien_id": "ce05937258",
+  "cree_a": "2026-01-16T20:57:43.230485+00:00",
+  "origines": {
+    "noyau_hote": "a38846c5c65d",
+    "graine": "victor.pozen"
+  },
+  "statut": "actif",
+  "licence": "GPLv3"
+}

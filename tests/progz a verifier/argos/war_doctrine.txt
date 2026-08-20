@@ -1,0 +1,10 @@
+# KERBEROS WAR DOCTRINE — une règle par ligne : forme;label;couleur
+# formes reconnues : triangle rectangle carre croix x rond ligne
+# couleurs : jaune orange magenta blanc rouge rouge_sombre cyan vert  ou  B,G,R
+triangle;CHASSEUR DELTA;orange
+rectangle;CAMION;jaune
+carre;TANK;magenta
+croix;AVION COMMERCIAL;blanc
+x;HELICO;cyan
+rond;DOME/RADAR;rouge
+ligne;PISTE/ROUTE;rouge_sombre

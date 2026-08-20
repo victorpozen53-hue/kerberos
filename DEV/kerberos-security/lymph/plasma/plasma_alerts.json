@@ -1,0 +1,3995 @@
+[
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:08:49.352271",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.364272",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1340,
+    "name": "SearchFilterHost.exe",
+    "exe": "C:\\Windows\\System32\\SearchFilterHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.364272",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.365270",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.366271",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.367268",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.375269",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.375269",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.377266",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.378266",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.379273",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.383272",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.385271",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6896,
+    "name": "SearchProtocolHost.exe",
+    "exe": "C:\\Windows\\System32\\SearchProtocolHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:49.385271",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:49.387273",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:08:51.572922",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.573920",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.573920",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.574920",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.575921",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.577921",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.578920",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.581916",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.581916",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.582915",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.584921",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:51.585917",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:51.586915",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:08:53.641597",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.642598",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.643597",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.644597",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.646596",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.649597",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.649597",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.651742",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.652742",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.653741",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.655741",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:53.657741",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:53.658741",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:08:55.725694",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.726698",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.727697",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.727697",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.732698",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.748703",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.753472",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.760473",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.760473",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.761471",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.763471",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:55.764471",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:55.765471",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:08:57.819515",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.820524",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.821520",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.821520",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.823520",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.825660",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.825660",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.827669",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.827669",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.828668",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.830668",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:08:57.832671",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:08:57.832671",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:07.776771",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.777771",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.778770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.778770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.780769",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.783770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.784770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.786770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.786770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.788772",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.790771",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:07.792772",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:07.793770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:09.869497",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.870497",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.872501",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.873498",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.875496",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.877496",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.878497",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.881498",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.881498",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.882498",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.884496",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:09.886496",
+    "action": "detection_only"
+  },
+  {
+    "pid": 8168,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:09.887496",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:11.958764",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.959763",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.960762",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.960762",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.962763",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.965954",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:11.966959",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:11.968957",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:11.968957",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:11.969957",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:11.971959",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:11.973957",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:14.027932",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.028932",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.029930",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.029930",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.032289",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.035278",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:14.035278",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:14.038278",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:14.038278",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:14.039278",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:14.040963",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:14.042953",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:16.121335",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.122334",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.123332",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.123332",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.125552",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.128553",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:16.129553",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:16.131553",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:16.132554",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:16.132554",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:16.135553",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:16.137553",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:24.537770",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.538769",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.538769",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.539769",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.540894",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.542902",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:24.543902",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:24.545901",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:24.545901",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:24.545901",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:24.547902",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:24.549916",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:26.652763",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.653762",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.654761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.654761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.656761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.658760",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:26.658760",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:26.660761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:26.660761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:26.661764",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:26.663761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:26.664761",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:28.713562",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.714562",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.715595",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.715841",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.717842",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.720842",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:28.720842",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:28.723842",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:28.723842",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:28.724902",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:28.726455",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:28.728454",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:30.780946",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.780946",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.786312",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.786830",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.788672",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.794560",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:30.794560",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:30.794560",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:30.794560",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:30.801112",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:30.801112",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:30.801112",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:32.901824",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.902829",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.903824",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.904823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.905823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.907823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:32.908823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:32.909823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:32.910823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:32.910823",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:32.912825",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:32.913823",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:42.505057",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.506063",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.507061",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.507061",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.509061",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.511062",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:42.511062",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:42.513062",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:42.513062",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:42.514062",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:42.516057",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:42.518061",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:44.594307",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.596302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.597302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.597302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.599301",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.603304",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:44.603304",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:44.606302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:44.606302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:44.607303",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:44.609302",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:44.612303",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:46.687061",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.688060",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.690925",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.691896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.699903",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.702134",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:46.703133",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:46.705133",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:46.705133",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:46.706133",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:46.707132",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:46.709133",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:48.759769",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.760768",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.761773",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.761773",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.763768",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.766943",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:48.766943",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:48.769943",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:48.769943",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:48.770942",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:48.772943",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:48.775130",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:50.832653",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.833653",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.834649",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.835648",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.836648",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.838647",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:50.839647",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:50.840649",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:50.841649",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:50.841649",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:50.843647",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:50.845648",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:09:59.467994",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.468992",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.469993",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.470993",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.472994",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.474993",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:59.475992",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:59.480995",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:59.480995",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:59.481993",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:09:59.483994",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:09:59.486998",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:01.573630",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.574629",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.575714",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.575714",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.577717",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.580717",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:01.581718",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:01.583717",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:01.583717",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:01.584717",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:01.587718",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:01.589778",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:03.658000",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.658998",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.659997",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.659997",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.661998",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.664997",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:03.666039",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:03.668192",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:03.668192",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:03.669191",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:03.671192",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:03.673192",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:05.721633",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.722632",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.723632",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.723632",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.726286",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.728286",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:05.729285",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:05.732288",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:05.732288",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:05.733286",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:05.735286",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:05.737285",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:07.819130",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.820130",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.821129",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.821129",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.823129",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.826209",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:07.827208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:07.829208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:07.829208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:07.830208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:07.832209",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:07.835208",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:16.699788",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.706786",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.707784",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.708783",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.713784",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.724784",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:16.727784",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:16.731781",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:16.731781",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:16.732781",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:16.743788",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:16.745781",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:18.934554",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.935553",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.936554",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.937550",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.939549",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.942027",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:18.942027",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:18.944026",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:18.944026",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:18.945027",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:18.947027",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:18.948026",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:21.001006",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.003009",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.004008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.004008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.006008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.009008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:21.010008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:21.012011",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:21.012011",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:21.013008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:21.015303",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:21.017304",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:23.097995",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.098996",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.098996",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.099994",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.101206",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.104208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:23.104208",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:23.106212",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:23.107210",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:23.107210",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:23.110213",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:23.112211",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:25.219912",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.220911",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.220911",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.221911",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.222911",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.225910",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:25.225910",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:25.228919",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:25.228919",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:25.229913",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:25.231914",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:25.233916",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:42.303010",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.305010",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.305010",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.307008",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.309009",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.312009",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:42.313005",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:42.315004",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:42.315004",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:42.316004",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:42.318004",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:42.319003",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:44.370958",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.371960",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.372958",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.372958",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.375138",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.378141",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:44.379139",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:44.382141",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:44.383144",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:44.384140",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:44.386145",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:44.387144",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:46.489710",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.490706",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.491707",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.491707",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.494710",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.496706",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:46.497705",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:46.499705",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:46.500708",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:46.500708",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:46.502712",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:46.504710",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:48.583127",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.584130",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.584130",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.585129",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.587127",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.589126",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:48.590127",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:48.594904",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:48.594904",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:48.595902",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:48.597898",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:48.598900",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:10:50.817884",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.818881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.820883",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.821882",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.823881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.830881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:50.831881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:50.834878",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:50.835881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:50.837883",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:10:50.843884",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:10:50.850884",
+    "action": "detection_only"
+  },
+  {
+    "type": "fileless_pattern",
+    "pid": 1808,
+    "name": "MemCompression",
+    "detail": "Processus sans exe sur disque : MemCompression",
+    "level": "attack"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:32:24.069719",
+    "action": "detection_only"
+  },
+  {
+    "pid": 228,
+    "name": "SnippingTool.exe",
+    "exe": "C:\\Windows\\System32\\SnippingTool.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.070721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.071725",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.072722",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.073721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2248,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.074723",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.075721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.082720",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.083721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4188,
+    "name": "cmd.exe",
+    "exe": "C:\\Windows\\System32\\cmd.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.084720",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.088722",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.088722",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.089721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.091721",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:24.093719",
+    "action": "detection_only"
+  },
+  {
+    "pid": 7208,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:24.094719",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:32:26.152897",
+    "action": "detection_only"
+  },
+  {
+    "pid": 228,
+    "name": "SnippingTool.exe",
+    "exe": "C:\\Windows\\System32\\SnippingTool.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.152897",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.153891",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.154896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.154896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2248,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.155895",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.156898",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.158898",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.159897",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4188,
+    "name": "cmd.exe",
+    "exe": "C:\\Windows\\System32\\cmd.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.159897",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.161896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.161896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.162896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.163896",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:26.165892",
+    "action": "detection_only"
+  },
+  {
+    "pid": 7208,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:26.166891",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:32:28.273879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 228,
+    "name": "SnippingTool.exe",
+    "exe": "C:\\Windows\\System32\\SnippingTool.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.273879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.274877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.275878",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.276878",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2248,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.277877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.278878",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.281877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.282877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4188,
+    "name": "cmd.exe",
+    "exe": "C:\\Windows\\System32\\cmd.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.282877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.285879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.285879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.286881",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.288879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:28.290879",
+    "action": "detection_only"
+  },
+  {
+    "pid": 7208,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:28.291877",
+    "action": "detection_only"
+  },
+  {
+    "pid": 0,
+    "name": "System Idle Process",
+    "exe": "N/A",
+    "user": "NT AUTHORITY\\SYSTEM",
+    "timestamp": "2026-08-19T22:32:30.345182",
+    "action": "detection_only"
+  },
+  {
+    "pid": 228,
+    "name": "SnippingTool.exe",
+    "exe": "C:\\Windows\\System32\\SnippingTool.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.346183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 948,
+    "name": "dllhost.exe",
+    "exe": "C:\\Windows\\System32\\dllhost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.347183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1472,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.347183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 1808,
+    "name": "MemCompression",
+    "exe": "MemCompression",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.348183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2248,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.349181",
+    "action": "detection_only"
+  },
+  {
+    "pid": 2548,
+    "name": "NVDisplay.Container.exe",
+    "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\NVDisplay.Container.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.350183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 3664,
+    "name": "dasHost.exe",
+    "exe": "C:\\Windows\\System32\\dasHost.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.352183",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4068,
+    "name": "SecurityHealthSystray.exe",
+    "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.353184",
+    "action": "detection_only"
+  },
+  {
+    "pid": 4188,
+    "name": "cmd.exe",
+    "exe": "C:\\Windows\\System32\\cmd.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.354182",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5092,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.356184",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5116,
+    "name": "py.exe",
+    "exe": "C:\\Users\\victor.pozen\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.356184",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5460,
+    "name": "taskhostw.exe",
+    "exe": "C:\\Windows\\System32\\taskhostw.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.358185",
+    "action": "detection_only"
+  },
+  {
+    "pid": 5984,
+    "name": "ClassicStartMenu.exe",
+    "exe": "C:\\Program Files\\Classic Shell\\ClassicStartMenu.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.359186",
+    "action": "detection_only"
+  },
+  {
+    "pid": 6572,
+    "name": "MoUsoCoreWorker.exe",
+    "exe": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "user": "N/A",
+    "timestamp": "2026-08-19T22:32:30.361184",
+    "action": "detection_only"
+  },
+  {
+    "pid": 7208,
+    "name": "smartscreen.exe",
+    "exe": "C:\\Windows\\System32\\smartscreen.exe",
+    "user": "DESKTOP-AU1B7A6\\victor.pozen",
+    "timestamp": "2026-08-19T22:32:30.361184",
+    "action": "detection_only"
+  }
+]

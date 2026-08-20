@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌍 Kerberos CyberMap — Connexions Temps Réel</title>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { background:#0a0f1a; color:#00ffcc; font-family:'Consolas', monospace; }
+        #map { height:100vh; width:100%; }
+        .info-panel {
+            position:absolute; top:10px; right:10px;
+            background:rgba(10,15,26,0.95);
+            border:2px solid #00ffcc;
+            border-radius:10px;
+            padding:15px;
+            z-index:1000;
+            min-width:280px;
+            max-height:400px;
+            overflow-y:auto;
+        }
+        .info-panel h3 { color:#00ffcc; margin-bottom:10px; font-size:16px; }
+        .stat-row {
+            display:flex; justify-content:space-between;
+            padding:4px 0; border-bottom:1px solid #1a2a3a;
+        }
+        .stat-label { color:#607d8b; }
+        .stat-value { color:#00ffcc; font-weight:bold; }
+        .connection-item {
+            background:#1a2a3a; padding:8px; margin:4px 0;
+            border-radius:4px; font-size:11px;
+        }
+        .connection-item.outgoing { border-left:3px solid #00ffcc; }
+        .connection-item.incoming { border-left:3px solid #ff5252; }
+        .legend {
+            position:absolute; bottom:30px; left:10px;
+            background:rgba(10,15,26,0.95);
+            border:2px solid #00ffcc;
+            border-radius:10px;
+            padding:10px;
+            z-index:1000;
+        }
+        .legend-item {
+            display:flex; align-items:center; margin:4px 0; font-size:12px;
+        }
+        .legend-color { width:20px; height:3px; margin-right:8px; }
+        .refresh-timer {
+            position:absolute; bottom:10px; right:10px;
+            background:rgba(10,15,26,0.95);
+            border:1px solid #00ffcc;
+            border-radius:5px;
+            padding:5px 10px;
+            font-size:11px;
+            z-index:1000;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <div class="info-panel">
+        <h3>📊 STATISTIQUES</h3>
+        <div class="stat-row">
+            <span class="stat-label">Connexions actives:</span>
+            <span class="stat-value" id="active-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Sortantes 📤:</span>
+            <span class="stat-value" id="outgoing-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Entrantes 📥:</span>
+            <span class="stat-value" id="incoming-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Historique:</span>
+            <span class="stat-value" id="history-count">0</span>
+        </div>
+        <h3 style="margin-top:15px;">🔗 CONNEXIONS</h3>
+        <div id="connections-list"></div>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background:#00ffcc;"></div>
+            <span>Sortante (Kerberos → Monde)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background:#ff5252;"></div>
+            <span>Entrante (Monde → Kerberos)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background:#00ccff;"></div>
+            <span>Kerberos HQ (France)</span>
+        </div>
+    </div>
+    
+    <div class="refresh-timer">
+        🔄 Prochain refresh: <span id="timer">10</span>s
+    </div>
+
+    <script>
+        const map = L.map('map').setView([48.8566, 2.3522], 3);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors | Kerberos v4.2'
+        }).addTo(map);
+        
+        const kerberosIcon = L.divIcon({
+            html: '<div style="background:#00ccff;width:20px;height:20px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 20px #00ccff;"></div>',
+            className: 'kerberos-marker',
+            iconSize: [20, 20]
+        });
+        
+        L.marker([48.8566, 2.3522], {icon: kerberosIcon})
+            .addTo(map)
+            .bindPopup('<b>🛡️ KERBEROS HQ</b><br>France<br>Mode: Surveillance active');
+        
+        const connections = [{"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51839, "remote_ip": "142.251.39.110", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 52.3676, "lon": 4.90414, "country": "The Netherlands", "city": "Amsterdam"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51842, "remote_ip": "47.91.78.155", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51840, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51804, "remote_ip": "47.254.175.31", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1138, "lon": 8.6521, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51841, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51858, "remote_ip": "151.101.122.172", "remote_port": 80, "protocol": "TCP", "pid": 3272, "process": "svchost.exe", "lat": 48.8558, "lon": 2.3494, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51843, "remote_ip": "48.209.164.47", "remote_port": 443, "protocol": "TCP", "pid": 7208, "process": "smartscreen.exe", "lat": 53.3478, "lon": -6.2597, "country": "Ireland", "city": "Dublin"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51827, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51809, "remote_ip": "172.217.22.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.1351, "lon": 11.582, "country": "Germany", "city": "Munich"}];
+        const history = [{"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51760, "remote_ip": "140.82.121.6", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51759, "remote_ip": "140.82.114.26", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51743, "remote_ip": "140.82.114.21", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51748, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51756, "remote_ip": "140.82.121.14", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51762, "remote_ip": "142.251.39.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51761, "remote_ip": "151.101.122.137", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.8558, "lon": 2.3494, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51756, "remote_ip": "140.82.121.14", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51762, "remote_ip": "142.251.39.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51763, "remote_ip": "4.150.223.98", "remote_port": 443, "protocol": "TCP", "pid": 3360, "process": "MpDefenderCoreService.exe", "lat": 41.5908, "lon": -93.6208, "country": "United States", "city": "Des Moines"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51759, "remote_ip": "140.82.114.26", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51743, "remote_ip": "140.82.114.21", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51748, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51761, "remote_ip": "151.101.122.137", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.8558, "lon": 2.3494, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51763, "remote_ip": "4.150.223.98", "remote_port": 443, "protocol": "TCP", "pid": 3360, "process": "MpDefenderCoreService.exe", "lat": 41.5908, "lon": -93.6208, "country": "United States", "city": "Des Moines"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51759, "remote_ip": "140.82.114.26", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51743, "remote_ip": "140.82.114.21", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51748, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51756, "remote_ip": "140.82.121.14", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51762, "remote_ip": "142.251.39.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51761, "remote_ip": "151.101.122.137", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.8558, "lon": 2.3494, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51772, "remote_ip": "142.251.39.206", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51763, "remote_ip": "4.150.223.98", "remote_port": 443, "protocol": "TCP", "pid": 3360, "process": "MpDefenderCoreService.exe", "lat": 41.5908, "lon": -93.6208, "country": "United States", "city": "Des Moines"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51759, "remote_ip": "140.82.114.26", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51773, "remote_ip": "172.217.16.234", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 40.4168, "lon": -3.70379, "country": "Spain", "city": "Madrid"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51748, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51762, "remote_ip": "142.251.39.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51839, "remote_ip": "142.251.39.110", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 52.3676, "lon": 4.90414, "country": "The Netherlands", "city": "Amsterdam"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51842, "remote_ip": "47.91.78.155", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51840, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51804, "remote_ip": "47.254.175.31", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1138, "lon": 8.6521, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51841, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51843, "remote_ip": "48.209.164.47", "remote_port": 443, "protocol": "TCP", "pid": 7208, "process": "smartscreen.exe", "lat": 53.3478, "lon": -6.2597, "country": "Ireland", "city": "Dublin"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51827, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51838, "remote_ip": "142.251.173.84", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.4225, "lon": -122.085, "country": "United States", "city": "Mountain View"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51809, "remote_ip": "172.217.22.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.1351, "lon": 11.582, "country": "Germany", "city": "Munich"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51839, "remote_ip": "142.251.39.110", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 52.3676, "lon": 4.90414, "country": "The Netherlands", "city": "Amsterdam"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51842, "remote_ip": "47.91.78.155", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51840, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51804, "remote_ip": "47.254.175.31", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1138, "lon": 8.6521, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 50913, "remote_ip": "98.66.133.185", "remote_port": 443, "protocol": "TCP", "pid": 3412, "process": "svchost.exe", "lat": 48.856567, "lon": 2.347322, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51841, "remote_ip": "8.211.36.15", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 50.1169, "lon": 8.6837, "country": "Germany", "city": "Frankfurt am Main"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51858, "remote_ip": "151.101.122.172", "remote_port": 80, "protocol": "TCP", "pid": 3272, "process": "svchost.exe", "lat": 48.8558, "lon": 2.3494, "country": "France", "city": "Paris"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51843, "remote_ip": "48.209.164.47", "remote_port": 443, "protocol": "TCP", "pid": 7208, "process": "smartscreen.exe", "lat": 53.3478, "lon": -6.2597, "country": "Ireland", "city": "Dublin"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51827, "remote_ip": "185.199.109.133", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 37.7823, "lon": -122.391, "country": "United States", "city": "San Francisco"}, {"type": "outgoing", "local_ip": "192.168.1.23", "local_port": 51809, "remote_ip": "172.217.22.197", "remote_port": 443, "protocol": "TCP", "pid": 5228, "process": "brave.exe", "lat": 48.1351, "lon": 11.582, "country": "Germany", "city": "Munich"}];
+        
+        let outgoingCount = 0;
+        let incomingCount = 0;
+        
+        connections.forEach(conn => {
+            if (!conn.lat || !conn.lon) return;
+            
+            const color = conn.type === 'outgoing' ? '#00ffcc' : '#ff5252';
+            const direction = conn.type === 'outgoing' ? '→' : '←';
+            
+            const line = L.polyline(
+                [[48.8566, 2.3522], [conn.lat, conn.lon]],
+                {
+                    color: color,
+                    weight: 2,
+                    opacity: 0.7,
+                    dashArray: '5, 10',
+                }
+            ).addTo(map);
+            
+            const destIcon = L.divIcon({
+                html: `<div style="background:${color};width:12px;height:12px;border-radius:50%;border:2px solid #fff;"></div>`,
+                className: 'dest-marker',
+                iconSize: [12, 12]
+            });
+            
+            L.marker([conn.lat, conn.lon], {icon: destIcon})
+                .addTo(map)
+                .bindPopup(`
+                    <b>${direction} ${conn.type.toUpperCase()}</b><br>
+                    IP: ${conn.remote_ip}<br>
+                    Port: ${conn.remote_port}<br>
+                    Pays: ${conn.country || 'Unknown'}<br>
+                    Ville: ${conn.city || 'Unknown'}<br>
+                    Process: ${conn.process || 'unknown'}<br>
+                    Protocole: ${conn.protocol}
+                `);
+            
+            if (conn.type === 'outgoing') outgoingCount++;
+            else incomingCount++;
+        });
+        
+        document.getElementById('active-count').textContent = connections.length;
+        document.getElementById('outgoing-count').textContent = outgoingCount;
+        document.getElementById('incoming-count').textContent = incomingCount;
+        document.getElementById('history-count').textContent = history.length;
+        
+        const connList = document.getElementById('connections-list');
+        connections.forEach(conn => {
+            const div = document.createElement('div');
+            div.className = `connection-item ${conn.type}`;
+            div.innerHTML = `
+                <div><strong>${conn.remote_ip}</strong> (${conn.type})</div>
+                <div style="color:#607d8b;font-size:10px;">
+                    ${conn.country || '?'} • Port ${conn.remote_port} • ${conn.process || '?'}
+                </div>
+            `;
+            connList.appendChild(div);
+        });
+        
+        let timer = 10;
+        setInterval(() => {
+            timer--;
+            document.getElementById('timer').textContent = timer;
+            if (timer <= 0) {
+                timer = 10;
+                location.reload();
+            }
+        }, 1000);
+    </script>
+</body>
+</html>

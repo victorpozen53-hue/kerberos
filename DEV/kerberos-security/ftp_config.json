@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "ftp_servers": [],
+  "allowed_ips": [
+    "127.0.0.1",
+    "::1",
+    "192.168.0.0/16",
+    "10.0.0.0/8",
+    "172.16.0.0/12"
+  ],
+  "blocked_ips": [],
+  "quarantine_dir": "quarantine_ftp",
+  "auto_block": true,
+  "log_level": "info",
+  "max_file_size_mb": 50,
+  "allowed_extensions": [
+    ".txt",
+    ".pdf",
+    ".jpg",
+    ".png",
+    ".zip",
+    ".json"
+  ],
+  "blocked_extensions": [
+    ".exe",
+    ".bat",
+    ".cmd",
+    ".ps1",
+    ".scr",
+    ".pif",
+    ".com"
+  ],
+  "created_at": "2026-02-15T16:30:29.160795+00:00",
+  "last_modified": "2026-08-19T20:04:15.946585+00:00"
+}

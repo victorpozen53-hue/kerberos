@@ -1,0 +1,101 @@
+{
+  "version": "7.4",
+  "auteur": "Victor Pozen",
+  "licence": "GPLv3",
+  "description": "Manifeste nettoyé et stabilisé",
+  "active_guards": [
+    "guard_manifest_injector.py",
+    "guard_video_analyzer.py",
+    "guard_ensemble_voter.py",
+    "guard_pixel_density.py",
+    "guard_shadow_analyzer.py",
+    "guard_resolution_analyzer.py",
+    "guard_platform_detector.py",
+    "guard_tiktok_analyzer.py",
+    "guard_youtube_analyzer.py",
+    "guard_instagram_analyzer.py",
+    "guard_device_detector.py",
+    "guard_frame_saver.py",
+    "guard_evidence_locker.py",
+    "guard_report_generator.py",
+    "guard_report_splitter.py",
+    "guard_ui_buttons.py",
+    "guard_ui_manager.py",
+    "guard_watermark_detector.py",
+    "guard_face_analyzer.py",
+    "guard_object_detector.py",
+    "guard_human_detector.py",
+    "guard_animal_detector.py",
+    "guard_vehicle_analyzer.py",
+    "guard_game_detector.py",
+    "guard_overlay_detector.py",
+    "guard_audio_analyzer.py",
+    "guard_video_metadata.py",
+    "guard_frame_analyzer.py",
+    "guard_image_forensics.py",
+    "guard_report_device_info.py",
+    "guard_report_ai_analysis.py",
+    "guard_report_oss_tool_links.py",
+    "guard_frame_reader.py",
+    "guard_multilayer_analyzer.py",
+    "guard_screenshot_capture.py",
+    "guard_visual_anomaly.py",
+    "guard_cerberus_security.py"
+  ],
+  "categories": {
+    "systeme": [
+      "guard_manifest_injector.py",
+      "guard_ui_manager.py",
+      "guard_ui_buttons.py"
+    ],
+    "orchestration": [
+      "guard_video_analyzer.py",
+      "guard_ensemble_voter.py"
+    ],
+    "plateformes": [
+      "guard_platform_detector.py",
+      "guard_tiktok_analyzer.py",
+      "guard_youtube_analyzer.py",
+      "guard_instagram_analyzer.py"
+    ],
+    "analyse_cv": [
+      "guard_device_detector.py",
+      "guard_pixel_density.py",
+      "guard_shadow_analyzer.py",
+      "guard_resolution_analyzer.py"
+    ],
+    "detection_specialisee": [
+      "guard_watermark_detector.py",
+      "guard_face_analyzer.py",
+      "guard_object_detector.py",
+      "guard_human_detector.py",
+      "guard_animal_detector.py",
+      "guard_vehicle_analyzer.py",
+      "guard_game_detector.py",
+      "guard_overlay_detector.py",
+      "guard_frame_reader.py",
+      "guard_multilayer_analyzer.py",
+      "guard_screenshot_capture.py",
+      "guard_visual_anomaly.py",
+      "guard_cerberus_security.py"
+    ],
+    "multimedia": [
+      "guard_audio_analyzer.py",
+      "guard_video_metadata.py"
+    ],
+    "forensique": [
+      "guard_frame_analyzer.py",
+      "guard_image_forensics.py"
+    ],
+    "preuve_et_rapport": [
+      "guard_frame_saver.py",
+      "guard_evidence_locker.py",
+      "guard_report_generator.py",
+      "guard_report_splitter.py",
+      "guard_report_device_info.py",
+      "guard_report_ai_analysis.py",
+      "guard_report_oss_tool_links.py"
+    ]
+  },
+  "derniere_mise_a_jour": "31/07/2026 21:46"
+}

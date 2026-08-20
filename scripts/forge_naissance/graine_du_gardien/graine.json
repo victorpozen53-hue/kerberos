@@ -1,0 +1,15 @@
+{
+  "type": "graine_du_gardien",
+  "created_at": "2026-01-16T20:57:43.217486+00:00",
+  "creator": "victor.pozen",
+  "kerberos_gene": "ccb9ef9b2d58021e",
+  "ethics": {
+    "license": "GPLv3",
+    "zero_cloud": true,
+    "local_only": true
+  },
+  "style": {
+    "signature": "(-;",
+    "motto": "Kerberos ne ment jamais — mais parfois, il grogne."
+  }
+}

@@ -1,0 +1,25 @@
+[2025-10-30 22:11:02] === DÉMARRAGE CONVERTISSEUR PS → PNG KERBEROS ===
+[2025-10-30 22:11:02] ℹ️  Ce script nécessite Ghostscript (libre, 20 Mo, Windows 7 compatible).
+[2025-10-30 22:11:02] 🔗 Téléchargement : https://ghostscript.com/releases/gsdnld.html
+[2025-10-30 22:11:02] Ghostscript accessible via PATH : gswin64c.exe
+[2025-10-30 22:11:10] 1 fichier(s) sélectionné(s).
+[2025-10-30 22:11:14] ✅ Converti : I:/iconforge/icons/bubble_active.png
+[2025-10-30 22:11:14] ✅ Conversion terminée : 1/1 réussie(s).
+[2025-10-30 22:11:37] 1 fichier(s) sélectionné(s).
+[2025-10-30 22:11:47] 1 fichier(s) sélectionné(s).
+[2025-10-30 22:11:51] ✅ Converti : I:/iconforge/icons/bubble_warning.png
+[2025-10-30 22:11:51] ✅ Conversion terminée : 1/1 réussie(s).
+[2025-10-30 22:12:14] 1 fichier(s) sélectionné(s).
+[2025-10-30 22:12:16] ✅ Converti : I:/iconforge/icons/bubble_inactive.png
+[2025-10-30 22:12:16] ✅ Conversion terminée : 1/1 réussie(s).
+[2025-10-30 22:13:28] 1 fichier(s) sélectionné(s).
+[2025-10-30 22:13:29] ✅ Converti : I:/iconforge/icons/bubble_alert.png
+[2025-10-30 22:13:29] ✅ Conversion terminée : 1/1 réussie(s).
+[2025-11-10 14:01:11] === DÉMARRAGE CONVERTISSEUR PS → PNG KERBEROS ===
+[2025-11-10 14:01:11] ℹ️  Ce script nécessite Ghostscript (libre, 20 Mo, Windows 7 compatible).
+[2025-11-10 14:01:11] 🔗 Téléchargement : https://ghostscript.com/releases/gsdnld.html
+[2025-11-10 14:01:12] Ghostscript accessible via PATH : gswin64c.exe
+[2026-08-19 11:20:09] === DÉMARRAGE CONVERTISSEUR PS → PNG KERBEROS ===
+[2026-08-19 11:20:09] ℹ️  Ce script nécessite Ghostscript (libre, 20 Mo, Windows 7 compatible).
+[2026-08-19 11:20:09] 🔗 Téléchargement : https://ghostscript.com/releases/gsdnld.html
+[2026-08-19 11:20:15] Ghostscript non trouvé. Conversion impossible.

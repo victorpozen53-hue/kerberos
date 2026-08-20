@@ -1,0 +1,453 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+🌍 Guard CyberMap — Carte des connexions réseau en temps réel
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Géolocalisation des IP (ip-api.com gratuit)
+- Connexions entrantes vs sortantes (couleurs différentes)
+- Mise à jour toutes les 10 secondes
+- Historique des 50 dernières connexions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright (C) 2025 Victor Pozen — GPLv3
+"""
+# ============================================================================
+#  KERBEROS ULTIMATE v4.2 — Guard CyberMap
+#  Copyright (C) 2025 Victor Pozen
+# ============================================================================
+#  LICENCE : GPLv3
+#  AUTEUR  : Victor Pozen
+#  VERSION : 4.2 Ultimate
+#  DATE    : 2025
+#  🔗 https://github.com/victorpozen
+#  💰 https://liberapay.com/EthicalKerberos/
+# ============================================================================
+
+import json
+import threading
+import time
+import urllib.request
+from pathlib import Path
+from datetime import datetime
+from typing import Dict, List, Optional
+import psutil
+
+# ============================================================================
+# === CONFIGURATION ==========================================================
+# ============================================================================
+
+CYBERMAP_DIR = Path(__file__).parent.parent / "maps"
+CYBERMAP_DIR.mkdir(parents=True, exist_ok=True)
+
+HTML_FILE = CYBERMAP_DIR / "cybermap_dynamic.html"
+DATA_FILE = CYBERMAP_DIR / "cybermap_data.json"
+
+MAX_IPS_PER_SCAN = 10
+SCAN_INTERVAL = 10
+MAX_HISTORY = 50
+
+COLORS = {
+    "outgoing": "#00ffcc",
+    "incoming": "#ff5252",
+    "listening": "#ffeb3b",
+    "france": "#00ccff",
+}
+
+# ============================================================================
+# === GÉOLOCALISATION IP =====================================================
+# ============================================================================
+
+_IP_CACHE: Dict[str, dict] = {}
+
+def _geolocate_ip(ip: str) -> Optional[dict]:
+    if ip in ("127.0.0.1", "::1", "0.0.0.0"):
+        return None
+    
+    if ip in _IP_CACHE:
+        return _IP_CACHE[ip]
+    
+    try:
+        url = f"http://ip-api.com/json/{ip}?fields=status,message,country,countryCode,regionName,city,lat,lon,isp,org,as,query"
+        req = urllib.request.Request(url, headers={"User-Agent": "Kerberos-CyberMap/4.2"})
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            
+            if data.get("status") == "success":
+                result = {
+                    "ip": data.get("query"),
+                    "country": data.get("country", "Unknown"),
+                    "country_code": data.get("countryCode", "??"),
+                    "city": data.get("city", "Unknown"),
+                    "lat": data.get("lat", 0),
+                    "lon": data.get("lon", 0),
+                    "isp": data.get("isp", ""),
+                    "org": data.get("org", ""),
+                }
+                _IP_CACHE[ip] = result
+                return result
+    except Exception:
+        pass
+    
+    return None
+
+# ============================================================================
+# === SCAN RÉSEAU ============================================================
+# ============================================================================
+
+def _get_network_connections() -> List[dict]:
+    connections = []
+    
+    try:
+        for conn in psutil.net_connections(kind="inet"):
+            if conn.status != "ESTABLISHED":
+                continue
+            
+            if conn.raddr and conn.raddr.ip:
+                connections.append({
+                    "type": "outgoing",
+                    "local_ip": conn.laddr.ip if conn.laddr else "0.0.0.0",
+                    "local_port": conn.laddr.port if conn.laddr else 0,
+                    "remote_ip": conn.raddr.ip,
+                    "remote_port": conn.raddr.port,
+                    "protocol": "TCP" if conn.type == 1 else "UDP",
+                    "pid": conn.pid,
+                    "process": _get_process_name(conn.pid),
+                })
+    except (psutil.AccessDenied, Exception):
+        pass
+    
+    return connections[:MAX_IPS_PER_SCAN]
+
+def _get_process_name(pid: int) -> str:
+    try:
+        return psutil.Process(pid).name() if pid else "unknown"
+    except:
+        return "unknown"
+
+# ============================================================================
+# === GÉNÉRATION HTML DYNAMIQUE ==============================================
+# ============================================================================
+
+def _generate_cybermap_html(connections: List[dict], history: List[dict]) -> str:
+    FRANCE_LAT, FRANCE_LON = 48.8566, 2.3522
+    
+    connections_json = json.dumps(connections, ensure_ascii=False)
+    history_json = json.dumps(history, ensure_ascii=False)
+    
+    html = f'''<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌍 Kerberos CyberMap — Connexions Temps Réel</title>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <style>
+        * {{ margin:0; padding:0; box-sizing:border-box; }}
+        body {{ background:#0a0f1a; color:#00ffcc; font-family:'Consolas', monospace; }}
+        #map {{ height:100vh; width:100%; }}
+        .info-panel {{
+            position:absolute; top:10px; right:10px;
+            background:rgba(10,15,26,0.95);
+            border:2px solid #00ffcc;
+            border-radius:10px;
+            padding:15px;
+            z-index:1000;
+            min-width:280px;
+            max-height:400px;
+            overflow-y:auto;
+        }}
+        .info-panel h3 {{ color:#00ffcc; margin-bottom:10px; font-size:16px; }}
+        .stat-row {{
+            display:flex; justify-content:space-between;
+            padding:4px 0; border-bottom:1px solid #1a2a3a;
+        }}
+        .stat-label {{ color:#607d8b; }}
+        .stat-value {{ color:#00ffcc; font-weight:bold; }}
+        .connection-item {{
+            background:#1a2a3a; padding:8px; margin:4px 0;
+            border-radius:4px; font-size:11px;
+        }}
+        .connection-item.outgoing {{ border-left:3px solid #00ffcc; }}
+        .connection-item.incoming {{ border-left:3px solid #ff5252; }}
+        .legend {{
+            position:absolute; bottom:30px; left:10px;
+            background:rgba(10,15,26,0.95);
+            border:2px solid #00ffcc;
+            border-radius:10px;
+            padding:10px;
+            z-index:1000;
+        }}
+        .legend-item {{
+            display:flex; align-items:center; margin:4px 0; font-size:12px;
+        }}
+        .legend-color {{ width:20px; height:3px; margin-right:8px; }}
+        .refresh-timer {{
+            position:absolute; bottom:10px; right:10px;
+            background:rgba(10,15,26,0.95);
+            border:1px solid #00ffcc;
+            border-radius:5px;
+            padding:5px 10px;
+            font-size:11px;
+            z-index:1000;
+        }}
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <div class="info-panel">
+        <h3>📊 STATISTIQUES</h3>
+        <div class="stat-row">
+            <span class="stat-label">Connexions actives:</span>
+            <span class="stat-value" id="active-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Sortantes 📤:</span>
+            <span class="stat-value" id="outgoing-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Entrantes 📥:</span>
+            <span class="stat-value" id="incoming-count">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Historique:</span>
+            <span class="stat-value" id="history-count">0</span>
+        </div>
+        <h3 style="margin-top:15px;">🔗 CONNEXIONS</h3>
+        <div id="connections-list"></div>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background:#00ffcc;"></div>
+            <span>Sortante (Kerberos → Monde)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background:#ff5252;"></div>
+            <span>Entrante (Monde → Kerberos)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background:#00ccff;"></div>
+            <span>Kerberos HQ (France)</span>
+        </div>
+    </div>
+    
+    <div class="refresh-timer">
+        🔄 Prochain refresh: <span id="timer">10</span>s
+    </div>
+
+    <script>
+        const map = L.map('map').setView([{FRANCE_LAT}, {FRANCE_LON}], 3);
+        
+        L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
+            attribution: '© OpenStreetMap contributors | Kerberos v4.2'
+        }}).addTo(map);
+        
+        const kerberosIcon = L.divIcon({{
+            html: '<div style="background:#00ccff;width:20px;height:20px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 20px #00ccff;"></div>',
+            className: 'kerberos-marker',
+            iconSize: [20, 20]
+        }});
+        
+        L.marker([{FRANCE_LAT}, {FRANCE_LON}], {{icon: kerberosIcon}})
+            .addTo(map)
+            .bindPopup('<b>🛡️ KERBEROS HQ</b><br>France<br>Mode: Surveillance active');
+        
+        const connections = {connections_json};
+        const history = {history_json};
+        
+        let outgoingCount = 0;
+        let incomingCount = 0;
+        
+        connections.forEach(conn => {{
+            if (!conn.lat || !conn.lon) return;
+            
+            const color = conn.type === 'outgoing' ? '#00ffcc' : '#ff5252';
+            const direction = conn.type === 'outgoing' ? '→' : '←';
+            
+            const line = L.polyline(
+                [[{FRANCE_LAT}, {FRANCE_LON}], [conn.lat, conn.lon]],
+                {{
+                    color: color,
+                    weight: 2,
+                    opacity: 0.7,
+                    dashArray: '5, 10',
+                }}
+            ).addTo(map);
+            
+            const destIcon = L.divIcon({{
+                html: `<div style="background:${{color}};width:12px;height:12px;border-radius:50%;border:2px solid #fff;"></div>`,
+                className: 'dest-marker',
+                iconSize: [12, 12]
+            }});
+            
+            L.marker([conn.lat, conn.lon], {{icon: destIcon}})
+                .addTo(map)
+                .bindPopup(`
+                    <b>${{direction}} ${{conn.type.toUpperCase()}}</b><br>
+                    IP: ${{conn.remote_ip}}<br>
+                    Port: ${{conn.remote_port}}<br>
+                    Pays: ${{conn.country || 'Unknown'}}<br>
+                    Ville: ${{conn.city || 'Unknown'}}<br>
+                    Process: ${{conn.process || 'unknown'}}<br>
+                    Protocole: ${{conn.protocol}}
+                `);
+            
+            if (conn.type === 'outgoing') outgoingCount++;
+            else incomingCount++;
+        }});
+        
+        document.getElementById('active-count').textContent = connections.length;
+        document.getElementById('outgoing-count').textContent = outgoingCount;
+        document.getElementById('incoming-count').textContent = incomingCount;
+        document.getElementById('history-count').textContent = history.length;
+        
+        const connList = document.getElementById('connections-list');
+        connections.forEach(conn => {{
+            const div = document.createElement('div');
+            div.className = `connection-item ${{conn.type}}`;
+            div.innerHTML = `
+                <div><strong>${{conn.remote_ip}}</strong> (${{conn.type}})</div>
+                <div style="color:#607d8b;font-size:10px;">
+                    ${{conn.country || '?'}} • Port ${{conn.remote_port}} • ${{conn.process || '?'}}
+                </div>
+            `;
+            connList.appendChild(div);
+        }});
+        
+        let timer = 10;
+        setInterval(() => {{
+            timer--;
+            document.getElementById('timer').textContent = timer;
+            if (timer <= 0) {{
+                timer = 10;
+                location.reload();
+            }}
+        }}, 1000);
+    </script>
+</body>
+</html>'''
+    
+    return html
+
+# ============================================================================
+# === CYBERMAP ENGINE ========================================================
+# ============================================================================
+
+class CyberMapEngine:
+    def __init__(self):
+        self.connections: List[dict] = []
+        self.history: List[dict] = []
+        self.running = False
+        self._lock = threading.Lock()
+    
+    def start(self):
+        self.running = True
+        threading.Thread(target=self._monitor_loop, daemon=True).start()
+    
+    def stop(self):
+        self.running = False
+    
+    def _monitor_loop(self):
+        while self.running:
+            try:
+                self._scan_and_update()
+                time.sleep(SCAN_INTERVAL)
+            except Exception:
+                time.sleep(SCAN_INTERVAL)
+    
+    def _scan_and_update(self):
+        raw_connections = _get_network_connections()
+        geolocated = []
+        
+        for conn in raw_connections:
+            geo = _geolocate_ip(conn["remote_ip"])
+            if geo:
+                conn["lat"] = geo["lat"]
+                conn["lon"] = geo["lon"]
+                conn["country"] = geo["country"]
+                conn["city"] = geo["city"]
+                geolocated.append(conn)
+        
+        with self._lock:
+            self.connections = geolocated
+            self.history = (self.history + geolocated)[-MAX_HISTORY:]
+            
+            html = _generate_cybermap_html(self.connections, self.history)
+            HTML_FILE.write_text(html, encoding="utf-8")
+            
+            DATA_FILE.write_text(json.dumps({
+                "timestamp": datetime.now().isoformat(),
+                "connections": self.connections,
+                "history": self.history,
+            }, indent=2, ensure_ascii=False), encoding="utf-8")
+    
+    def get_stats(self) -> dict:
+        with self._lock:
+            return {
+                "active_connections": len(self.connections),
+                "outgoing": sum(1 for c in self.connections if c["type"] == "outgoing"),
+                "incoming": sum(1 for c in self.connections if c["type"] == "incoming"),
+                "history_size": len(self.history),
+                "last_scan": datetime.now().isoformat(),
+            }
+
+# ============================================================================
+# === POINTS D'ENTRÉE ========================================================
+# ============================================================================
+
+_engine: Optional[CyberMapEngine] = None
+
+def start_guard():
+    global _engine
+    print("🌍 [CyberMap] Monitoring réseau démarré...")
+    _engine = CyberMapEngine()
+    _engine.start()
+    return _engine
+
+def get_stats() -> dict:
+    if _engine:
+        stats = _engine.get_stats()
+        stats["guard_name"] = "CyberMap"
+        return stats
+    return {
+        "guard_name": "CyberMap",
+        "status": "inactive",
+        "active_connections": 0,
+    }
+
+def run():
+    print("""
+╔════════════════════════════════════════════════════════════╗
+║  🌍 KERBEROS CYBERMAP — Carte réseau temps réel           ║
+║                                                            ║
+║  • Géolocalisation IP (ip-api.com)                        ║
+║  • Connexions entrantes/sortantes                         ║
+║  • Mise à jour toutes les 10 secondes                     ║
+║  • Carte Leaflet interactive                              ║
+║                                                            ║
+║  Licence : GPLv3 — Victor Pozen                           ║
+║  🔗 github.com/victorpozen                                ║
+╚════════════════════════════════════════════════════════════╝
+    """)
+    
+    engine = CyberMapEngine()
+    engine.start()
+    
+    print("🗺️ Carte générée : maps/cybermap_dynamic.html")
+    print("📊 Données JSON   : maps/cybermap_data.json")
+    print("\n⏳ Surveillance en cours... (Ctrl+C pour arrêter)")
+    
+    try:
+        while True:
+            time.sleep(5)
+            stats = engine.get_stats()
+            print(f"\r📊 Actif: {stats['active_connections']} | "
+                  f"📤 Sortant: {stats['outgoing']} | "
+                  f"📥 Entrant: {stats['incoming']}", end="")
+    except KeyboardInterrupt:
+        print("\n\n✅ Arrêt propre")
+        engine.stop()
+
+if __name__ == "__main__":
+    run()

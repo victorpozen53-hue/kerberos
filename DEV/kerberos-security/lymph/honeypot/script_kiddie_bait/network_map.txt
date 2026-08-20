@@ -1,0 +1,9 @@
+
+# KERBEROS_HONEYPOT_MARKER_DO_NOT_DELETE
+# Fichier leurre — toute lecture est loggée
+Réseau Interne Kerberos:
+192.168.1.1 — Gateway
+192.168.1.10 — Serveur Principal
+192.168.1.20 — Base de Données
+192.168.1.30 — Backup
+# IP du lecteur sera capturée

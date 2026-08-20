@@ -1,0 +1,10 @@
+{
+  "guard": "genome",
+  "timestamp": "2026-03-03T22:20:44.448390+00:00",
+  "status": "change_detected",
+  "dna_core": "88ce7974…",
+  "telomeres_valid": true,
+  "telomere_issues": [],
+  "was_stable": false,
+  "mutation_available": true
+}

@@ -1,0 +1,78 @@
+{
+  "liens": [
+    {"nom":"🇫🇷 matchid","url":"https://deces.matchid.io/search?q={q}","consigne":"décès France INSEE (recherche directe)","fronts":null},
+    {"nom":"🇫 geneanet","url":"https://www.geneanet.org/fonds/individus/?nom={nom}&prenom={prenom}","consigne":"arbres & relevés collaboratifs","fronts":null},
+    {"nom":"🇫🇷 archives-rhone","url":"https://archives.rhone.fr","consigne":"état civil 69 (Villeurbanne/Lyon)","fronts":["France"]},
+    {"nom":"🇫🇷 archives-jura","url":"https://archives39.fr","consigne":"état civil 39 (Lons-le-Saunier)","fronts":["France"]},
+    {"nom":"🇫🇷 anom","url":"http://anom.archivesnationales.culture.gouv.fr/","consigne":"archives coloniales (AOF/AEF)","fronts":["France","Mer"]},
+
+    {"nom":"🕊️ memoire-hommes","url":"https://www.memoiredeshommes.sga.defense.gouv.fr/","consigne":"dossiers individuels Résistance (GR 16 P) + Morts pour la France : {nom} {prenom}","fronts":["France","Belgique"]},
+    {"nom":"🕊️ maitron","url":"https://maitron.fr/?s={nom}","consigne":"Dictionnaire des fusillés, guillotinés & résistants","fronts":["France"]},
+    {"nom":"🕊️ leonore","url":"https://www.leonore.archives-nationales.culture.gouv.fr/","consigne":"Légion d'honneur (résistants décorés) : {nom}","fronts":["France"]},
+    {"nom":"🕊️ ordre-liberation","url":"https://www.ordredelaliberation.fr/","consigne":"Compagnons de la Libération","fronts":["France"]},
+    {"nom":"🕊️ fondation-resistance","url":"https://www.fondationresistance.org/","consigne":"Fondation de la Résistance","fronts":["France"]},
+    {"nom":"🕊️ musee-resistance","url":"https://www.museeresistance.fr/","consigne":"Musée de la Résistance en ligne","fronts":["France"]},
+
+    {"nom":"🇮🇹 antenati","url":"https://antenati.cultura.gov.it/search-registry/","consigne":"état civil italien numérisé","fronts":["Italie"]},
+    {"nom":"🇮🇹 frioul-defunti","url":"https://lexview-int.regione.fvg.it/ServiziCimiteriali/Defunti.aspx","consigne":"défunts cimetières Frioul","fronts":["Italie"]},
+    {"nom":"🇮🇹 geneaita","url":"https://www.geneaita.org","consigne":"DBFF frioulans en France (M. Margarit)","fronts":["Italie"]},
+    {"nom":"🕊️ anpi","url":"https://anpi.it/","consigne":"partisans italiens (si Mirco fut partisan)","fronts":["Italie"]},
+
+    {"nom":"🇧 arch-be","url":"https://search.arch.be/","consigne":"Archives de l'État belge","fronts":["Belgique"]},
+    {"nom":"🇧 moniteur-be","url":"https://www.ejustice.just.fgov.be/","consigne":"Moniteur belge officiel","fronts":["Belgique"]},
+    {"nom":"🇧 diplomatie-be","url":"https://diplomatie.belgium.be/","consigne":"SPF AE — dossier consulaire disparu","fronts":["Belgique","Mer"]},
+    {"nom":"🇧🇪 childfocus","url":"https://www.childfocus.be/","consigne":"Child Focus (disparitions Belgique)","fronts":["Belgique","Mer"]},
+    {"nom":"🕊️ cegesoma","url":"https://www.cegesoma.be/","consigne":"Archives WWII Belgique (résistance, victimes de guerre) : {nom}","fronts":["Belgique"]},
+    {"nom":"🕊️ warheritage","url":"https://warheritage.be/","consigne":"War Heritage Institute — la Belgique en guerre","fronts":["Belgique"]},
+    {"nom":"🕊️ plaques-schaerbeek","url":"https://www.1030.be/fr/plaques-commemoratives","consigne":"plaques résistance Schaerbeek (Légion Blanche) : {nom}","fronts":["Belgique"]},
+
+    {"nom":"🇳 delpher","url":"https://www.delpher.nl/nl/kranten/results?query={q}","consigne":"presse néerlandaise historique","fronts":null},
+    {"nom":"🇳 wiewaswie","url":"https://www.wiewaswie.nl/en/search/?q={q}","consigne":"état civil néerlandais","fronts":["Belgique"]},
+    {"nom":"🇳🇱 nationaalarchief","url":"https://www.nationaalarchief.nl/","consigne":"archives nationales NL (marine)","fronts":["Belgique","Mer"]},
+
+    {"nom":"🇪🇸 pares","url":"http://pares.cultura.gob.es/","consigne":"archives nationales espagnoles","fronts":["Mer"]},
+    {"nom":"🇪🇸 boe","url":"https://www.boe.es/","consigne":"JO espagnol (registre maritime)","fronts":["Mer"]},
+    {"nom":"🇪 canarias-mdc","url":"https://mdc.ulpgc.es/","consigne":"presse canarienne (Las Palmas)","fronts":["Mer"]},
+    {"nom":"🇪🇸 canarias7","url":"https://www.canarias7.es/","consigne":"journal Canarias7","fronts":["Mer"]},
+    {"nom":"🇪🇸 sasemar","url":"https://www.sasemar.es/","consigne":"Salvamento Marítimo espagnol","fronts":["Mer"]},
+    {"nom":"🇵🇹 portugal-arq","url":"https://arquivos.dglab.gov.pt/","consigne":"archives nationales Portugal (Madère/Açores)","fronts":["Mer"]},
+
+    {"nom":"🌍 thepoint-gm","url":"https://thepoint.gm/","consigne":"presse Gambie (The Point)","fronts":["Mer"]},
+    {"nom":"🌍 freedom-gm","url":"https://freedomnewspaper.org/","consigne":"presse Gambie (Freedom)","fronts":["Mer"]},
+    {"nom":"🌍 lesoleil-sn","url":"https://www.lesoleil.sn/","consigne":"presse Sénégal (Le Soleil)","fronts":["Mer"]},
+    {"nom":"🌍 allafrica","url":"https://fr.allafrica.com/","consigne":"agrégateur presse africaine","fronts":["Mer"]},
+    {"nom":"🌍 eap-bl","url":"https://eap.bl.uk/","consigne":"British Library — archives Afrique","fronts":["Mer"]},
+    {"nom":"🌍 hemeroteca-br","url":"https://memoria.bn.br/","consigne":"presse ancienne Brésil (route Atlantique)","fronts":["Mer","Autre"]},
+    {"nom":"🌍 gambia-ports","url":null,"consigne":"Gambia Ports Authority (Banjul) : COURRIER","fronts":["Mer"]},
+    {"nom":"🌍 capitania-lpa","url":null,"consigne":"Capitanía Marítima Las Palmas : COURRIER","fronts":["Mer"]},
+
+    {"nom":"⚓ imo-gisis","url":"https://gisis.imo.org/","consigne":"registre mondial des navires (IMO)","fronts":["Mer"]},
+    {"nom":"⚓ lloyds-heritage","url":"https://hec.lrfoundation.org.uk/","consigne":"Lloyd's Register — archives navires","fronts":["Mer"]},
+    {"nom":"⚓ marinetraffic","url":"https://www.marinetraffic.com/","consigne":"position navires AIS","fronts":["Mer"]},
+    {"nom":"⚓ vesselfinder","url":"https://www.vesselfinder.com/","consigne":"position navires AIS","fronts":["Mer"]},
+    {"nom":"⚓ shipspotting","url":"https://www.shipspotting.com/","consigne":"photos de navires","fronts":["Mer"]},
+    {"nom":"⚓ crewlist","url":"https://www.crewlist.org.uk/","consigne":"rôles d'équipage UK","fronts":["Mer"]},
+    {"nom":"⚓ miramar","url":"https://www.miramarshipindex.org.nz/","consigne":"Miramar Ship Index","fronts":["Mer"]},
+
+    {"nom":"🔍 icrc","url":"https://familylinks.icrc.org/","consigne":"CICR Restoring Family Links","fronts":null},
+    {"nom":"🔍 icmp","url":"https://www.icmp.int/","consigne":"Commission internationale personnes disparues","fronts":["Mer"]},
+    {"nom":"🔍 doenetwork","url":"https://doenetwork.org/","consigne":"Doe Network (disparus monde)","fronts":null},
+    {"nom":"🔍 charley","url":"https://charleyproject.org/","consigne":"Charley Project (disparus US)","fronts":["Autre"]},
+    {"nom":"🔍 missingpeople-uk","url":"https://missingpeople.org.uk/","consigne":"Missing People UK","fronts":["Mer"]},
+    {"nom":"🔍 cruisers","url":"https://www.cruisersforum.com/forums/tags/lost.html","consigne":"forum voiliers disparus","fronts":["Mer"]},
+    {"nom":"🔍 wiki-mer","url":"https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously_at_sea","consigne":"liste disparus en mer","fronts":["Mer"]},
+
+    {"nom":"🌐 familysearch","url":"https://www.familysearch.org/fr/search/record/results?count=100&q.surname={nom}&q.givenName={prenom}&q.birthLikeDate.from={naissance}&q.birthLikePlace={lieu}","consigne":"recherche pré-remplie complète (nom+prénom+année+lieu)","fronts":null},
+    {"nom":"🌐 wikitree","url":"https://www.wikitree.com/","consigne":"arbre collaboratif mondial","fronts":null},
+    {"nom":"🌐 geni","url":"https://www.geni.com/","consigne":"arbre mondial Geni","fronts":null},
+    {"nom":"🌐 findagrave","url":"https://www.findagrave.com/memorial/search?lastname={nom}&firstname={prenom}","consigne":"tombes du monde entier","fronts":null},
+    {"nom":"🌐 billiongraves","url":"https://billiongraves.com/","consigne":"tombes (BillionGraves)","fronts":null},
+    {"nom":"🌐 archive-org","url":"https://archive.org/search?query={q}","consigne":"livres & journaux du monde","fronts":null},
+    {"nom":"🌐 europeana","url":"https://www.europeana.eu/en/search?q={q}","consigne":"patrimoine européen","fronts":null},
+    {"nom":"🌐 worldcat","url":"https://search.worldcat.org/fr/search?q={q}","consigne":"bibliothèques du monde","fronts":null},
+    {"nom":"🌐 trove","url":"https://trove.nla.gov.au/newspaper/search?keyword={q}","consigne":"presse Australie (Trove)","fronts":["Autre"]},
+    {"nom":"🌐 chronam","url":"https://chroniclingamerica.loc.gov/search/pages/results/?proxtext={q}","consigne":"presse US ancienne","fronts":["Autre"]},
+    {"nom":"🌐 paperspast","url":"https://paperspast.natlib.govt.nz/newspapers?items_per_page=25&query={q}","consigne":"presse Nouvelle-Zélande","fronts":["Autre"]},
+    {"nom":"🌐 cyndislist","url":"https://www.cyndislist.com/","consigne":"annuaire généalogique mondial","fronts":null}
+  ]
+}

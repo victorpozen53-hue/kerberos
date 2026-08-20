@@ -1,0 +1,264 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>I-BlockList | Lists</title>
+<link rel="stylesheet" type="text/css" href="/sitefiles/css/style.css">
+<link rel="shortcut icon" href="https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="I-Blocklist,iblocklist,ip,allow,block,list,lists,blocklist,blocklists,peerguardian,peerguardian2,pg2,peerblock,moblock">
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17486882-1', 'auto');
+  ga('send', 'pageview');
+</script><script type="text/javascript" src="https://d3pkfiqitivr8j.cloudfront.net/sitefiles/javascript/selectfield.js"></script>
+</head>
+
+<body>
+
+<noscript>
+<div id='message'><img src='https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/attention_512x512.png' width='18' height='18' style='vertical-align: middle;'> Our site requires that JavaScript be enabled to work properly. <img src='https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/attention_512x512.png' width='18' height='18' style='vertical-align: middle;'></div>
+</noscript>
+
+<div id='header'>
+<div id='logo'>
+<a href='/'><img src='https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/iblocklist_white_1265x178.png' height='45' width='320' alt='I-BLOCKLIST'></a>
+</div>
+<div id='menu'>
+<a href='/'>Home</a>
+<a href='/lists'>Lists</a>
+<a href='/subscribe'>Subscribe</a>
+<a href='/support'>Support</a>
+</div>
+<div id='login'>
+<a href='/register'>Register</a>
+<a href='/login'>Log In</a>
+</div>
+</div>
+
+<div id='note'>
+<h2>PhantomPeer VPN Service</h2>
+I-Blocklist has a VPN and proxy service named PhantomPeer.<br>
+To find out more please visit <a href='https://www.phantompeer.com/r/detjqmbegu' target='_blank'>www.phantompeer.com</a><br>
+</div>
+
+<div id="content">
+<div class='contentbox'>
+<form action='' method='get'>
+<span style='font-weight:bold;'>TLS: </span><input style='width: 20px; vertical-align: middle; position: relative; bottom: 1px;' type='checkbox' name='tls' value='true' onChange='this.form.submit()' >
+&nbsp;
+<span style='font-weight:bold;'>IPv6: </span><input style='width: 20px; vertical-align: middle; position: relative; bottom: 1px;' type='checkbox' name='ipv6' value='true' onChange='this.form.submit()' >
+&nbsp;
+<span style='font-weight:bold;'>File Format: </span><select style='width: 75px; font-size: 18px; font-weight:bold;' name='fileformat' onChange='this.form.submit()'>
+<option value='p2p' selected='selected'>p2p</option>
+<option value='dat'>dat</option>
+<option value='cidr'>cidr</option>
+<option value='hosts'>hosts</option>
+</select>
+&nbsp;
+<span style='font-weight:bold;'>Archive Format: </span><select style='width:75px; font-size:18px; font-weight:bold;' name='archiveformat' onChange='this.form.submit()'>
+<option value=''></option>
+<option value='gz' selected='selected'>gz</option>
+<option value='zip'>zip</option>
+<option value='7z'>7z</option>
+</select>
+&nbsp;
+<noscript>
+<input id='example' type='submit' value='Update'>
+</noscript>
+</form></div>
+<br>
+<div style='text-align:center;'>
+<a href='?category=general'><input style='width:130px;' type='button' value='General'></a>
+<a href='?category=organization'><input style='width:130px;' type='button' value='Organization'></a>
+<a href='?category=isp'><input style='width:130px;' type='button' value='ISP'></a>
+<a href='?category=country'><input style='width:130px;' type='button' value='Country'></a>
+<a href='?category=mylists'><input style='width:130px;' type='button' value='My Lists'></a>
+</div>
+<br>
+<table style='width:100%; border-collapse:collapse;'>
+<tr>
+<td><span style='font-weight:bold;'>List</span></td>
+<td><span style='font-weight:bold;'>Author</span></td>
+<td style='width:200px;'><span style='font-weight:bold;'>Update URL</span></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=srzondksmjuwsvmgdbhi'>Anti-Infringement</a></span></td>
+<td>I-Blocklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=lakuncfhfhgiqghqxjzi'>Government</a></span></td>
+<td>I-Blocklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=nrylrfwkqpcnqfszvunb'>P2P Allow</a></span></td>
+<td>I-Blocklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=rynxmrknfjysesjtjlxy'>Spammers</a></span></td>
+<td>I-Blocklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=dufcxgnbjsdwmwctgfuj'>Pedophiles</a></span></td>
+<td>I-Blocklist</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='dufcxgnbjsdwmwctgfuj' readonly='readonly' onClick="select_text('dufcxgnbjsdwmwctgfuj');" value='http://list.iblocklist.com/?list=dufcxgnbjsdwmwctgfuj&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=chykyvyiwrfszbqynhnd'>US Government Blacklist</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=tkyphgqwfqmawathcozn'>Prime</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=ffxgwdvcgelinvypvhuz'>Malicious</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=gzuamdjmitutrcvsmuwv'>Piracy Related</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=nndhjdnpxvydcupzaann'>Pornography</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=fruzekpkpzlmzozmuuhx'>Ads and Trackers</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=xafnpguypyaewkmuugbd'>Proxies</a></span></td>
+<td>Squidblacklist</td>
+<td><a href='/subscribe'><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/lock_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='subscription'></a></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=ydxerpxkpcfqjaybcssw'>level1</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='ydxerpxkpcfqjaybcssw' readonly='readonly' onClick="select_text('ydxerpxkpcfqjaybcssw');" value='http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=gyisgnzbhppbvsphucsw'>level2</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='gyisgnzbhppbvsphucsw' readonly='readonly' onClick="select_text('gyisgnzbhppbvsphucsw');" value='http://list.iblocklist.com/?list=gyisgnzbhppbvsphucsw&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=uwnukjqktoggdknzrhgh'>level3</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='uwnukjqktoggdknzrhgh' readonly='readonly' onClick="select_text('uwnukjqktoggdknzrhgh');" value='http://list.iblocklist.com/?list=uwnukjqktoggdknzrhgh&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=imlmncgrkbnacgcwfjvh'>edu</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='imlmncgrkbnacgcwfjvh' readonly='readonly' onClick="select_text('imlmncgrkbnacgcwfjvh');" value='http://list.iblocklist.com/?list=imlmncgrkbnacgcwfjvh&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=plkehquoahljmyxjixpu'>rangetest</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='plkehquoahljmyxjixpu' readonly='readonly' onClick="select_text('plkehquoahljmyxjixpu');" value='http://list.iblocklist.com/?list=plkehquoahljmyxjixpu&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=gihxqmhyunbxhbmgqrla'>bogon</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='gihxqmhyunbxhbmgqrla' readonly='readonly' onClick="select_text('gihxqmhyunbxhbmgqrla');" value='http://list.iblocklist.com/?list=gihxqmhyunbxhbmgqrla&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=dgxtneitpuvgqqcpfulq'>ads</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='dgxtneitpuvgqqcpfulq' readonly='readonly' onClick="select_text('dgxtneitpuvgqqcpfulq');" value='http://list.iblocklist.com/?list=dgxtneitpuvgqqcpfulq&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=llvtlsjyoyiczbkjsxpf'>spyware</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='llvtlsjyoyiczbkjsxpf' readonly='readonly' onClick="select_text('llvtlsjyoyiczbkjsxpf');" value='http://list.iblocklist.com/?list=llvtlsjyoyiczbkjsxpf&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=xoebmbyexwuiogmbyprb'>proxy</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='xoebmbyexwuiogmbyprb' readonly='readonly' onClick="select_text('xoebmbyexwuiogmbyprb');" value='http://list.iblocklist.com/?list=xoebmbyexwuiogmbyprb&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=cwworuawihqvocglcoss'>badpeers</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='cwworuawihqvocglcoss' readonly='readonly' onClick="select_text('cwworuawihqvocglcoss');" value='http://list.iblocklist.com/?list=cwworuawihqvocglcoss&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=xshktygkujudfnjfioro'>Microsoft</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='xshktygkujudfnjfioro' readonly='readonly' onClick="select_text('xshktygkujudfnjfioro');" value='http://list.iblocklist.com/?list=xshktygkujudfnjfioro&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=mcvxsnihddgutbjfbghy'>spider</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='mcvxsnihddgutbjfbghy' readonly='readonly' onClick="select_text('mcvxsnihddgutbjfbghy');" value='http://list.iblocklist.com/?list=mcvxsnihddgutbjfbghy&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=usrcshglbiilevmyfhse'>hijacked</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='usrcshglbiilevmyfhse' readonly='readonly' onClick="select_text('usrcshglbiilevmyfhse');" value='http://list.iblocklist.com/?list=usrcshglbiilevmyfhse&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=xpbqleszmajjesnzddhv'>dshield</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='xpbqleszmajjesnzddhv' readonly='readonly' onClick="select_text('xpbqleszmajjesnzddhv');" value='http://list.iblocklist.com/?list=xpbqleszmajjesnzddhv&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=ficutxiwawokxlcyoeye'>forumspam</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='ficutxiwawokxlcyoeye' readonly='readonly' onClick="select_text('ficutxiwawokxlcyoeye');" value='http://list.iblocklist.com/?list=ficutxiwawokxlcyoeye&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=ghlzqtqxnzctvvajwwag'>webexploit</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='ghlzqtqxnzctvvajwwag' readonly='readonly' onClick="select_text('ghlzqtqxnzctvvajwwag');" value='http://list.iblocklist.com/?list=ghlzqtqxnzctvvajwwag&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=bcoepfyewziejvcqyhqo'>iana-reserved</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='bcoepfyewziejvcqyhqo' readonly='readonly' onClick="select_text('bcoepfyewziejvcqyhqo');" value='http://list.iblocklist.com/?list=bcoepfyewziejvcqyhqo&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=cslpybexmxyuacbyuvib'>iana-private</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='cslpybexmxyuacbyuvib' readonly='readonly' onClick="select_text('cslpybexmxyuacbyuvib');" value='http://list.iblocklist.com/?list=cslpybexmxyuacbyuvib&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=pwqnlynprfgtjbgqoizj'>iana-multicast</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='pwqnlynprfgtjbgqoizj' readonly='readonly' onClick="select_text('pwqnlynprfgtjbgqoizj');" value='http://list.iblocklist.com/?list=pwqnlynprfgtjbgqoizj&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=jhaoawihmfxgnvmaqffp'>fornonlancomputers</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='jhaoawihmfxgnvmaqffp' readonly='readonly' onClick="select_text('jhaoawihmfxgnvmaqffp');" value='http://list.iblocklist.com/?list=jhaoawihmfxgnvmaqffp&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=mtxmiireqmjzazcsoiem'>exclusions</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='mtxmiireqmjzazcsoiem' readonly='readonly' onClick="select_text('mtxmiireqmjzazcsoiem');" value='http://list.iblocklist.com/?list=mtxmiireqmjzazcsoiem&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=qlprgwgdkojunfdlzsiv'>HOSTS</a></span></td>
+<td>Bluetack</td>
+<td><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/unavailable_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='format not available'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=zbdlwrqkabxbcppvrnos'>DROP</a></span></td>
+<td>Spamhaus</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='zbdlwrqkabxbcppvrnos' readonly='readonly' onClick="select_text('zbdlwrqkabxbcppvrnos');" value='http://list.iblocklist.com/?list=zbdlwrqkabxbcppvrnos&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=npkuuhuxcsllnhoamkvm'>CINS Army</a></span></td>
+<td>CINSscore</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='npkuuhuxcsllnhoamkvm' readonly='readonly' onClick="select_text('npkuuhuxcsllnhoamkvm');" value='http://list.iblocklist.com/?list=npkuuhuxcsllnhoamkvm&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=pbqcylkejciyhmwttify'>malc0de</a></span></td>
+<td>malc0de</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='pbqcylkejciyhmwttify' readonly='readonly' onClick="select_text('pbqcylkejciyhmwttify');" value='http://list.iblocklist.com/?list=pbqcylkejciyhmwttify&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=zhogegszwduurnvsyhdf'>adservers</a></span></td>
+<td>Yoyo</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='zhogegszwduurnvsyhdf' readonly='readonly' onClick="select_text('zhogegszwduurnvsyhdf');" value='http://list.iblocklist.com/?list=zhogegszwduurnvsyhdf&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=lujdnbasfaaixitgmxpp'>bogon</a></span></td>
+<td>cidr-report</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='lujdnbasfaaixitgmxpp' readonly='readonly' onClick="select_text('lujdnbasfaaixitgmxpp');" value='http://list.iblocklist.com/?list=lujdnbasfaaixitgmxpp&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt2'><td><span style='font-weight:bold;'><a href='/list?list=czvaehmjpsnwwttrdoyl'>cruzit web attacks</a></span></td>
+<td>CruzIT</td>
+<td><input style='width:200px; background:#fff; cursor:pointer;' type='text' id='czvaehmjpsnwwttrdoyl' readonly='readonly' onClick="select_text('czvaehmjpsnwwttrdoyl');" value='http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&amp;fileformat=p2p&amp;archiveformat=gz'></td>
+</tr>
+<tr class='alt1'><td><span style='font-weight:bold;'><a href='/list?list=cgbdjfsybgpgyjpqhsnd'>malware domain list</a></span></td>
+<td>MalwareDomainList</td>
+<td><input style='width:178px; background:#fff; cursor:pointer; background-image:url(https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/unavailable_512x512.png); background-size:18px 18px; background-position:4px 3px; background-repeat:no-repeat; padding-left:27px;' type='text' readonly='readonly' value='format not available'></td>
+</tr>
+</table>
+</div>
+
+<div id='footer'>
+&copy; 2026 iblocklist, LLC<br>
+Use of all content and services subject to the <a href='/tos'>terms of service</a>.
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "guard": "tardigrade",
+  "timestamp": "2026-03-03T22:20:46.630493+00:00",
+  "status": "standby",
+  "snapshot_exists": false,
+  "snapshot_size_bytes": 0,
+  "in_cryptobiosis": false,
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_tardigrade"
+}

@@ -1,0 +1,10 @@
+{
+  "guard": "script_kiddie_trap",
+  "timestamp": "2026-03-04T00:18:00.875140",
+  "status": "active",
+  "total_attempts": 0,
+  "unique_ips": 0,
+  "honeypot_files": 5,
+  "intrusion_attempts": [],
+  "logs_dir": "F:\\kerberos-security\\logs.full.option\\logs_guards\\guard_script_kiddie_trap"
+}
