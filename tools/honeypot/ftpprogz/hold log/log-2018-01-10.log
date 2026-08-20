@@ -1,0 +1,37 @@
+[20:53:50] - Serveur Démarré
+[20:53:50] - FTP Port: 21
+[20:58:28] - [1] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[20:58:29] - [1] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[21:18:58] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:18:58] - [2] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[21:18:58] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:18:58] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:19:01] - [2] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[21:25:01] - [3] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:25:02] - [3] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:25:02] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:25:02] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:25:13] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:25:27] - [4] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:25:27] - [4] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:25:27] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:25:28] - [4] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe
+[21:25:31] - [4] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe (79,36 K/S -   243 784 bytes)
+[21:26:02] - [4] Client 90.100.66.214 Déconnecté (00:00:34 Min)
+[21:26:05] - [5] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:26:05] - [5] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:26:05] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:26:05] - [5] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe
+[21:28:45] - [5] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe (59,04 K/S -  9 612 488 bytes)
+[21:29:17] - [5] Client 90.100.66.214 Déconnecté (00:03:11 Min)
+[21:42:38] - [6] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:42:39] - [6] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:42:39] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:42:39] - [6] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[21:42:40] - [6] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (41,49 K/S -   84 976 bytes)
+[21:43:11] - [6] Client 90.100.66.214 Déconnecté (00:00:32 Min)
+[21:50:18] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[22:50:19] - [0] Connexion Time-Out Pour:  VICTOR.POZEN
+[22:50:20] - [3] Client 90.100.66.214 Déconnecté (01:25:18 Min)
+[23:35:18] - [7] Connecté à 164.132.91.3. Collecte du Nom d'utilisateur.
+[23:35:18] - [7] Client 164.132.91.3 Déconnecté (00:00:00 Min)

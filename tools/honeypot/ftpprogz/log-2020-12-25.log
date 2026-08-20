@@ -1,0 +1,22 @@
+[11:40:51] - Serveur Démarré
+[11:40:52] - FTP Port: 21
+[11:43:56] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[11:43:56] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[11:43:56] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[11:43:56] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[11:44:04] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\rar\
+[11:44:29] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[11:44:29] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[11:44:30] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[11:44:30] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\rar\
+[11:44:30] - [2] MIRKO.POZEN: Début du Téléchargement de: E:\kerberos.htx\rar\Dethkarz.rar
+[11:47:04] - [2] MIRKO.POZEN: Fichier envoyé: E:\kerberos.htx\rar\Dethkarz.rar (691,62 K/S -  109 773 880 bytes)
+[11:47:35] - [2] Client 192.168.0.1 Déconnecté (00:03:05 Min)
+[11:48:12] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[11:48:12] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[11:48:12] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[11:48:12] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\rar\
+[11:48:14] - [3] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\rar\Dethkarz.rar
+[11:49:19] - [3] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\rar\Dethkarz.rar (1 649,20 K/S -  109 773 880 bytes)
+[11:49:30] - [3] Client 192.168.0.1 Déconnecté (00:01:18 Min)
+[11:49:30] - [1] Client 192.168.0.1 Déconnecté (00:05:34 Min)

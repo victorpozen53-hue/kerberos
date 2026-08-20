@@ -1,0 +1,28 @@
+[17:06:29] - Serveur Démarré
+[17:06:29] - FTP Port: 21
+[17:13:40] - [1] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[17:13:40] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.14
+[17:13:40] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:13:40] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:37] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\hacked\
+[17:15:47] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:47] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:16:23] - [2] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[17:16:23] - [2] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[17:16:23] - [1] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\spark_2_7_3.exe
+[17:16:35] - [1] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\spark_2_7_3.exe (4 623,04 K/S -  61 541 888 bytes)
+[17:20:41] - [1] Client 192.168.0.14 Déconnecté (00:07:04 Min)
+[17:42:06] - [3] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[17:42:06] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.14
+[17:42:06] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:42:06] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:42:13] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[17:42:21] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:42:21] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:46:08] - [4] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[17:46:08] - [4] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[17:46:08] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\disk-defrag-setup.exe
+[17:46:09] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\disk-defrag-setup.exe (7 939,80 K/S -  8 130 352 bytes)
+[17:46:12] - [3] Client 192.168.0.14 Déconnecté (00:04:05 Min)
+[19:46:54] - [5] Connecté à 107.170.239.15. Collecte du Nom d'utilisateur.
+[19:46:54] - [5] Client 107.170.239.15 Déconnecté (00:00:00 Min)

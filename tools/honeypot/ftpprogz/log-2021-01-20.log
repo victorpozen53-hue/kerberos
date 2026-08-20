@@ -1,0 +1,108 @@
+[14:39:08] - Serveur Démarré
+[14:39:11] - FTP Port: 21
+[14:47:55] - Serveur Démarré
+[14:47:55] - FTP Port: 21
+[15:28:36] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:28:36] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:28:36] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[15:28:36] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[15:29:27] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\sparck\
+[15:29:27] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:29:28] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:29:28] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:29:28] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[15:29:28] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:29:28] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[15:29:28] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\sparck\
+[15:29:28] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\sparck\
+[15:29:28] - [2] MIRKO.POZEN: Début du Téléchargement de: E:\kerberos.htx\sparck\SparkCustomFiles.exe
+[15:29:28] - [3] MIRKO.POZEN: Début du Téléchargement de: E:\kerberos.htx\sparck\spark_2_7_3.exe
+[15:29:30] - [2] MIRKO.POZEN: Fichier envoyé: E:\kerberos.htx\sparck\SparkCustomFiles.exe (640,94 K/S -   656 327 bytes)
+[15:30:01] - [2] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[15:30:47] - [3] MIRKO.POZEN: Fichier envoyé: E:\kerberos.htx\sparck\spark_2_7_3.exe (760,75 K/S -  61 541 888 bytes)
+[15:31:18] - [3] Client 192.168.0.1 Déconnecté (00:01:50 Min)
+[15:40:58] - [1] Client 192.168.0.1 Déconnecté (00:12:22 Min)
+[15:56:19] - [4] Connecté à 216.218.206.79. Collecte du Nom d'utilisateur.
+[15:56:19] - [4] Client 216.218.206.79 Déconnecté (00:00:00 Min)
+[15:56:47] - [5] Connecté à 216.218.206.67. Collecte du Nom d'utilisateur.
+[15:56:50] - [5] Client 216.218.206.67 Déconnecté (00:00:02 Min)
+[17:28:15] - [6] Connecté à 104.206.128.6. Collecte du Nom d'utilisateur.
+[17:28:47] - [6] Client 104.206.128.6 Déconnecté (00:00:31 Min)
+[17:34:07] - [7] Connecté à 104.206.128.30. Collecte du Nom d'utilisateur.
+[17:34:17] - [7] Client 104.206.128.30 Déconnecté (00:00:09 Min)
+[17:44:43] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:44:43] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:44:43] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:44:43] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:45:01] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:45:01] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:45:01] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:45:01] - [8] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp
+[17:45:01] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:45:01] - [9] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:45:01] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:45:01] - [10] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:45:01] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[17:45:01] - [8] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp
+[17:45:01] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\
+[17:45:01] - [8] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp\TCPView
+[17:45:01] - [9] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\
+[17:45:01] - [10] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\
+[17:45:01] - [8] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\
+[17:45:01] - [9] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp\TCPView
+[17:45:01] - [10] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp\TCPView
+[17:45:01] - [8] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\tcp\TCPView
+[17:45:01] - [9] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\TCPView\
+[17:45:01] - [10] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\TCPView\
+[17:45:02] - [10] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView\Tcpvcon.exe
+[17:45:02] - [9] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView\Eula.txt
+[17:45:02] - [9] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView\Eula.txt (6,84 K/S -   7 005 bytes)
+[17:45:02] - [10] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView\Tcpvcon.exe (194,87 K/S -   199 544 bytes)
+[17:45:02] - [9] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView\tcpview.chm
+[17:45:02] - [10] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView\Tcpview.exe
+[17:45:02] - [9] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView\tcpview.chm (40,11 K/S -   41 074 bytes)
+[17:45:08] - [10] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView\Tcpview.exe (48,96 K/S -   300 832 bytes)
+[17:45:08] - [9] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView\TCPVIEW.HLP
+[17:45:08] - [10] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\tcp\
+[17:45:08] - [9] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView\TCPVIEW.HLP (7,80 K/S -   7 983 bytes)
+[17:45:08] - [10] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\tcp\TCPView.zip
+[17:45:08] - [10] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\tcp\TCPView.zip (284,77 K/S -   291 606 bytes)
+[17:45:30] - [10] Client 192.168.0.1 Déconnecté (00:00:29 Min)
+[17:45:30] - [9] Client 192.168.0.1 Déconnecté (00:00:29 Min)
+[17:45:30] - [8] Client 192.168.0.1 Déconnecté (00:00:47 Min)
+[18:39:02] - Serveur Démarré
+[18:39:02] - FTP Port: 21
+[19:53:09] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:53:09] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:53:09] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[19:53:09] - [1] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[19:53:30] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:53:30] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:53:30] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[19:53:31] - [2] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[19:53:31] - [2] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\windows-10-utilitaire-de-mise-a-jour_octobre-2020-20h2_fr_431147.exe
+[19:53:43] - [2] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\windows-10-utilitaire-de-mise-a-jour_octobre-2020-20h2_fr_431147.exe (1 462,10 K/S -  19 463 448 bytes)
+[19:54:14] - [2] Client 192.168.0.1 Déconnecté (00:00:43 Min)
+[19:54:27] - [1] Client 192.168.0.1 Déconnecté (00:01:18 Min)
+[19:59:53] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:59:53] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:59:53] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[19:59:53] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[20:00:14] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[20:00:14] - [3] MIRKO.POZEN: Nouveau Répertoire: E:\kerberos.htx\util win10.last
+[20:00:22] - [3] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\util win10.last\
+[20:00:30] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:00:31] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:00:31] - [4] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[20:00:31] - [4] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\util win10.last\
+[20:00:31] - [4] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\util win10.last\MediaCreationTool20H2.exe
+[20:00:34] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:00:34] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:00:34] - [5] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\
+[20:00:34] - [5] MIRKO.POZEN: Répertoire en Cours: E:\kerberos.htx\util win10.last\
+[20:00:34] - [5] MIRKO.POZEN: Début d'Upload de E:\kerberos.htx\util win10.last\W10-MediaCreationTool-32bits.exe
+[20:00:51] - [4] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\util win10.last\MediaCreationTool20H2.exe (950,36 K/S -  19 463 448 bytes)
+[20:00:55] - [5] MIRKO.POZEN: Fichier Upload: E:\kerberos.htx\util win10.last\W10-MediaCreationTool-32bits.exe (846,17 K/S -  18 196 016 bytes)
+[20:01:22] - [4] Client 192.168.0.1 Déconnecté (00:00:51 Min)
+[20:01:26] - [5] Client 192.168.0.1 Déconnecté (00:00:51 Min)
+[20:02:29] - [3] Client 192.168.0.1 Déconnecté (00:02:36 Min)

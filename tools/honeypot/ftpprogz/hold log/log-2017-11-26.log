@@ -1,0 +1,25 @@
+[18:19:20] - Serveur Démarré
+[18:19:20] - FTP Port: 21
+[19:24:51] - [1] Connecté à 192.168.0.6. Collecte du Nom d'utilisateur.
+[19:24:51] - [1] Usager VICTOR.POZEN Connecté IP: 192.168.0.6
+[19:24:52] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:24:52] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:11] - [2] Connecté à 192.168.0.6. Collecte du Nom d'utilisateur.
+[19:25:11] - [2] Usager VICTOR.POZEN Connecté IP: 192.168.0.6
+[19:25:11] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:11] - [2] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\ipUpdater_2.0.zip
+[19:25:11] - [2] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\ipUpdater_2.0.zip (1 198,20 K/S -  1 226 950 bytes)
+[19:25:21] - [2] Client 192.168.0.6 Déconnecté (00:00:10 Min)
+[19:25:21] - [1] Client 192.168.0.6 Déconnecté (00:00:30 Min)
+[20:05:47] - [3] Connecté à 90.13.114.26. Collecte du Nom d'utilisateur.
+[20:05:47] - [3] Usager VICTOR.POZEN Connecté IP: 90.13.114.26
+[20:05:47] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:05:47] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:06:07] - [3] Client 90.13.114.26 Déconnecté (00:00:20 Min)
+[20:06:35] - [4] Connecté à 90.13.114.26. Collecte du Nom d'utilisateur.
+[20:06:35] - [4] Usager VICTOR.POZEN Connecté IP: 90.13.114.26
+[20:06:35] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:06:35] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:06:40] - [4] Client 90.13.114.26 Déconnecté (00:00:04 Min)
+[20:20:42] - Serveur Démarré
+[20:20:42] - FTP Port: 21

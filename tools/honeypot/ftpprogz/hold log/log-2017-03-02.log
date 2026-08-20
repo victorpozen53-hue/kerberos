@@ -1,0 +1,27 @@
+[11:01:37] - [5] Connecté à 90.26.104.164. Collecte du Nom d'utilisateur.
+[11:01:38] - [5] Usager VICTOR.POZEN Connecté IP: 90.26.104.164
+[11:01:38] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:01:38] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:01:55] - [6] Connecté à 90.26.104.164. Collecte du Nom d'utilisateur.
+[11:01:55] - [6] Usager VICTOR.POZEN Connecté IP: 90.26.104.164
+[11:01:55] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:01:58] - [6] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\acunetix-web-vulnerability-scanner_10-5-20160215_fr_47882.exe
+[11:02:11] - [6] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\acunetix-web-vulnerability-scanner_10-5-20160215_fr_47882.exe (2 301,60 K/S -  30 639 184 bytes)
+[11:02:43] - [6] Client 90.26.104.164 Déconnecté (00:00:47 Min)
+[11:03:02] - [5] Client 90.26.104.164 Déconnecté (00:01:24 Min)
+[11:17:21] - [7] Connecté à 90.26.104.164. Collecte du Nom d'utilisateur.
+[11:17:21] - [7] Usager SPOKE.FILES Connecté IP: 90.26.104.164
+[11:17:21] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[11:17:21] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[11:17:52] - [8] Connecté à 90.26.104.164. Collecte du Nom d'utilisateur.
+[11:17:52] - [8] Usager SPOKE.FILES Connecté IP: 90.26.104.164
+[11:17:52] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[11:17:52] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[11:17:52] - [8] SPOKE.FILES: Début d'Upload de F:\spoke.files\HousecallLauncher64.exe
+[11:17:53] - [8] SPOKE.FILES: Fichier Upload: F:\spoke.files\HousecallLauncher64.exe (2 349,30 K/S -  2 405 672 bytes)
+[11:18:24] - [8] Client 90.26.104.164 Déconnecté (00:00:32 Min)
+[12:58:26] - [7] SPOKE.FILES: Fichier Effacé : F:\spoke.files\HousecallLauncher64.exe
+[12:58:30] - [7] Client 90.26.104.164 Déconnecté (01:41:09 Min)
+[17:37:00] - [9] Connecté à 145.249.132.188. Collecte du Nom d'utilisateur.
+[17:37:00] - [9] Authentification Incorrect: Utilisateur ADMIN IP: 145.249.132.188
+[17:37:00] - [9] Client 145.249.132.188 Déconnecté (00:00:00 Min)

@@ -1,0 +1,17 @@
+[19:05:43] - Serveur Démarré
+[19:05:43] - FTP Port: 21
+[19:06:43] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:06:43] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:06:43] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:06:43] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:06:57] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\
+[19:07:02] - [1] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\getrt520\Serial.txt
+[19:07:04] - [1] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\getrt520\Serial.txt (0,01 K/S -    30 bytes)
+[19:10:48] - [2] Connecté à 51.38.12.23. Collecte du Nom d'utilisateur.
+[19:10:49] - [2] Usager ANONYMOUS Connecté IP: 51.38.12.23
+[19:10:49] - [2] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 51.38.12.23
+[19:10:49] - [2] Client 51.38.12.23 Déconnecté (00:00:00 Min)
+[19:24:20] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:24:20] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\
+[19:24:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\crack wk7\
+[19:24:37] - [1] Client 192.168.0.1 Déconnecté (00:18:21 Min)

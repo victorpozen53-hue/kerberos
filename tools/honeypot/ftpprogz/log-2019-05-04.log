@@ -1,0 +1,797 @@
+[16:19:55] - Serveur Démarré
+[16:19:55] - FTP Port: 21
+[16:36:03] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:36:03] - [1] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[18:22:38] - [2] Connecté à 196.52.43.119. Collecte du Nom d'utilisateur.
+[18:23:09] - [2] Client 196.52.43.119 Déconnecté (00:00:31 Min)
+[18:24:51] - [3] Connecté à 196.52.43.131. Collecte du Nom d'utilisateur.
+[18:25:01] - [3] Client 196.52.43.131 Déconnecté (00:00:09 Min)
+[19:30:29] - [4] Connecté à 192.168.0.56. Collecte du Nom d'utilisateur.
+[19:30:29] - [4] Client 192.168.0.56 Déconnecté (00:00:00 Min)
+[19:39:11] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:39:11] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:39:11] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:39:11] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:39:15] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:39:32] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[19:39:40] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\crack\
+[19:39:40] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:39:40] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:39:40] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:39:40] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:39:40] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:39:40] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:39:40] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[19:39:40] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\crack\
+[19:39:41] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hdsentinel_setup.exe
+[19:39:42] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\crack\HDSentinel.exe
+[19:39:46] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:39:46] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\reactivate wk7\
+[19:39:56] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\crack\HDSentinel.exe (311,12 K/S -  4 460 176 bytes)
+[19:39:58] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:39:58] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe
+[19:40:17] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe (378,04 K/S -  6 968 048 bytes)
+[19:40:17] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CW.eXe
+[19:40:28] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hdsentinel_setup.exe (366,49 K/S -  18 013 720 bytes)
+[19:40:36] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:40:36] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[19:40:36] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[19:40:38] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CW.eXe (439,85 K/S -  9 458 428 bytes)
+[19:40:42] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\pplfr165.exe
+[19:40:43] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\pplfr165.exe (225,46 K/S -   230 869 bytes)
+[19:41:01] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe
+[19:41:07] - [6] Client 192.168.0.1 Déconnecté (00:01:26 Min)
+[19:41:07] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:41:07] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:41:07] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:41:08] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:41:08] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\winrar.exe
+[19:41:16] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\winrar.exe (320,00 K/S -  2 621 400 bytes)
+[19:41:16] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe
+[19:41:41] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe (375,49 K/S -  9 612 488 bytes)
+[19:42:12] - [8] Client 192.168.0.1 Déconnecté (00:01:04 Min)
+[19:42:17] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe (533,08 K/S -  41 486 400 bytes)
+[19:42:48] - [7] Client 192.168.0.1 Déconnecté (00:03:07 Min)
+[19:43:19] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:43:19] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[19:43:32] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:43:32] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:43:32] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:43:32] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[19:43:32] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\media player classic.rar
+[19:44:02] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:44:02] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\GetDataBack for NTFS\
+[19:44:16] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:44:16] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:44:16] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:44:17] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\GetDataBack for NTFS\
+[19:44:17] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\DRV16.DLL
+[19:44:17] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\DRV16.DLL (23,25 K/S -   23 808 bytes)
+[19:44:17] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.DEU
+[19:44:19] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.DEU (331,00 K/S -  1 016 832 bytes)
+[19:44:19] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.exe
+[19:44:28] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.exe (212,90 K/S -  1 744 104 bytes)
+[19:44:28] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.FRA
+[19:44:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.FRA (331,83 K/S -  1 019 392 bytes)
+[19:44:31] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:44:31] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.ini
+[19:44:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdbnt.ini (1,68 K/S -   1 724 bytes)
+[19:44:31] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\
+[19:44:31] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt.chm
+[19:44:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt.chm (100,48 K/S -   102 888 bytes)
+[19:44:32] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt_deu.chm
+[19:44:32] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt_deu.chm (119,77 K/S -   122 644 bytes)
+[19:44:32] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt_fra.chm
+[19:44:32] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\gdb_nt_fra.chm (112,68 K/S -   115 388 bytes)
+[19:44:33] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\INSTALL.LOG
+[19:44:33] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\INSTALL.LOG (2,23 K/S -   2 285 bytes)
+[19:44:33] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\install.sss
+[19:44:33] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\install.sss (1,20 K/S -   1 227 bytes)
+[19:44:33] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\registerx64.reg
+[19:44:33] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\registerx64.reg (0,27 K/S -    273 bytes)
+[19:44:33] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\Uninstall.exe
+[19:44:36] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\tools\
+[19:44:37] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\Uninstall.exe (143,44 K/S -   440 652 bytes)
+[19:44:43] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\media player classic.rar (412,56 K/S -  29 994 997 bytes)
+[19:45:08] - [10] Client 192.168.0.1 Déconnecté (00:00:51 Min)
+[19:45:14] - [9] Client 192.168.0.1 Déconnecté (00:01:42 Min)
+[19:48:56] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:48:56] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[19:49:04] - [11] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:49:04] - [11] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:49:04] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:49:04] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[19:49:04] - [11] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\000\DriversCloud_Win.exe
+[19:49:05] - [11] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\000\DriversCloud_Win.exe (237,30 K/S -   242 992 bytes)
+[19:49:19] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:49:19] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:49:26] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\exe\
+[19:49:36] - [11] Client 192.168.0.1 Déconnecté (00:00:31 Min)
+[19:49:45] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:49:46] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\1\
+[19:50:00] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:50:00] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cleusb 16go\
+[19:50:06] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cleusb 16go\usb14go\
+[19:50:10] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cleusb 16go\usb14go\mig\
+[19:50:20] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:50:20] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[19:50:30] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:50:30] - [12] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:50:30] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:50:30] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[19:50:31] - [12] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\douwloads\mseinstall.exe
+[19:50:50] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:50:50] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[19:50:52] - [12] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\douwloads\mseinstall.exe (636,75 K/S -  13 692 600 bytes)
+[19:50:53] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\
+[19:51:12] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:51:12] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\
+[19:51:16] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\getdataback\
+[19:51:20] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\
+[19:51:23] - [12] Client 192.168.0.1 Déconnecté (00:00:52 Min)
+[19:51:24] - [13] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:51:24] - [14] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:51:25] - [13] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:51:25] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:51:25] - [14] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:51:25] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:51:25] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\
+[19:51:25] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\
+[19:51:25] - [13] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\serial gdb 3.66.txt
+[19:51:25] - [14] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\Setup.exe
+[19:51:27] - [13] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\serial gdb 3.66.txt (0,02 K/S -    41 bytes)
+[19:51:31] - [14] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\progz mig\getdataback\gdbnt.zip\Setup.exe (435,43 K/S -  2 675 259 bytes)
+[19:51:58] - [13] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[19:52:02] - [14] Client 192.168.0.1 Déconnecté (00:00:37 Min)
+[20:45:41] - [15] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:45:41] - [15] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:45:42] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:45:42] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\getdataback\
+[20:48:45] - [15] Client 192.168.0.1 Déconnecté (00:03:03 Min)
+[21:10:48] - [16] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:10:48] - [16] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:10:48] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:10:48] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:10:57] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\film fantatsic\
+[21:11:03] - [16] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\film fantatsic\Fantastic Beasts and Where to Find Them 2016 VF2-ENG-Hindi AC3 BluRay 1080p x264.GHT.mkv
+[21:11:11] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:11:11] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\enzo\
+[21:11:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:11:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\xam\
+[21:12:08] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:12:08] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Pinball\
+[21:13:08] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:13:22] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:07] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:35] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:36] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:37] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:38] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\
+[21:14:39] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:39] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\
+[21:14:39] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\INFOPATH.FR-FR\
+[21:14:39] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:39] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:40] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\
+[21:14:41] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:41] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:41] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:42] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\
+[21:14:43] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:43] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\
+[21:14:43] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:43] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:14:44] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\
+[21:14:45] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:45] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\
+[21:14:45] - [17] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:14:45] - [18] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:14:45] - [18] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:14:45] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:14:46] - [17] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:14:46] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:14:46] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:46] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\
+[21:14:46] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\key.txt
+[21:14:46] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\key.txt (0,03 K/S -    29 bytes)
+[21:14:46] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\AUTORUN.INF
+[21:14:46] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\AUTORUN.INF (0,17 K/S -    175 bytes)
+[21:14:46] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\Lisez moi_Read me.txt
+[21:14:46] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\Lisez moi_Read me.txt (0,07 K/S -    71 bytes)
+[21:14:46] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\LISEZMOI.HTM
+[21:14:46] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\LISEZMOI.HTM (2,54 K/S -   2 599 bytes)
+[21:14:46] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\SaveAsPDFandXPS.exe
+[21:14:47] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\SETUP.EXE
+[21:14:49] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\SETUP.EXE (226,15 K/S -   463 152 bytes)
+[21:14:49] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\
+[21:14:49] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\SaveAsPDFandXPS.exe (348,29 K/S -   713 288 bytes)
+[21:14:49] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\SETUP.XML
+[21:14:49] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\
+[21:14:49] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\SETUP.XML (2,62 K/S -   2 678 bytes)
+[21:14:49] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDLR.CAB
+[21:14:50] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.MSI
+[21:14:54] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.MSI (405,00 K/S -  1 658 880 bytes)
+[21:14:54] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.XML
+[21:14:54] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.XML (1,76 K/S -   1 799 bytes)
+[21:14:54] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\
+[21:14:54] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\LISEZMOI.TXT
+[21:14:54] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\LISEZMOI.TXT (0,07 K/S -    75 bytes)
+[21:14:55] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\
+[21:14:55] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\RBUDLR.CAB
+[21:14:59] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\RBUDLR.CAB (386,42 K/S -  1 582 766 bytes)
+[21:14:59] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.MSI
+[21:14:59] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.MSI (48,00 K/S -   49 152 bytes)
+[21:14:59] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.XML
+[21:14:59] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.XML (0,79 K/S -    811 bytes)
+[21:15:00] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\SETUP.XML
+[21:15:00] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\SETUP.XML (1,22 K/S -   1 251 bytes)
+[21:15:00] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\
+[21:15:00] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.MSI
+[21:15:04] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.MSI (407,00 K/S -  1 667 072 bytes)
+[21:15:04] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.XML
+[21:15:04] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.XML (1,44 K/S -   1 470 bytes)
+[21:15:05] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLR.CAB
+[21:15:28] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDLR.CAB (433,70 K/S -  16 876 234 bytes)
+[21:15:28] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\
+[21:15:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\SETUP.XML
+[21:15:29] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\SETUP.XML (1,78 K/S -   1 826 bytes)
+[21:15:29] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\
+[21:15:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\CONFIG.XML
+[21:15:29] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\CONFIG.XML (0,93 K/S -    956 bytes)
+[21:15:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\ID_00011.DPC
+[21:15:29] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\ID_00011.DPC (1,61 K/S -   1 646 bytes)
+[21:15:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.MSI
+[21:15:32] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.MSI (414,00 K/S -   847 872 bytes)
+[21:15:32] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.XML
+[21:15:32] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.XML (2,26 K/S -   2 310 bytes)
+[21:15:32] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSE.EXE
+[21:15:33] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSE.EXE (141,78 K/S -   145 184 bytes)
+[21:15:33] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSETUP.DLL
+[21:15:38] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLR.CAB (375,43 K/S -  12 686 495 bytes)
+[21:15:38] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\
+[21:15:38] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OWOW64WW.CAB
+[21:15:49] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OWOW64WW.CAB (368,53 K/S -  4 151 139 bytes)
+[21:15:49] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLSWW.CAB
+[21:15:51] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSETUP.DLL (354,65 K/S -  6 536 992 bytes)
+[21:15:51] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.MSI
+[21:16:27] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.MSI (429,46 K/S -  15 831 552 bytes)
+[21:16:28] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.XML
+[21:16:28] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.XML (15,44 K/S -   15 813 bytes)
+[21:16:28] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\SETUP.XML
+[21:16:28] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\SETUP.XML (25,96 K/S -   26 579 bytes)
+[21:16:28] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[21:16:28] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.MSI
+[21:16:30] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.MSI (494,00 K/S -   505 856 bytes)
+[21:16:30] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.XML
+[21:16:30] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.XML (0,79 K/S -    807 bytes)
+[21:16:30] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\SETUP.XML
+[21:16:30] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\SETUP.XML (9,57 K/S -   9 804 bytes)
+[21:16:30] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\
+[21:16:31] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.CAB
+[21:16:43] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.CAB (394,25 K/S -  4 844 595 bytes)
+[21:16:43] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.MSI
+[21:16:45] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.MSI (247,25 K/S -   506 368 bytes)
+[21:16:45] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.XML
+[21:16:45] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.XML (1,20 K/S -   1 233 bytes)
+[21:16:45] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\
+[21:16:45] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.CAB
+[21:17:14] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.CAB (386,58 K/S -  11 479 987 bytes)
+[21:17:14] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.MSI
+[21:17:16] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.MSI (253,00 K/S -   518 144 bytes)
+[21:17:16] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.XML
+[21:17:16] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.XML (1,42 K/S -   1 459 bytes)
+[21:17:16] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\
+[21:17:16] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.CAB
+[21:17:59] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.CAB (373,75 K/S -  16 456 790 bytes)
+[21:17:59] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.MSI
+[21:18:00] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.MSI (502,00 K/S -   514 048 bytes)
+[21:18:00] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.XML
+[21:18:00] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.XML (1,43 K/S -   1 460 bytes)
+[21:18:01] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\
+[21:18:01] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.CAB
+[21:18:56] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.CAB (390,71 K/S -  22 404 970 bytes)
+[21:18:57] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.MSI
+[21:18:58] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.MSI (496,00 K/S -   507 904 bytes)
+[21:18:58] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.XML
+[21:18:58] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.XML (1,32 K/S -   1 350 bytes)
+[21:18:58] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\
+[21:18:59] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.CAB
+[21:19:51] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.CAB (381,29 K/S -  20 302 883 bytes)
+[21:19:51] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.MSI
+[21:19:53] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.MSI (251,50 K/S -   515 072 bytes)
+[21:19:53] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.XML
+[21:19:53] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.XML (1,43 K/S -   1 461 bytes)
+[21:19:53] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\
+[21:19:53] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.CAB
+[21:20:11] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.CAB (339,44 K/S -  6 604 112 bytes)
+[21:20:11] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.MSI
+[21:20:13] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.MSI (503,50 K/S -   515 584 bytes)
+[21:20:13] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.XML
+[21:20:13] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.XML (1,12 K/S -   1 151 bytes)
+[21:20:13] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\
+[21:20:13] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.MSI
+[21:20:18] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.MSI (402,13 K/S -  1 647 104 bytes)
+[21:20:18] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.XML
+[21:20:18] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.XML (1,52 K/S -   1 554 bytes)
+[21:20:18] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\PPTLR.CAB
+[21:20:57] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\PPTLR.CAB (372,54 K/S -  14 496 400 bytes)
+[21:20:58] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\SETUP.XML
+[21:20:58] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\SETUP.XML (1,96 K/S -   2 004 bytes)
+[21:21:00] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\
+[21:21:00] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLKLR.CAB
+[21:21:35] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLKLR.CAB (451,61 K/S -  16 185 637 bytes)
+[21:21:35] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.MSI
+[21:21:39] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.MSI (396,30 K/S -  2 029 056 bytes)
+[21:21:40] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.XML
+[21:21:40] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.XML (2,88 K/S -   2 947 bytes)
+[21:21:40] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\SETUP.XML
+[21:21:40] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\SETUP.XML (3,77 K/S -   3 861 bytes)
+[21:21:40] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\
+[21:21:40] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.MSI
+[21:21:41] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.MSI (247,50 K/S -   506 880 bytes)
+[21:21:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.XML
+[21:21:42] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.XML (1,00 K/S -   1 027 bytes)
+[21:21:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OWOW64LR.CAB
+[21:21:42] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OWOW64LR.CAB (7,10 K/S -   7 266 bytes)
+[21:21:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\SETUP.XML
+[21:21:43] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\SETUP.XML (1,43 K/S -   1 468 bytes)
+[21:21:43] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\
+[21:21:43] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\BRANDING.XML
+[21:21:45] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\BRANDING.XML (305,10 K/S -   624 843 bytes)
+[21:21:45] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DW20.EXE
+[21:21:47] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DW20.EXE (397,16 K/S -   813 384 bytes)
+[21:21:47] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWDCW20.DLL
+[21:21:49] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWDCW20.DLL (214,63 K/S -   439 568 bytes)
+[21:21:49] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWTRIG20.EXE
+[21:21:50] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWTRIG20.EXE (212,17 K/S -   434 528 bytes)
+[21:21:51] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MICROSOFT.VC80.CRT.MANIFEST
+[21:21:51] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MICROSOFT.VC80.CRT.MANIFEST (0,51 K/S -    522 bytes)
+[21:21:51] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MSVCR80.DLL
+[21:21:53] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MSVCR80.DLL (306,00 K/S -   626 688 bytes)
+[21:21:54] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICELR.CAB
+[21:23:01] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICELR.CAB (416,65 K/S -  28 585 504 bytes)
+[21:23:01] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.MSI
+[21:23:07] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.MSI (393,75 K/S -  2 419 200 bytes)
+[21:23:07] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.XML
+[21:23:07] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.XML (5,64 K/S -   5 772 bytes)
+[21:23:07] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OSETUPUI.DLL
+[21:23:08] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OSETUPUI.DLL (219,30 K/S -   224 568 bytes)
+[21:23:09] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\PSS10R.CHM
+[21:23:09] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\PSS10R.CHM (26,60 K/S -   27 243 bytes)
+[21:23:09] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.CHM
+[21:23:09] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.CHM (52,72 K/S -   53 989 bytes)
+[21:23:10] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.XML
+[21:23:10] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.XML (9,16 K/S -   9 378 bytes)
+[21:23:11] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SHELLUI.MST
+[21:23:11] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SHELLUI.MST (66,00 K/S -   67 584 bytes)
+[21:23:11] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\
+[21:23:11] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\DWINTL20.DLL
+[21:23:11] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\DWINTL20.DLL (109,34 K/S -   111 960 bytes)
+[21:23:12] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\
+[21:23:12] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFLR.CAB
+[21:24:19] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFLR.CAB (397,82 K/S -  27 293 888 bytes)
+[21:24:19] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.MSI
+[21:24:25] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.MSI (385,42 K/S -  2 368 000 bytes)
+[21:24:25] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.XML
+[21:24:25] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.XML (4,47 K/S -   4 573 bytes)
+[21:24:26] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\SETUP.XML
+[21:24:26] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\SETUP.XML (5,03 K/S -   5 151 bytes)
+[21:24:26] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\
+[21:24:26] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELLR.CAB
+[21:25:05] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELLR.CAB (387,81 K/S -  15 487 638 bytes)
+[21:25:05] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.MSI
+[21:25:06] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLSWW.CAB (414,65 K/S -  236 505 785 bytes)
+[21:25:06] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\
+[21:25:06] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.XML
+[21:25:06] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.XML (1,88 K/S -   1 921 bytes)
+[21:25:07] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\SETUP.XML
+[21:25:07] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\SETUP.XML (2,58 K/S -   2 640 bytes)
+[21:25:07] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\
+[21:25:07] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\FILES12.CAT
+[21:25:10] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.MSI (342,80 K/S -  1 755 136 bytes)
+[21:25:10] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:25:10] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCT.DLL
+[21:25:11] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\FILES12.CAT (323,01 K/S -  1 323 033 bytes)
+[21:25:11] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[21:25:11] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCTCA.DLL
+[21:25:11] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCTCA.DLL (95,27 K/S -   97 552 bytes)
+[21:25:11] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\
+[21:25:11] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ACCESS12.OPA
+[21:25:12] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ACCESS12.OPA (43,06 K/S -   44 094 bytes)
+[21:25:12] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\CPAO12.OPA
+[21:25:12] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\CPAO12.OPA (17,66 K/S -   18 086 bytes)
+[21:25:12] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\EXCEL12.OPA
+[21:25:13] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\EXCEL12.OPA (118,67 K/S -   121 522 bytes)
+[21:25:13] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\GROOVE12.OPA
+[21:25:13] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\GROOVE12.OPA (2,40 K/S -   2 460 bytes)
+[21:25:13] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\IC12.OPA
+[21:25:13] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\IC12.OPA (6,59 K/S -   6 744 bytes)
+[21:25:14] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\INF12.OPA
+[21:25:14] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\INF12.OPA (86,73 K/S -   88 808 bytes)
+[21:25:14] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCT.CHM
+[21:25:15] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCT.CHM (59,48 K/S -   60 904 bytes)
+[21:25:15] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCTRES.DLL
+[21:25:16] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCTRES.DLL (424,78 K/S -   434 976 bytes)
+[21:25:16] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OFFICE12.OPA
+[21:25:17] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OFFICE12.OPA (291,51 K/S -   597 016 bytes)
+[21:25:18] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ONENT12.OPA
+[21:25:18] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ONENT12.OPA (76,16 K/S -   77 990 bytes)
+[21:25:18] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OUTLK12.OPA
+[21:25:19] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCT.DLL (348,92 K/S -  3 215 680 bytes)
+[21:25:19] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OUTLK12.OPA (359,77 K/S -   368 406 bytes)
+[21:25:20] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\
+[21:25:20] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PPT12.OPA
+[21:25:20] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PPT12.OPA (86,38 K/S -   88 458 bytes)
+[21:25:20] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PROJ12.OPA
+[21:25:21] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PUB12.OPA
+[21:25:21] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PUB12.OPA (27,38 K/S -   28 038 bytes)
+[21:25:21] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\SPD12.OPA
+[21:25:21] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\SPD12.OPA (13,25 K/S -   13 570 bytes)
+[21:25:21] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PROJ12.OPA (139,94 K/S -   143 302 bytes)
+[21:25:21] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\VISIO12.OPA
+[21:25:21] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\WORD12.OPA
+[21:25:22] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\VISIO12.OPA (99,84 K/S -   102 236 bytes)
+[21:25:22] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\
+[21:25:22] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ACCESS12.OPA
+[21:25:22] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ACCESS12.OPA (42,96 K/S -   43 994 bytes)
+[21:25:22] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\WORD12.OPA (203,72 K/S -   208 606 bytes)
+[21:25:22] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\
+[21:25:23] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\CPAO12.OPA
+[21:25:23] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\CPAO12.OPA (17,58 K/S -   17 998 bytes)
+[21:25:23] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\EXCEL12.OPA
+[21:25:23] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\GROOVE12.OPA
+[21:25:23] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\GROOVE12.OPA (2,42 K/S -   2 478 bytes)
+[21:25:23] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\EXCEL12.OPA (118,13 K/S -   120 960 bytes)
+[21:25:23] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\INF12.OPA
+[21:25:24] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\IC12.OPA
+[21:25:24] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\IC12.OPA (6,58 K/S -   6 734 bytes)
+[21:25:24] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCT.CHM
+[21:25:24] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\INF12.OPA (87,00 K/S -   89 088 bytes)
+[21:25:24] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCTRES.DLL
+[21:25:24] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCT.CHM (82,34 K/S -   84 318 bytes)
+[21:25:24] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OFFICE12.OPA
+[21:25:25] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCTRES.DLL (212,39 K/S -   434 976 bytes)
+[21:25:26] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ONENT12.OPA
+[21:25:26] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ONENT12.OPA (75,89 K/S -   77 716 bytes)
+[21:25:26] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OUTLK12.OPA
+[21:25:26] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OFFICE12.OPA (582,59 K/S -   596 576 bytes)
+[21:25:26] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PPT12.OPA
+[21:25:27] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PPT12.OPA (86,41 K/S -   88 488 bytes)
+[21:25:27] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PROJ12.OPA
+[21:25:27] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OUTLK12.OPA (358,88 K/S -   367 488 bytes)
+[21:25:27] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PUB12.OPA
+[21:25:27] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PROJ12.OPA (138,95 K/S -   142 284 bytes)
+[21:25:28] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PUB12.OPA (27,22 K/S -   27 878 bytes)
+[21:25:28] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\SPD12.OPA
+[21:25:28] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\SPD12.OPA (13,12 K/S -   13 432 bytes)
+[21:25:28] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\VISIO12.OPA
+[21:25:28] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\WORD12.OPA
+[21:25:28] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\VISIO12.OPA (99,44 K/S -   101 830 bytes)
+[21:25:28] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\
+[21:25:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ACCESS12.OPA
+[21:25:29] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\WORD12.OPA (203,26 K/S -   208 134 bytes)
+[21:25:29] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\
+[21:25:29] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ACCESS12.OPA (45,26 K/S -   46 348 bytes)
+[21:25:29] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\EXCEL12.OPA
+[21:25:29] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\CPAO12.OPA
+[21:25:29] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\CPAO12.OPA (19,44 K/S -   19 908 bytes)
+[21:25:30] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\GROOVE12.OPA
+[21:25:30] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\GROOVE12.OPA (2,67 K/S -   2 738 bytes)
+[21:25:30] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\EXCEL12.OPA (124,63 K/S -   127 618 bytes)
+[21:25:30] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\IC12.OPA
+[21:25:30] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\IC12.OPA (7,11 K/S -   7 276 bytes)
+[21:25:30] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\INF12.OPA
+[21:25:30] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\INF12.OPA (95,12 K/S -   97 404 bytes)
+[21:25:30] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCT.CHM
+[21:25:31] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCT.CHM (81,81 K/S -   83 772 bytes)
+[21:25:31] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCTRES.DLL
+[21:25:31] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OFFICE12.OPA
+[21:25:32] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCTRES.DLL (424,84 K/S -   435 032 bytes)
+[21:25:32] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ONENT12.OPA
+[21:25:32] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ONENT12.OPA (80,62 K/S -   82 556 bytes)
+[21:25:32] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OUTLK12.OPA
+[21:25:33] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OFFICE12.OPA (302,68 K/S -   619 882 bytes)
+[21:25:33] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PPT12.OPA
+[21:25:33] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PPT12.OPA (89,85 K/S -   92 010 bytes)
+[21:25:33] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PROJ12.OPA
+[21:25:34] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OUTLK12.OPA (384,09 K/S -   393 304 bytes)
+[21:25:34] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PROJ12.OPA (151,59 K/S -   155 232 bytes)
+[21:25:34] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PUB12.OPA
+[21:25:34] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\SPD12.OPA
+[21:25:34] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PUB12.OPA (28,34 K/S -   29 020 bytes)
+[21:25:34] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\SPD12.OPA (13,75 K/S -   14 082 bytes)
+[21:25:34] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\VISIO12.OPA
+[21:25:35] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\WORD12.OPA
+[21:25:35] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\VISIO12.OPA (105,19 K/S -   107 714 bytes)
+[21:25:35] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\
+[21:25:35] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ACCESS12.OPA
+[21:25:35] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ACCESS12.OPA (45,04 K/S -   46 116 bytes)
+[21:25:35] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\WORD12.OPA (210,71 K/S -   215 766 bytes)
+[21:25:35] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\
+[21:25:36] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\CPAO12.OPA
+[21:25:36] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\CPAO12.OPA (19,13 K/S -   19 590 bytes)
+[21:25:36] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\EXCEL12.OPA
+[21:25:36] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\GROOVE12.OPA
+[21:25:36] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\GROOVE12.OPA (2,79 K/S -   2 862 bytes)
+[21:25:36] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\EXCEL12.OPA (125,33 K/S -   128 340 bytes)
+[21:25:36] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\IC12.OPA
+[21:25:36] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\IC12.OPA (7,15 K/S -   7 322 bytes)
+[21:25:36] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\INF12.OPA
+[21:25:37] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\INF12.OPA (96,96 K/S -   99 290 bytes)
+[21:25:37] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCT.CHM
+[21:25:37] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCTRES.DLL
+[21:25:37] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCT.CHM (55,03 K/S -   56 346 bytes)
+[21:25:37] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OFFICE12.OPA
+[21:25:38] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCTRES.DLL (212,39 K/S -   434 976 bytes)
+[21:25:38] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ONENT12.OPA
+[21:25:39] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ONENT12.OPA (81,56 K/S -   83 518 bytes)
+[21:25:39] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OUTLK12.OPA
+[21:25:39] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OFFICE12.OPA (612,56 K/S -   627 264 bytes)
+[21:25:39] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PPT12.OPA
+[21:25:40] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PPT12.OPA (90,16 K/S -   92 328 bytes)
+[21:25:40] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PROJ12.OPA
+[21:25:40] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OUTLK12.OPA (384,50 K/S -   393 730 bytes)
+[21:25:40] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PUB12.OPA
+[21:25:40] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PROJ12.OPA (150,44 K/S -   154 054 bytes)
+[21:25:40] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PUB12.OPA (28,65 K/S -   29 336 bytes)
+[21:25:41] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\SPD12.OPA
+[21:25:41] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\SPD12.OPA (13,92 K/S -   14 254 bytes)
+[21:25:41] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\VISIO12.OPA
+[21:25:41] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\WORD12.OPA
+[21:25:41] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\VISIO12.OPA (105,22 K/S -   107 742 bytes)
+[21:25:41] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\
+[21:25:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ACCESS12.OPA
+[21:25:42] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ACCESS12.OPA (52,88 K/S -   54 144 bytes)
+[21:25:42] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\WORD12.OPA (211,00 K/S -   216 060 bytes)
+[21:25:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\CPAO12.OPA
+[21:25:42] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\CPAO12.OPA (26,94 K/S -   27 588 bytes)
+[21:25:42] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\
+[21:25:42] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\GROOVE12.OPA
+[21:25:42] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\GROOVE12.OPA (3,86 K/S -   3 956 bytes)
+[21:25:42] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\EXCEL12.OPA
+[21:25:43] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\IC12.OPA
+[21:25:43] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\IC12.OPA (9,48 K/S -   9 712 bytes)
+[21:25:43] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\INF12.OPA
+[21:25:43] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\EXCEL12.OPA (150,46 K/S -   154 076 bytes)
+[21:25:43] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCT.CHM
+[21:25:43] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\INF12.OPA (128,64 K/S -   131 730 bytes)
+[21:25:43] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCT.CHM (54,34 K/S -   55 644 bytes)
+[21:25:43] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCTRES.DLL
+[21:25:44] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OFFICE12.OPA
+[21:25:45] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCTRES.DLL (425,38 K/S -   435 584 bytes)
+[21:25:45] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ONENT12.OPA
+[21:25:45] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ONENT12.OPA (101,66 K/S -   104 096 bytes)
+[21:25:45] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OUTLK12.OPA
+[21:25:46] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OFFICE12.OPA (357,77 K/S -   732 710 bytes)
+[21:25:46] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PPT12.OPA
+[21:25:46] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PPT12.OPA (103,62 K/S -   106 102 bytes)
+[21:25:46] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PROJ12.OPA
+[21:25:47] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OUTLK12.OPA (499,91 K/S -   511 912 bytes)
+[21:25:47] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PUB12.OPA
+[21:25:47] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PUB12.OPA (32,96 K/S -   33 752 bytes)
+[21:25:47] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\SPD12.OPA
+[21:25:47] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\SPD12.OPA (15,90 K/S -   16 278 bytes)
+[21:25:47] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PROJ12.OPA (197,96 K/S -   202 708 bytes)
+[21:25:47] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\VISIO12.OPA
+[21:25:48] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\WORD12.OPA
+[21:25:48] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\VISIO12.OPA (128,99 K/S -   132 088 bytes)
+[21:25:48] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\
+[21:25:48] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ACCESS12.OPA
+[21:25:48] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ACCESS12.OPA (52,46 K/S -   53 716 bytes)
+[21:25:49] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\WORD12.OPA (241,66 K/S -   247 464 bytes)
+[21:25:49] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\CPAO12.OPA
+[21:25:49] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\
+[21:25:49] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\CPAO12.OPA (26,17 K/S -   26 800 bytes)
+[21:25:49] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\EXCEL12.OPA
+[21:25:49] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\GROOVE12.OPA
+[21:25:49] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\GROOVE12.OPA (3,74 K/S -   3 832 bytes)
+[21:25:50] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\EXCEL12.OPA (148,39 K/S -   151 952 bytes)
+[21:25:50] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\IC12.OPA
+[21:25:50] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\IC12.OPA (9,17 K/S -   9 390 bytes)
+[21:25:50] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\INF12.OPA
+[21:25:50] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCT.CHM
+[21:25:50] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCT.CHM (54,97 K/S -   56 288 bytes)
+[21:25:50] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCTRES.DLL
+[21:25:51] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\INF12.OPA (128,53 K/S -   131 614 bytes)
+[21:25:51] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OFFICE12.OPA
+[21:25:52] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCTRES.DLL (429,86 K/S -   440 176 bytes)
+[21:25:52] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ONENT12.OPA
+[21:25:52] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ONENT12.OPA (99,68 K/S -   102 070 bytes)
+[21:25:52] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OUTLK12.OPA
+[21:25:53] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OFFICE12.OPA (348,70 K/S -   714 136 bytes)
+[21:25:53] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PPT12.OPA
+[21:25:53] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PPT12.OPA (102,56 K/S -   105 022 bytes)
+[21:25:54] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PROJ12.OPA
+[21:25:54] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OUTLK12.OPA (244,07 K/S -   499 862 bytes)
+[21:25:54] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PUB12.OPA
+[21:25:54] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PUB12.OPA (32,45 K/S -   33 232 bytes)
+[21:25:54] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PROJ12.OPA (194,79 K/S -   199 460 bytes)
+[21:25:54] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\SPD12.OPA
+[21:25:54] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\SPD12.OPA (15,66 K/S -   16 034 bytes)
+[21:25:54] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\VISIO12.OPA
+[21:25:55] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\WORD12.OPA
+[21:25:55] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\VISIO12.OPA (128,22 K/S -   131 296 bytes)
+[21:25:55] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\
+[21:25:55] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ACCESS12.OPA
+[21:25:55] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ACCESS12.OPA (52,21 K/S -   53 464 bytes)
+[21:25:56] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\CPAO12.OPA
+[21:25:56] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\WORD12.OPA (238,69 K/S -   244 414 bytes)
+[21:25:56] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\CPAO12.OPA (26,64 K/S -   27 276 bytes)
+[21:25:56] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\
+[21:25:56] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\GROOVE12.OPA
+[21:25:56] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\GROOVE12.OPA (3,81 K/S -   3 900 bytes)
+[21:25:56] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\EXCEL12.OPA
+[21:25:56] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\IC12.OPA
+[21:25:57] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\IC12.OPA (8,96 K/S -   9 172 bytes)
+[21:25:57] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\INF12.OPA
+[21:25:57] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\EXCEL12.OPA (149,25 K/S -   152 834 bytes)
+[21:25:57] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\INF12.OPA (129,76 K/S -   132 876 bytes)
+[21:25:57] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCT.CHM
+[21:25:57] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCT.CHM (55,12 K/S -   56 444 bytes)
+[21:25:57] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCTRES.DLL
+[21:25:58] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OFFICE12.OPA
+[21:25:59] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCTRES.DLL (428,38 K/S -   438 656 bytes)
+[21:25:59] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ONENT12.OPA
+[21:25:59] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ONENT12.OPA (98,99 K/S -   101 370 bytes)
+[21:25:59] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OUTLK12.OPA
+[21:26:00] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OFFICE12.OPA (350,43 K/S -   717 684 bytes)
+[21:26:00] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PPT12.OPA
+[21:26:00] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PPT12.OPA (102,04 K/S -   104 494 bytes)
+[21:26:00] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PROJ12.OPA
+[21:26:01] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OUTLK12.OPA (246,64 K/S -   505 120 bytes)
+[21:26:01] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PROJ12.OPA (192,28 K/S -   196 894 bytes)
+[21:26:01] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PUB12.OPA
+[21:26:01] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\SPD12.OPA
+[21:26:01] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PUB12.OPA (32,44 K/S -   33 216 bytes)
+[21:26:01] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\SPD12.OPA (15,76 K/S -   16 134 bytes)
+[21:26:01] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\VISIO12.OPA
+[21:26:01] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\WORD12.OPA
+[21:26:02] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\VISIO12.OPA (126,97 K/S -   130 014 bytes)
+[21:26:02] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\
+[21:26:02] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ACCESS12.OPA
+[21:26:02] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ACCESS12.OPA (49,43 K/S -   50 614 bytes)
+[21:26:02] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\WORD12.OPA (237,87 K/S -   243 578 bytes)
+[21:26:02] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\CPAO12.OPA
+[21:26:02] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\
+[21:26:02] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\CPAO12.OPA (24,32 K/S -   24 904 bytes)
+[21:26:02] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\EXCEL12.OPA
+[21:26:03] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\GROOVE12.OPA
+[21:26:03] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\GROOVE12.OPA (3,54 K/S -   3 626 bytes)
+[21:26:03] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\IC12.OPA
+[21:26:03] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\IC12.OPA (8,43 K/S -   8 628 bytes)
+[21:26:03] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\EXCEL12.OPA (139,77 K/S -   143 128 bytes)
+[21:26:03] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\INF12.OPA
+[21:26:03] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCT.CHM
+[21:26:04] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCT.CHM (56,33 K/S -   57 678 bytes)
+[21:26:04] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCTRES.DLL
+[21:26:04] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\INF12.OPA (113,54 K/S -   116 266 bytes)
+[21:26:04] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OFFICE12.OPA
+[21:26:05] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCTRES.DLL (411,34 K/S -   421 208 bytes)
+[21:26:05] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ONENT12.OPA
+[21:26:05] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ONENT12.OPA (92,44 K/S -   94 656 bytes)
+[21:26:05] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OUTLK12.OPA
+[21:26:06] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OFFICE12.OPA (334,44 K/S -   684 924 bytes)
+[21:26:06] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PPT12.OPA
+[21:26:06] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PPT12.OPA (97,19 K/S -   99 522 bytes)
+[21:26:07] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PROJ12.OPA
+[21:26:07] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OUTLK12.OPA (451,06 K/S -   461 884 bytes)
+[21:26:07] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PUB12.OPA
+[21:26:07] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PUB12.OPA (30,68 K/S -   31 418 bytes)
+[21:26:07] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PROJ12.OPA (182,68 K/S -   187 068 bytes)
+[21:26:07] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\SPD12.OPA
+[21:26:07] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\VISIO12.OPA
+[21:26:08] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\SPD12.OPA (14,86 K/S -   15 212 bytes)
+[21:26:08] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\WORD12.OPA
+[21:26:08] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\VISIO12.OPA (119,69 K/S -   122 566 bytes)
+[21:26:08] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\
+[21:26:08] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ACCESS12.OPA
+[21:26:08] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ACCESS12.OPA (52,95 K/S -   54 216 bytes)
+[21:26:09] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\CPAO12.OPA
+[21:26:09] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\CPAO12.OPA (26,46 K/S -   27 090 bytes)
+[21:26:09] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\WORD12.OPA (228,74 K/S -   234 232 bytes)
+[21:26:09] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\
+[21:26:09] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\GROOVE12.OPA
+[21:26:09] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\GROOVE12.OPA (3,95 K/S -   4 042 bytes)
+[21:26:09] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\EXCEL12.OPA
+[21:26:09] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\IC12.OPA
+[21:26:09] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\IC12.OPA (9,48 K/S -   9 708 bytes)
+[21:26:10] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\INF12.OPA
+[21:26:10] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\EXCEL12.OPA (150,26 K/S -   153 864 bytes)
+[21:26:10] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCT.CHM
+[21:26:10] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\INF12.OPA (127,42 K/S -   130 478 bytes)
+[21:26:10] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCT.CHM (55,91 K/S -   57 249 bytes)
+[21:26:10] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCTRES.DLL
+[21:26:10] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OFFICE12.OPA
+[21:26:11] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCTRES.DLL (213,67 K/S -   437 600 bytes)
+[21:26:12] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ONENT12.OPA
+[21:26:12] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ONENT12.OPA (99,05 K/S -   101 428 bytes)
+[21:26:12] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OUTLK12.OPA
+[21:26:12] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OFFICE12.OPA (350,29 K/S -   717 386 bytes)
+[21:26:13] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PPT12.OPA
+[21:26:13] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PPT12.OPA (103,07 K/S -   105 546 bytes)
+[21:26:13] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PROJ12.OPA
+[21:26:13] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OUTLK12.OPA (243,13 K/S -   497 936 bytes)
+[21:26:13] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PUB12.OPA
+[21:26:14] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PUB12.OPA (32,20 K/S -   32 972 bytes)
+[21:26:14] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\SPD12.OPA
+[21:26:14] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\SPD12.OPA (15,75 K/S -   16 130 bytes)
+[21:26:14] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PROJ12.OPA (197,74 K/S -   202 490 bytes)
+[21:26:14] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\VISIO12.OPA
+[21:26:14] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\WORD12.OPA
+[21:26:15] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\VISIO12.OPA (128,32 K/S -   131 400 bytes)
+[21:26:15] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\
+[21:26:15] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.MSI
+[21:26:15] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\WORD12.OPA (239,20 K/S -   244 936 bytes)
+[21:26:15] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\
+[21:26:15] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.XML
+[21:26:15] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.XML (1,31 K/S -   1 345 bytes)
+[21:26:16] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCLR.CAB
+[21:26:19] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.MSI (405,13 K/S -  1 659 392 bytes)
+[21:26:19] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\SETUP.XML
+[21:26:19] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\SETUP.XML (1,74 K/S -   1 780 bytes)
+[21:26:50] - [18] Client 192.168.0.1 Déconnecté (00:12:04 Min)
+[21:26:58] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCLR.CAB (650,42 K/S -  28 639 093 bytes)
+[21:27:29] - [17] Client 192.168.0.1 Déconnecté (00:12:43 Min)
+[21:29:10] - [16] Client 192.168.0.1 Déconnecté (00:18:21 Min)
+[21:38:38] - [19] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:38:38] - [19] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:38:38] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:38:38] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:38:41] - [19] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[21:45:04] - [20] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:45:04] - [20] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[21:45:26] - [21] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:45:27] - [21] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[21:55:37] - [22] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:55:37] - [22] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:55:37] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:55:37] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:55:44] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bat\
+[21:55:50] - [22] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bat\control userpasswords2.bat
+[21:55:50] - [22] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bat\control userpasswords2.bat (0,03 K/S -    29 bytes)
+[21:55:54] - [22] Client 192.168.0.1 Déconnecté (00:00:17 Min)
+[22:03:18] - [23] Connecté à 192.168.0.54. Collecte du Nom d'utilisateur.
+[22:03:18] - [23] Client 192.168.0.54 Déconnecté (00:00:00 Min)
+[22:03:51] - [24] Connecté à 192.168.0.54. Collecte du Nom d'utilisateur.
+[22:03:51] - [24] Client 192.168.0.54 Déconnecté (00:00:00 Min)
+[22:04:08] - [25] Connecté à 192.168.0.54. Collecte du Nom d'utilisateur.
+[22:04:08] - [25] Client 192.168.0.54 Déconnecté (00:00:00 Min)

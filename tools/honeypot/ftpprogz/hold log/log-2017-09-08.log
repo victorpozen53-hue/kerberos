@@ -1,0 +1,40 @@
+[23:35:00] - Serveur Démarré
+[23:35:00] - FTP Port: 21
+[23:47:16] - [1] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:47:16] - [1] Usager VICTOR.POZEN Connecté IP: 90.13.114.195
+[23:47:16] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:47:16] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:47:25] - [1] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\startpage - Raccourci.lnk
+[23:47:25] - [1] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\startpage - Raccourci.lnk (0,83 K/S -    849 bytes)
+[23:47:35] - [1] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\alex
+[23:47:35] - [2] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:47:35] - [3] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:47:35] - [1] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\alex
+[23:47:35] - [2] Usager VICTOR.POZEN Connecté IP: 90.13.114.195
+[23:47:35] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:47:35] - [3] Usager VICTOR.POZEN Connecté IP: 90.13.114.195
+[23:47:35] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:47:35] - [2] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\alex\setup.log
+[23:47:35] - [2] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\alex\setup.log (2,08 K/S -   2 126 bytes)
+[23:47:35] - [2] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\alex\TeamViewer_Resource_en.dll
+[23:47:36] - [2] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\alex\TeamViewer_Resource_en.dll (813,29 K/S -   832 808 bytes)
+[23:47:36] - [2] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\alex\uninstall.exe
+[23:47:37] - [2] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\alex\uninstall.exe (63,00 K/S -   64 512 bytes)
+[23:47:41] - [3] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\alex\TeamViewer.exe
+[23:48:03] - [3] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\alex\TeamViewer.exe (79,19 K/S -  1 865 104 bytes)
+[23:48:04] - [3] Client 90.13.114.195 Déconnecté (00:00:28 Min)
+[23:48:04] - [2] Client 90.13.114.195 Déconnecté (00:00:28 Min)
+[23:48:04] - [1] Client 90.13.114.195 Déconnecté (00:00:47 Min)
+[23:51:00] - [4] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:51:00] - [4] Usager VICTOR.POZEN Connecté IP: 90.13.114.195
+[23:51:00] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:51:00] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:51:16] - [4] Client 90.13.114.195 Déconnecté (00:00:16 Min)
+[23:51:33] - [5] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:51:33] - [5] Usager SPOKE.FILES Connecté IP: 90.13.114.195
+[23:51:33] - [5] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[23:51:33] - [5] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[23:51:38] - [5] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\progz\
+[23:51:55] - [5] Client 90.13.114.195 Déconnecté (00:00:22 Min)
+[23:52:59] - [6] Connecté à 90.13.114.195. Collecte du Nom d'utilisateur.
+[23:52:59] - [6] Client 90.13.114.195 Déconnecté (00:00:00 Min)

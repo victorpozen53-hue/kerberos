@@ -1,0 +1,55 @@
+[01:15:53] - [3] Connecté à 71.6.146.186. Collecte du Nom d'utilisateur.
+[01:15:53] - [3] Usager ANONYMOUS Connecté IP: 71.6.146.186
+[01:15:53] - [3] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 71.6.146.186
+[01:15:54] - [3] Client 71.6.146.186 Déconnecté (00:00:00 Min)
+[03:50:48] - [4] Connecté à 103.76.52.194. Collecte du Nom d'utilisateur.
+[03:50:49] - [4] Usager ANONYMOUS Connecté IP: 103.76.52.194
+[03:50:49] - [4] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 103.76.52.194
+[03:50:49] - [4] Client 103.76.52.194 Déconnecté (00:00:00 Min)
+[08:20:26] - [5] Connecté à 77.21.253.179. Collecte du Nom d'utilisateur.
+[08:20:26] - [5] Usager ANONYMOUS Connecté IP: 77.21.253.179
+[08:20:26] - [5] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 77.21.253.179
+[08:20:27] - [5] Client 77.21.253.179 Déconnecté (00:00:00 Min)
+[12:50:54] - [6] Connecté à 168.1.128.76. Collecte du Nom d'utilisateur.
+[12:51:03] - [6] Client 168.1.128.76 Déconnecté (00:00:09 Min)
+[13:20:02] - [7] Connecté à 90.6.49.146. Collecte du Nom d'utilisateur.
+[13:20:02] - [7] Usager SPOKE.FILES Connecté IP: 90.6.49.146
+[13:20:02] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:20:02] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:20:54] - [8] Connecté à 90.6.49.146. Collecte du Nom d'utilisateur.
+[13:20:54] - [8] Usager SPOKE.FILES Connecté IP: 90.6.49.146
+[13:20:54] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:20:54] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:20:54] - [8] SPOKE.FILES: Début d'Upload de F:\spoke.files\analog-6012ce.zip
+[13:20:54] - [8] SPOKE.FILES: Fichier Upload: F:\spoke.files\analog-6012ce.zip (226,41 K/S -   231 846 bytes)
+[13:20:57] - [8] Client 90.6.49.146 Déconnecté (00:00:02 Min)
+[13:20:57] - [7] Client 90.6.49.146 Déconnecté (00:00:54 Min)
+[13:24:49] - [9] Connecté à 90.6.49.146. Collecte du Nom d'utilisateur.
+[13:24:49] - [9] Usager SPOKE.FILES Connecté IP: 90.6.49.146
+[13:24:49] - [9] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:24:49] - [9] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:25:00] - [10] Connecté à 90.6.49.146. Collecte du Nom d'utilisateur.
+[13:25:00] - [10] Usager SPOKE.FILES Connecté IP: 90.6.49.146
+[13:25:00] - [10] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:25:00] - [10] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:25:00] - [10] SPOKE.FILES: Début d'Upload de F:\spoke.files\LogAnalyzerTrends-2.4.exe
+[13:25:03] - [10] SPOKE.FILES: Fichier Upload: F:\spoke.files\LogAnalyzerTrends-2.4.exe (4 310,60 K/S -  8 828 014 bytes)
+[13:25:34] - [10] Client 90.6.49.146 Déconnecté (00:00:34 Min)
+[15:53:15] - [11] Connecté à 176.51.137.153. Collecte du Nom d'utilisateur.
+[15:53:16] - [11] Authentification Incorrect: Utilisateur WWW-DATA IP: 176.51.137.153
+[15:53:16] - [11] Client 176.51.137.153 Déconnecté (00:00:00 Min)
+[17:57:22] - [9] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\pour.xp\
+[17:57:36] - [12] Connecté à 90.6.49.146. Collecte du Nom d'utilisateur.
+[17:57:36] - [12] Usager SPOKE.FILES Connecté IP: 90.6.49.146
+[17:57:36] - [12] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[17:57:36] - [12] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\pour.xp\
+[17:57:36] - [12] SPOKE.FILES: Début du Téléchargement de: F:\spoke.files\pour.xp\WPA_Kill.exe
+[17:57:37] - [12] SPOKE.FILES: Fichier envoyé: F:\spoke.files\pour.xp\WPA_Kill.exe (37,50 K/S -   38 400 bytes)
+[17:58:10] - [12] Client 90.6.49.146 Déconnecté (00:00:33 Min)
+[18:24:03] - [9] Client 90.6.49.146 Déconnecté (04:59:13 Min)
+[19:10:49] - [13] Connecté à 95.104.82.157. Collecte du Nom d'utilisateur.
+[19:10:53] - [13] Authentification Incorrect: Utilisateur FTP IP: 95.104.82.157
+[19:10:53] - [13] Client 95.104.82.157 Déconnecté (00:00:04 Min)
+[19:46:48] - [14] Connecté à 49.35.4.94. Collecte du Nom d'utilisateur.
+[19:46:52] - [14] Authentification Incorrect: Utilisateur FTP IP: 49.35.4.94
+[19:46:53] - [14] Client 49.35.4.94 Déconnecté (00:00:04 Min)

@@ -1,0 +1,83 @@
+[13:22:24] - Serveur Démarré
+[13:22:24] - FTP Port: 21
+[13:36:02] - [1] Connecté à 192.241.201.232. Collecte du Nom d'utilisateur.
+[13:36:12] - [1] Client 192.241.201.232 Déconnecté (00:00:09 Min)
+[13:56:24] - Serveur Démarré
+[13:56:24] - FTP Port: 21
+[14:02:09] - [1] Connecté à 192.168.0.10. Collecte du Nom d'utilisateur.
+[14:02:10] - [1] Client 192.168.0.10 Déconnecté (00:00:00 Min)
+[14:05:50] - [2] Connecté à 192.168.0.10. Collecte du Nom d'utilisateur.
+[14:05:50] - [2] Client 192.168.0.10 Déconnecté (00:00:00 Min)
+[14:08:41] - Serveur Démarré
+[14:08:41] - FTP Port: 21
+[14:08:43] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:08:43] - [1] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[14:09:14] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:09:14] - [2] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[14:11:38] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:11:38] - [3] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[14:32:53] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:32:53] - [4] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[16:28:19] - [5] Connecté à 184.105.139.68. Collecte du Nom d'utilisateur.
+[16:28:22] - [5] Client 184.105.139.68 Déconnecté (00:00:02 Min)
+[18:21:04] - [6] Connecté à 144.86.173.31. Collecte du Nom d'utilisateur.
+[18:21:37] - [6] Client 144.86.173.31 Déconnecté (00:00:32 Min)
+[18:26:32] - [7] Connecté à 144.86.173.31. Collecte du Nom d'utilisateur.
+[18:26:42] - [7] Client 144.86.173.31 Déconnecté (00:00:09 Min)
+[19:48:12] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:48:12] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:48:12] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:48:12] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:48:16] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[19:48:28] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:48:28] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:48:34] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\logs\
+[19:49:16] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:49:16] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[19:54:49] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:54:49] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:54:49] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:54:49] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:54:57] - [9] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\HttpLogBrowser-Setup.exe
+[19:55:13] - [9] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\HttpLogBrowser-Setup.exe (1 529,60 K/S -  25 060 488 bytes)
+[19:55:13] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:55:44] - [9] Client 192.168.0.1 Déconnecté (00:00:55 Min)
+[20:28:13] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:28:13] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:28:13] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:28:13] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:28:13] - [10] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\wleltsetup.exe
+[20:28:17] - [10] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\wleltsetup.exe (1 896,50 K/S -  5 825 920 bytes)
+[20:28:48] - [10] Client 192.168.0.1 Déconnecté (00:00:34 Min)
+[20:34:10] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\wleltsetup.exe
+[20:48:27] - [11] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:48:27] - [11] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:48:27] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:48:27] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:48:27] - [11] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\WebPlatformInstaller_x86_en-US.msi
+[20:48:28] - [11] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\WebPlatformInstaller_x86_en-US.msi (1 820,00 K/S -  1 863 680 bytes)
+[20:49:00] - [11] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[21:14:36] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:14:36] - [12] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:14:36] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:14:36] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:14:36] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\IISview.exe
+[21:14:38] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\IISview.exe (1 122,00 K/S -  2 297 856 bytes)
+[21:15:08] - [12] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[21:47:55] - [8] Client 192.168.0.1 Déconnecté (01:59:43 Min)
+[21:57:24] - Serveur Démarré
+[21:57:24] - FTP Port: 21
+[21:57:31] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:57:31] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:57:31] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:57:31] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:58:10] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:58:10] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:58:10] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:58:10] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:58:10] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\eboot_2.00.exe
+[21:58:10] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\eboot_2.00.exe (157,01 K/S -   160 775 bytes)
+[21:58:41] - [2] Client 192.168.0.1 Déconnecté (00:00:31 Min)
+[22:05:57] - [1] Client 192.168.0.1 Déconnecté (00:08:26 Min)
+[23:27:05] - Serveur Démarré
+[23:27:05] - FTP Port: 21

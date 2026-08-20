@@ -1,0 +1,44 @@
+[12:43:57] - Serveur Démarré
+[12:43:57] - FTP Port: 21
+[12:49:52] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:49:52] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:49:52] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:49:52] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:49:57] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[12:50:08] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:50:08] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:50:31] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:50:31] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:50:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:50:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:50:31] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CrucialFRScan.exe
+[12:50:32] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CrucialFRScan.exe (228,18 K/S -   233 656 bytes)
+[12:50:51] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Firefox Installer.exe
+[12:50:54] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:50:54] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:50:54] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:50:54] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:50:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe
+[12:50:55] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Firefox Installer.exe (69,74 K/S -   285 640 bytes)
+[12:50:55] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe (238,07 K/S -   243 784 bytes)
+[12:51:25] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[12:51:26] - [2] Client 192.168.0.1 Déconnecté (00:00:55 Min)
+[12:51:27] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (479,36 K/S -   981 728 bytes)
+[12:51:37] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\winrar.exe
+[12:51:43] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\winrar.exe (426,66 K/S -  2 621 400 bytes)
+[12:52:13] - [3] Client 192.168.0.1 Déconnecté (00:01:19 Min)
+[13:05:44] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[13:05:44] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[13:05:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[13:05:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[13:05:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ChromeSetup.exe
+[13:05:47] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ChromeSetup.exe (552,17 K/S -  1 130 840 bytes)
+[13:06:18] - [4] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[13:09:32] - [1] Client 192.168.0.1 Déconnecté (00:19:40 Min)
+[22:08:35] - Serveur Démarré
+[22:08:35] - FTP Port: 21
+[22:10:56] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:10:57] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:10:57] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:10:57] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:11:24] - [1] Client 192.168.0.1 Déconnecté (00:00:27 Min)

@@ -1,0 +1,14 @@
+[14:59:01] - Serveur Démarré
+[14:59:01] - FTP Port: 21
+[14:59:11] - [1] Connecté à 192.168.0.21. Collecte du Nom d'utilisateur.
+[14:59:11] - [1] Client 192.168.0.21 Déconnecté (00:00:00 Min)
+[18:06:33] - [2] Connecté à 192.241.200.80. Collecte du Nom d'utilisateur.
+[18:06:33] - [2] Client 192.241.200.80 Déconnecté (00:00:00 Min)
+[18:17:32] - [3] Connecté à 198.235.24.5. Collecte du Nom d'utilisateur.
+[18:18:04] - [3] Client 198.235.24.5 Déconnecté (00:00:32 Min)
+[19:21:04] - [4] Connecté à 34.76.96.55. Collecte du Nom d'utilisateur.
+[19:21:04] - [4] Client 34.76.96.55 Déconnecté (00:00:00 Min)
+[19:21:04] - [5] Connecté à 34.76.96.55. Collecte du Nom d'utilisateur.
+[19:21:05] - [5] Usager ANONYMOUS Connecté IP: 34.76.96.55
+[19:21:05] - [5] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 34.76.96.55
+[19:21:05] - [5] Client 34.76.96.55 Déconnecté (00:00:00 Min)

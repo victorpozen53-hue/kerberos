@@ -1,0 +1,21 @@
+[05:09:34] - [3] Connecté à 182.55.195.47. Collecte du Nom d'utilisateur.
+[05:09:35] - [3] Client 182.55.195.47 Déconnecté (00:00:00 Min)
+[06:35:44] - [4] Connecté à 37.151.207.197. Collecte du Nom d'utilisateur.
+[06:35:44] - [4] Authentification Incorrect: Utilisateur ROOT IP: 37.151.207.197
+[06:35:44] - [4] Client 37.151.207.197 Déconnecté (00:00:00 Min)
+[10:08:18] - [5] Connecté à 139.162.75.112. Collecte du Nom d'utilisateur.
+[10:08:19] - [5] Client 139.162.75.112 Déconnecté (00:00:00 Min)
+[10:15:54] - [6] Connecté à 60.191.40.195. Collecte du Nom d'utilisateur.
+[10:16:25] - [6] Client 60.191.40.195 Déconnecté (00:00:30 Min)
+[22:07:59] - [7] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[22:07:59] - [7] Usager SPOKE.FILES Connecté IP: 90.56.16.108
+[22:08:00] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[22:08:00] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[22:08:13] - [8] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[22:08:13] - [8] Usager SPOKE.FILES Connecté IP: 90.56.16.108
+[22:08:14] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[22:08:14] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[22:08:15] - [8] SPOKE.FILES: Début d'Upload de F:\spoke.files\Broadcom-FORCED-7x86-BCM43_7.12.39.28-drp.exe
+[22:08:44] - [8] SPOKE.FILES: Fichier Upload: F:\spoke.files\Broadcom-FORCED-7x86-BCM43_7.12.39.28-drp.exe (326,87 K/S -  10 041 416 bytes)
+[22:08:58] - [8] Client 90.56.16.108 Déconnecté (00:00:44 Min)
+[22:08:58] - [7] Client 90.56.16.108 Déconnecté (00:00:59 Min)

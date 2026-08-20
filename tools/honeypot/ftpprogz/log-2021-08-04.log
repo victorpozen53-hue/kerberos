@@ -1,0 +1,27 @@
+[12:12:10] - Serveur Démarré
+[12:12:10] - FTP Port: 21
+[12:19:27] - [1] Connecté à 192.168.0.33. Collecte du Nom d'utilisateur.
+[12:19:27] - [1] Client 192.168.0.33 Déconnecté (00:00:00 Min)
+[12:27:09] - [2] Connecté à 192.168.0.33. Collecte du Nom d'utilisateur.
+[12:27:09] - [2] Client 192.168.0.33 Déconnecté (00:00:00 Min)
+[12:30:55] - [3] Connecté à 192.168.0.33. Collecte du Nom d'utilisateur.
+[12:30:55] - [3] Authentification Incorrect: Utilisateur MIRKO IP: 192.168.0.33
+[12:30:55] - [3] Client 192.168.0.33 Déconnecté (00:00:00 Min)
+[12:32:41] - Serveur Démarré
+[12:32:41] - FTP Port: 21
+[12:39:22] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:39:22] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:39:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:39:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:41:53] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\hacked\
+[12:42:54] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:42:55] - [2] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[12:46:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:46:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:50:39] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:50:39] - [3] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[12:53:17] - [4] Connecté à 192.168.0.33. Collecte du Nom d'utilisateur.
+[12:53:17] - [4] Client 192.168.0.33 Déconnecté (00:00:00 Min)
+[12:54:58] - [1] Client 192.168.0.1 Déconnecté (00:15:36 Min)
+[12:58:33] - [5] Connecté à 192.168.0.33. Collecte du Nom d'utilisateur.
+[12:58:33] - [5] Client 192.168.0.33 Déconnecté (00:00:00 Min)

@@ -1,0 +1,524 @@
+[14:34:09] - Serveur Démarré
+[14:34:09] - FTP Port: 21
+[17:33:40] - [1] Connecté à 169.54.233.120. Collecte du Nom d'utilisateur.
+[17:34:11] - [1] Client 169.54.233.120 Déconnecté (00:00:30 Min)
+[17:46:27] - [2] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[17:46:27] - [2] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[17:46:27] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:46:27] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:46:40] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:47:13] - [2] Client 90.100.66.214 Déconnecté (00:00:46 Min)
+[18:58:53] - [3] Connecté à 86.204.148.138. Collecte du Nom d'utilisateur.
+[18:58:53] - [3] Usager VICTOR.POZEN Connecté IP: 86.204.148.138
+[18:58:53] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:58:53] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:59:58] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games
+[18:59:59] - [4] Connecté à 86.204.148.138. Collecte du Nom d'utilisateur.
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games
+[18:59:59] - [5] Connecté à 86.204.148.138. Collecte du Nom d'utilisateur.
+[18:59:59] - [4] Usager VICTOR.POZEN Connecté IP: 86.204.148.138
+[18:59:59] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:59:59] - [5] Usager VICTOR.POZEN Connecté IP: 86.204.148.138
+[18:59:59] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation\Gameplay
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation\Gameplay
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP01
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP01
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds\Areas
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds\Areas
+[18:59:59] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild1.package
+[18:59:59] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild0.package
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP03
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP03
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds
+[18:59:59] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds\Areas
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds\Areas
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\FP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\FP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP02
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP02
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP03
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP03
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP04
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP04
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP05
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP05
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP01
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP02
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP02
+[19:00:00] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP03
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP03
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP04
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP04
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP05
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP05
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP06
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP06
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP07
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP07
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP08
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP08
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP09
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP09
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP10
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP10
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP11
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP11
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP12
+[19:00:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP12
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds\Areas
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds\Areas
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\codecs
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\codecs
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\imageformats
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\imageformats
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python
+[19:00:02] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python\DLLs
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python\DLLs
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\res
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\res
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Soundtrack
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Soundtrack
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\EA Help
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\EA Help
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\eula
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\eula
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\readme
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\readme
+[19:00:03] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\Support
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\Support
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\__Installer
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\__Installer
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\Support
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\Support
+[19:00:04] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\__Installer
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\__Installer
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\eula
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\eula
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\redist
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\redist
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\eula
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\eula
+[19:00:05] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\redist
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\redist
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vp6
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vp6
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Client
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Client
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds\Areas
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds\Areas
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game
+[19:00:06] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\codecs
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\codecs
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\imageformats
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\imageformats
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\res
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\res
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\EA Help
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\EA Help
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\eula
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\eula
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\readme
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\readme
+[19:00:07] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\eula
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\eula
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\redist
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\redist
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vp6
+[19:00:08] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vp6
+[19:05:00] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild1.package (864,84 K/S -  265 679 769 bytes)
+[19:05:00] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild2.package
+[19:08:31] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild2.package (882,66 K/S -  190 710 606 bytes)
+[19:08:31] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild3.package
+[19:11:54] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild3.package (883,12 K/S -  183 575 314 bytes)
+[19:11:54] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild4.package
+[19:15:23] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild4.package (887,01 K/S -  189 833 617 bytes)
+[19:15:23] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild5.package
+[19:17:25] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild0.package (931,66 K/S -  996 953 325 bytes)
+[19:17:25] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild6.package
+[19:18:47] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild5.package (923,12 K/S -  192 835 938 bytes)
+[19:18:47] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild7.package
+[19:22:20] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild6.package (916,32 K/S -  276 800 514 bytes)
+[19:22:20] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild8.package
+[19:26:42] - [4] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild8.package (6,11 K/S -  1 638 400 bytes)
+[19:26:42] - [4] Client 86.204.148.138 Déconnecté (00:26:42 Min)
+[19:26:44] - [3] Client 86.204.148.138 Déconnecté (00:27:51 Min)
+[19:26:51] - [5] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild7.package (400,03 K/S -  198 262 784 bytes)
+[19:26:51] - [5] Client 86.204.148.138 Déconnecté (00:26:51 Min)
+[19:27:15] - [6] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:27:15] - [6] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:27:15] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:27:15] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:27:28] - [7] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:27:28] - [8] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:27:28] - [7] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:27:28] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:27:28] - [8] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:27:28] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:27:51] - [7] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild8.package
+[19:27:55] - [8] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild7.package
+[19:33:12] - [7] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild8.package (911,65 K/S -  299 663 322 bytes)
+[19:33:12] - [7] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild0.package
+[19:33:21] - [8] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientDeltaBuild7.package (882,17 K/S -  294 491 059 bytes)
+[19:33:21] - [8] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package
+[19:37:27] - [6] Client 86.197.250.1 Déconnecté (00:10:11 Min)
+[19:38:17] - [8] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package (898,38 K/S -  272 302 080 bytes)
+[19:38:17] - [8] Client 86.197.250.1 Déconnecté (00:10:49 Min)
+[19:38:18] - [7] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild0.package (903,29 K/S -  282 116 096 bytes)
+[19:38:18] - [7] Client 86.197.250.1 Déconnecté (00:10:49 Min)
+[19:40:33] - [9] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:40:33] - [9] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:40:33] - [9] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:40:33] - [9] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:40:38] - [10] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:40:38] - [11] Connecté à 86.197.250.1. Collecte du Nom d'utilisateur.
+[19:40:38] - [10] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:40:38] - [10] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:40:39] - [11] Usager VICTOR.POZEN Connecté IP: 86.197.250.1
+[19:40:39] - [11] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:40:48] - [11] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package
+[19:40:48] - [10] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild0.package
+[19:49:07] - [10] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild0.package (1 476,30 K/S -  754 360 553 bytes)
+[19:49:07] - [10] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package
+[19:56:12] - [12] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[19:56:12] - [12] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[19:56:12] - [12] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:56:17] - [13] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[19:56:17] - [14] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[19:56:17] - [13] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[19:56:17] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:56:17] - [14] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[19:56:17] - [14] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package
+[19:56:18] - [13] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package (7,2544E5 K/S -  742 850 560 bytes)
+[19:56:18] - [14] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package
+[19:56:18] - [14] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package (11 920,00 K/S -  12 206 080 bytes)
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild3.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild4.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild5.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild6.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild7.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild8.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\magalog.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\magalog2.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\Resource.cfg
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\Strings_FRE_FR.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\thumbnails.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\thumbnails2.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\thumbnailsdeltabg1.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\thumbnailsdeltapack1.package
+[19:56:18] - [13] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\UI.package
+[19:56:18] - [13] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[19:56:18] - [14] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package
+[19:56:18] - [14] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package (11 920,00 K/S -  12 206 080 bytes)
+[19:56:19] - [14] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package
+[19:56:19] - [14] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package (11 920,00 K/S -  12 206 080 bytes)
+[19:56:19] - [14] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[19:57:57] - [14] Client 90.39.243.199 Déconnecté (00:01:39 Min)
+[19:57:57] - [13] Client 90.39.243.199 Déconnecté (00:01:39 Min)
+[20:05:59] - [15] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:05:59] - [16] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:05:59] - [15] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:05:59] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:05:59] - [16] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:05:59] - [16] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:05:59] - [15] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package
+[20:05:59] - [15] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package (7,2544E5 K/S -  742 850 560 bytes)
+[20:06:00] - [16] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas\BG_Engagement_01.world
+[20:06:03] - [16] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas\BG_Engagement_01.world (1 931,30 K/S -  5 932 912 bytes)
+[20:06:31] - [15] Client 90.39.243.199 Déconnecté (00:00:31 Min)
+[20:06:34] - [16] Client 90.39.243.199 Déconnecté (00:00:34 Min)
+[20:07:50] - [9] Client 86.197.250.1 Déconnecté (00:27:16 Min)
+[20:07:50] - [10] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild2.package (10,61 K/S -  12 206 080 bytes)
+[20:07:50] - [10] Client 86.197.250.1 Déconnecté (00:27:11 Min)
+[20:07:50] - [11] VICTOR.POZEN: Echec de l'Upload du Fichier: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild1.package (447,25 K/S -  742 850 560 bytes)
+[20:07:50] - [11] Client 86.197.250.1 Déconnecté (00:27:11 Min)
+[20:07:50] - [12] Client 90.39.243.199 Déconnecté (00:11:37 Min)
+[20:08:10] - Serveur Démarré
+[20:08:10] - FTP Port: 21
+[20:08:32] - [1] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:08:32] - [1] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:08:32] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:32] - [1] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas\BG_Engagement_02.world
+[20:08:33] - [1] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas\BG_Engagement_02.world (1 975,50 K/S -  2 022 944 bytes)
+[20:08:41] - [2] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:08:41] - [2] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:08:41] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:41] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:54] - [1] Client 90.39.243.199 Déconnecté (00:00:22 Min)
+[20:08:54] - [2] Client 90.39.243.199 Déconnecté (00:00:13 Min)
+[20:09:02] - [3] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:09:02] - [3] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:09:02] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:09:02] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:09:14] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\Origin Games\
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games
+[20:10:12] - [4] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:10:12] - [5] Connecté à 90.39.243.199. Collecte du Nom d'utilisateur.
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games
+[20:10:12] - [4] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:10:12] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:10:12] - [5] Usager VICTOR.POZEN Connecté IP: 90.39.243.199
+[20:10:12] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Shared\Worlds\Areas
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation
+[20:10:12] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation\Gameplay
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Data\Simulation\Gameplay
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP02\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\EP04\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\FP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\FP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP05
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\GP05
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP01
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP02
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP03
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP05
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP05
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP06
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP06
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP07
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP07
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP08
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP08
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP09
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP09
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP10
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP10
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP11
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP11
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP12
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Delta\SP12
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\EP04\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\codecs
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\codecs
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\imageformats
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Core\imageformats
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python\DLLs
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\Python\DLLs
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\res
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Game\Bin\res
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Soundtrack
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Soundtrack
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\EA Help
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\EA Help
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\readme
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\Support\readme
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\EP04\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\Support
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\DLC\Soundtrack\__Installer
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\redist
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2010sp1\redist
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\eula
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\redist
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vc\vc2013\redist
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vp6
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4\__Installer\vp6
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Client
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Client
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Data\Shared\Worlds\Areas
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game
+[20:10:13] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\codecs
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\codecs
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\imageformats
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\Core\imageformats
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\res
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Game\Bin\res
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\EA Help
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\EA Help
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\eula
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\eula
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\readme
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\Support\readme
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\eula
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\eula
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\redist
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vc\vc2013\redist
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vp6
+[20:10:14] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\Origin Games\The Sims 4 Create A Sim Demo\__Installer\vp6
+[20:10:26] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild3.package
+[20:10:26] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild4.package
+[20:17:24] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild3.package (912,08 K/S -  390 397 952 bytes)
+[20:17:24] - [5] Client 90.39.243.199 Déconnecté (00:07:11 Min)
+[20:17:24] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Origin Games\The Sims 4\Data\Client\ClientFullBuild4.package (917,17 K/S -  392 577 024 bytes)
+[20:17:24] - [4] Client 90.39.243.199 Déconnecté (00:07:11 Min)
+[20:17:24] - [3] Client 90.39.243.199 Déconnecté (00:08:22 Min)
+[20:17:38] - Serveur Arreté
+[20:17:41] - Serveur Démarré
+[20:17:41] - FTP Port: 21

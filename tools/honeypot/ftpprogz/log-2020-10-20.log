@@ -1,0 +1,34 @@
+[16:54:30] - Serveur Démarré
+[16:54:30] - FTP Port: 21
+[19:30:17] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:30:17] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:30:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:31:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:31:30] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:31:30] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:31:30] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:31:30] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:31:30] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\spark_2_7_3.exe
+[19:32:45] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\spark_2_7_3.exe (801,33 K/S -  61 541 888 bytes)
+[19:33:16] - [2] Client 192.168.0.1 Déconnecté (00:01:45 Min)
+[19:33:37] - [1] Client 192.168.0.1 Déconnecté (00:03:19 Min)
+[19:59:30] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:59:30] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:59:30] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:59:30] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:59:36] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:01:35] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:01:35] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:01:35] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:01:35] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:01:35] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\spark_2_7_3.exe
+[20:02:36] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\spark_2_7_3.exe (1 001,66 K/S -  61 541 888 bytes)
+[20:03:07] - [4] Client 192.168.0.1 Déconnecté (00:01:31 Min)
+[20:50:17] - Serveur Démarré
+[20:50:17] - FTP Port: 21
+[20:50:36] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:50:36] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:50:36] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:50:36] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:34:50] - [1] Client 192.168.0.1 Déconnecté (00:44:14 Min)

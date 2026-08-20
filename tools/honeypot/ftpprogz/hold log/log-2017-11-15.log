@@ -1,0 +1,42 @@
+[17:29:53] - Serveur Démarré
+[17:29:53] - FTP Port: 21
+[17:39:10] - [1] Connecté à 86.235.177.249. Collecte du Nom d'utilisateur.
+[17:39:10] - [1] Usager VICTOR.POZEN Connecté IP: 86.235.177.249
+[17:39:10] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:39:10] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:39:12] - [1] Client 86.235.177.249 Déconnecté (00:00:02 Min)
+[17:44:16] - [2] Connecté à 90.39.112.158. Collecte du Nom d'utilisateur.
+[17:44:16] - [2] Usager VICTOR.POZEN Connecté IP: 90.39.112.158
+[17:44:16] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:44:16] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:44:19] - [2] Client 90.39.112.158 Déconnecté (00:00:03 Min)
+[17:44:29] - [3] Connecté à 164.132.91.3. Collecte du Nom d'utilisateur.
+[17:44:29] - [3] Client 164.132.91.3 Déconnecté (00:00:00 Min)
+[17:50:23] - [4] Connecté à 86.235.177.249. Collecte du Nom d'utilisateur.
+[17:50:23] - [4] Usager VICTOR.POZEN Connecté IP: 86.235.177.249
+[17:50:23] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:50:23] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:10:18] - [4] Client 86.235.177.249 Déconnecté (00:19:55 Min)
+[18:16:40] - [5] Connecté à 106.51.26.121. Collecte du Nom d'utilisateur.
+[18:16:40] - [5] Authentification Incorrect: Utilisateur USER IP: 106.51.26.121
+[18:16:40] - [5] Client 106.51.26.121 Déconnecté (00:00:00 Min)
+[19:35:38] - [6] Connecté à 86.235.177.249. Collecte du Nom d'utilisateur.
+[19:35:39] - [6] Usager VICTOR.POZEN Connecté IP: 86.235.177.249
+[19:35:39] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:35:39] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:35:43] - [6] Client 86.235.177.249 Déconnecté (00:00:02 Min)
+[19:42:53] - [7] Connecté à 86.235.177.249. Collecte du Nom d'utilisateur.
+[19:42:53] - [7] Usager VICTOR.POZEN Connecté IP: 86.235.177.249
+[19:42:53] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:42:54] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:43:14] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\last dow\
+[19:43:26] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[19:43:28] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[19:43:41] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:45:17] - [7] Client 86.235.177.249 Déconnecté (00:02:24 Min)
+[20:49:34] - [8] Connecté à 169.54.233.124. Collecte du Nom d'utilisateur.
+[20:50:05] - [8] Client 169.54.233.124 Déconnecté (00:00:30 Min)
+[23:21:17] - [9] Connecté à 37.97.81.85. Collecte du Nom d'utilisateur.
+[23:21:17] - [9] Usager ANONYMOUS Connecté IP: 37.97.81.85
+[23:21:17] - [9] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 37.97.81.85
+[23:21:17] - [9] Client 37.97.81.85 Déconnecté (00:00:00 Min)

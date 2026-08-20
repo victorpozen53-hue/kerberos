@@ -1,0 +1,30 @@
+[19:37:48] - Serveur Démarré
+[19:37:48] - FTP Port: 21
+[19:52:19] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:52:19] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:52:19] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:52:19] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:52:44] - [1] Client 192.168.0.1 Déconnecté (00:00:25 Min)
+[20:07:07] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:07:07] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:07:07] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:07:07] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:11] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:11] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:08:11] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\toile loren
+[20:08:12] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:08:12] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:12] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:08:12] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\toile loren
+[20:08:12] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\toile loren\
+[20:08:12] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\toile loren\confinement0.jpg
+[20:08:36] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\toile loren\confinement0.jpg (1 212,60 K/S -  29 801 354 bytes)
+[20:09:07] - [3] Client 192.168.0.1 Déconnecté (00:00:56 Min)
+[21:26:28] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:26:28] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:26:28] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:26:28] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:26:35] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\link loren.txt
+[21:26:35] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\link loren.txt (0,14 K/S -    147 bytes)
+[21:28:23] - [4] Client 192.168.0.1 Déconnecté (00:01:54 Min)
+[21:46:00] - [2] Client 192.168.0.1 Déconnecté (01:38:53 Min)

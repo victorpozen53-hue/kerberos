@@ -1,0 +1,82 @@
+[20:14:02] - Serveur Démarré
+[20:14:02] - FTP Port: 21
+[20:32:10] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:32:10] - [1] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[20:32:10] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:32:10] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:05:27] - Serveur Démarré
+[21:05:27] - FTP Port: 21
+[21:05:41] - [1] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:05:44] - [1] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:05:44] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:05:44] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:47:47] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:47:51] - [1] Client 90.100.66.214 Déconnecté (00:42:08 Min)
+[21:47:59] - [2] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:47:59] - [2] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:47:59] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:47:59] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:48:31] - [3] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:48:31] - [4] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[21:48:31] - [3] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:48:31] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:48:31] - [4] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[21:48:31] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:48:31] - [3] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\VOEUX 2018 DE LOREN.wmv
+[21:48:31] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\VOEUX LOREN VENANCIO 2018.wmv
+[21:48:47] - [3] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\VOEUX 2018 DE LOREN.wmv (471,41 K/S -  7 723 642 bytes)
+[21:48:48] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\VOEUX LOREN VENANCIO 2018.wmv (410,59 K/S -  7 147 618 bytes)
+[21:49:18] - [3] Client 90.100.66.214 Déconnecté (00:00:47 Min)
+[21:49:19] - [4] Client 90.100.66.214 Déconnecté (00:00:48 Min)
+[22:09:56] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:09:56] - [5] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[22:09:56] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:09:56] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:10:12] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:10:12] - [6] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[22:10:12] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:10:12] - [6] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\openfire_4_2_1.exe
+[22:10:31] - [6] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\openfire_4_2_1.exe (1 359,60 K/S -  26 452 992 bytes)
+[22:11:02] - [6] Client 192.168.0.1 Déconnecté (00:00:50 Min)
+[22:21:44] - [2] Client 90.100.66.214 Déconnecté (00:33:45 Min)
+[22:52:47] - [7] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[22:52:47] - [7] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[22:52:47] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:52:47] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:52:59] - [7] Client 90.100.66.214 Déconnecté (00:00:12 Min)
+[23:11:46] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:11:46] - [8] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[23:12:22] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:12:23] - [9] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[23:15:44] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:15:44] - [10] Usager ANONYMOUS Connecté IP: 192.168.0.1
+[23:15:44] - [10] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 192.168.0.1
+[23:15:44] - [11] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:15:44] - [10] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[23:15:46] - [11] Client 192.168.0.1 Déconnecté (00:00:02 Min)
+[23:18:39] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:18:39] - [12] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[23:18:39] - [12] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:18:39] - [12] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\openfire_4_2_1_bundledJRE.exe
+[23:19:24] - [12] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\openfire_4_2_1_bundledJRE.exe (1 441,30 K/S -  66 417 152 bytes)
+[23:19:55] - [12] Client 192.168.0.1 Déconnecté (00:01:15 Min)
+[23:20:11] - [5] Client 192.168.0.1 Déconnecté (01:10:14 Min)
+[23:20:13] - [13] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:20:13] - [14] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:20:13] - [13] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[23:20:13] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:20:13] - [14] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[23:20:13] - [14] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:21:05] - [14] Client 192.168.0.1 Déconnecté (00:00:51 Min)
+[23:21:05] - [13] Client 192.168.0.1 Déconnecté (00:00:51 Min)
+[23:56:20] - [15] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:56:20] - [15] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[23:56:20] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:56:20] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:56:25] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[23:56:45] - [16] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[23:56:45] - [16] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[23:56:45] - [16] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[23:56:45] - [16] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\spark_2_7_3.exe
+[23:58:15] - [16] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\spark_2_7_3.exe (675,28 K/S -  61 541 888 bytes)
+[23:58:47] - [16] Client 192.168.0.1 Déconnecté (00:02:01 Min)

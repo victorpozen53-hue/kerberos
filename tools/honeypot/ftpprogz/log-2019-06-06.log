@@ -1,0 +1,20 @@
+[22:01:03] - Serveur Démarré
+[22:01:03] - FTP Port: 21
+[22:02:49] - [1] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[22:02:49] - [1] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[22:02:49] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:02:49] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:02:52] - [1] Client 92.141.179.181 Déconnecté (00:00:03 Min)
+[22:09:34] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:09:35] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:09:35] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:09:35] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:09:40] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:10:07] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:10:07] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:10:07] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:10:07] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:10:07] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe
+[22:10:18] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe (567,06 K/S -  6 968 048 bytes)
+[22:10:49] - [3] Client 192.168.0.1 Déconnecté (00:00:42 Min)
+[22:12:01] - [2] Client 192.168.0.1 Déconnecté (00:02:27 Min)

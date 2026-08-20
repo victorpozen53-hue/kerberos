@@ -1,0 +1,64 @@
+[14:48:40] - Serveur Démarré
+[14:48:40] - FTP Port: 21
+[14:49:20] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:49:21] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:49:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:49:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:49:49] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:49:49] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:49:49] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:49:49] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:49:52] - [2] Client 192.168.0.1 Déconnecté (00:00:02 Min)
+[14:49:59] - [1] Client 192.168.0.1 Déconnecté (00:00:38 Min)
+[14:54:10] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:54:10] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:54:10] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:54:11] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:54:39] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:54:39] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:54:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:54:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:54:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:55:25] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:55:25] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:55:25] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:55:25] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:55:25] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[14:55:27] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (479,36 K/S -   981 728 bytes)
+[14:55:57] - [5] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[14:57:17] - [3] Client 192.168.0.1 Déconnecté (00:03:06 Min)
+[15:27:47] - [6] Connecté à 192.241.237.249. Collecte du Nom d'utilisateur.
+[15:27:57] - [6] Client 192.241.237.249 Déconnecté (00:00:09 Min)
+[15:50:14] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:50:15] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:50:15] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:50:16] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:50:23] - [7] Client 192.168.0.1 Déconnecté (00:00:08 Min)
+[16:32:30] - [4] Client 192.168.0.1 Déconnecté (01:37:50 Min)
+[16:50:51] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:50:51] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:50:51] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:50:53] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:50:59] - [8] Client 192.168.0.1 Déconnecté (00:00:07 Min)
+[17:14:28] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:14:28] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:14:28] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:14:28] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:14:44] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\win_xp_2k3_32\
+[17:14:55] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:14:55] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[17:15:09] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:09] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[17:15:11] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[17:15:26] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:26] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz milo\
+[17:15:40] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:40] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[17:16:34] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:16:35] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:16:35] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:16:35] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[17:16:35] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\Windows Server 2003 Evalution to Enterprise Edition=good cr.rar
+[17:16:35] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\Windows Server 2003 Evalution to Enterprise Edition=good cr.rar (53,48 K/S -   54 762 bytes)
+[17:17:06] - [10] Client 192.168.0.1 Déconnecté (00:00:31 Min)
+[17:17:19] - [9] Client 192.168.0.1 Déconnecté (00:02:50 Min)

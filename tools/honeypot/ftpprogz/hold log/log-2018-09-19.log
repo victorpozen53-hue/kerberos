@@ -1,0 +1,1459 @@
+[18:09:16] - Serveur Démarré
+[18:09:16] - FTP Port: 21
+[20:45:16] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:45:16] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:45:16] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:45:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:46:01] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:46:05] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[20:46:24] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:46:24] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[20:46:31] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:46:31] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:46:31] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:46:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:46:31] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:46:31] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:46:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[20:46:31] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[20:46:38] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ar.lng
+[20:46:38] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\afaapi.dll
+[20:46:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ar.lng (42,02 K/S -   43 030 bytes)
+[20:46:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\arpro.lng
+[20:46:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\arpro.lng (7,20 K/S -   7 376 bytes)
+[20:46:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\bc_vbdll.dll
+[20:46:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\afaapi.dll (227,38 K/S -   698 512 bytes)
+[20:46:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\be.lng
+[20:46:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\be.lng (52,19 K/S -   53 446 bytes)
+[20:46:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\bepro.lng
+[20:46:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\bc_vbdll.dll (295,07 K/S -   604 304 bytes)
+[20:46:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\bepro.lng (8,45 K/S -   8 648 bytes)
+[20:46:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\bg.lng
+[20:46:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\bg.lng (51,42 K/S -   52 657 bytes)
+[20:46:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\bgpro.lng
+[20:46:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\bgpro.lng (8,47 K/S -   8 676 bytes)
+[20:46:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\cn.lng
+[20:46:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\cn.lng (30,35 K/S -   31 075 bytes)
+[20:46:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\cnpro.lng
+[20:46:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\cnpro.lng (4,96 K/S -   5 084 bytes)
+[20:46:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\cz.lng
+[20:46:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\cz.lng (45,13 K/S -   46 208 bytes)
+[20:46:42] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\czpro.lng
+[20:46:42] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\czpro.lng (7,57 K/S -   7 755 bytes)
+[20:46:42] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\da.lng
+[20:46:42] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\da.lng (33,76 K/S -   34 569 bytes)
+[20:46:42] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\dapro.lng
+[20:46:42] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\dapro.lng (7,95 K/S -   8 139 bytes)
+[20:46:42] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\de.lng
+[20:46:42] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\depro.lng
+[20:46:43] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\depro.lng (8,66 K/S -   8 863 bytes)
+[20:46:43] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\de.lng (53,95 K/S -   55 241 bytes)
+[20:46:43] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\deta.dll
+[20:46:43] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detect.dat
+[20:46:43] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\deta.dll (37,14 K/S -   38 032 bytes)
+[20:46:43] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detect.dll
+[20:46:49] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detect.dat (14,82 K/S -   91 026 bytes)
+[20:46:49] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detjm.dll
+[20:46:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detect.dll (24,81 K/S -   177 808 bytes)
+[20:46:50] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detjm.dll (100,45 K/S -   102 856 bytes)
+[20:46:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detp.dll
+[20:46:50] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detpex.dlz
+[20:46:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detp.dll (115,14 K/S -   117 904 bytes)
+[20:46:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detrc.dll
+[20:46:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detrc.dll (138,14 K/S -   141 456 bytes)
+[20:46:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detw.dll
+[20:46:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detw.dll (176,15 K/S -   180 376 bytes)
+[20:46:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\detw64.dll
+[20:46:52] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detpex.dlz (338,34 K/S -   692 911 bytes)
+[20:46:52] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00.hdd
+[20:46:52] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00.hdd (0,47 K/S -    480 bytes)
+[20:46:52] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\detw64.dll (215,65 K/S -   220 824 bytes)
+[20:46:52] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00_scsi.hdi
+[20:46:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00_scsi.hdi (20,83 K/S -   21 332 bytes)
+[20:46:53] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01.hdd
+[20:46:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01_scsi.hdi
+[20:46:53] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01.hdd (90,47 K/S -   92 640 bytes)
+[20:46:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01_scsi.hdi (20,83 K/S -   21 332 bytes)
+[20:46:53] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.dat
+[20:46:53] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.dat (3,16 K/S -   3 234 bytes)
+[20:46:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdd
+[20:46:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdd (90,47 K/S -   92 640 bytes)
+[20:46:53] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdi
+[20:46:53] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdi (0,65 K/S -    662 bytes)
+[20:46:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05.hdd
+[20:46:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05.hdd (90,47 K/S -   92 640 bytes)
+[20:46:53] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05_scsi.hdi
+[20:46:53] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05_scsi.hdi (20,83 K/S -   21 332 bytes)
+[20:46:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_USB_DISK_2.0_PMAP1234_PMAP.hdd
+[20:46:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_USB_DISK_2.0_PMAP1234_PMAP.hdd (1,41 K/S -   1 440 bytes)
+[20:46:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_USB_DISK_2.0_PMAP1234_PMAP_scsi.hdi
+[20:46:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_USB_DISK_2.0_PMAP1234_PMAP_scsi.hdi (20,83 K/S -   21 332 bytes)
+[20:46:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\DriveAddRemoveLog.txt
+[20:46:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\DriveAddRemoveLog.txt (0,13 K/S -    136 bytes)
+[20:46:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\du.lng
+[20:46:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\du.lng (51,45 K/S -   52 681 bytes)
+[20:46:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\dupro.lng
+[20:46:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\dupro.lng (8,49 K/S -   8 698 bytes)
+[20:46:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\en.chm
+[20:46:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\en.lng
+[20:46:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\en.lng (47,34 K/S -   48 472 bytes)
+[20:46:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\enpro.lng
+[20:46:55] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\enpro.lng (7,75 K/S -   7 939 bytes)
+[20:46:55] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\fi.chm
+[20:46:57] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\en.chm (501,93 K/S -  1 541 923 bytes)
+[20:46:57] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\fi.lng
+[20:46:58] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\fi.lng (48,84 K/S -   50 016 bytes)
+[20:46:58] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\fipro.lng
+[20:46:58] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\fipro.lng (8,30 K/S -   8 502 bytes)
+[20:46:58] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\fnp_act_installer.dll
+[20:46:59] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\fi.chm (382,16 K/S -  1 565 319 bytes)
+[20:46:59] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\fr.lng
+[20:46:59] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\fnp_act_installer.dll (384,64 K/S -   393 872 bytes)
+[20:46:59] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\fr.lng (55,00 K/S -   56 316 bytes)
+[20:46:59] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\frpro.lng
+[20:46:59] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\frpro.lng (9,34 K/S -   9 566 bytes)
+[20:47:00] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\gr.lng
+[20:47:00] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\gr.lng (41,76 K/S -   42 761 bytes)
+[20:47:00] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\grpro.lng
+[20:47:00] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\grpro.lng (9,35 K/S -   9 578 bytes)
+[20:47:00] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\harddisksentinelupdate.exe
+[20:47:01] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hdd.jpg
+[20:47:01] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hdd.jpg (10,04 K/S -   10 279 bytes)
+[20:47:01] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDnotify.wav
+[20:47:01] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDnotify.wav (22,91 K/S -   23 456 bytes)
+[20:47:02] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSAction.exe
+[20:47:03] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\harddisksentinelupdate.exe (93,88 K/S -   288 400 bytes)
+[20:47:03] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSCtrl.exe
+[20:47:05] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSCtrl.exe (118,07 K/S -   241 808 bytes)
+[20:47:05] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe
+[20:47:08] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSAction.exe (122,77 K/S -   754 320 bytes)
+[20:47:08] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe.BAK
+[20:47:19] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe (311,12 K/S -  4 460 176 bytes)
+[20:47:19] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hdk
+[20:47:19] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hdk (0,51 K/S -    520 bytes)
+[20:47:19] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hds
+[20:47:19] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hds (0,51 K/S -    520 bytes)
+[20:47:19] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.ini
+[20:47:19] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.ini (5,17 K/S -   5 290 bytes)
+[20:47:19] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sta
+[20:47:19] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sta (6,54 K/S -   6 694 bytes)
+[20:47:20] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sys
+[20:47:20] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sys (9,96 K/S -   10 200 bytes)
+[20:47:20] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsh
+[20:47:20] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsh (8,19 K/S -   8 390 bytes)
+[20:47:20] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsx
+[20:47:20] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsx (0,67 K/S -    686 bytes)
+[20:47:20] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDSentinelTray.exe
+[20:47:27] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe.BAK (229,24 K/S -  4 460 176 bytes)
+[20:47:27] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\HDsirena.mp3
+[20:47:28] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDsirena.mp3 (57,68 K/S -   59 066 bytes)
+[20:47:28] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hdsversion.txt
+[20:47:28] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hdsversion.txt (0,01 K/S -    11 bytes)
+[20:47:28] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\HDSentinelTray.exe (33,02 K/S -   270 480 bytes)
+[20:47:28] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_en.txt
+[20:47:28] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_en.txt (11,25 K/S -   11 521 bytes)
+[20:47:28] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_hu.txt
+[20:47:28] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_hu.txt (9,86 K/S -   10 097 bytes)
+[20:47:28] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hu.chm
+[20:47:28] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hu.lng
+[20:47:28] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hu.lng (50,08 K/S -   51 281 bytes)
+[20:47:28] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\hupro.lng
+[20:47:29] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hupro.lng (8,42 K/S -   8 623 bytes)
+[20:47:29] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\id.lng
+[20:47:29] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\id.lng (49,77 K/S -   50 968 bytes)
+[20:47:29] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\idpro.lng
+[20:47:29] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\idpro.lng (8,53 K/S -   8 738 bytes)
+[20:47:29] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\it.chm
+[20:47:32] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\hu.chm (375,32 K/S -  1 537 327 bytes)
+[20:47:32] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\it.lng
+[20:47:32] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\it.lng (51,54 K/S -   52 774 bytes)
+[20:47:32] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\itpro.lng
+[20:47:32] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\itpro.lng (8,74 K/S -   8 951 bytes)
+[20:47:32] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\jp.lng
+[20:47:33] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\jp.lng (46,25 K/S -   47 355 bytes)
+[20:47:33] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\jppro.lng
+[20:47:33] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\jppro.lng (8,04 K/S -   8 237 bytes)
+[20:47:33] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\it.chm (362,87 K/S -  1 486 326 bytes)
+[20:47:33] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\libeay32.dll
+[20:47:33] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\libxml2.dll
+[20:47:34] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\libxml2.dll (227,64 K/S -   233 104 bytes)
+[20:47:34] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\log.txt
+[20:47:34] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\log.txt (27,33 K/S -   27 981 bytes)
+[20:47:34] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\mk.lng
+[20:47:34] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\mk.lng (51,87 K/S -   53 112 bytes)
+[20:47:35] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\mkpro.lng
+[20:47:35] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\mkpro.lng (8,76 K/S -   8 971 bytes)
+[20:47:35] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\pl.chm
+[20:47:38] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\libeay32.dll (303,33 K/S -  1 553 072 bytes)
+[20:47:38] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\pl.lng
+[20:47:38] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\pl.lng (51,94 K/S -   53 184 bytes)
+[20:47:38] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\plpro.lng
+[20:47:38] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\plpro.lng (8,65 K/S -   8 857 bytes)
+[20:47:38] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\prdecode.dll
+[20:47:38] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\pl.chm (378,05 K/S -  1 161 383 bytes)
+[20:47:38] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\prdecode.dll (53,64 K/S -   54 928 bytes)
+[20:47:38] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\prerrlog.dll
+[20:47:39] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\pri2plgnnapa.dll
+[20:47:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\prerrlog.dll (39,14 K/S -   40 080 bytes)
+[20:47:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ptbr.lng
+[20:47:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ptbr.lng (51,75 K/S -   52 990 bytes)
+[20:47:39] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\pri2plgnnapa.dll (91,64 K/S -   93 840 bytes)
+[20:47:39] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ptbrpro.lng
+[20:47:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\removehds7.vbs
+[20:47:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\removehds7.vbs (0,50 K/S -    512 bytes)
+[20:47:39] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ptbrpro.lng (8,72 K/S -   8 925 bytes)
+[20:47:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ro.lng
+[20:47:39] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ropro.lng
+[20:47:39] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ropro.lng (8,02 K/S -   8 217 bytes)
+[20:47:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ro.lng (45,47 K/S -   46 565 bytes)
+[20:47:40] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ru.chm
+[20:47:40] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ru.lng
+[20:47:40] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ru.lng (48,95 K/S -   50 125 bytes)
+[20:47:40] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\rupro.lng
+[20:47:40] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\rupro.lng (7,78 K/S -   7 963 bytes)
+[20:47:40] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\sk.lng
+[20:47:40] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\sk.lng (47,54 K/S -   48 678 bytes)
+[20:47:40] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\skpro.lng
+[20:47:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\skpro.lng (8,25 K/S -   8 445 bytes)
+[20:47:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\sp.lng
+[20:47:41] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\sp.lng (11,83 K/S -   12 109 bytes)
+[20:47:41] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ssleay32.dll
+[20:47:42] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ssleay32.dll (330,61 K/S -   338 544 bytes)
+[20:47:42] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Status.icd
+[20:47:43] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Status.icd (253,15 K/S -   259 224 bytes)
+[20:47:43] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Statusb.icd
+[20:47:44] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Statusb.icd (253,15 K/S -   259 224 bytes)
+[20:47:44] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Statusg.icd
+[20:47:44] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ru.chm (383,57 K/S -  1 571 111 bytes)
+[20:47:44] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Statusn.icd
+[20:47:45] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Statusg.icd (253,15 K/S -   259 224 bytes)
+[20:47:45] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Statusw.icd
+[20:47:45] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Statusn.icd (253,15 K/S -   259 224 bytes)
+[20:47:45] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Storagetest.dll
+[20:47:47] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Statusw.icd (126,57 K/S -   259 224 bytes)
+[20:47:47] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storarc.dll
+[20:47:49] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Storagetest.dll (182,54 K/S -   747 664 bytes)
+[20:47:49] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storectrl.dll
+[20:47:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storectrl.dll (283,14 K/S -   289 936 bytes)
+[20:47:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storelib.dll
+[20:47:51] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storarc.dll (283,54 K/S -  1 161 360 bytes)
+[20:47:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storelib.dll (275,14 K/S -   281 744 bytes)
+[20:47:51] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storelib2.dlz
+[20:47:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storelibir-2.dll
+[20:47:52] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storelibir-2.dll (162,08 K/S -   165 968 bytes)
+[20:47:52] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\storelibir.dll
+[20:47:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storelibir.dll (156,08 K/S -   159 824 bytes)
+[20:47:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\sw.lng
+[20:47:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\sw.lng (47,14 K/S -   48 274 bytes)
+[20:47:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\swpro.lng
+[20:47:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\swpro.lng (7,57 K/S -   7 753 bytes)
+[20:47:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\tr.lng
+[20:47:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\tr.lng (30,05 K/S -   30 775 bytes)
+[20:47:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\trpro.lng
+[20:47:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\trpro.lng (8,26 K/S -   8 455 bytes)
+[20:47:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\storelib2.dlz (289,44 K/S -   889 148 bytes)
+[20:47:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\tw.lng
+[20:47:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\tw.lng (30,30 K/S -   31 032 bytes)
+[20:47:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\twpro.lng
+[20:47:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\twpro.lng (4,91 K/S -   5 024 bytes)
+[20:47:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\uk.lng
+[20:47:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\ukpro.lng
+[20:47:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\ukpro.lng (8,12 K/S -   8 316 bytes)
+[20:47:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\uk.lng (48,89 K/S -   50 059 bytes)
+[20:47:54] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\unins000.dat
+[20:47:55] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\unins000.dat (12,58 K/S -   12 883 bytes)
+[20:47:55] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\unins000.exe
+[20:47:55] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Vista_Status.icd
+[20:47:56] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Vista_Status.icd (254,65 K/S -   260 760 bytes)
+[20:47:56] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusb.icd
+[20:47:57] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusb.icd (254,65 K/S -   260 760 bytes)
+[20:47:57] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusg.icd
+[20:47:57] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\unins000.exe (340,48 K/S -   697 296 bytes)
+[20:47:57] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusn.icd
+[20:47:57] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusg.icd (254,65 K/S -   260 760 bytes)
+[20:47:57] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusw.icd
+[20:47:58] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusn.icd (254,65 K/S -   260 760 bytes)
+[20:47:58] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Hard Disk Sentinel\winsched.txt
+[20:47:58] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\winsched.txt (27,61 K/S -   28 277 bytes)
+[20:47:58] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusw.icd (254,65 K/S -   260 760 bytes)
+[20:48:15] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:48:15] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\jeu loren\
+[20:48:29] - [3] Client 192.168.0.1 Déconnecté (00:01:58 Min)
+[20:48:29] - [2] Client 192.168.0.1 Déconnecté (00:01:58 Min)
+[20:48:36] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:48:40] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\
+[20:48:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:48:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\
+[20:48:57] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\
+[20:48:58] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\
+[20:48:59] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\Syscon\
+[20:49:00] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\Syscon\Sysdata\
+[20:49:01] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:01] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\
+[20:49:02] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\040c\
+[20:49:02] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\
+[20:49:02] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0009\
+[20:49:03] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\
+[20:49:03] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0007\
+[20:49:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\
+[20:49:05] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\
+[20:49:06] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\
+[20:49:06] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\
+[20:49:07] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\
+[20:49:08] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\
+[20:49:09] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\
+[20:49:09] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\
+[20:49:11] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\
+[20:49:11] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\
+[20:49:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\
+[20:49:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\
+[20:49:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\
+[20:49:13] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\
+[20:49:14] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\
+[20:49:15] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\
+[20:49:15] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\
+[20:49:16] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\
+[20:49:16] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\
+[20:49:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\
+[20:49:18] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\
+[20:49:18] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\
+[20:49:19] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\
+[20:49:19] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\
+[20:49:20] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\
+[20:49:20] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Chatnplay\
+[20:49:21] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\
+[20:49:21] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Acrobat Reader\
+[20:49:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\
+[20:49:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\
+[20:49:24] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:24] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:49:25] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\
+[20:49:25] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:49:25] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\
+[20:49:26] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:49:26] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\
+[20:49:27] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:49:27] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\
+[20:49:28] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:49:28] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:49:28] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:49:28] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:49:29] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:49:29] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:49:29] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:29] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\
+[20:49:29] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\AUTORUN.INF
+[20:49:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\CMS16.DLL
+[20:49:29] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\AUTORUN.INF (0,03 K/S -    29 bytes)
+[20:49:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\CMS16.DLL (11,69 K/S -   11 970 bytes)
+[20:49:29] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\cms32_95.dll
+[20:49:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\CMS32_NT.DLL
+[20:49:29] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\cms32_95.dll (22,50 K/S -   23 040 bytes)
+[20:49:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\CMS32_NT.DLL (32,00 K/S -   32 768 bytes)
+[20:49:29] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DATA.TAG
+[20:49:29] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DATA.TAG (0,10 K/S -    102 bytes)
+[20:49:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DATA1.CAB
+[20:49:29] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Dethkarz.exe
+[20:49:34] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Dethkarz.exe (228,00 K/S -  1 167 360 bytes)
+[20:49:34] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DETINST.EXE
+[20:49:36] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DETINST.EXE (330,00 K/S -   675 840 bytes)
+[20:49:36] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DSETUP.DLL
+[20:49:37] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DSETUP.DLL (124,50 K/S -   127 488 bytes)
+[20:49:37] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DSETUP16.DLL
+[20:49:37] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DSETUP16.DLL (61,77 K/S -   63 248 bytes)
+[20:49:37] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DSETUP32.DLL
+[20:49:37] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DSETUP32.DLL (50,50 K/S -   51 712 bytes)
+[20:49:37] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Francais Readme.txt
+[20:49:37] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Francais Readme.txt (15,36 K/S -   15 728 bytes)
+[20:49:38] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\IFORCE2.DLL
+[20:49:38] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\IFORCE2.DLL (73,50 K/S -   75 264 bytes)
+[20:49:38] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Joystick.ifr
+[20:49:38] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Joystick.ifr (1,09 K/S -   1 113 bytes)
+[20:49:38] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\LANG.DAT
+[20:49:38] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\LANG.DAT (4,45 K/S -   4 557 bytes)
+[20:49:38] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\LAYOUT.BIN
+[20:49:38] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\LAYOUT.BIN (0,33 K/S -    334 bytes)
+[20:49:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\OS.DAT
+[20:49:39] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\OS.DAT (0,41 K/S -    417 bytes)
+[20:49:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUP.EXE
+[20:49:39] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUP.EXE (58,50 K/S -   59 904 bytes)
+[20:49:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUP.INI
+[20:49:39] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUP.INI (0,05 K/S -    49 bytes)
+[20:49:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUP.INS
+[20:49:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUP.INS (64,99 K/S -   66 549 bytes)
+[20:49:40] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUP.LID
+[20:49:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUP.LID (0,07 K/S -    69 bytes)
+[20:49:40] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\setup.log
+[20:49:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\setup.log (40,84 K/S -   41 819 bytes)
+[20:49:40] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Uninst.isu
+[20:49:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Uninst.isu (20,68 K/S -   21 177 bytes)
+[20:49:41] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\uninstall.exe
+[20:49:41] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\uninstall.exe (32,00 K/S -   32 768 bytes)
+[20:49:41] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Wheel.ifr
+[20:49:41] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Wheel.ifr (1,05 K/S -   1 078 bytes)
+[20:49:41] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\_INST32I.EX_
+[20:49:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\_INST32I.EX_ (309,66 K/S -   317 092 bytes)
+[20:49:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\_ISDEL.EXE
+[20:49:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\_ISDEL.EXE (8,00 K/S -   8 192 bytes)
+[20:49:43] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\_SYS1.CAB
+[20:49:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\_SYS1.CAB (514,79 K/S -   527 147 bytes)
+[20:49:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\_USER1.CAB
+[20:49:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\_USER1.CAB (48,44 K/S -   49 607 bytes)
+[20:49:45] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\Syscon\Sysdata\
+[20:49:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\Syscon\Sysdata\SYSDATA.ZIP
+[20:49:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DATA1.CAB (330,56 K/S -  7 108 287 bytes)
+[20:49:50] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\040c\
+[20:49:50] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\040c\_setup.dll
+[20:49:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\040c\_setup.dll (11,00 K/S -   11 264 bytes)
+[20:49:50] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0009\
+[20:49:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0009\_SETUP.DLL
+[20:49:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0009\_SETUP.DLL (11,00 K/S -   11 264 bytes)
+[20:49:51] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0007\
+[20:49:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0007\_setup.dll
+[20:49:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SETUPDIR\0007\_setup.dll (11,00 K/S -   11 264 bytes)
+[20:49:51] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\
+[20:49:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\dk.db
+[20:49:53] - [6] Connecté à 196.52.43.115. Collecte du Nom d'utilisateur.
+[20:49:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\dk.db (321,06 K/S -   986 292 bytes)
+[20:49:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\grtvgr.exe
+[20:50:00] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\grtvgr.exe (258,93 K/S -  1 590 896 bytes)
+[20:50:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\RkVG.exe
+[20:50:03] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\RkVG.exe (287,33 K/S -   882 688 bytes)
+[20:50:03] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\suprgrab.zip
+[20:50:03] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\suprgrab.zip (42,82 K/S -   43 851 bytes)
+[20:50:03] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\
+[20:50:03] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Deutsch Manual.pdf
+[20:50:07] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Deutsch Manual.pdf (299,47 K/S -  1 226 649 bytes)
+[20:50:07] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Dutch Manual.pdf
+[20:50:12] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Dutch Manual.pdf (239,83 K/S -  1 227 925 bytes)
+[20:50:12] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\English Manual.pdf
+[20:50:16] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\English Manual.pdf (299,79 K/S -  1 227 937 bytes)
+[20:50:16] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Italian Manual.pdf
+[20:50:20] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Italian Manual.pdf (295,26 K/S -  1 209 399 bytes)
+[20:50:20] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Manuel français.pdf
+[20:50:24] - [6] Client 196.52.43.115 Déconnecté (00:00:30 Min)
+[20:50:24] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Manuel français.pdf (308,71 K/S -  1 264 474 bytes)
+[20:50:25] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Spanish Manual.pdf
+[20:50:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Manuals\Spanish Manual.pdf (291,61 K/S -  1 194 421 bytes)
+[20:50:29] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\
+[20:50:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\index.htm
+[20:50:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\index.htm (0,60 K/S -    619 bytes)
+[20:50:29] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\
+[20:50:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\add.js
+[20:50:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\add.js (0,62 K/S -    630 bytes)
+[20:50:29] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\add_on_top.js
+[20:50:29] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\add_on_top.js (2,09 K/S -   2 139 bytes)
+[20:50:30] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\bag.htm
+[20:50:30] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\bag.htm (3,93 K/S -   4 026 bytes)
+[20:50:30] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\bagpack.htm
+[20:50:30] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\bagpack.htm (2,59 K/S -   2 657 bytes)
+[20:50:30] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\blank-1.htm
+[20:50:30] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\blank-1.htm (0,18 K/S -    183 bytes)
+[20:50:30] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\cap.htm
+[20:50:30] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\cap.htm (6,22 K/S -   6 374 bytes)
+[20:50:31] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\check_this_out.js
+[20:50:31] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\check_this_out.js (1,81 K/S -   1 854 bytes)
+[20:50:31] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\Copie de bag.htm
+[20:50:31] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\Copie de bag.htm (3,86 K/S -   3 949 bytes)
+[20:50:31] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\Copie de left_top.htm
+[20:50:31] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\Copie de left_top.htm (1,94 K/S -   1 989 bytes)
+[20:50:32] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\dex.htm
+[20:50:32] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\dex.htm (0,89 K/S -    908 bytes)
+[20:50:32] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\fig.htm
+[20:50:32] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\fig.htm (4,48 K/S -   4 583 bytes)
+[20:50:32] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\head.htm
+[20:50:32] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\head.htm (2,56 K/S -   2 626 bytes)
+[20:50:32] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hierach.js
+[20:50:32] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hierach.js (0,89 K/S -    908 bytes)
+[20:50:33] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hierach_1.js
+[20:50:33] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hierach_1.js (0,88 K/S -    900 bytes)
+[20:50:33] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-amigo.htm
+[20:50:33] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-amigo.htm (1,03 K/S -   1 054 bytes)
+[20:50:33] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-cap.htm
+[20:50:33] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-cap.htm (1,03 K/S -   1 055 bytes)
+[20:50:33] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-purple.htm
+[20:50:33] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-purple.htm (1,03 K/S -   1 051 bytes)
+[20:50:34] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-viscious.htm
+[20:50:34] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod-viscious.htm (1,03 K/S -   1 056 bytes)
+[20:50:34] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod.htm
+[20:50:34] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\hod.htm (4,51 K/S -   4 621 bytes)
+[20:50:34] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\home.htm
+[20:50:34] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\home.htm (1,51 K/S -   1 545 bytes)
+[20:50:34] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\index.htm
+[20:50:34] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\index.htm (0,59 K/S -    601 bytes)
+[20:50:35] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames-girl-shirt.htm
+[20:50:35] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames-girl-shirt.htm (0,95 K/S -    976 bytes)
+[20:50:35] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames-shirt.htm
+[20:50:35] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames-shirt.htm (1,01 K/S -   1 032 bytes)
+[20:50:35] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames.htm
+[20:50:35] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\infogrames.htm (5,39 K/S -   5 517 bytes)
+[20:50:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left.htm
+[20:50:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left.htm (2,32 K/S -   2 376 bytes)
+[20:50:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_dex.htm
+[20:50:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_dex.htm (0,53 K/S -    540 bytes)
+[20:50:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_down.htm
+[20:50:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_down.htm (2,70 K/S -   2 768 bytes)
+[20:50:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_top.htm
+[20:50:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\left_top.htm (1,07 K/S -   1 099 bytes)
+[20:50:37] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\news.htm
+[20:50:37] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\news.htm (6,89 K/S -   7 058 bytes)
+[20:50:37] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast-black-shirt.htm
+[20:50:37] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast-black-shirt.htm (1,08 K/S -   1 105 bytes)
+[20:50:37] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast-orange-shirt.htm
+[20:50:37] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast-orange-shirt.htm (1,08 K/S -   1 106 bytes)
+[20:50:37] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast.htm
+[20:50:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\outcast.htm (4,14 K/S -   4 244 bytes)
+[20:50:38] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\over_stuff.js
+[20:50:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\over_stuff.js (0,45 K/S -    465 bytes)
+[20:50:38] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\personal_stuff.js
+[20:50:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\personal_stuff.js (0,35 K/S -    363 bytes)
+[20:50:38] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print.js
+[20:50:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print.js (0,42 K/S -    430 bytes)
+[20:50:39] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print_order.htm
+[20:50:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print_order.htm (8,48 K/S -   8 687 bytes)
+[20:50:39] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print_order_frame.htm
+[20:50:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\print_order_frame.htm (0,53 K/S -    539 bytes)
+[20:50:39] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shipping.js
+[20:50:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shipping.js (3,69 K/S -   3 779 bytes)
+[20:50:39] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shirt.htm
+[20:50:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shirt.htm (8,96 K/S -   9 178 bytes)
+[20:50:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shopping.js
+[20:50:40] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\shopping.js (0,45 K/S -    465 bytes)
+[20:50:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\tatou_bag.htm
+[20:50:40] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\tatou_bag.htm (1,02 K/S -   1 047 bytes)
+[20:50:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\v-rally-cap.htm
+[20:50:40] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\v-rally-cap.htm (1,04 K/S -   1 062 bytes)
+[20:50:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\v-rally-shirt.htm
+[20:50:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\v-rally-shirt.htm (1,40 K/S -   1 434 bytes)
+[20:50:41] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\vrally.htm
+[20:50:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\vrally.htm (4,35 K/S -   4 458 bytes)
+[20:50:41] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\x--order.htm
+[20:50:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\x--order.htm (8,32 K/S -   8 515 bytes)
+[20:50:41] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\
+[20:50:41] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\amigo.jpg
+[20:50:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\amigo.jpg (28,36 K/S -   29 045 bytes)
+[20:50:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\amigos.jpg
+[20:50:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\amigos.jpg (4,23 K/S -   4 331 bytes)
+[20:50:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\hod_cap.jpg
+[20:50:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\hod_cap.jpg (21,70 K/S -   22 218 bytes)
+[20:50:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\hod_caps.jpg
+[20:50:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\hod_caps.jpg (3,21 K/S -   3 284 bytes)
+[20:50:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt.jpg
+[20:50:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt.jpg (25,15 K/S -   25 754 bytes)
+[20:50:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirts.jpg
+[20:50:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirts.jpg (6,26 K/S -   6 406 bytes)
+[20:50:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt_girl.jpg
+[20:50:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt_girl.jpg (23,03 K/S -   23 585 bytes)
+[20:50:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt_girls.jpg
+[20:50:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\infogrames_tshirt_girls.jpg (5,40 K/S -   5 533 bytes)
+[20:50:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-black-tshirt.jpg
+[20:50:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-black-tshirt.jpg (62,06 K/S -   63 547 bytes)
+[20:50:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-black-tshirts.jpg
+[20:50:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-black-tshirts.jpg (6,52 K/S -   6 679 bytes)
+[20:50:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-orange-tshirt.jpg
+[20:50:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-orange-tshirt.jpg (43,63 K/S -   44 672 bytes)
+[20:50:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-orange-tshirts.jpg
+[20:50:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\outcast-orange-tshirts.jpg (4,67 K/S -   4 777 bytes)
+[20:50:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\tatou_bag.jpg
+[20:50:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\tatou_bag.jpg (47,79 K/S -   48 935 bytes)
+[20:50:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\tatou_bags.jpg
+[20:50:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\tatou_bags.jpg (5,79 K/S -   5 924 bytes)
+[20:50:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vicious.jpg
+[20:50:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vicious.jpg (18,86 K/S -   19 310 bytes)
+[20:50:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\viciouss.jpg
+[20:50:46] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\viciouss.jpg (3,24 K/S -   3 319 bytes)
+[20:50:46] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally2_tshirt.jpg
+[20:50:46] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally2_tshirt.jpg (30,01 K/S -   30 729 bytes)
+[20:50:46] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally2_tshirts.jpg
+[20:50:46] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally2_tshirts.jpg (6,54 K/S -   6 697 bytes)
+[20:50:46] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally_cap.jpg
+[20:50:46] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally_cap.jpg (27,18 K/S -   27 830 bytes)
+[20:50:47] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally_caps.jpg
+[20:50:47] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\vrally_caps.jpg (3,55 K/S -   3 637 bytes)
+[20:50:47] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\wargasm-tshirt.jpg
+[20:50:47] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\wargasm-tshirt.jpg (33,05 K/S -   33 843 bytes)
+[20:50:47] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\wargasm-tshirts.jpg
+[20:50:47] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\products\wargasm-tshirts.jpg (4,37 K/S -   4 478 bytes)
+[20:50:47] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\
+[20:50:47] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\bandeau-v-rally.gif
+[20:50:47] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\bandeau-v-rally.gif (13,42 K/S -   13 738 bytes)
+[20:50:48] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\caddie.gif
+[20:50:48] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\caddie.gif (1,88 K/S -   1 930 bytes)
+[20:50:48] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\caddiefull.gif
+[20:50:48] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\caddiefull.gif (3,78 K/S -   3 867 bytes)
+[20:50:48] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-2.gif
+[20:50:48] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-2.gif (1,16 K/S -   1 184 bytes)
+[20:50:49] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-22.gif
+[20:50:49] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-22.gif (1,18 K/S -   1 204 bytes)
+[20:50:49] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-3.gif
+[20:50:49] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-3.gif (1,15 K/S -   1 176 bytes)
+[20:50:49] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-33.gif
+[20:50:49] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\contact-33.gif (0,55 K/S -    565 bytes)
+[20:50:49] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\grid.jpg
+[20:50:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\grid.jpg (32,82 K/S -   33 612 bytes)
+[20:50:50] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\hodlogo.jpg
+[20:50:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\hodlogo.jpg (21,07 K/S -   21 580 bytes)
+[20:50:50] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_00.gif
+[20:50:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_00.gif (0,04 K/S -    43 bytes)
+[20:50:50] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_01.jpg
+[20:50:50] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_01.jpg (4,99 K/S -   5 105 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\SYSDATA\Syscon\Sysdata\Syscon\Sysdata\SYSDATA.ZIP (379,22 K/S -  25 629 532 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\
+[20:50:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_02.jpg
+[20:50:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_02.jpg (2,26 K/S -   2 314 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_03.jpg
+[20:50:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_03.jpg (1,67 K/S -   1 709 bytes)
+[20:50:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_05.jpg
+[20:50:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_01_05.jpg (0,80 K/S -    819 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_02_05.jpg
+[20:50:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_02_05.jpg (3,09 K/S -   3 166 bytes)
+[20:50:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_03.jpg
+[20:50:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_03.jpg (3,44 K/S -   3 520 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_07.jpg
+[20:50:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_07.jpg (4,52 K/S -   4 625 bytes)
+[20:50:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_08.jpg
+[20:50:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_03_08.jpg (2,90 K/S -   2 967 bytes)
+[20:50:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_04_03.jpg
+[20:50:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_04_03.jpg (1,33 K/S -   1 366 bytes)
+[20:50:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_05_02.jpg
+[20:50:52] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_05_02.jpg (2,23 K/S -   2 288 bytes)
+[20:50:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_05_06.jpg
+[20:50:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_05_06.jpg (1,89 K/S -   1 934 bytes)
+[20:50:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_06_02.jpg
+[20:50:52] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_06_02.jpg (0,65 K/S -    664 bytes)
+[20:50:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_06_03.jpg
+[20:50:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_06_03.jpg (0,73 K/S -    747 bytes)
+[20:50:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_07_01.jpg
+[20:50:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_07_04.jpg
+[20:50:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_07_04.jpg (1,27 K/S -   1 304 bytes)
+[20:50:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_07_01.jpg (2,31 K/S -   2 365 bytes)
+[20:50:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_01.jpg
+[20:50:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_01.jpg (2,11 K/S -   2 158 bytes)
+[20:50:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_02.jpg
+[20:50:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_02.jpg (1,31 K/S -   1 338 bytes)
+[20:50:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_03.jpg
+[20:50:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_08_03.jpg (3,83 K/S -   3 925 bytes)
+[20:50:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_09_03.jpg
+[20:50:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\infogrames_c_09_03.jpg (0,64 K/S -    653 bytes)
+[20:50:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\info_store_cover.jpg
+[20:50:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_top_info-store.jpg
+[20:50:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\info_store_cover.jpg (61,55 K/S -   63 028 bytes)
+[20:50:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_top_info-store.jpg (33,94 K/S -   34 756 bytes)
+[20:50:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_01.gif
+[20:50:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_01.gif (5,80 K/S -   5 936 bytes)
+[20:50:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_02.gif
+[20:50:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_02.gif (13,54 K/S -   13 865 bytes)
+[20:50:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_03.gif
+[20:50:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\interface_to_01_03.gif (2,16 K/S -   2 214 bytes)
+[20:50:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\lock.gif
+[20:50:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\lock.gif (3,47 K/S -   3 550 bytes)
+[20:50:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\logo.gif
+[20:50:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\logo.gif (9,23 K/S -   9 453 bytes)
+[20:50:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\outcastbandeau.jpg
+[20:50:55] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\outcastbandeau.jpg (19,07 K/S -   19 525 bytes)
+[20:50:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag.jpg
+[20:50:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag.jpg (8,63 K/S -   8 835 bytes)
+[20:50:55] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag_off.jpg
+[20:50:55] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag_off.jpg (5,26 K/S -   5 391 bytes)
+[20:50:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag_on.jpg
+[20:50:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_bag_on.jpg (5,28 K/S -   5 404 bytes)
+[20:50:55] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_great_off.gif
+[20:50:55] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_great_off.gif (4,11 K/S -   4 208 bytes)
+[20:50:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_great_on.gif
+[20:50:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_great_on.gif (3,74 K/S -   3 826 bytes)
+[20:50:55] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_home_off.gif
+[20:50:55] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_home_off.gif (1,73 K/S -   1 770 bytes)
+[20:50:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_home_on.gif
+[20:50:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_home_on.gif (1,73 K/S -   1 770 bytes)
+[20:50:55] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_mail_off.gif
+[20:50:55] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_mail_off.gif (1,98 K/S -   2 030 bytes)
+[20:50:56] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_mail_on.gif
+[20:50:56] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tips_mail_on.gif (1,92 K/S -   1 968 bytes)
+[20:50:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tip_moins.gif
+[20:50:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tip_moins.gif (0,87 K/S -    895 bytes)
+[20:50:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tip_plus.gif
+[20:50:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\tip_plus.gif (0,90 K/S -    917 bytes)
+[20:50:56] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global.gif
+[20:50:56] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global.gif (21,07 K/S -   21 577 bytes)
+[20:50:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global.jpg
+[20:50:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global.jpg (14,54 K/S -   14 891 bytes)
+[20:50:56] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global_on.gif
+[20:50:56] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\typo-global_on.gif (11,35 K/S -   11 618 bytes)
+[20:50:57] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\wargasm_bandeau.jpg
+[20:50:57] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Francais\boutique\stuff\images\wargasm_bandeau.jpg (20,87 K/S -   21 370 bytes)
+[20:50:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\
+[20:50:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\index.htm
+[20:50:57] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\index.htm (0,60 K/S -    619 bytes)
+[20:50:57] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\
+[20:50:57] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\add.js
+[20:50:57] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\add.js (0,58 K/S -    598 bytes)
+[20:50:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\
+[20:50:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\add_on_top.js
+[20:50:57] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\add_on_top.js (2,11 K/S -   2 163 bytes)
+[20:50:57] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bag change.htm
+[20:50:57] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bag change.htm (4,98 K/S -   5 103 bytes)
+[20:50:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bag.htm
+[20:50:57] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bag.htm (3,93 K/S -   4 021 bytes)
+[20:50:57] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bagpack.htm
+[20:50:58] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\bagpack.htm (2,65 K/S -   2 712 bytes)
+[20:50:58] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\blank-1.htm
+[20:50:58] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\blank-1.htm (0,18 K/S -    183 bytes)
+[20:50:58] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\cap.htm
+[20:50:58] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\cap.htm (6,08 K/S -   6 221 bytes)
+[20:50:58] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\check_this_out.js
+[20:50:58] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\check_this_out.js (1,84 K/S -   1 881 bytes)
+[20:50:58] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\Copie de bag.htm
+[20:50:58] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\Copie de bag.htm (3,86 K/S -   3 949 bytes)
+[20:50:58] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\Copie de left_top.htm
+[20:50:58] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\Copie de left_top.htm (1,94 K/S -   1 989 bytes)
+[20:50:58] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\dex.htm
+[20:50:58] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\dex.htm (0,89 K/S -    908 bytes)
+[20:50:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\fig.htm
+[20:50:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\fig.htm (4,34 K/S -   4 441 bytes)
+[20:50:59] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\head changed.htm
+[20:50:59] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\head changed.htm (2,89 K/S -   2 958 bytes)
+[20:50:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\head.htm
+[20:50:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\head.htm (2,66 K/S -   2 725 bytes)
+[20:50:59] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hierach.js
+[20:50:59] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hierach.js (0,87 K/S -    888 bytes)
+[20:50:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hierach_1.js
+[20:50:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hierach_1.js (0,88 K/S -    897 bytes)
+[20:50:59] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-amigo.htm
+[20:50:59] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-amigo.htm (1,02 K/S -   1 040 bytes)
+[20:50:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-cap.htm
+[20:50:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-cap.htm (1,01 K/S -   1 036 bytes)
+[20:51:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-purple.htm
+[20:51:00] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-purple.htm (1,03 K/S -   1 051 bytes)
+[20:51:00] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-viscious.htm
+[20:51:00] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod-viscious.htm (1,02 K/S -   1 042 bytes)
+[20:51:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod.htm
+[20:51:00] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\hod.htm (4,50 K/S -   4 607 bytes)
+[20:51:00] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\home.htm
+[20:51:00] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\home.htm (1,51 K/S -   1 550 bytes)
+[20:51:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\index.htm
+[20:51:00] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\index.htm (0,59 K/S -    601 bytes)
+[20:51:00] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames-girl-shirt.htm
+[20:51:00] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames-girl-shirt.htm (0,96 K/S -    987 bytes)
+[20:51:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames-shirt.htm
+[20:51:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames-shirt.htm (1,02 K/S -   1 043 bytes)
+[20:51:01] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames.htm
+[20:51:01] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\infogrames.htm (5,73 K/S -   5 870 bytes)
+[20:51:01] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left.htm
+[20:51:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left.htm (2,32 K/S -   2 376 bytes)
+[20:51:01] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_dex.htm
+[20:51:01] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_dex.htm (0,53 K/S -    540 bytes)
+[20:51:01] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_down.htm
+[20:51:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_down.htm (2,73 K/S -   2 797 bytes)
+[20:51:01] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_top.htm
+[20:51:01] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\left_top.htm (1,07 K/S -   1 097 bytes)
+[20:51:01] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\news.htm
+[20:51:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\news.htm (6,89 K/S -   7 058 bytes)
+[20:51:01] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast-black-shirt.htm
+[20:51:01] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast-black-shirt.htm (1,08 K/S -   1 105 bytes)
+[20:51:01] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast-orange-shirt.htm
+[20:51:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast-orange-shirt.htm (1,08 K/S -   1 111 bytes)
+[20:51:02] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast.htm
+[20:51:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\outcast.htm (4,22 K/S -   4 324 bytes)
+[20:51:02] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\over_stuff.js
+[20:51:02] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\over_stuff.js (0,45 K/S -    465 bytes)
+[20:51:02] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\personal_stuff.js
+[20:51:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\personal_stuff.js (0,35 K/S -    363 bytes)
+[20:51:02] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print.js
+[20:51:02] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print.js (0,42 K/S -    430 bytes)
+[20:51:02] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_order.htm
+[20:51:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_order.htm (8,32 K/S -   8 519 bytes)
+[20:51:02] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_orderb.htm
+[20:51:02] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_orderb.htm (0,74 K/S -    757 bytes)
+[20:51:02] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_order_frame.htm
+[20:51:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\print_order_frame.htm (0,53 K/S -    539 bytes)
+[20:51:02] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shipping backup.js
+[20:51:02] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shipping backup.js (3,17 K/S -   3 241 bytes)
+[20:51:03] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shipping.js
+[20:51:03] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shipping.js (3,68 K/S -   3 767 bytes)
+[20:51:03] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shirt.htm
+[20:51:03] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shirt.htm (9,17 K/S -   9 386 bytes)
+[20:51:03] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shopping.js
+[20:51:03] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\shopping.js (0,45 K/S -    465 bytes)
+[20:51:03] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\tatou_bag.htm
+[20:51:03] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\tatou_bag.htm (1,03 K/S -   1 053 bytes)
+[20:51:03] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\v-rally-cap.htm
+[20:51:03] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\v-rally-cap.htm (1,03 K/S -   1 055 bytes)
+[20:51:03] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\v-rally-shirt.htm
+[20:51:03] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\v-rally-shirt.htm (1,40 K/S -   1 432 bytes)
+[20:51:03] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\vrally.htm
+[20:51:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\vrally.htm (4,47 K/S -   4 580 bytes)
+[20:51:04] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\x--print_order.htm
+[20:51:04] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\x--print_order.htm (7,68 K/S -   7 867 bytes)
+[20:51:04] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\
+[20:51:04] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\amigo.jpg
+[20:51:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\amigo.jpg (28,36 K/S -   29 045 bytes)
+[20:51:04] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\
+[20:51:04] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\amigos.jpg
+[20:51:04] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\amigos.jpg (4,23 K/S -   4 331 bytes)
+[20:51:04] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\hod_cap.jpg
+[20:51:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\hod_cap.jpg (21,70 K/S -   22 218 bytes)
+[20:51:04] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\hod_caps.jpg
+[20:51:04] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\hod_caps.jpg (3,21 K/S -   3 284 bytes)
+[20:51:04] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt.jpg
+[20:51:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt.jpg (25,15 K/S -   25 754 bytes)
+[20:51:04] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirts.jpg
+[20:51:04] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirts.jpg (6,26 K/S -   6 406 bytes)
+[20:51:04] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt_girl.jpg
+[20:51:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt_girl.jpg (23,03 K/S -   23 585 bytes)
+[20:51:05] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt_girls.jpg
+[20:51:05] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\infogrames_tshirt_girls.jpg (5,40 K/S -   5 533 bytes)
+[20:51:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-black-tshirt.jpg
+[20:51:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-black-tshirt.jpg (62,06 K/S -   63 547 bytes)
+[20:51:05] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-black-tshirts.jpg
+[20:51:05] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-black-tshirts.jpg (6,52 K/S -   6 679 bytes)
+[20:51:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-orange-tshirt.jpg
+[20:51:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-orange-tshirt.jpg (43,63 K/S -   44 672 bytes)
+[20:51:05] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-orange-tshirts.jpg
+[20:51:05] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\outcast-orange-tshirts.jpg (4,67 K/S -   4 777 bytes)
+[20:51:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\tatou_bag.jpg
+[20:51:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\tatou_bag.jpg (47,79 K/S -   48 935 bytes)
+[20:51:05] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\tatou_bags.jpg
+[20:51:05] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\tatou_bags.jpg (5,79 K/S -   5 924 bytes)
+[20:51:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vicious.jpg
+[20:51:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vicious.jpg (18,86 K/S -   19 310 bytes)
+[20:51:05] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\viciouss.jpg
+[20:51:06] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\viciouss.jpg (3,24 K/S -   3 319 bytes)
+[20:51:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally2_tshirt.jpg
+[20:51:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally2_tshirt.jpg (30,01 K/S -   30 729 bytes)
+[20:51:06] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally2_tshirts.jpg
+[20:51:06] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally2_tshirts.jpg (6,54 K/S -   6 697 bytes)
+[20:51:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally_cap.jpg
+[20:51:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally_cap.jpg (27,18 K/S -   27 830 bytes)
+[20:51:06] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally_caps.jpg
+[20:51:06] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\vrally_caps.jpg (3,55 K/S -   3 637 bytes)
+[20:51:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\wargasm-tshirt.jpg
+[20:51:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\wargasm-tshirt.jpg (33,05 K/S -   33 843 bytes)
+[20:51:06] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\wargasm-tshirts.jpg
+[20:51:06] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\products\wargasm-tshirts.jpg (4,37 K/S -   4 478 bytes)
+[20:51:07] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\
+[20:51:07] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\bandeau-v-rally.gif
+[20:51:07] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\
+[20:51:07] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\bandeau-v-rally.gif (13,42 K/S -   13 738 bytes)
+[20:51:07] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\caddie.gif
+[20:51:07] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\caddie.gif (1,88 K/S -   1 930 bytes)
+[20:51:07] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\caddiefull.gif
+[20:51:07] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\caddiefull.gif (3,78 K/S -   3 867 bytes)
+[20:51:07] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-2.gif
+[20:51:07] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-2.gif (1,16 K/S -   1 184 bytes)
+[20:51:07] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-22.gif
+[20:51:07] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-22.gif (1,18 K/S -   1 204 bytes)
+[20:51:07] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-3.gif
+[20:51:07] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-3.gif (1,15 K/S -   1 176 bytes)
+[20:51:07] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-33.gif
+[20:51:07] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\contact-33.gif (0,55 K/S -    565 bytes)
+[20:51:07] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\grid.jpg
+[20:51:07] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\grid.jpg (32,82 K/S -   33 612 bytes)
+[20:51:08] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\hodlogo.jpg
+[20:51:08] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\hodlogo.jpg (21,07 K/S -   21 580 bytes)
+[20:51:08] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_00.gif
+[20:51:08] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_00.gif (0,04 K/S -    43 bytes)
+[20:51:08] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_01.jpg
+[20:51:08] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_01.jpg (4,99 K/S -   5 105 bytes)
+[20:51:08] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_02.jpg
+[20:51:08] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_02.jpg (2,26 K/S -   2 314 bytes)
+[20:51:08] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_03.jpg
+[20:51:08] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_03.jpg (1,67 K/S -   1 709 bytes)
+[20:51:08] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_05.jpg
+[20:51:08] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_01_05.jpg (0,80 K/S -    819 bytes)
+[20:51:08] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_02_05.jpg
+[20:51:08] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_02_05.jpg (3,09 K/S -   3 166 bytes)
+[20:51:08] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_03.jpg
+[20:51:08] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_03.jpg (3,44 K/S -   3 520 bytes)
+[20:51:09] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_07.jpg
+[20:51:09] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_07.jpg (4,52 K/S -   4 625 bytes)
+[20:51:09] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_08.jpg
+[20:51:09] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_03_08.jpg (2,90 K/S -   2 967 bytes)
+[20:51:09] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_04_03.jpg
+[20:51:09] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_04_03.jpg (1,33 K/S -   1 366 bytes)
+[20:51:09] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_05_02.jpg
+[20:51:09] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_05_02.jpg (2,23 K/S -   2 288 bytes)
+[20:51:09] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_05_06.jpg
+[20:51:09] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_05_06.jpg (1,89 K/S -   1 934 bytes)
+[20:51:09] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_06_02.jpg
+[20:51:09] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_06_02.jpg (0,65 K/S -    664 bytes)
+[20:51:09] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_06_03.jpg
+[20:51:09] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_06_03.jpg (0,73 K/S -    747 bytes)
+[20:51:09] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_07_01.jpg
+[20:51:09] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_07_01.jpg (2,31 K/S -   2 365 bytes)
+[20:51:10] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_07_04.jpg
+[20:51:10] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_07_04.jpg (1,27 K/S -   1 304 bytes)
+[20:51:10] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_01.jpg
+[20:51:10] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_01.jpg (2,11 K/S -   2 158 bytes)
+[20:51:10] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_02.jpg
+[20:51:10] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_02.jpg (1,31 K/S -   1 338 bytes)
+[20:51:10] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_03.jpg
+[20:51:10] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_08_03.jpg (3,83 K/S -   3 925 bytes)
+[20:51:10] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_09_03.jpg
+[20:51:10] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\infogrames_c_09_03.jpg (0,64 K/S -    653 bytes)
+[20:51:10] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\info_store_cover.jpg
+[20:51:10] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\info_store_cover.jpg (61,55 K/S -   63 028 bytes)
+[20:51:10] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_top_info-store.jpg
+[20:51:11] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_01.gif
+[20:51:11] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_01.gif (5,80 K/S -   5 936 bytes)
+[20:51:11] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_top_info-store.jpg (33,94 K/S -   34 756 bytes)
+[20:51:11] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_02.gif
+[20:51:11] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_02.gif (13,54 K/S -   13 865 bytes)
+[20:51:11] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_03.gif
+[20:51:11] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\interface_to_01_03.gif (2,16 K/S -   2 214 bytes)
+[20:51:11] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\lock.gif
+[20:51:11] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\lock.gif (3,47 K/S -   3 550 bytes)
+[20:51:11] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\logo.gif
+[20:51:11] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\logo.gif (9,23 K/S -   9 453 bytes)
+[20:51:11] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\outcastbandeau.jpg
+[20:51:11] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\outcastbandeau.jpg (19,07 K/S -   19 525 bytes)
+[20:51:11] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag.jpg
+[20:51:11] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag.jpg (8,63 K/S -   8 835 bytes)
+[20:51:12] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag_off.jpg
+[20:51:12] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag_off.jpg (8,88 K/S -   9 091 bytes)
+[20:51:12] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag_on.jpg
+[20:51:12] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_bag_on.jpg (8,83 K/S -   9 037 bytes)
+[20:51:12] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_great_off.gif
+[20:51:12] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_great_off.gif (3,71 K/S -   3 799 bytes)
+[20:51:12] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_great_on.gif
+[20:51:12] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_great_on.gif (3,74 K/S -   3 826 bytes)
+[20:51:12] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_home_off.gif
+[20:51:12] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_home_off.gif (1,64 K/S -   1 679 bytes)
+[20:51:12] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_home_on.gif
+[20:51:12] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_home_on.gif (1,64 K/S -   1 679 bytes)
+[20:51:12] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_mail_off.gif
+[20:51:12] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_mail_off.gif (1,98 K/S -   2 030 bytes)
+[20:51:12] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_mail_on.gif
+[20:51:12] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tips_mail_on.gif (1,92 K/S -   1 968 bytes)
+[20:51:13] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tip_moins.gif
+[20:51:13] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tip_moins.gif (0,87 K/S -    895 bytes)
+[20:51:13] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tip_plus.gif
+[20:51:13] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\tip_plus.gif (0,90 K/S -    917 bytes)
+[20:51:13] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global.gif
+[20:51:13] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global.gif (21,07 K/S -   21 577 bytes)
+[20:51:13] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global.jpg
+[20:51:13] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global.jpg (14,54 K/S -   14 891 bytes)
+[20:51:13] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global_on.gif
+[20:51:13] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\typo-global_on.gif (10,48 K/S -   10 728 bytes)
+[20:51:13] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\wargasm_bandeau.jpg
+[20:51:13] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\English\shop\Stuff\images\wargasm_bandeau.jpg (20,87 K/S -   21 370 bytes)
+[20:51:13] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\
+[20:51:13] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\index.htm
+[20:51:13] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\index.htm (0,60 K/S -    619 bytes)
+[20:51:13] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\
+[20:51:14] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\add.js
+[20:51:14] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\add.js (0,61 K/S -    620 bytes)
+[20:51:14] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\
+[20:51:14] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\add_on_top.js
+[20:51:14] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\add_on_top.js (2,11 K/S -   2 163 bytes)
+[20:51:14] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\bag.htm
+[20:51:14] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\bag.htm (3,91 K/S -   3 999 bytes)
+[20:51:14] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\bagpack.htm
+[20:51:14] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\bagpack.htm (2,63 K/S -   2 688 bytes)
+[20:51:14] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\blank-1.htm
+[20:51:14] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\blank-1.htm (0,18 K/S -    183 bytes)
+[20:51:14] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\cap.htm
+[20:51:14] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\cap.htm (6,01 K/S -   6 151 bytes)
+[20:51:14] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\check_this_out.js
+[20:51:14] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\check_this_out.js (1,87 K/S -   1 916 bytes)
+[20:51:15] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\Copie de bag.htm
+[20:51:15] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\Copie de bag.htm (3,86 K/S -   3 949 bytes)
+[20:51:15] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\Copie de left_top.htm
+[20:51:15] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\Copie de left_top.htm (1,94 K/S -   1 989 bytes)
+[20:51:15] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\dex.htm
+[20:51:15] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\dex.htm (0,89 K/S -    908 bytes)
+[20:51:15] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\fig.htm
+[20:51:15] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\fig.htm (4,39 K/S -   4 498 bytes)
+[20:51:15] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\head.htm
+[20:51:15] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\head.htm (2,56 K/S -   2 621 bytes)
+[20:51:15] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hierach.js
+[20:51:15] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hierach.js (0,87 K/S -    895 bytes)
+[20:51:15] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hierach_1.js
+[20:51:15] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hierach_1.js (0,88 K/S -    898 bytes)
+[20:51:15] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-amigo.htm
+[20:51:15] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-amigo.htm (1,02 K/S -   1 047 bytes)
+[20:51:15] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-cap.htm
+[20:51:16] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-cap.htm (1,02 K/S -   1 040 bytes)
+[20:51:16] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-purple.htm
+[20:51:16] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-purple.htm (1,03 K/S -   1 051 bytes)
+[20:51:16] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-viscious.htm
+[20:51:16] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod-viscious.htm (1,03 K/S -   1 051 bytes)
+[20:51:16] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod.htm
+[20:51:16] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\home.htm
+[20:51:16] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\home.htm (1,50 K/S -   1 540 bytes)
+[20:51:16] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\hod.htm (4,40 K/S -   4 503 bytes)
+[20:51:16] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\index.htm
+[20:51:16] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\index.htm (0,59 K/S -    601 bytes)
+[20:51:16] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames-girl-shirt.htm
+[20:51:16] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames-girl-shirt.htm (0,96 K/S -    978 bytes)
+[20:51:16] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames-shirt.htm
+[20:51:16] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames-shirt.htm (1,01 K/S -   1 034 bytes)
+[20:51:17] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames.htm
+[20:51:17] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\infogrames.htm (5,29 K/S -   5 419 bytes)
+[20:51:17] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left.htm
+[20:51:17] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left.htm (2,32 K/S -   2 376 bytes)
+[20:51:17] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_dex.htm
+[20:51:17] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_dex.htm (0,53 K/S -    540 bytes)
+[20:51:17] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_down.htm
+[20:51:17] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_down.htm (2,73 K/S -   2 796 bytes)
+[20:51:17] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_top.htm
+[20:51:17] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\left_top.htm (1,07 K/S -   1 097 bytes)
+[20:51:17] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\news.htm
+[20:51:17] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\news.htm (6,89 K/S -   7 058 bytes)
+[20:51:17] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast-black-shirt.htm
+[20:51:18] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast-black-shirt.htm (1,08 K/S -   1 110 bytes)
+[20:51:18] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast-orange-shirt.htm
+[20:51:18] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast-orange-shirt.htm (1,08 K/S -   1 111 bytes)
+[20:51:18] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast.htm
+[20:51:18] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\outcast.htm (4,12 K/S -   4 223 bytes)
+[20:51:18] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\over_stuff.js
+[20:51:18] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\over_stuff.js (0,45 K/S -    465 bytes)
+[20:51:18] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\personal_stuff.js
+[20:51:18] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\personal_stuff.js (0,35 K/S -    363 bytes)
+[20:51:18] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print.js
+[20:51:18] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print.js (0,42 K/S -    430 bytes)
+[20:51:18] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print_order.htm
+[20:51:18] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print_order.htm (8,14 K/S -   8 336 bytes)
+[20:51:18] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print_order_frame.htm
+[20:51:18] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\print_order_frame.htm (0,53 K/S -    539 bytes)
+[20:51:18] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shipping.js
+[20:51:19] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shipping.js (3,70 K/S -   3 790 bytes)
+[20:51:19] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shirt.htm
+[20:51:19] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shirt.htm (8,77 K/S -   8 979 bytes)
+[20:51:19] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shopping.js
+[20:51:19] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\shopping.js (0,45 K/S -    465 bytes)
+[20:51:19] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\tatou_bag.htm
+[20:51:19] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\tatou_bag.htm (1,03 K/S -   1 052 bytes)
+[20:51:19] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\v-rally-cap.htm
+[20:51:19] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\v-rally-cap.htm (1,03 K/S -   1 056 bytes)
+[20:51:19] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\v-rally-shirt.htm
+[20:51:19] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\v-rally-shirt.htm (1,40 K/S -   1 434 bytes)
+[20:51:19] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\vrally.htm
+[20:51:20] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\vrally.htm (4,28 K/S -   4 385 bytes)
+[20:51:20] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\
+[20:51:20] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\amigo.jpg
+[20:51:20] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\amigo.jpg (28,36 K/S -   29 045 bytes)
+[20:51:20] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\
+[20:51:20] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\hod_cap.jpg
+[20:51:20] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\amigos.jpg
+[20:51:20] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\amigos.jpg (4,23 K/S -   4 331 bytes)
+[20:51:20] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\hod_cap.jpg (21,70 K/S -   22 218 bytes)
+[20:51:20] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\hod_caps.jpg
+[20:51:20] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\hod_caps.jpg (3,21 K/S -   3 284 bytes)
+[20:51:20] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt.jpg
+[20:51:20] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt.jpg (25,15 K/S -   25 754 bytes)
+[20:51:20] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirts.jpg
+[20:51:20] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirts.jpg (6,26 K/S -   6 406 bytes)
+[20:51:21] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt_girl.jpg
+[20:51:21] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt_girl.jpg (23,03 K/S -   23 585 bytes)
+[20:51:21] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt_girls.jpg
+[20:51:21] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\infogrames_tshirt_girls.jpg (5,40 K/S -   5 533 bytes)
+[20:51:21] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-black-tshirt.jpg
+[20:51:21] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-black-tshirt.jpg (62,06 K/S -   63 547 bytes)
+[20:51:21] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-black-tshirts.jpg
+[20:51:21] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-black-tshirts.jpg (6,52 K/S -   6 679 bytes)
+[20:51:21] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-orange-tshirt.jpg
+[20:51:21] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-orange-tshirt.jpg (43,63 K/S -   44 672 bytes)
+[20:51:21] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-orange-tshirts.jpg
+[20:51:21] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\outcast-orange-tshirts.jpg (4,67 K/S -   4 777 bytes)
+[20:51:21] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\tatou_bag.jpg
+[20:51:21] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\tatou_bag.jpg (47,79 K/S -   48 935 bytes)
+[20:51:22] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\tatou_bags.jpg
+[20:51:22] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\tatou_bags.jpg (5,79 K/S -   5 924 bytes)
+[20:51:22] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vicious.jpg
+[20:51:22] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vicious.jpg (18,86 K/S -   19 310 bytes)
+[20:51:22] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\viciouss.jpg
+[20:51:22] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\viciouss.jpg (3,24 K/S -   3 319 bytes)
+[20:51:22] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally2_tshirt.jpg
+[20:51:22] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally2_tshirt.jpg (30,01 K/S -   30 729 bytes)
+[20:51:22] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally2_tshirts.jpg
+[20:51:22] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally2_tshirts.jpg (6,54 K/S -   6 697 bytes)
+[20:51:22] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally_cap.jpg
+[20:51:22] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally_cap.jpg (27,18 K/S -   27 830 bytes)
+[20:51:22] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally_caps.jpg
+[20:51:22] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\vrally_caps.jpg (3,55 K/S -   3 637 bytes)
+[20:51:22] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\wargasm-tshirt.jpg
+[20:51:22] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\wargasm-tshirt.jpg (33,05 K/S -   33 843 bytes)
+[20:51:23] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\wargasm-tshirts.jpg
+[20:51:23] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\
+[20:51:23] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\products\wargasm-tshirts.jpg (4,37 K/S -   4 478 bytes)
+[20:51:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-22.gif
+[20:51:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-22.gif (1,18 K/S -   1 204 bytes)
+[20:51:23] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\
+[20:51:23] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-3.gif
+[20:51:23] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-3.gif (1,15 K/S -   1 176 bytes)
+[20:51:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-33.gif
+[20:51:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\contact-33.gif (0,55 K/S -    565 bytes)
+[20:51:23] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\grid.jpg
+[20:51:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_00.gif
+[20:51:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_00.gif (0,04 K/S -    43 bytes)
+[20:51:23] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\grid.jpg (32,82 K/S -   33 612 bytes)
+[20:51:23] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_04_03.jpg
+[20:51:23] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_04_03.jpg (1,33 K/S -   1 366 bytes)
+[20:51:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_05_02.jpg
+[20:51:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_05_02.jpg (2,23 K/S -   2 288 bytes)
+[20:51:24] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_05_06.jpg
+[20:51:24] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_05_06.jpg (1,89 K/S -   1 934 bytes)
+[20:51:24] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_06_02.jpg
+[20:51:24] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_06_02.jpg (0,65 K/S -    664 bytes)
+[20:51:24] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_06_03.jpg
+[20:51:24] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_06_03.jpg (0,73 K/S -    747 bytes)
+[20:51:24] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_07_01.jpg
+[20:51:24] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_07_01.jpg (2,31 K/S -   2 365 bytes)
+[20:51:24] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_07_04.jpg
+[20:51:24] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_07_04.jpg (1,27 K/S -   1 304 bytes)
+[20:51:24] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_01.jpg
+[20:51:24] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_01.jpg (2,11 K/S -   2 158 bytes)
+[20:51:24] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_02.jpg
+[20:51:24] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_02.jpg (1,31 K/S -   1 338 bytes)
+[20:51:25] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_03.jpg
+[20:51:25] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_08_03.jpg (3,83 K/S -   3 925 bytes)
+[20:51:25] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_09_03.jpg
+[20:51:25] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\infogrames_c_09_03.jpg (0,64 K/S -    653 bytes)
+[20:51:25] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_top_info-store.jpg
+[20:51:25] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_top_info-store.jpg (30,38 K/S -   31 111 bytes)
+[20:51:25] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_01.gif
+[20:51:25] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_01.gif (5,80 K/S -   5 936 bytes)
+[20:51:25] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_02.gif
+[20:51:25] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_02.gif (13,54 K/S -   13 865 bytes)
+[20:51:25] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_03.gif
+[20:51:25] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\interface_to_01_03.gif (2,16 K/S -   2 214 bytes)
+[20:51:25] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\lock.gif
+[20:51:25] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\lock.gif (3,47 K/S -   3 550 bytes)
+[20:51:26] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\logo.gif
+[20:51:26] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\logo.gif (9,23 K/S -   9 453 bytes)
+[20:51:26] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\outcastbandeau.jpg
+[20:51:26] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\outcastbandeau.jpg (19,07 K/S -   19 525 bytes)
+[20:51:26] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag.jpg
+[20:51:26] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag.jpg (8,63 K/S -   8 835 bytes)
+[20:51:26] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag_off.jpg
+[20:51:26] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag_off.jpg (5,32 K/S -   5 449 bytes)
+[20:51:26] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag_on.jpg
+[20:51:26] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_bag_on.jpg (5,34 K/S -   5 467 bytes)
+[20:51:26] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_great_off.gif
+[20:51:26] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_great_off.gif (3,71 K/S -   3 799 bytes)
+[20:51:26] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_great_on.gif
+[20:51:26] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_great_on.gif (3,74 K/S -   3 826 bytes)
+[20:51:26] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_home_off.gif
+[20:51:26] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_home_off.gif (1,64 K/S -   1 679 bytes)
+[20:51:27] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_home_on.gif
+[20:51:27] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_home_on.gif (1,64 K/S -   1 679 bytes)
+[20:51:27] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_mail_off.gif
+[20:51:27] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_mail_off.gif (1,98 K/S -   2 030 bytes)
+[20:51:27] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_mail_on.gif
+[20:51:27] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tips_mail_on.gif (1,92 K/S -   1 968 bytes)
+[20:51:27] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tip_moins.gif
+[20:51:27] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tip_moins.gif (0,87 K/S -    895 bytes)
+[20:51:27] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tip_plus.gif
+[20:51:27] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\tip_plus.gif (0,90 K/S -    917 bytes)
+[20:51:27] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global.gif
+[20:51:27] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global.gif (21,07 K/S -   21 577 bytes)
+[20:51:27] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global.jpg
+[20:51:27] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global.jpg (14,54 K/S -   14 891 bytes)
+[20:51:27] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global_on.gif
+[20:51:27] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\typo-global_on.gif (10,68 K/S -   10 934 bytes)
+[20:51:27] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\wargasm_bandeau.jpg
+[20:51:27] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Goodies\Deutsch\shop\stuff\images\wargasm_bandeau.jpg (20,87 K/S -   21 370 bytes)
+[20:51:28] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Chatnplay\
+[20:51:28] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Chatnplay\CHATNPLAY.EXE
+[20:51:28] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Acrobat Reader\
+[20:51:28] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Acrobat Reader\ar32e301.exe
+[20:51:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Chatnplay\CHATNPLAY.EXE (284,95 K/S -  2 334 301 bytes)
+[20:51:36] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\
+[20:51:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3d.inf
+[20:51:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3d.inf (1,12 K/S -   1 147 bytes)
+[20:51:36] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dim.dll
+[20:51:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dim.dll (263,88 K/S -   540 432 bytes)
+[20:51:38] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dpmesh.dll
+[20:51:38] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dpmesh.dll (85,27 K/S -   87 312 bytes)
+[20:51:38] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3drm.dll
+[20:51:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3drm.dll (426,27 K/S -   436 496 bytes)
+[20:51:39] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3drm.inf
+[20:51:39] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3drm.inf (0,68 K/S -    693 bytes)
+[20:51:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dxof.dll
+[20:51:40] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\d3dxof.dll (105,27 K/S -   107 792 bytes)
+[20:51:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\EXTRAS\Acrobat Reader\ar32e301.exe (326,99 K/S -  4 018 104 bytes)
+[20:51:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddhelp.exe
+[20:51:40] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddhelp.exe (37,77 K/S -   38 672 bytes)
+[20:51:40] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.dll
+[20:51:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\
+[20:51:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.dll (301,27 K/S -   308 496 bytes)
+[20:51:41] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.inf
+[20:51:41] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.inf (4,12 K/S -   4 222 bytes)
+[20:51:41] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.vxd
+[20:51:41] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw.vxd (29,67 K/S -   30 381 bytes)
+[20:51:41] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw16.dll
+[20:51:41] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddraw16.dll (27,33 K/S -   27 984 bytes)
+[20:51:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddrawex.dll
+[20:51:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\devnode1.dll
+[20:51:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\ddrawex.dll (24,27 K/S -   24 848 bytes)
+[20:51:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\devnode1.dll (17,00 K/S -   17 408 bytes)
+[20:51:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\devnode2.dll
+[20:51:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\devnode2.dll (6,50 K/S -   6 656 bytes)
+[20:51:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoy.hlp
+[20:51:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoy.hlp (15,96 K/S -   16 339 bytes)
+[20:51:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoybrz.hlp
+[20:51:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoybrz.hlp (13,02 K/S -   13 330 bytes)
+[20:51:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoychs.hlp
+[20:51:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoychs.hlp (12,48 K/S -   12 778 bytes)
+[20:51:42] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoycht.hlp
+[20:51:42] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoycht.hlp (18,95 K/S -   19 401 bytes)
+[20:51:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoycze.hlp
+[20:51:43] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoycze.hlp (13,19 K/S -   13 511 bytes)
+[20:51:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoydut.hlp
+[20:51:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoydut.hlp (12,96 K/S -   13 271 bytes)
+[20:51:43] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyfrn.hlp
+[20:51:43] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyfrn.hlp (13,27 K/S -   13 589 bytes)
+[20:51:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyger.hlp
+[20:51:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyger.hlp (13,36 K/S -   13 678 bytes)
+[20:51:43] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyitn.hlp
+[20:51:43] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyitn.hlp (13,18 K/S -   13 493 bytes)
+[20:51:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyjpn.hlp
+[20:51:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyjpn.hlp (13,11 K/S -   13 424 bytes)
+[20:51:43] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoykor.hlp
+[20:51:43] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoykor.hlp (13,33 K/S -   13 647 bytes)
+[20:51:43] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoynec.hlp
+[20:51:43] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoynec.hlp (13,11 K/S -   13 424 bytes)
+[20:51:44] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoypol.hlp
+[20:51:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoypol.hlp (13,46 K/S -   13 778 bytes)
+[20:51:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyrus.hlp
+[20:51:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyrus.hlp (13,49 K/S -   13 812 bytes)
+[20:51:44] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyspa.hlp
+[20:51:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyspa.hlp (13,30 K/S -   13 618 bytes)
+[20:51:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyswe.hlp
+[20:51:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dijoyswe.hlp (13,03 K/S -   13 343 bytes)
+[20:51:44] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.dll
+[20:51:44] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.inf
+[20:51:44] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.inf (12,99 K/S -   13 301 bytes)
+[20:51:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.dll (171,50 K/S -   175 616 bytes)
+[20:51:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.vxd
+[20:51:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\directx.INF
+[20:51:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\directx.INF (4,28 K/S -   4 383 bytes)
+[20:51:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dinput.vxd (16,59 K/S -   16 986 bytes)
+[20:51:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplay.dll
+[20:51:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplay.dll (39,00 K/S -   39 936 bytes)
+[20:51:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplay.inf
+[20:51:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplay.inf (13,47 K/S -   13 795 bytes)
+[20:51:45] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplaydx2.inf
+[20:51:45] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplaydx2.inf (1,51 K/S -   1 549 bytes)
+[20:51:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplaysvr.exe
+[20:51:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplayx.dll
+[20:51:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplaysvr.exe (4,88 K/S -   29 968 bytes)
+[20:51:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dplayx.dll (209,27 K/S -   214 288 bytes)
+[20:51:51] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpmodemx.dll
+[20:51:51] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpmodemx.dll (70,27 K/S -   71 952 bytes)
+[20:51:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpserial.dll
+[20:51:52] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpserial.dll (40,50 K/S -   41 472 bytes)
+[20:51:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpwsock.dll
+[20:51:52] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpwsock.dll (23,50 K/S -   24 064 bytes)
+[20:51:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpwsockx.dll
+[20:51:52] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dpwsockx.dll (62,27 K/S -   63 760 bytes)
+[20:51:52] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup.dll
+[20:51:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup.dll (124,50 K/S -   127 488 bytes)
+[20:51:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup.inf
+[20:51:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup.inf (1,10 K/S -   1 124 bytes)
+[20:51:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup16.dll
+[20:51:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup32.dll
+[20:51:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup16.dll (61,77 K/S -   63 248 bytes)
+[20:51:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsetup32.dll (50,50 K/S -   51 712 bytes)
+[20:51:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.dll
+[20:51:53] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.inf
+[20:51:53] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.inf (0,80 K/S -    815 bytes)
+[20:51:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.dll (130,77 K/S -   133 904 bytes)
+[20:51:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.vxd
+[20:51:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dx6migr.inf
+[20:51:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dx6migr.inf (10,06 K/S -   10 301 bytes)
+[20:51:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dsound.vxd (62,93 K/S -   64 443 bytes)
+[20:51:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\DXAPI.sys
+[20:51:54] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\DXAPI.sys (2,33 K/S -   2 384 bytes)
+[20:51:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.cnt
+[20:51:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.cnt (0,45 K/S -    461 bytes)
+[20:51:54] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.exe
+[20:51:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.hlp
+[20:51:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.hlp (14,94 K/S -   15 301 bytes)
+[20:51:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxinfo.exe
+[20:51:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxdiag.exe (139,88 K/S -   286 480 bytes)
+[20:51:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\DXINFO.INI
+[20:51:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\DXINFO.INI (0,03 K/S -    35 bytes)
+[20:51:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxmigr.dll
+[20:51:56] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxmigr.dll (4,56 K/S -   4 672 bytes)
+[20:51:56] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxinfo.exe (302,50 K/S -   309 760 bytes)
+[20:51:56] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxsetup.exe
+[20:51:57] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxsetup.exe (84,50 K/S -   86 528 bytes)
+[20:51:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxver.inf
+[20:51:57] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\dxver.inf (0,20 K/S -    208 bytes)
+[20:51:57] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\gcdef.dll
+[20:51:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\gchand.dll
+[20:51:57] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\gchand.dll (78,50 K/S -   80 384 bytes)
+[20:51:57] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\joy.cpl
+[20:51:58] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\joy.cpl (224,50 K/S -   229 888 bytes)
+[20:51:58] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\msanalog.vxd
+[20:51:58] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\msanalog.vxd (11,82 K/S -   12 101 bytes)
+[20:51:58] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\DIRECTX\gcdef.dll (551,00 K/S -   564 224 bytes)
+[20:51:58] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\
+[20:51:58] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo 3Dfx (Glide 2).dll
+[20:51:58] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\
+[20:51:58] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Direct3D.dll
+[20:51:59] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo 3Dfx (Glide 2).dll (76,00 K/S -   77 824 bytes)
+[20:51:59] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Software (555).dll
+[20:51:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Direct3D.dll (124,00 K/S -   126 976 bytes)
+[20:51:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Software (565).dll
+[20:51:59] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Software (555).dll (156,10 K/S -   159 849 bytes)
+[20:51:59] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:52:00] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Dethkarz.dkz
+[20:52:00] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Device Libraries\Vertigo Software (565).dll (156,10 K/S -   159 849 bytes)
+[20:52:00] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\
+[20:52:00] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\dk.db
+[20:52:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\dk.db (481,59 K/S -   986 292 bytes)
+[20:52:02] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\pleaseWait.bmp
+[20:52:04] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\pleaseWait.bmp (450,03 K/S -   921 654 bytes)
+[20:52:04] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\pleaseWait8.bmp
+[20:52:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\pleaseWait8.bmp (301,05 K/S -   308 278 bytes)
+[20:52:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\pspbrwse.jbf
+[20:52:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\pspbrwse.jbf (17,79 K/S -   18 219 bytes)
+[20:52:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame0.dks
+[20:52:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame0.dks (25,04 K/S -   25 640 bytes)
+[20:52:05] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame1.dks
+[20:52:05] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame1.dks (25,04 K/S -   25 640 bytes)
+[20:52:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame2.dks
+[20:52:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame2.dks (25,04 K/S -   25 640 bytes)
+[20:52:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame3.dks
+[20:52:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame3.dks (25,04 K/S -   25 640 bytes)
+[20:52:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame4.dks
+[20:52:06] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\savegame4.dks (25,04 K/S -   25 640 bytes)
+[20:52:06] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\
+[20:52:06] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\DK_SND11.SLV
+[20:52:12] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\DK_SND11.SLV (385,85 K/S -  2 370 686 bytes)
+[20:52:12] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\DK_SOUND.SLV
+[20:52:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Sounds\DK_SOUND.SLV (420,00 K/S -  4 730 908 bytes)
+[20:52:23] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\
+[20:52:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.30
+[20:52:23] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.30 (113,80 K/S -   116 530 bytes)
+[20:52:23] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.60
+[20:52:24] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.60 (172,19 K/S -   176 322 bytes)
+[20:52:24] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.db.30
+[20:52:25] - [7] Connecté à 196.52.43.88. Collecte du Nom d'utilisateur.
+[20:52:26] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.db.30 (516,22 K/S -  1 057 228 bytes)
+[20:52:26] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.db.60
+[20:52:28] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_GrandKeys_Long.Joy.db.60 (516,22 K/S -  1 057 228 bytes)
+[20:52:28] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.30
+[20:52:28] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.30 (110,17 K/S -   112 818 bytes)
+[20:52:28] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.60
+[20:52:29] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.60 (175,13 K/S -   179 330 bytes)
+[20:52:29] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.db.30
+[20:52:31] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.db.30 (516,22 K/S -  1 057 228 bytes)
+[20:52:31] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.db.60
+[20:52:33] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_MetroCity_Long.Joy.db.60 (516,22 K/S -  1 057 228 bytes)
+[20:52:33] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.30
+[20:52:34] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.30 (108,49 K/S -   111 090 bytes)
+[20:52:34] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.60
+[20:52:34] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.60 (182,42 K/S -   186 802 bytes)
+[20:52:34] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.db.30
+[20:52:35] - [7] Client 196.52.43.88 Déconnecté (00:00:09 Min)
+[20:52:36] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.db.30 (516,22 K/S -  1 057 228 bytes)
+[20:52:37] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.db.60
+[20:52:39] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_RedPlanet_Long.Joy.db.60 (516,22 K/S -  1 057 228 bytes)
+[20:52:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.30
+[20:52:39] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.30 (110,92 K/S -   113 586 bytes)
+[20:52:39] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.60
+[20:52:40] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.60 (185,69 K/S -   190 146 bytes)
+[20:52:40] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.db.30
+[20:52:42] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.db.30 (516,22 K/S -  1 057 228 bytes)
+[20:52:42] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.db.60
+[20:52:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\Attract_ThePole_Long.Joy.db.60 (344,15 K/S -  1 057 228 bytes)
+[20:52:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Long.Joy.30
+[20:52:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Long.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Long.Joy.60
+[20:52:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Long.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Medium.Joy.30
+[20:52:45] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Medium.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:45] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Medium.Joy.60
+[20:52:46] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Medium.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:46] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Short.Joy.30
+[20:52:46] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Short.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:46] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Short.Joy.60
+[20:52:46] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_GrandKeys_Short.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:46] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Long.Joy.30
+[20:52:46] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Long.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:46] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Long.Joy.60
+[20:52:46] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Long.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:47] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Medium.Joy.30
+[20:52:47] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Medium.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:47] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Medium.Joy.60
+[20:52:47] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Medium.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:47] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Short.Joy.30
+[20:52:47] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Short.Joy.30 (44,00 K/S -   45 056 bytes)
+[20:52:47] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Short.Joy.60
+[20:52:48] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_MetroCity_Short.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:48] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Long.Joy.30
+[20:52:48] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Long.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:48] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Long.Joy.60
+[20:52:48] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Long.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:48] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Medium.Joy.30
+[20:52:48] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Medium.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:49] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Medium.Joy.60
+[20:52:49] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Medium.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:49] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Short.Joy.30
+[20:52:49] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Short.Joy.30 (44,00 K/S -   45 056 bytes)
+[20:52:49] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Short.Joy.60
+[20:52:49] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_RedPlanet_Short.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:49] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Long.Joy.30
+[20:52:50] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Long.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:50] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Long.Joy.60
+[20:52:50] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Long.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:50] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Medium.Joy.30
+[20:52:50] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Medium.Joy.30 (45,74 K/S -   46 834 bytes)
+[20:52:50] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Medium.Joy.60
+[20:52:50] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Medium.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Short.Joy.30
+[20:52:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Short.Joy.30 (44,00 K/S -   45 056 bytes)
+[20:52:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Short.Joy.60
+[20:52:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Replays\DK_ThePole_Short.Joy.60 (45,74 K/S -   46 834 bytes)
+[20:52:51] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\
+[20:52:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Long.ghost
+[20:52:51] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Long.ghost (78,82 K/S -   80 708 bytes)
+[20:52:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Medium.ghost
+[20:52:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Medium.ghost (46,41 K/S -   47 528 bytes)
+[20:52:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Short.ghost
+[20:52:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_GrandKeys_Short.ghost (43,35 K/S -   44 392 bytes)
+[20:52:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Long.ghost
+[20:52:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Long.ghost (55,82 K/S -   57 160 bytes)
+[20:52:52] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Medium.ghost
+[20:52:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Medium.ghost (45,65 K/S -   46 744 bytes)
+[20:52:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Short.ghost
+[20:52:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_MetroCity_Short.ghost (28,01 K/S -   28 684 bytes)
+[20:52:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Long.ghost
+[20:52:53] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Long.ghost (125,08 K/S -   128 084 bytes)
+[20:52:53] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Medium.ghost
+[20:52:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Medium.ghost (102,33 K/S -   104 788 bytes)
+[20:52:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Short.ghost
+[20:52:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_RedPlanet_Short.ghost (66,38 K/S -   67 968 bytes)
+[20:52:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Long.ghost
+[20:52:54] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Long.ghost (70,72 K/S -   72 420 bytes)
+[20:52:54] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Medium.ghost
+[20:52:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Medium.ghost (43,84 K/S -   44 896 bytes)
+[20:52:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Short.ghost
+[20:52:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Ghosts\Local_ThePole_Short.ghost (26,75 K/S -   27 396 bytes)
+[20:52:55] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\
+[20:52:55] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\dk_intro.vbc
+[20:53:44] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\dk_intro.vbc (394,39 K/S -  19 789 131 bytes)
+[20:53:44] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\mh_logo.vbc
+[20:53:59] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\mh_logo.vbc (431,85 K/S -  6 633 223 bytes)
+[20:53:59] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\robot.vbc
+[20:54:02] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\FMV\robot.vbc (353,59 K/S -  1 086 216 bytes)
+[20:54:33] - [4] Client 192.168.0.1 Déconnecté (00:05:04 Min)
+[20:55:01] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\gamez1\Dethkarz\Data\Dethkarz.dkz (519,10 K/S -  96 211 583 bytes)
+[20:55:04] - [5] Client 192.168.0.1 Déconnecté (00:05:35 Min)
+[20:55:04] - [1] Client 192.168.0.1 Déconnecté (00:09:47 Min)
+[21:06:32] - [8] Connecté à 107.170.239.136. Collecte du Nom d'utilisateur.
+[21:06:42] - [8] Client 107.170.239.136 Déconnecté (00:00:09 Min)
+[21:12:53] - [9] Connecté à 123.63.235.114. Collecte du Nom d'utilisateur.
+[21:12:53] - [9] Usager ANONYMOUS Connecté IP: 123.63.235.114
+[21:12:53] - [9] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 123.63.235.114
+[21:12:53] - [9] Client 123.63.235.114 Déconnecté (00:00:00 Min)
+[21:54:20] - [10] Connecté à 51.38.12.23. Collecte du Nom d'utilisateur.
+[21:54:21] - [10] Client 51.38.12.23 Déconnecté (00:00:00 Min)
+[21:55:29] - [11] Connecté à 51.38.12.23. Collecte du Nom d'utilisateur.
+[21:55:36] - [11] Client 51.38.12.23 Déconnecté (00:00:07 Min)

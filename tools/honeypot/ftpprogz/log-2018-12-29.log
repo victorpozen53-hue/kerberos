@@ -1,0 +1,33 @@
+[01:14:23] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[01:14:23] - [6] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[05:22:17] - [7] Connecté à 185.161.197.58. Collecte du Nom d'utilisateur.
+[05:22:18] - [7] Authentification Incorrect: Utilisateur ADMIN IP: 185.161.197.58
+[05:22:19] - [7] Client 185.161.197.58 Déconnecté (00:00:01 Min)
+[08:19:10] - [8] Connecté à 184.105.139.68. Collecte du Nom d'utilisateur.
+[08:19:10] - [8] Client 184.105.139.68 Déconnecté (00:00:00 Min)
+[09:34:52] - [9] Connecté à 188.0.135.229. Collecte du Nom d'utilisateur.
+[09:34:53] - [9] Authentification Incorrect: Utilisateur WWW-DATA IP: 188.0.135.229
+[09:34:53] - [9] Client 188.0.135.229 Déconnecté (00:00:00 Min)
+[19:42:11] - [10] Connecté à 196.52.43.51. Collecte du Nom d'utilisateur.
+[19:42:42] - [10] Client 196.52.43.51 Déconnecté (00:00:30 Min)
+[19:45:16] - [11] Connecté à 196.52.43.86. Collecte du Nom d'utilisateur.
+[19:45:26] - [11] Client 196.52.43.86 Déconnecté (00:00:09 Min)
+[21:42:14] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:42:14] - [12] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:42:14] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:42:14] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:42:26] - [13] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:42:26] - [13] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:42:26] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:42:26] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:42:26] - [13] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\glogg-0.6.2-1-setup.exe
+[21:42:28] - [13] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\glogg-0.6.2-1-setup.exe (1 413,40 K/S -  4 342 010 bytes)
+[21:43:00] - [13] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[22:01:29] - [14] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:01:29] - [14] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:01:29] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:01:29] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:01:55] - [14] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\HttpLogBrowser-Setup.exe
+[22:02:07] - [14] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\HttpLogBrowser-Setup.exe (1 620,70 K/S -  19 914 560 bytes)
+[22:02:38] - [14] Client 192.168.0.1 Déconnecté (00:01:08 Min)
+[22:18:15] - [12] Client 192.168.0.1 Déconnecté (00:36:00 Min)

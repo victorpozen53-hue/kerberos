@@ -1,0 +1,63 @@
+[00:06:58] - [44] Connecté à 50.74.174.210. Collecte du Nom d'utilisateur.
+[00:06:58] - [44] Authentification Incorrect: Utilisateur WWW-DATA IP: 50.74.174.210
+[00:06:59] - [44] Client 50.74.174.210 Déconnecté (00:00:00 Min)
+[04:56:38] - [45] Connecté à 77.82.237.108. Collecte du Nom d'utilisateur.
+[04:56:39] - [45] Authentification Incorrect: Utilisateur WWW-DATA IP: 77.82.237.108
+[04:56:39] - [45] Client 77.82.237.108 Déconnecté (00:00:00 Min)
+[09:31:14] - Serveur Démarré
+[09:31:14] - FTP Port: 21
+[14:25:03] - [1] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[14:25:03] - [1] Client 90.26.232.164 Déconnecté (00:00:00 Min)
+[15:51:20] - [2] Connecté à 171.79.101.148. Collecte du Nom d'utilisateur.
+[15:51:24] - [2] Authentification Incorrect: Utilisateur FTP IP: 171.79.101.148
+[15:51:24] - [2] Client 171.79.101.148 Déconnecté (00:00:04 Min)
+[18:49:15] - [3] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:49:15] - [3] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:49:15] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:49:15] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:49:29] - [4] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:49:29] - [5] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:49:29] - [4] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:49:29] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:49:29] - [5] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:49:29] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:49:29] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Activation.exe
+[18:49:33] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Activation.exe (455,74 K/S -  1 400 040 bytes)
+[18:49:33] - [5] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\Activation.exe.BAK
+[18:49:37] - [5] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\Activation.exe.BAK (341,81 K/S -  1 400 040 bytes)
+[18:49:39] - [5] Client 90.26.232.164 Déconnecté (00:00:10 Min)
+[18:49:39] - [4] Client 90.26.232.164 Déconnecté (00:00:10 Min)
+[18:49:39] - [3] Client 90.26.232.164 Déconnecté (00:00:24 Min)
+[18:50:08] - [6] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:50:08] - [6] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:50:08] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:50:08] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:50:15] - [7] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:50:15] - [8] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:50:15] - [7] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:50:15] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:50:15] - [8] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:50:15] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:50:15] - [7] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\Activation.exe
+[18:50:15] - [8] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\Activation.exe.BAK
+[18:50:17] - [8] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\Activation.exe.BAK (683,61 K/S -  1 400 040 bytes)
+[18:50:17] - [7] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\Activation.exe (683,61 K/S -  1 400 040 bytes)
+[18:50:48] - [8] Client 90.26.232.164 Déconnecté (00:00:33 Min)
+[18:50:48] - [7] Client 90.26.232.164 Déconnecté (00:00:33 Min)
+[18:54:05] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:54:16] - [9] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[18:54:16] - [9] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[18:54:16] - [9] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:54:16] - [9] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\winrar.exe
+[18:54:18] - [10] Connecté à 203.171.241.67. Collecte du Nom d'utilisateur.
+[18:54:18] - [10] Authentification Incorrect: Utilisateur ROOT IP: 203.171.241.67
+[18:54:18] - [10] Client 203.171.241.67 Déconnecté (00:00:00 Min)
+[18:54:20] - [9] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\winrar.exe (639,99 K/S -  2 621 400 bytes)
+[18:54:27] - [9] Client 90.26.232.164 Déconnecté (00:00:11 Min)
+[18:54:27] - [6] Client 90.26.232.164 Déconnecté (00:04:19 Min)
+[19:47:43] - [11] Connecté à 139.162.75.112. Collecte du Nom d'utilisateur.
+[19:47:44] - [11] Client 139.162.75.112 Déconnecté (00:00:00 Min)
+[22:10:49] - [12] Connecté à 71.6.146.185. Collecte du Nom d'utilisateur.
+[22:10:49] - [12] Usager ANONYMOUS Connecté IP: 71.6.146.185
+[22:10:49] - [12] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 71.6.146.185
+[22:11:19] - [12] Client 71.6.146.185 Déconnecté (00:00:30 Min)

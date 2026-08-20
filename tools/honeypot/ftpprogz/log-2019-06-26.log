@@ -1,0 +1,19 @@
+[16:20:24] - Serveur Démarré
+[16:20:24] - FTP Port: 21
+[16:22:09] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:22:09] - [1] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[18:15:12] - [2] Connecté à 184.105.247.194. Collecte du Nom d'utilisateur.
+[18:15:15] - [2] Client 184.105.247.194 Déconnecté (00:00:02 Min)
+[18:28:23] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:28:23] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:28:23] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:28:23] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:28:27] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:28:51] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:28:51] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:28:51] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:28:51] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:28:51] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[18:28:52] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[18:28:55] - [4] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[18:28:55] - [3] Client 192.168.0.1 Déconnecté (00:00:32 Min)

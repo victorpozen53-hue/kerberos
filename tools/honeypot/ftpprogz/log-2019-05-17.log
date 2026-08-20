@@ -1,0 +1,35 @@
+[08:59:11] - Serveur Démarré
+[08:59:11] - FTP Port: 21
+[09:04:22] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[09:04:22] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[09:04:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:04:22] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:04:47] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[09:04:47] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[09:04:47] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:04:47] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:04:47] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\openfire_4_3_2.exe
+[09:05:10] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\openfire_4_3_2.exe (1 553,60 K/S -  36 590 592 bytes)
+[09:05:41] - [2] Client 192.168.0.1 Déconnecté (00:00:54 Min)
+[09:15:25] - [3] Connecté à 71.6.232.4. Collecte du Nom d'utilisateur.
+[09:15:26] - [3] Client 71.6.232.4 Déconnecté (00:00:00 Min)
+[09:19:45] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[09:19:46] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[09:19:46] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:19:46] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:19:46] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\jxpiinstall.exe
+[09:19:48] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\jxpiinstall.exe (997,67 K/S -  2 043 232 bytes)
+[09:20:18] - [4] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[09:59:49] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[09:59:49] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[09:59:49] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[09:59:49] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:15:28] - [5] Client 192.168.0.1 Déconnecté (00:15:38 Min)
+[12:20:35] - Serveur Démarré
+[12:20:35] - FTP Port: 21
+[17:15:34] - [1] Connecté à 107.170.198.136. Collecte du Nom d'utilisateur.
+[17:15:44] - [1] Client 107.170.198.136 Déconnecté (00:00:09 Min)
+[18:27:33] - [2] Connecté à 196.52.43.64. Collecte du Nom d'utilisateur.
+[18:28:04] - [2] Client 196.52.43.64 Déconnecté (00:00:30 Min)
+[18:29:25] - [3] Connecté à 92.118.161.49. Collecte du Nom d'utilisateur.
+[18:29:34] - [3] Client 92.118.161.49 Déconnecté (00:00:09 Min)

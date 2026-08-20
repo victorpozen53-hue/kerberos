@@ -1,0 +1,5 @@
+  {
+    "dns_server": "192.168.1.1",
+    "zone_name": "votredomaine.com",
+    "record_name": "monenregistrement.votredomaine.com"
+}

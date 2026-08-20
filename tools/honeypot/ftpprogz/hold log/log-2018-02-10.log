@@ -1,0 +1,168 @@
+[11:48:15] - Serveur Démarré
+[11:48:15] - FTP Port: 21
+[12:16:17] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:16:17] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:16:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:16:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:16:20] - [1] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[12:17:11] - [2] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[12:17:11] - [2] Usager MIRKO.POZEN Connecté IP: 90.100.66.214
+[12:17:11] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:17:11] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:17:16] - [2] Client 90.100.66.214 Déconnecté (00:00:04 Min)
+[12:18:49] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:18:49] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:18:49] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:18:49] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:19:03] - [3] Client 192.168.0.1 Déconnecté (00:00:14 Min)
+[12:21:30] - Serveur Démarré
+[12:21:30] - FTP Port: 21
+[12:26:10] - Serveur Arreté
+[12:31:47] - Serveur Démarré
+[12:31:47] - FTP Port: 21
+[12:31:55] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:31:55] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:31:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:31:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:18] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:38] - [1] Client 192.168.0.1 Déconnecté (00:00:42 Min)
+[12:32:38] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:32:38] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:32:38] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:38] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:57] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520
+[12:32:57] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:32:57] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:57] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520
+[12:32:57] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:32:57] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:57] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:32:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\
+[12:32:57] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\
+[12:32:57] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\
+[12:32:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\
+[12:32:57] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:57] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Catalan
+[12:32:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Catalan
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Czech
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Czech
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Danish
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Danish
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\French
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\French
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\German
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\German
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Hungarian
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Hungarian
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Italian
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Italian
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Slovak
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Slovak
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Spanish
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Spanish
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Turkish
+[12:32:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\
+[12:32:58] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\getrt520\Traductions\Turkish
+[12:33:02] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\getrt520.exe
+[12:33:02] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Serial.txt
+[12:33:02] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Serial.txt (0,03 K/S -    30 bytes)
+[12:33:02] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Catalan\
+[12:33:03] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Catalan\gr_catala.dll
+[12:33:10] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\getrt520.exe (345,34 K/S -  3 182 658 bytes)
+[12:33:10] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Catalan\
+[12:33:11] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Catalan\install.reg
+[12:33:11] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Catalan\install.reg (0,15 K/S -    150 bytes)
+[12:33:11] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Catalan\gr_catala.dll (170,51 K/S -  1 396 829 bytes)
+[12:33:11] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Catalan\Llegeix-me.txt
+[12:33:11] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Catalan\Llegeix-me.txt (0,98 K/S -   1 000 bytes)
+[12:33:11] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Catalan\uninstall.reg
+[12:33:11] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Catalan\uninstall.reg (0,13 K/S -    137 bytes)
+[12:33:11] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Czech\
+[12:33:11] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Czech\
+[12:33:11] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Czech\Ctimne.txt
+[12:33:11] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Czech\Ctimne.txt (1,21 K/S -   1 235 bytes)
+[12:33:12] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Danish\
+[12:33:12] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Czech\instal_cz.exe
+[12:33:12] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Danish\GRFolder.ini
+[12:33:12] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Czech\instal_cz.exe (408,86 K/S -   418 675 bytes)
+[12:33:12] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Danish\GRFolder.ini (0,48 K/S -    491 bytes)
+[12:33:12] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Danish\
+[12:33:13] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Danish\install.reg
+[12:33:13] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Danish\install.reg (0,15 K/S -    150 bytes)
+[12:33:13] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Danish\gr_danish.dll
+[12:33:13] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Danish\Læs-mig-først.txt
+[12:33:13] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Danish\Læs-mig-først.txt (0,69 K/S -    711 bytes)
+[12:33:13] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Danish\uninstall.reg
+[12:33:13] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Danish\uninstall.reg (0,13 K/S -    137 bytes)
+[12:33:13] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Danish\gr_danish.dll (992,00 K/S -  1 015 808 bytes)
+[12:33:13] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\French\
+[12:33:13] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\German\
+[12:33:14] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\French\gr_5_fr.exe
+[12:33:14] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\German\gr_ger520.exe
+[12:33:15] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\French\gr_5_fr.exe (404,88 K/S -   414 594 bytes)
+[12:33:15] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Hungarian\
+[12:33:16] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\German\gr_ger520.exe (183,63 K/S -   376 072 bytes)
+[12:33:16] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Hungarian\
+[12:33:16] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Hungarian\install.reg
+[12:33:16] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Hungarian\install.reg (0,15 K/S -    150 bytes)
+[12:33:16] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Hungarian\gr_hun520.dll
+[12:33:16] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Hungarian\Olvassel.txt
+[12:33:16] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Hungarian\Olvassel.txt (2,64 K/S -   2 705 bytes)
+[12:33:16] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Hungarian\uninstall.reg
+[12:33:16] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Hungarian\uninstall.reg (0,13 K/S -    137 bytes)
+[12:33:17] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Hungarian\gr_hun520.dll (975,50 K/S -   998 912 bytes)
+[12:33:17] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Italian\
+[12:33:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Italian\
+[12:33:17] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Italian\Disinstalla.reg
+[12:33:17] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Italian\Disinstalla.reg (0,13 K/S -    137 bytes)
+[12:33:17] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Italian\Gr52_Italiano.dll
+[12:33:17] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Italian\GRFolder.ini
+[12:33:17] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Italian\GRFolder.ini (0,49 K/S -    500 bytes)
+[12:33:17] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Italian\Installa.reg
+[12:33:17] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Italian\Installa.reg (0,15 K/S -    154 bytes)
+[12:33:18] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Italian\Gr52_Italiano.dll (1 028,00 K/S -  1 052 672 bytes)
+[12:33:18] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Slovak\
+[12:33:18] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Italian\Leggimi.txt
+[12:33:18] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Italian\Leggimi.txt (1,87 K/S -   1 911 bytes)
+[12:33:18] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Spanish\
+[12:33:18] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Slovak\instal_sk.exe
+[12:33:19] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Slovak\instal_sk.exe (409,38 K/S -   419 210 bytes)
+[12:33:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Spanish\
+[12:33:19] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Spanish\Pasos a seguir.txt
+[12:33:19] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Spanish\Pasos a seguir.txt (0,92 K/S -    944 bytes)
+[12:33:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\getrt520\Traductions\Turkish\
+[12:33:19] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Turkish\gr_turkish.dll
+[12:33:20] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Spanish\Getright 52_Es.exe
+[12:33:20] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Turkish\gr_turkish.dll (322,00 K/S -   329 728 bytes)
+[12:33:20] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Turkish\Kaldìr.reg
+[12:33:20] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Turkish\Kaldìr.reg (0,13 K/S -    137 bytes)
+[12:33:24] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Spanish\Getright 52_Es.exe (101,54 K/S -   415 907 bytes)
+[12:33:24] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\getrt520\Traductions\Turkish\Yükle.reg
+[12:33:24] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\getrt520\Traductions\Turkish\Yükle.reg (0,15 K/S -    151 bytes)
+[12:33:30] - [4] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[12:33:30] - [3] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[12:33:30] - [2] Client 192.168.0.1 Déconnecté (00:00:52 Min)
+[12:33:36] - Serveur Arreté

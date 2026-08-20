@@ -1,0 +1,53 @@
+[04:01:40] - [6] Connecté à 92.38.55.70. Collecte du Nom d'utilisateur.
+[04:01:40] - [6] Authentification Incorrect: Utilisateur ROOT IP: 92.38.55.70
+[04:01:40] - [6] Client 92.38.55.70 Déconnecté (00:00:00 Min)
+[11:14:05] - [7] Connecté à 103.25.7.93. Collecte du Nom d'utilisateur.
+[11:14:05] - [7] Authentification Incorrect: Utilisateur WWW-DATA IP: 103.25.7.93
+[11:14:05] - [7] Client 103.25.7.93 Déconnecté (00:00:00 Min)
+[12:32:17] - [1] Client 90.26.232.164 Déconnecté (23:06:03 Min)
+[12:32:17] - [8] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[12:32:17] - [8] Usager SPOKE.FILES Connecté IP: 90.26.232.164
+[12:32:17] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[12:32:17] - [8] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[12:32:26] - [8] Client 90.26.232.164 Déconnecté (00:00:08 Min)
+[12:32:38] - [9] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[12:32:38] - [9] Usager SPOKE.FILES Connecté IP: 90.26.232.164
+[12:32:38] - [9] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[13:12:26] - [10] Connecté à 94.28.37.66. Collecte du Nom d'utilisateur.
+[13:12:29] - [10] Usager ANONYMOUS Connecté IP: 94.28.37.66
+[13:12:29] - [10] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 94.28.37.66
+[13:12:30] - [10] Client 94.28.37.66 Déconnecté (00:00:03 Min)
+[13:36:44] - [9] Client 90.26.232.164 Déconnecté (01:04:05 Min)
+[16:19:18] - [11] Connecté à 80.82.77.139. Collecte du Nom d'utilisateur.
+[16:19:18] - [11] Usager ANONYMOUS Connecté IP: 80.82.77.139
+[16:19:18] - [11] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 80.82.77.139
+[16:19:22] - [11] Client 80.82.77.139 Déconnecté (00:00:03 Min)
+[19:29:49] - [12] Connecté à 169.54.244.93. Collecte du Nom d'utilisateur.
+[19:30:20] - [12] Client 169.54.244.93 Déconnecté (00:00:31 Min)
+[19:38:24] - [13] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[19:38:24] - [13] Usager VICTOR.POZEN Connecté IP: 90.26.232.164
+[19:38:24] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:38:24] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:38:35] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:39:47] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[19:39:48] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[19:40:08] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\
+[19:41:27] - [13] Client 90.26.232.164 Déconnecté (00:03:03 Min)
+[19:55:58] - [14] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[19:55:58] - [14] Usager SPOKE.FILES Connecté IP: 90.26.232.164
+[19:55:58] - [14] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[19:55:58] - [14] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[19:56:23] - [15] Connecté à 90.26.232.164. Collecte du Nom d'utilisateur.
+[19:56:23] - [15] Usager SPOKE.FILES Connecté IP: 90.26.232.164
+[19:56:23] - [15] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[19:56:23] - [15] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[19:56:24] - [15] SPOKE.FILES: Début d'Upload de F:\spoke.files\whit anon.ico
+[19:56:24] - [15] SPOKE.FILES: Fichier Upload: F:\spoke.files\whit anon.ico (3,69 K/S -   3 774 bytes)
+[19:56:28] - [15] Client 90.26.232.164 Déconnecté (00:00:04 Min)
+[19:56:28] - [14] Client 90.26.232.164 Déconnecté (00:00:29 Min)
+[20:42:24] - [16] Connecté à 118.118.191.9. Collecte du Nom d'utilisateur.
+[20:42:28] - [16] Authentification Incorrect: Utilisateur WWW-DATA IP: 118.118.191.9
+[20:42:28] - [16] Client 118.118.191.9 Déconnecté (00:00:04 Min)
+[21:01:18] - [17] Connecté à 106.76.126.240. Collecte du Nom d'utilisateur.
+[21:01:19] - [17] Authentification Incorrect: Utilisateur FTP IP: 106.76.126.240
+[21:01:20] - [17] Client 106.76.126.240 Déconnecté (00:00:01 Min)

@@ -1,0 +1,94 @@
+[13:01:53] - Serveur Démarré
+[13:01:53] - FTP Port: 21
+[13:06:04] - [1] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[13:06:04] - [1] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[13:10:49] - [2] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[13:10:49] - [2] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[13:18:22] - [3] Connecté à 192.168.0.8. Collecte du Nom d'utilisateur.
+[13:18:22] - [3] Client 192.168.0.8 Déconnecté (00:00:00 Min)
+[13:22:23] - [4] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[13:22:23] - [4] Client 192.168.0.9 Déconnecté (00:00:00 Min)
+[13:24:23] - [5] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[13:24:23] - [5] Client 192.168.0.9 Déconnecté (00:00:00 Min)
+[13:33:09] - [6] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[13:33:09] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.14
+[13:33:09] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[13:33:09] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[13:33:58] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\GetDataBack for NTFS\
+[13:33:58] - [7] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[13:33:58] - [8] Connecté à 192.168.0.14. Collecte du Nom d'utilisateur.
+[13:33:58] - [7] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[13:33:58] - [8] Client 192.168.0.14 Déconnecté (00:00:00 Min)
+[13:33:59] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\id gdtntfs.txt
+[13:33:59] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\id gdtntfs.txt (0,04 K/S -    46 bytes)
+[13:33:59] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\GetDataBack for NTFS\Setup.exe
+[13:33:59] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\GetDataBack for NTFS\Setup.exe (2 612,60 K/S -  2 675 259 bytes)
+[13:34:02] - [6] Client 192.168.0.14 Déconnecté (00:00:52 Min)
+[14:13:01] - [9] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[14:13:01] - [9] Client 192.168.0.9 Déconnecté (00:00:00 Min)
+[14:16:23] - [10] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:16:23] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.16
+[14:16:23] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:16:23] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:16:31] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\
+[14:16:53] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\hddentinel\
+[14:16:59] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\hddentinel\crack\
+[14:17:00] - [11] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:17:00] - [12] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:17:00] - [11] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:17:00] - [12] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:17:00] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\hddentinel\
+[14:17:00] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bi\hddentinel\hdsentinel_setup.exe
+[14:17:04] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bi\hddentinel\hdsentinel_setup.exe (4 397,88 K/S -  18 013 720 bytes)
+[14:17:04] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\hddentinel\crack\
+[14:17:04] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bi\hddentinel\crack\HDSentinel.exe
+[14:17:05] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bi\hddentinel\crack\HDSentinel.exe (4 355,64 K/S -  4 460 176 bytes)
+[14:17:12] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\
+[14:17:12] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\GetDataBack for NTFS\
+[14:17:22] - [13] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:17:22] - [13] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:17:22] - [14] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:17:22] - [14] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:17:22] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bi\GetDataBack for NTFS\id gdtntfs.txt
+[14:17:22] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bi\GetDataBack for NTFS\id gdtntfs.txt (0,04 K/S -    46 bytes)
+[14:17:22] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bi\GetDataBack for NTFS\Setup.exe
+[14:17:22] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bi\GetDataBack for NTFS\Setup.exe (2 612,60 K/S -  2 675 259 bytes)
+[14:17:43] - [15] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:17:43] - [15] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:17:43] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bi\
+[14:17:43] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bi\ClassicShellSetup_4_3_1-fr.exe
+[14:17:44] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bi\ClassicShellSetup_4_3_1-fr.exe (7 408,35 K/S -  7 586 152 bytes)
+[14:18:01] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:18:01] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\bat\
+[14:18:08] - [16] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:18:08] - [16] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:18:08] - [17] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:18:08] - [17] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:18:08] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bat\shutdown -a.bat
+[14:18:08] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bat\shutdown -a.bat (0,02 K/S -    18 bytes)
+[14:18:08] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bat\stand bye pc.bat
+[14:18:08] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bat\stand bye pc.bat (0,04 K/S -    42 bytes)
+[14:18:11] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\bat\control userpasswords2.bat
+[14:18:11] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\bat\control userpasswords2.bat (0,03 K/S -    29 bytes)
+[14:22:41] - [18] Connecté à 192.168.0.16. Collecte du Nom d'utilisateur.
+[14:22:41] - [18] Client 192.168.0.16 Déconnecté (00:00:00 Min)
+[14:22:41] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:22:41] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\windows-10-utilitaire-de-mise-a-jour_octobre-2020-20h2_fr_431147.exe
+[14:22:45] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\windows-10-utilitaire-de-mise-a-jour_octobre-2020-20h2_fr_431147.exe (4 751,82 K/S -  19 463 448 bytes)
+[14:23:04] - [10] Client 192.168.0.16 Déconnecté (00:06:40 Min)
+[15:57:18] - [19] Connecté à 198.199.101.149. Collecte du Nom d'utilisateur.
+[15:57:18] - [19] Client 198.199.101.149 Déconnecté (00:00:00 Min)
+[16:49:55] - [20] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[16:49:55] - [20] Client 192.168.0.9 Déconnecté (00:00:00 Min)
+[17:16:19] - [21] Connecté à 167.94.146.58. Collecte du Nom d'utilisateur.
+[17:16:34] - [21] Client 167.94.146.58 Déconnecté (00:00:15 Min)
+[17:28:59] - [22] Connecté à 198.235.24.166. Collecte du Nom d'utilisateur.
+[17:29:29] - [22] Client 198.235.24.166 Déconnecté (00:00:30 Min)
+[20:11:56] - [23] Connecté à 159.203.208.16. Collecte du Nom d'utilisateur.
+[20:11:57] - [23] Client 159.203.208.16 Déconnecté (00:00:00 Min)
+[20:13:02] - [24] Connecté à 78.38.91.44. Collecte du Nom d'utilisateur.
+[20:13:03] - [24] Authentification Incorrect: Utilisateur ROOT IP: 78.38.91.44
+[20:13:03] - [24] Client 78.38.91.44 Déconnecté (00:00:00 Min)
+[21:29:57] - [25] Connecté à 172.105.77.209. Collecte du Nom d'utilisateur.
+[23:04:34] - [26] Connecté à 35.195.93.98. Collecte du Nom d'utilisateur.
+[23:04:34] - [26] Client 35.195.93.98 Déconnecté (00:00:00 Min)

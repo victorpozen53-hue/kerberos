@@ -1,0 +1,1066 @@
+[16:51:04] - Serveur Démarré
+[16:51:04] - FTP Port: 21
+[16:56:23] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:56:23] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:56:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:56:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:56:36] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[16:56:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:56:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[16:56:58] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[16:58:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:58:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[16:58:51] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\wwwroot\
+[16:58:59] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[16:58:59] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\
+[16:59:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\windows7iso\
+[16:59:36] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:59:36] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:59:36] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:59:36] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\windows7iso\
+[16:59:36] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\windows7iso\windows7iso\W7-Professionnelle-SP1-32bits.iso.part
+[17:03:03] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\windows7iso\windows7iso\W7-Professionnelle-SP1-32bits.iso.part (6 321,93 K/S - 1 340 047 360 bytes)
+[17:03:09] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\
+[17:03:09] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso
+[17:11:09] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:11:09] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:11:14] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\aida32\
+[17:11:15] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:11:15] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:11:15] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:11:15] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\aida32\
+[17:11:15] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida-32_3-94-2_fr_11155.zip
+[17:11:23] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida-32_3-94-2_fr_11155.zip (397,54 K/S -  3 256 656 bytes)
+[17:11:23] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.bin
+[17:11:39] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.bin (65,94 K/S -  1 080 320 bytes)
+[17:11:39] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.dat
+[17:11:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.dat (429,09 K/S -   439 388 bytes)
+[17:11:40] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.exe
+[17:11:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.exe (14,50 K/S -   14 848 bytes)
+[17:11:40] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.mem
+[17:11:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.mem (2,44 K/S -   2 501 bytes)
+[17:11:40] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.sa6
+[17:11:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.sa6 (6,00 K/S -   6 144 bytes)
+[17:11:40] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.si6
+[17:11:40] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.si6 (9,00 K/S -   9 216 bytes)
+[17:11:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.sys
+[17:11:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.sys (3,50 K/S -   3 584 bytes)
+[17:11:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.vxd
+[17:11:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.vxd (7,06 K/S -   7 228 bytes)
+[17:11:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida32.web
+[17:11:41] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida32.web (5,84 K/S -   5 976 bytes)
+[17:11:41] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aidaplugin_diskbench.dll
+[17:11:42] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aidaplugin_diskbench.dll (200,50 K/S -   205 312 bytes)
+[17:11:42] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aidaplugin_monitordiag.dll
+[17:11:43] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aidaplugin_monitordiag.dll (182,00 K/S -   186 368 bytes)
+[17:11:43] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aidaplugin_netbench.dll
+[17:11:44] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aidaplugin_netbench.dll (253,00 K/S -   259 072 bytes)
+[17:11:44] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida_directx.dll
+[17:11:44] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida_directx.dll (45,50 K/S -   46 592 bytes)
+[17:11:44] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida_icons.dll
+[17:11:45] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida_icons.dll (95,00 K/S -   97 280 bytes)
+[17:11:45] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\aida_xpicons.dll
+[17:11:46] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\aida_xpicons.dll (139,00 K/S -   142 336 bytes)
+[17:11:46] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\al.lng
+[17:11:46] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\al.lng (75,28 K/S -   77 088 bytes)
+[17:11:46] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\bg.lng
+[17:11:46] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\bg.lng (74,07 K/S -   75 848 bytes)
+[17:11:47] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\ca.lng
+[17:11:47] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\ca.lng (78,61 K/S -   80 501 bytes)
+[17:11:47] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\cn.lng
+[17:11:47] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\cn.lng (63,95 K/S -   65 483 bytes)
+[17:11:47] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\cz.lng
+[17:11:47] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\cz.lng (71,27 K/S -   72 978 bytes)
+[17:11:47] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\DB - Access.mdb
+[17:11:48] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\DB - Access.mdb (164,00 K/S -   167 936 bytes)
+[17:11:48] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\DB - Access97.mdb
+[17:11:48] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\DB - Access97.mdb (90,00 K/S -   92 160 bytes)
+[17:11:48] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\DB - MySQL.sql
+[17:11:48] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\DB - MySQL.sql (0,83 K/S -    853 bytes)
+[17:11:48] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\DB - Oracle.sql
+[17:11:48] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\DB - Oracle.sql (0,98 K/S -   1 001 bytes)
+[17:11:49] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\DB - SQL Server.sql
+[17:11:49] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\DB - SQL Server.sql (1,25 K/S -   1 275 bytes)
+[17:11:49] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\de.lng
+[17:11:49] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\de.lng (73,16 K/S -   74 914 bytes)
+[17:11:49] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\dk.lng
+[17:11:49] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\dk.lng (70,05 K/S -   71 732 bytes)
+[17:11:49] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\es.lng
+[17:11:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\es.lng (78,84 K/S -   80 733 bytes)
+[17:11:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\fi.lng
+[17:11:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\fi.lng (67,71 K/S -   69 338 bytes)
+[17:11:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\fr.lng
+[17:11:50] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\fr.lng (77,81 K/S -   79 678 bytes)
+[17:11:50] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\gl.lng
+[17:11:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\gl.lng (77,11 K/S -   78 956 bytes)
+[17:11:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\gr.lng
+[17:11:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\gr.lng (75,86 K/S -   77 678 bytes)
+[17:11:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\hr.lng
+[17:11:51] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\hr.lng (73,75 K/S -   75 515 bytes)
+[17:11:51] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\hu.lng
+[17:11:52] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\hu.lng (72,12 K/S -   73 853 bytes)
+[17:11:52] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\it.lng
+[17:11:52] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\it.lng (76,48 K/S -   78 315 bytes)
+[17:11:52] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\jp.lng
+[17:11:52] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\jp.lng (69,83 K/S -   71 501 bytes)
+[17:11:52] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\kr.lng
+[17:11:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\kr.lng (62,83 K/S -   64 343 bytes)
+[17:11:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\lt.lng
+[17:11:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\lt.lng (75,44 K/S -   77 253 bytes)
+[17:11:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\lv.lng
+[17:11:53] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\lv.lng (72,05 K/S -   73 779 bytes)
+[17:11:53] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\mk.lng
+[17:11:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\mk.lng (77,10 K/S -   78 946 bytes)
+[17:11:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\nl.lng
+[17:11:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\nl.lng (72,19 K/S -   73 926 bytes)
+[17:11:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\no.lng
+[17:11:54] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\no.lng (70,05 K/S -   71 733 bytes)
+[17:11:54] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\pl.lng
+[17:11:55] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\pl.lng (77,32 K/S -   79 179 bytes)
+[17:11:55] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\pt.lng
+[17:11:55] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\pt.lng (76,79 K/S -   78 637 bytes)
+[17:11:55] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\ro.lng
+[17:11:55] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\ro.lng (74,46 K/S -   76 242 bytes)
+[17:11:55] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\ru.lng
+[17:11:56] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\ru.lng (72,42 K/S -   74 159 bytes)
+[17:11:56] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\se.lng
+[17:11:56] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\se.lng (71,47 K/S -   73 185 bytes)
+[17:11:56] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\si.lng
+[17:11:56] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\si.lng (71,12 K/S -   72 827 bytes)
+[17:11:56] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\sk.lng
+[17:11:57] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\sk.lng (71,81 K/S -   73 534 bytes)
+[17:11:57] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\sr.lng
+[17:11:57] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\sr.lng (72,18 K/S -   73 908 bytes)
+[17:11:57] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\tr.lng
+[17:11:57] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\tr.lng (70,43 K/S -   72 116 bytes)
+[17:11:57] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\tw.lng
+[17:11:58] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\tw.lng (58,35 K/S -   59 753 bytes)
+[17:11:58] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\aida32\ua.lng
+[17:11:58] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\aida32\ua.lng (71,79 K/S -   73 513 bytes)
+[17:12:29] - [3] Client 192.168.0.1 Déconnecté (00:01:13 Min)
+[17:25:05] - [1] Client 192.168.0.1 Déconnecté (00:28:48 Min)
+[17:25:05] - [2] MIRKO.POZEN: Echec de l'envoie du Fichier: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso (669,32 K/S -  901 969 920 bytes)
+[17:25:05] - [2] Client 192.168.0.1 Déconnecté (00:25:28 Min)
+[17:29:53] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:29:53] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:29:53] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:29:53] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:30:00] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[17:30:10] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:30:10] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[17:30:11] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[17:30:21] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:30:21] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[17:30:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\rar\
+[17:31:03] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:31:03] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:31:03] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:31:03] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\rar\
+[17:31:24] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[17:31:24] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cr wk7\
+[17:31:27] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cr wk7\Nouveau dossier\
+[17:31:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[17:31:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\1\
+[17:31:35] - [5] Client 192.168.0.1 Déconnecté (00:00:31 Min)
+[17:31:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[17:31:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[17:32:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[17:32:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\
+[17:32:49] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:32:49] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:32:49] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:32:49] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\
+[17:32:49] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso
+[17:33:34] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso (-23 131,82 K/S - -1 042 227 200 bytes)
+[17:33:45] - [6] MIRKO.POZEN: Résumé du Téléchargement de: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso A:  901 889 460 bytes
+[18:04:20] - [6] MIRKO.POZEN: Echec de l'envoie du Fichier: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso (-1 090,90 K/S - -2 049 892 940 bytes)
+[18:04:51] - [6] Client 192.168.0.1 Déconnecté (00:32:01 Min)
+[18:05:15] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:05:15] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:05:15] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:05:15] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\windows7iso\
+[18:05:15] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso
+[18:05:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:05:59] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:05:59] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017
+[18:06:13] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:18] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:19] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat
+[18:06:19] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:06:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator
+[18:06:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\
+[18:06:19] - [8] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator
+[18:06:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator\
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\reader
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\reader
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\reader\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\reader\v 9.1
+[18:06:19] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\reader\
+[18:06:19] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\acrobat\reader\v 9.1
+[18:06:19] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator\PDFCreator-0_9_6_setup.exe
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN
+[18:06:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:32] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP
+[18:06:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:33] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:34] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG
+[18:06:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\acrobat\pdf creator\PDFCreator-0_9_6_setup.exe (790,77 K/S -  16 194 992 bytes)
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG
+[18:06:39] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\acrobat\reader\v 9.1\
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\INFOPATH.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\INFOPATH.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:39] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR
+[18:06:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR
+[18:06:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\acrobat\reader\v 9.1\AdbeRdr910_fr_FR.exe
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:40] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES
+[18:06:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR
+[18:06:41] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:41] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13
+[18:06:42] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[18:06:42] - [4] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13
+[18:07:04] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\acrobat\reader\v 9.1\AdbeRdr910_fr_FR.exe (1 094,50 K/S -  26 897 264 bytes)
+[18:07:04] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\
+[18:07:04] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By BlackiPod.rar
+[18:13:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:13:33] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:13:37] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:14:43] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By BlackiPod.rar (1 069,30 K/S -  502 566 791 bytes)
+[18:14:43] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\
+[18:14:43] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.MSI
+[18:14:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.MSI (810,25 K/S -  1 659 392 bytes)
+[18:14:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.XML
+[18:14:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCESSMUI.XML (1,31 K/S -   1 345 bytes)
+[18:14:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCLR.CAB
+[18:15:11] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\ACCLR.CAB (1 075,70 K/S -  28 639 093 bytes)
+[18:15:11] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\SETUP.XML
+[18:15:11] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ACCESS.FR-FR\SETUP.XML (1,74 K/S -   1 780 bytes)
+[18:15:12] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\
+[18:15:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ACCESS12.OPA
+[18:15:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ACCESS12.OPA (52,95 K/S -   54 216 bytes)
+[18:15:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\CPAO12.OPA
+[18:15:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\CPAO12.OPA (26,46 K/S -   27 090 bytes)
+[18:15:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\EXCEL12.OPA
+[18:15:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\EXCEL12.OPA (150,26 K/S -   153 864 bytes)
+[18:15:13] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\GROOVE12.OPA
+[18:15:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\GROOVE12.OPA (3,95 K/S -   4 042 bytes)
+[18:15:13] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\IC12.OPA
+[18:15:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\IC12.OPA (9,48 K/S -   9 708 bytes)
+[18:15:13] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\INF12.OPA
+[18:15:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\INF12.OPA (127,42 K/S -   130 478 bytes)
+[18:15:13] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCT.CHM
+[18:15:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCT.CHM (55,91 K/S -   57 249 bytes)
+[18:15:14] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCTRES.DLL
+[18:15:14] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OCTRES.DLL (427,34 K/S -   437 600 bytes)
+[18:15:14] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OFFICE12.OPA
+[18:15:15] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OFFICE12.OPA (700,57 K/S -   717 386 bytes)
+[18:15:15] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ONENT12.OPA
+[18:15:15] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\ONENT12.OPA (99,05 K/S -   101 428 bytes)
+[18:15:15] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OUTLK12.OPA
+[18:15:16] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\OUTLK12.OPA (486,27 K/S -   497 936 bytes)
+[18:15:16] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PPT12.OPA
+[18:15:16] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PPT12.OPA (103,07 K/S -   105 546 bytes)
+[18:15:16] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PROJ12.OPA
+[18:15:16] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PROJ12.OPA (197,74 K/S -   202 490 bytes)
+[18:15:16] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PUB12.OPA
+[18:15:17] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\PUB12.OPA (32,20 K/S -   32 972 bytes)
+[18:15:17] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\SPD12.OPA
+[18:15:17] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\SPD12.OPA (15,75 K/S -   16 130 bytes)
+[18:15:17] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\VISIO12.OPA
+[18:15:17] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\VISIO12.OPA (128,32 K/S -   131 400 bytes)
+[18:15:17] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\WORD12.OPA
+[18:15:17] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\DE-DE\WORD12.OPA (239,20 K/S -   244 936 bytes)
+[18:15:17] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\
+[18:15:18] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ACCESS12.OPA
+[18:15:18] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ACCESS12.OPA (49,43 K/S -   50 614 bytes)
+[18:15:18] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\CPAO12.OPA
+[18:15:18] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\CPAO12.OPA (24,32 K/S -   24 904 bytes)
+[18:15:18] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\EXCEL12.OPA
+[18:15:18] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\EXCEL12.OPA (139,77 K/S -   143 128 bytes)
+[18:15:18] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\GROOVE12.OPA
+[18:15:18] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\GROOVE12.OPA (3,54 K/S -   3 626 bytes)
+[18:15:19] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\IC12.OPA
+[18:15:19] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\IC12.OPA (8,43 K/S -   8 628 bytes)
+[18:15:19] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\INF12.OPA
+[18:15:19] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\INF12.OPA (113,54 K/S -   116 266 bytes)
+[18:15:19] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCT.CHM
+[18:15:19] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCT.CHM (56,33 K/S -   57 678 bytes)
+[18:15:19] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCTRES.DLL
+[18:15:20] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OCTRES.DLL (411,34 K/S -   421 208 bytes)
+[18:15:20] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OFFICE12.OPA
+[18:15:21] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OFFICE12.OPA (668,87 K/S -   684 924 bytes)
+[18:15:21] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ONENT12.OPA
+[18:15:21] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\ONENT12.OPA (92,44 K/S -   94 656 bytes)
+[18:15:21] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OUTLK12.OPA
+[18:15:21] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\OUTLK12.OPA (451,06 K/S -   461 884 bytes)
+[18:15:21] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PPT12.OPA
+[18:15:22] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PPT12.OPA (97,19 K/S -   99 522 bytes)
+[18:15:22] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PROJ12.OPA
+[18:15:22] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PROJ12.OPA (182,68 K/S -   187 068 bytes)
+[18:15:22] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PUB12.OPA
+[18:15:22] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\PUB12.OPA (30,68 K/S -   31 418 bytes)
+[18:15:22] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\SPD12.OPA
+[18:15:22] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\SPD12.OPA (14,86 K/S -   15 212 bytes)
+[18:15:22] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\VISIO12.OPA
+[18:15:23] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\VISIO12.OPA (119,69 K/S -   122 566 bytes)
+[18:15:23] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\WORD12.OPA
+[18:15:23] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\EN-US\WORD12.OPA (228,74 K/S -   234 232 bytes)
+[18:15:23] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\
+[18:15:23] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ACCESS12.OPA
+[18:15:23] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ACCESS12.OPA (52,21 K/S -   53 464 bytes)
+[18:15:23] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\CPAO12.OPA
+[18:15:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\CPAO12.OPA (26,64 K/S -   27 276 bytes)
+[18:15:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\EXCEL12.OPA
+[18:15:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\EXCEL12.OPA (149,25 K/S -   152 834 bytes)
+[18:15:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\GROOVE12.OPA
+[18:15:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\GROOVE12.OPA (3,81 K/S -   3 900 bytes)
+[18:15:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\IC12.OPA
+[18:15:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\IC12.OPA (8,96 K/S -   9 172 bytes)
+[18:15:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\INF12.OPA
+[18:15:25] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\INF12.OPA (129,76 K/S -   132 876 bytes)
+[18:15:25] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCT.CHM
+[18:15:25] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCT.CHM (55,12 K/S -   56 444 bytes)
+[18:15:25] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCTRES.DLL
+[18:15:25] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OCTRES.DLL (428,38 K/S -   438 656 bytes)
+[18:15:25] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OFFICE12.OPA
+[18:15:26] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OFFICE12.OPA (700,86 K/S -   717 684 bytes)
+[18:15:26] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ONENT12.OPA
+[18:15:26] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\ONENT12.OPA (98,99 K/S -   101 370 bytes)
+[18:15:26] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OUTLK12.OPA
+[18:15:27] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\OUTLK12.OPA (493,28 K/S -   505 120 bytes)
+[18:15:27] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PPT12.OPA
+[18:15:27] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PPT12.OPA (102,04 K/S -   104 494 bytes)
+[18:15:27] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PROJ12.OPA
+[18:15:28] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PROJ12.OPA (192,28 K/S -   196 894 bytes)
+[18:15:28] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PUB12.OPA
+[18:15:28] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\PUB12.OPA (32,44 K/S -   33 216 bytes)
+[18:15:28] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\SPD12.OPA
+[18:15:28] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\SPD12.OPA (15,76 K/S -   16 134 bytes)
+[18:15:28] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\VISIO12.OPA
+[18:15:28] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\VISIO12.OPA (126,97 K/S -   130 014 bytes)
+[18:15:28] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\WORD12.OPA
+[18:15:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ES-ES\WORD12.OPA (237,87 K/S -   243 578 bytes)
+[18:15:29] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\
+[18:15:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ACCESS12.OPA
+[18:15:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ACCESS12.OPA (52,46 K/S -   53 716 bytes)
+[18:15:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\CPAO12.OPA
+[18:15:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\CPAO12.OPA (26,17 K/S -   26 800 bytes)
+[18:15:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\EXCEL12.OPA
+[18:15:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\EXCEL12.OPA (148,39 K/S -   151 952 bytes)
+[18:15:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\GROOVE12.OPA
+[18:15:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\GROOVE12.OPA (3,74 K/S -   3 832 bytes)
+[18:15:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\IC12.OPA
+[18:15:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\IC12.OPA (9,17 K/S -   9 390 bytes)
+[18:15:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\INF12.OPA
+[18:15:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\INF12.OPA (128,53 K/S -   131 614 bytes)
+[18:15:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCT.CHM
+[18:15:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCT.CHM (54,97 K/S -   56 288 bytes)
+[18:15:31] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCTRES.DLL
+[18:15:31] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OCTRES.DLL (429,86 K/S -   440 176 bytes)
+[18:15:31] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OFFICE12.OPA
+[18:15:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OFFICE12.OPA (697,40 K/S -   714 136 bytes)
+[18:15:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ONENT12.OPA
+[18:15:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\ONENT12.OPA (99,68 K/S -   102 070 bytes)
+[18:15:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OUTLK12.OPA
+[18:15:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\OUTLK12.OPA (488,15 K/S -   499 862 bytes)
+[18:15:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PPT12.OPA
+[18:15:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PPT12.OPA (102,56 K/S -   105 022 bytes)
+[18:15:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PROJ12.OPA
+[18:15:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PROJ12.OPA (194,79 K/S -   199 460 bytes)
+[18:15:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PUB12.OPA
+[18:15:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\PUB12.OPA (32,45 K/S -   33 232 bytes)
+[18:15:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\SPD12.OPA
+[18:15:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\SPD12.OPA (15,66 K/S -   16 034 bytes)
+[18:15:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\VISIO12.OPA
+[18:15:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\VISIO12.OPA (128,22 K/S -   131 296 bytes)
+[18:15:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\WORD12.OPA
+[18:15:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\FR-FR\WORD12.OPA (238,69 K/S -   244 414 bytes)
+[18:15:34] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\
+[18:15:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ACCESS12.OPA
+[18:15:35] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ACCESS12.OPA (52,88 K/S -   54 144 bytes)
+[18:15:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\CPAO12.OPA
+[18:15:35] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\CPAO12.OPA (26,94 K/S -   27 588 bytes)
+[18:15:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\EXCEL12.OPA
+[18:15:35] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\EXCEL12.OPA (150,46 K/S -   154 076 bytes)
+[18:15:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\GROOVE12.OPA
+[18:15:35] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\GROOVE12.OPA (3,86 K/S -   3 956 bytes)
+[18:15:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\IC12.OPA
+[18:15:36] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\IC12.OPA (9,48 K/S -   9 712 bytes)
+[18:15:36] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\INF12.OPA
+[18:15:36] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\INF12.OPA (128,64 K/S -   131 730 bytes)
+[18:15:36] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCT.CHM
+[18:15:36] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCT.CHM (54,34 K/S -   55 644 bytes)
+[18:15:36] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCTRES.DLL
+[18:15:37] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OCTRES.DLL (425,38 K/S -   435 584 bytes)
+[18:15:37] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OFFICE12.OPA
+[18:15:38] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OFFICE12.OPA (715,54 K/S -   732 710 bytes)
+[18:15:38] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ONENT12.OPA
+[18:15:38] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\ONENT12.OPA (101,66 K/S -   104 096 bytes)
+[18:15:38] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OUTLK12.OPA
+[18:15:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\OUTLK12.OPA (499,91 K/S -   511 912 bytes)
+[18:15:39] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PPT12.OPA
+[18:15:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PPT12.OPA (103,62 K/S -   106 102 bytes)
+[18:15:39] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PROJ12.OPA
+[18:15:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PROJ12.OPA (197,96 K/S -   202 708 bytes)
+[18:15:39] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PUB12.OPA
+[18:15:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\PUB12.OPA (32,96 K/S -   33 752 bytes)
+[18:15:39] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\SPD12.OPA
+[18:15:39] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\SPD12.OPA (15,90 K/S -   16 278 bytes)
+[18:15:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\VISIO12.OPA
+[18:15:40] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\VISIO12.OPA (128,99 K/S -   132 088 bytes)
+[18:15:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\WORD12.OPA
+[18:15:40] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\IT-IT\WORD12.OPA (241,66 K/S -   247 464 bytes)
+[18:15:40] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\
+[18:15:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ACCESS12.OPA
+[18:15:41] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ACCESS12.OPA (45,04 K/S -   46 116 bytes)
+[18:15:41] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\CPAO12.OPA
+[18:15:41] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\CPAO12.OPA (19,13 K/S -   19 590 bytes)
+[18:15:41] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\EXCEL12.OPA
+[18:15:41] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\EXCEL12.OPA (125,33 K/S -   128 340 bytes)
+[18:15:41] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\GROOVE12.OPA
+[18:15:41] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\GROOVE12.OPA (2,79 K/S -   2 862 bytes)
+[18:15:41] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\IC12.OPA
+[18:15:41] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\IC12.OPA (7,15 K/S -   7 322 bytes)
+[18:15:42] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\INF12.OPA
+[18:15:42] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\INF12.OPA (96,96 K/S -   99 290 bytes)
+[18:15:42] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCT.CHM
+[18:15:42] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCT.CHM (55,03 K/S -   56 346 bytes)
+[18:15:42] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCTRES.DLL
+[18:15:43] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OCTRES.DLL (424,78 K/S -   434 976 bytes)
+[18:15:43] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OFFICE12.OPA
+[18:15:43] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OFFICE12.OPA (612,56 K/S -   627 264 bytes)
+[18:15:43] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ONENT12.OPA
+[18:15:43] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\ONENT12.OPA (81,56 K/S -   83 518 bytes)
+[18:15:44] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OUTLK12.OPA
+[18:15:44] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\OUTLK12.OPA (384,50 K/S -   393 730 bytes)
+[18:15:44] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PPT12.OPA
+[18:15:44] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PPT12.OPA (90,16 K/S -   92 328 bytes)
+[18:15:44] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PROJ12.OPA
+[18:15:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PROJ12.OPA (150,44 K/S -   154 054 bytes)
+[18:15:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PUB12.OPA
+[18:15:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\PUB12.OPA (28,65 K/S -   29 336 bytes)
+[18:15:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\SPD12.OPA
+[18:15:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\SPD12.OPA (13,92 K/S -   14 254 bytes)
+[18:15:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\VISIO12.OPA
+[18:15:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\VISIO12.OPA (105,22 K/S -   107 742 bytes)
+[18:15:45] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\WORD12.OPA
+[18:15:45] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\JA-JP\WORD12.OPA (211,00 K/S -   216 060 bytes)
+[18:15:46] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\
+[18:15:46] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ACCESS12.OPA
+[18:15:46] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ACCESS12.OPA (45,26 K/S -   46 348 bytes)
+[18:15:46] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\CPAO12.OPA
+[18:15:46] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\CPAO12.OPA (19,44 K/S -   19 908 bytes)
+[18:15:46] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\EXCEL12.OPA
+[18:15:47] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\EXCEL12.OPA (124,63 K/S -   127 618 bytes)
+[18:15:47] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\GROOVE12.OPA
+[18:15:47] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\GROOVE12.OPA (2,67 K/S -   2 738 bytes)
+[18:15:47] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\IC12.OPA
+[18:15:47] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\IC12.OPA (7,11 K/S -   7 276 bytes)
+[18:15:47] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\INF12.OPA
+[18:15:47] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\INF12.OPA (95,12 K/S -   97 404 bytes)
+[18:15:47] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCT.CHM
+[18:15:47] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCT.CHM (81,81 K/S -   83 772 bytes)
+[18:15:48] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCTRES.DLL
+[18:15:48] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OCTRES.DLL (424,84 K/S -   435 032 bytes)
+[18:15:48] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OFFICE12.OPA
+[18:15:49] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OFFICE12.OPA (605,35 K/S -   619 882 bytes)
+[18:15:49] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ONENT12.OPA
+[18:15:49] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\ONENT12.OPA (80,62 K/S -   82 556 bytes)
+[18:15:49] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OUTLK12.OPA
+[18:15:50] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\OUTLK12.OPA (384,09 K/S -   393 304 bytes)
+[18:15:50] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PPT12.OPA
+[18:15:50] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PPT12.OPA (89,85 K/S -   92 010 bytes)
+[18:15:50] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PROJ12.OPA
+[18:15:50] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PROJ12.OPA (151,59 K/S -   155 232 bytes)
+[18:15:50] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PUB12.OPA
+[18:15:50] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\PUB12.OPA (28,34 K/S -   29 020 bytes)
+[18:15:50] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\SPD12.OPA
+[18:15:50] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\SPD12.OPA (13,75 K/S -   14 082 bytes)
+[18:15:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\VISIO12.OPA
+[18:15:51] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\VISIO12.OPA (105,19 K/S -   107 714 bytes)
+[18:15:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\WORD12.OPA
+[18:15:51] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\KO-KR\WORD12.OPA (210,71 K/S -   215 766 bytes)
+[18:15:51] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\
+[18:15:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCT.DLL
+[18:15:55] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCT.DLL (1 046,80 K/S -  3 215 680 bytes)
+[18:15:55] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCTCA.DLL
+[18:15:55] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\OCTCA.DLL (95,27 K/S -   97 552 bytes)
+[18:15:55] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\
+[18:15:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ACCESS12.OPA
+[18:15:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ACCESS12.OPA (42,96 K/S -   43 994 bytes)
+[18:15:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\CPAO12.OPA
+[18:15:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\CPAO12.OPA (17,58 K/S -   17 998 bytes)
+[18:15:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\EXCEL12.OPA
+[18:15:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\EXCEL12.OPA (118,13 K/S -   120 960 bytes)
+[18:15:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\GROOVE12.OPA
+[18:15:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\GROOVE12.OPA (2,42 K/S -   2 478 bytes)
+[18:15:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\IC12.OPA
+[18:15:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\IC12.OPA (6,58 K/S -   6 734 bytes)
+[18:15:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\INF12.OPA
+[18:15:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\INF12.OPA (87,00 K/S -   89 088 bytes)
+[18:15:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCT.CHM
+[18:15:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCT.CHM (82,34 K/S -   84 318 bytes)
+[18:15:58] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCTRES.DLL
+[18:15:58] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OCTRES.DLL (424,78 K/S -   434 976 bytes)
+[18:15:58] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OFFICE12.OPA
+[18:15:59] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OFFICE12.OPA (582,59 K/S -   596 576 bytes)
+[18:15:59] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ONENT12.OPA
+[18:15:59] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\ONENT12.OPA (75,89 K/S -   77 716 bytes)
+[18:15:59] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OUTLK12.OPA
+[18:15:59] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\OUTLK12.OPA (358,88 K/S -   367 488 bytes)
+[18:15:59] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PPT12.OPA
+[18:16:00] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PPT12.OPA (86,41 K/S -   88 488 bytes)
+[18:16:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PROJ12.OPA
+[18:16:00] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PROJ12.OPA (138,95 K/S -   142 284 bytes)
+[18:16:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PUB12.OPA
+[18:16:00] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\PUB12.OPA (27,22 K/S -   27 878 bytes)
+[18:16:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\SPD12.OPA
+[18:16:00] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\SPD12.OPA (13,12 K/S -   13 432 bytes)
+[18:16:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\VISIO12.OPA
+[18:16:01] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\VISIO12.OPA (99,44 K/S -   101 830 bytes)
+[18:16:01] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\WORD12.OPA
+[18:16:01] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-CN\WORD12.OPA (203,26 K/S -   208 134 bytes)
+[18:16:01] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\
+[18:16:01] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ACCESS12.OPA
+[18:16:01] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ACCESS12.OPA (43,06 K/S -   44 094 bytes)
+[18:16:01] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\CPAO12.OPA
+[18:16:02] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\CPAO12.OPA (17,66 K/S -   18 086 bytes)
+[18:16:02] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\EXCEL12.OPA
+[18:16:02] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\EXCEL12.OPA (118,67 K/S -   121 522 bytes)
+[18:16:02] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\GROOVE12.OPA
+[18:16:02] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\GROOVE12.OPA (2,40 K/S -   2 460 bytes)
+[18:16:02] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\IC12.OPA
+[18:16:02] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\IC12.OPA (6,59 K/S -   6 744 bytes)
+[18:16:02] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\INF12.OPA
+[18:16:03] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\INF12.OPA (86,73 K/S -   88 808 bytes)
+[18:16:03] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCT.CHM
+[18:16:03] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCT.CHM (59,48 K/S -   60 904 bytes)
+[18:16:03] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCTRES.DLL
+[18:16:04] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OCTRES.DLL (424,78 K/S -   434 976 bytes)
+[18:16:04] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OFFICE12.OPA
+[18:16:04] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OFFICE12.OPA (583,02 K/S -   597 016 bytes)
+[18:16:04] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ONENT12.OPA
+[18:16:04] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\ONENT12.OPA (76,16 K/S -   77 990 bytes)
+[18:16:05] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OUTLK12.OPA
+[18:16:05] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\OUTLK12.OPA (359,77 K/S -   368 406 bytes)
+[18:16:05] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PPT12.OPA
+[18:16:05] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PPT12.OPA (86,38 K/S -   88 458 bytes)
+[18:16:05] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PROJ12.OPA
+[18:16:05] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PROJ12.OPA (139,94 K/S -   143 302 bytes)
+[18:16:05] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PUB12.OPA
+[18:16:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\PUB12.OPA (27,38 K/S -   28 038 bytes)
+[18:16:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\SPD12.OPA
+[18:16:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\SPD12.OPA (13,25 K/S -   13 570 bytes)
+[18:16:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\VISIO12.OPA
+[18:16:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\VISIO12.OPA (99,84 K/S -   102 236 bytes)
+[18:16:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\WORD12.OPA
+[18:16:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ADMIN\ZH-TW\WORD12.OPA (203,72 K/S -   208 606 bytes)
+[18:16:06] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:16:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\AUTORUN.INF
+[18:16:07] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\AUTORUN.INF (0,17 K/S -    175 bytes)
+[18:16:07] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\
+[18:16:07] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\FILES12.CAT
+[18:16:08] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\CATALOG\FILES12.CAT (1 292,00 K/S -  1 323 033 bytes)
+[18:16:08] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\
+[18:16:09] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELLR.CAB
+[18:16:25] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELLR.CAB (945,29 K/S -  15 487 638 bytes)
+[18:16:25] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.MSI
+[18:16:27] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.MSI (857,00 K/S -  1 755 136 bytes)
+[18:16:27] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.XML
+[18:16:27] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\EXCELMUI.XML (1,88 K/S -   1 921 bytes)
+[18:16:27] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\SETUP.XML
+[18:16:27] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\EXCEL.FR-FR\SETUP.XML (2,58 K/S -   2 640 bytes)
+[18:16:27] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\
+[18:16:27] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFLR.CAB
+[18:16:53] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFLR.CAB (1 066,20 K/S -  27 293 888 bytes)
+[18:16:53] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.MSI
+[18:16:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.MSI (770,83 K/S -  2 368 000 bytes)
+[18:16:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.XML
+[18:16:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\INFOPATHMUI.XML (4,47 K/S -   4 573 bytes)
+[18:16:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\SETUP.XML
+[18:16:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\INFOPATH.FR-FR\SETUP.XML (5,03 K/S -   5 151 bytes)
+[18:16:56] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:16:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\key.txt
+[18:16:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\key.txt (0,03 K/S -    29 bytes)
+[18:16:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\Lisez moi_Read me.txt
+[18:16:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\Lisez moi_Read me.txt (0,07 K/S -    71 bytes)
+[18:16:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\LISEZMOI.HTM
+[18:16:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\LISEZMOI.HTM (2,54 K/S -   2 599 bytes)
+[18:16:57] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\
+[18:16:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\DWINTL20.DLL
+[18:16:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\1036\DWINTL20.DLL (109,34 K/S -   111 960 bytes)
+[18:16:57] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\
+[18:16:58] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\BRANDING.XML
+[18:16:58] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\BRANDING.XML (610,20 K/S -   624 843 bytes)
+[18:16:59] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DW20.EXE
+[18:16:59] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DW20.EXE (794,32 K/S -   813 384 bytes)
+[18:17:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWDCW20.DLL
+[18:17:00] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWDCW20.DLL (429,27 K/S -   439 568 bytes)
+[18:17:00] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWTRIG20.EXE
+[18:17:01] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\DWTRIG20.EXE (424,34 K/S -   434 528 bytes)
+[18:17:01] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MICROSOFT.VC80.CRT.MANIFEST
+[18:17:01] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MICROSOFT.VC80.CRT.MANIFEST (0,51 K/S -    522 bytes)
+[18:17:02] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MSVCR80.DLL
+[18:17:03] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\MSVCR80.DLL (612,00 K/S -   626 688 bytes)
+[18:17:03] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICELR.CAB
+[18:17:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICELR.CAB (1 033,90 K/S -  28 585 504 bytes)
+[18:17:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.MSI
+[18:17:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.MSI (1 181,30 K/S -  2 419 200 bytes)
+[18:17:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.XML
+[18:17:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OFFICEMUI.XML (5,64 K/S -   5 772 bytes)
+[18:17:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OSETUPUI.DLL
+[18:17:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\OSETUPUI.DLL (219,30 K/S -   224 568 bytes)
+[18:17:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\PSS10R.CHM
+[18:17:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\PSS10R.CHM (26,60 K/S -   27 243 bytes)
+[18:17:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.CHM
+[18:17:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.CHM (52,72 K/S -   53 989 bytes)
+[18:17:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.XML
+[18:17:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SETUP.XML (9,16 K/S -   9 378 bytes)
+[18:17:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SHELLUI.MST
+[18:17:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE.FR-FR\SHELLUI.MST (66,00 K/S -   67 584 bytes)
+[18:17:33] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\
+[18:17:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.MSI
+[18:17:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.MSI (495,00 K/S -   506 880 bytes)
+[18:17:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.XML
+[18:17:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OFFICE64MUI.XML (1,00 K/S -   1 027 bytes)
+[18:17:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OWOW64LR.CAB
+[18:17:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\OWOW64LR.CAB (7,10 K/S -   7 266 bytes)
+[18:17:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\SETUP.XML
+[18:17:35] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OFFICE64.FR-FR\SETUP.XML (1,43 K/S -   1 468 bytes)
+[18:17:35] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\
+[18:17:35] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLKLR.CAB
+[18:17:49] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLKLR.CAB (1 129,00 K/S -  16 185 637 bytes)
+[18:17:49] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.MSI
+[18:17:51] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.MSI (990,75 K/S -  2 029 056 bytes)
+[18:17:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.XML
+[18:17:51] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\OUTLOOKMUI.XML (2,88 K/S -   2 947 bytes)
+[18:17:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\SETUP.XML
+[18:17:51] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\OUTLOOK.FR-FR\SETUP.XML (3,77 K/S -   3 861 bytes)
+[18:17:51] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\
+[18:17:51] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.MSI
+[18:17:53] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.MSI (1 608,50 K/S -  1 647 104 bytes)
+[18:17:53] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.XML
+[18:17:53] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\POWERPOINTMUI.XML (1,52 K/S -   1 554 bytes)
+[18:17:53] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\PPTLR.CAB
+[18:18:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\PPTLR.CAB (1 089,00 K/S -  14 496 400 bytes)
+[18:18:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\SETUP.XML
+[18:18:06] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\POWERPOINT.FR-FR\SETUP.XML (1,96 K/S -   2 004 bytes)
+[18:18:06] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\
+[18:18:06] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.CAB
+[18:18:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.CAB (1 074,90 K/S -  6 604 112 bytes)
+[18:18:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.MSI
+[18:18:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.MSI (503,50 K/S -   515 584 bytes)
+[18:18:13] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.XML
+[18:18:13] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.AR\PROOF.XML (1,12 K/S -   1 151 bytes)
+[18:18:13] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\
+[18:18:14] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.CAB
+[18:18:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.CAB (1 043,50 K/S -  20 302 883 bytes)
+[18:18:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.MSI
+[18:18:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.MSI (503,00 K/S -   515 072 bytes)
+[18:18:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.XML
+[18:18:34] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.DE\PROOF.XML (1,43 K/S -   1 461 bytes)
+[18:18:34] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\
+[18:18:34] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.CAB
+[18:18:55] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.CAB (994,54 K/S -  22 404 970 bytes)
+[18:18:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.MSI
+[18:18:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.MSI (496,00 K/S -   507 904 bytes)
+[18:18:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.XML
+[18:18:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.EN\PROOF.XML (1,32 K/S -   1 350 bytes)
+[18:18:56] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\
+[18:18:56] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.CAB
+[18:19:11] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.CAB (1 147,90 K/S -  16 456 790 bytes)
+[18:19:11] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.MSI
+[18:19:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.MSI (502,00 K/S -   514 048 bytes)
+[18:19:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.XML
+[18:19:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.ES\PROOF.XML (1,43 K/S -   1 460 bytes)
+[18:19:12] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\
+[18:19:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.CAB
+[18:19:23] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.CAB (934,24 K/S -  11 479 987 bytes)
+[18:19:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.MSI
+[18:19:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.MSI (506,00 K/S -   518 144 bytes)
+[18:19:24] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.XML
+[18:19:24] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.FR\PROOF.XML (1,42 K/S -   1 459 bytes)
+[18:19:24] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\
+[18:19:25] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.CAB
+[18:19:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.CAB (1 182,80 K/S -  4 844 595 bytes)
+[18:19:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.MSI
+[18:19:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.MSI (494,50 K/S -   506 368 bytes)
+[18:19:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.XML
+[18:19:29] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOF.NL\PROOF.XML (1,20 K/S -   1 233 bytes)
+[18:19:29] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\
+[18:19:29] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.MSI
+[18:19:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.MSI (494,00 K/S -   505 856 bytes)
+[18:19:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.XML
+[18:19:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\PROOFING.XML (0,79 K/S -    807 bytes)
+[18:19:30] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\SETUP.XML
+[18:19:30] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROOFING.FR-FR\SETUP.XML (9,57 K/S -   9 804 bytes)
+[18:19:30] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\
+[18:19:31] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\CONFIG.XML
+[18:19:31] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\CONFIG.XML (0,93 K/S -    956 bytes)
+[18:19:31] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\ID_00011.DPC
+[18:19:31] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\ID_00011.DPC (1,61 K/S -   1 646 bytes)
+[18:19:31] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.MSI
+[18:19:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.MSI (828,00 K/S -   847 872 bytes)
+[18:19:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.XML
+[18:19:32] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OFFICE64WW.XML (2,26 K/S -   2 310 bytes)
+[18:19:32] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSE.EXE
+[18:19:33] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSE.EXE (141,78 K/S -   145 184 bytes)
+[18:19:33] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSETUP.DLL
+[18:19:40] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OSETUP.DLL (1 064,00 K/S -  6 536 992 bytes)
+[18:19:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OWOW64WW.CAB
+[18:19:44] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\OWOW64WW.CAB (1 013,50 K/S -  4 151 139 bytes)
+[18:19:44] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLSWW.CAB
+[18:23:23] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLSWW.CAB (1 054,60 K/S -  236 505 785 bytes)
+[18:23:23] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.MSI
+[18:23:38] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.MSI (1 030,70 K/S -  15 831 552 bytes)
+[18:23:38] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.XML
+[18:23:38] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\PROPLUSWW.XML (15,44 K/S -   15 813 bytes)
+[18:23:38] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\SETUP.XML
+[18:23:38] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PROPLUS.WW\SETUP.XML (25,96 K/S -   26 579 bytes)
+[18:23:38] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\
+[18:23:38] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.MSI
+[18:23:40] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.MSI (814,00 K/S -  1 667 072 bytes)
+[18:23:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.XML
+[18:23:40] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLISHERMUI.XML (1,44 K/S -   1 470 bytes)
+[18:23:40] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLR.CAB
+[18:23:52] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\PUBLR.CAB (1 032,40 K/S -  12 686 495 bytes)
+[18:23:52] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\SETUP.XML
+[18:23:52] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\PUBLISHER.FR-FR\SETUP.XML (1,78 K/S -   1 826 bytes)
+[18:23:52] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\
+[18:23:52] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\RBUDLR.CAB
+[18:23:54] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\RBUDLR.CAB (772,83 K/S -  1 582 766 bytes)
+[18:23:54] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.MSI
+[18:23:54] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.MSI (48,00 K/S -   49 152 bytes)
+[18:23:54] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.XML
+[18:23:54] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\ROSEBUDMUI.XML (0,79 K/S -    811 bytes)
+[18:23:54] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\SETUP.XML
+[18:23:54] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\ROSEBUD.FR-FR\SETUP.XML (1,22 K/S -   1 251 bytes)
+[18:23:54] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\
+[18:23:54] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\SaveAsPDFandXPS.exe
+[18:23:55] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\SaveAsPDFandXPS.exe (696,57 K/S -   713 288 bytes)
+[18:23:55] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\SETUP.EXE
+[18:23:56] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\SETUP.EXE (452,30 K/S -   463 152 bytes)
+[18:23:56] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\
+[18:23:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\LISEZMOI.TXT
+[18:23:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\UPDATES\LISEZMOI.TXT (0,07 K/S -    75 bytes)
+[18:23:57] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\
+[18:23:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\SETUP.XML
+[18:23:57] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\SETUP.XML (2,62 K/S -   2 678 bytes)
+[18:23:57] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDLR.CAB
+[18:24:12] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDLR.CAB (1 098,70 K/S -  16 876 234 bytes)
+[18:24:12] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.MSI
+[18:24:14] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.MSI (810,00 K/S -  1 658 880 bytes)
+[18:24:14] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.XML
+[18:24:14] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\office 2007 free\Microsoft.Office.Professional.2007.FR.By Gervais\WORD.FR-FR\WORDMUI.XML (1,76 K/S -   1 799 bytes)
+[18:24:14] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\
+[18:24:15] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\key.txt
+[18:24:15] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\key.txt (0,23 K/S -    234 bytes)
+[18:24:15] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\Nero-6.6.0.13.exe
+[18:24:44] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\Nero-6.6.0.13.exe (1 139,30 K/S -  33 831 916 bytes)
+[18:24:44] - [8] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\Nero-6.6.0.13_fra.exe
+[18:24:52] - [8] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\a trier\office 2017\nero v6.6.0.13\Nero-6.6.0.13_fra.exe (979,38 K/S -  8 023 046 bytes)
+[18:24:52] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:24:52] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\cdburnerxp_4-5-4-5143_fr_18424.exe
+[18:25:08] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\cdburnerxp_4-5-4-5143_fr_18424.exe (343,92 K/S -  5 634 808 bytes)
+[18:25:39] - [8] Client 192.168.0.1 Déconnecté (00:19:20 Min)
+[18:56:39] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:56:44] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[18:56:46] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[18:57:10] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:10] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[18:57:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:40] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\
+[18:57:50] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:50] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:57:56] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cr wk7\
+[18:58:02] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:58:02] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[18:58:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:58:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\1\
+[18:58:26] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:58:26] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\2\
+[18:58:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:58:34] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cleusb 16go\
+[18:58:53] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:58:53] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\progz mig\
+[18:59:33] - [7] MIRKO.POZEN: Echec de l'envoie du Fichier: D:\kerberos.htx\a trier\windows7iso\W7-Professionnelle-SP1-64bits.iso (580,02 K/S - 1 935 642 624 bytes)
+[18:59:33] - [7] Client 192.168.0.1 Déconnecté (00:54:18 Min)
+[18:59:34] - [4] Client 192.168.0.1 Déconnecté (01:29:40 Min)
+[19:36:04] - [9] Connecté à 107.170.204.92. Collecte du Nom d'utilisateur.
+[19:36:14] - [9] Client 107.170.204.92 Déconnecté (00:00:09 Min)
+[19:42:19] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:42:19] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:42:19] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:42:19] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:42:37] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[19:42:51] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[19:42:51] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale
+[19:42:51] - [11] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:42:51] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:42:51] - [12] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:42:51] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:42:52] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[19:42:52] - [11] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:42:52] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:42:52] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale
+[19:42:52] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[19:42:52] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[19:42:52] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2
+[19:42:52] - [12] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2
+[19:42:52] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[19:42:52] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[19:42:52] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\
+[19:42:52] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2
+[19:42:52] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\
+[19:42:52] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8
+[19:42:52] - [11] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\Jaquette.jpg
+[19:42:52] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\
+[19:42:52] - [10] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8
+[19:42:52] - [11] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\Jaquette.jpg (142,06 K/S -   145 470 bytes)
+[19:42:52] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\Info.txt
+[19:42:52] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\Info.txt (4,26 K/S -   4 361 bytes)
+[19:42:52] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\
+[19:42:52] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8\
+[19:42:53] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8\Info.txt
+[19:42:53] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8\Info.txt (2,16 K/S -   2 216 bytes)
+[19:42:54] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8\RemoveWatermarkX64.exe
+[19:42:54] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWatermark v0.8\RemoveWatermarkX64.exe (24,50 K/S -   25 088 bytes)
+[19:42:54] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[19:42:54] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\Windows 7 Professional x64 FR Copie originale.nfo
+[19:42:55] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\Windows 7 Professional x64 FR Copie originale.nfo (2,72 K/S -   2 788 bytes)
+[19:42:55] - [11] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWAT.exe
+[19:42:55] - [12] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\windows-7-professional_x64_dvd_x15-65811.iso
+[19:43:05] - [11] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\RemoveWAT v2.2.5.2\RemoveWAT.exe (650,75 K/S -  6 663 680 bytes)
+[19:43:37] - [11] Client 192.168.0.1 Déconnecté (00:00:45 Min)
+[19:48:35] - [13] Connecté à 196.52.43.53. Collecte du Nom d'utilisateur.
+[19:49:06] - [13] Client 196.52.43.53 Déconnecté (00:00:30 Min)
+[19:52:22] - [14] Connecté à 196.52.43.62. Collecte du Nom d'utilisateur.
+[19:52:32] - [14] Client 196.52.43.62 Déconnecté (00:00:09 Min)
+[20:16:33] - [12] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\windows-7-professional_x64_dvd_x15-65811.iso (-541,02 K/S - -1 117 982 720 bytes)
+[20:17:03] - [12] Client 192.168.0.1 Déconnecté (00:34:12 Min)
+[21:43:17] - [15] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:43:17] - [15] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:43:17] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:43:17] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:43:25] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:43:38] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[21:43:47] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:43:47] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\reactivate wk7\
+[21:44:10] - [16] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:44:10] - [16] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:44:11] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:44:11] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:44:11] - [16] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe
+[21:44:15] - [17] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:44:15] - [17] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:44:15] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:44:15] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:44:15] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CrucialFRScan.exe
+[21:44:17] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CrucialFRScan.exe (113,16 K/S -   231 760 bytes)
+[21:44:20] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\DriversCloud_Win.exe
+[21:44:21] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\DriversCloud_Win.exe (237,30 K/S -   242 992 bytes)
+[21:44:22] - [16] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe (618,61 K/S -  6 968 048 bytes)
+[21:44:25] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe
+[21:44:26] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe (238,07 K/S -   243 784 bytes)
+[21:44:36] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hdsentinel_setup.exe
+[21:44:53] - [16] Client 192.168.0.1 Déconnecté (00:00:42 Min)
+[21:44:54] - [18] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:44:55] - [18] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:44:55] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:44:55] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:44:55] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[21:44:55] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[21:45:05] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hdsentinel_setup.exe (606,60 K/S -  18 013 720 bytes)
+[21:45:17] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\winrar.exe
+[21:45:23] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe
+[21:45:26] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\winrar.exe (284,44 K/S -  2 621 400 bytes)
+[21:45:39] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\youtube_downloader_hd_setup.exe (586,70 K/S -  9 612 488 bytes)
+[21:45:51] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[21:45:51] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[21:45:51] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hard.disk.sentinel.pro.4.50.build.6845-patch.exe
+[21:46:17] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\Hard_Disk_Manager_keygen_by_Lz0.zip
+[21:46:18] - [19] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:46:18] - [10] Client 192.168.0.1 Déconnecté (02:03:58 Min)
+[21:46:18] - [15] Client 192.168.0.1 Déconnecté (00:03:00 Min)
+[21:46:18] - [19] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:46:18] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:46:18] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[21:46:18] - [20] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:46:18] - [20] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:46:18] - [20] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:46:18] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hard.disk.sentinel.pro.4.50.build.6845-patch.exe (6,41 K/S -   177 152 bytes)
+[21:46:18] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\HDS.Hard.Disk.Sentinel.Professional.v4.50.build.6845.patch-SND.zip
+[21:46:19] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\HDS.Hard.Disk.Sentinel.Professional.v4.50.build.6845.patch-SND.zip (121,15 K/S -   124 058 bytes)
+[21:46:19] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hdsentinel_pro_setup.exe
+[21:46:34] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\Hard_Disk_Manager_keygen_by_Lz0.zip (292,52 K/S -  5 092 201 bytes)
+[21:46:52] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hdsentinel_pro_setup.exe (541,76 K/S -  18 307 080 bytes)
+[21:47:05] - [18] Client 192.168.0.1 Déconnecté (00:02:10 Min)
+[21:47:23] - [17] Client 192.168.0.1 Déconnecté (00:03:08 Min)
+[21:48:52] - [20] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:48:52] - [20] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\expo.loren\
+[21:56:56] - [21] Connecté à 192.168.0.40. Collecte du Nom d'utilisateur.
+[21:56:56] - [21] Usager MIRKO.POZEN Connecté IP: 192.168.0.40
+[21:56:56] - [21] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:57:05] - [21] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:57:21] - [21] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\img\
+[21:59:24] - [21] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:59:24] - [21] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\office 2017\
+[21:59:44] - [21] Client 192.168.0.40 Déconnecté (00:02:48 Min)
+[22:04:19] - [22] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:04:19] - [22] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:04:19] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:04:20] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:04:27] - [22] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[22:14:23] - [23] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:14:23] - [23] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:14:23] - [23] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:35:28] - [24] Connecté à 51.38.12.23. Collecte du Nom d'utilisateur.
+[22:35:28] - [24] Client 51.38.12.23 Déconnecté (00:00:00 Min)
+[22:36:08] - [25] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:36:08] - [25] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:36:08] - [25] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:36:09] - [25] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:36:12] - [25] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:36:55] - [26] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:36:56] - [26] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:36:56] - [26] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:36:56] - [26] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:36:56] - [26] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[22:36:59] - [26] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (319,57 K/S -   981 728 bytes)
+[22:37:30] - [26] Client 192.168.0.1 Déconnecté (00:00:34 Min)
+[22:40:00] - [25] Client 192.168.0.1 Déconnecté (00:03:51 Min)
+[23:04:19] - [19] Client 192.168.0.1 Déconnecté (01:18:01 Min)
+[23:04:19] - [20] Client 192.168.0.1 Déconnecté (01:18:01 Min)
+[23:04:19] - [22] Client 192.168.0.1 Déconnecté (01:00:00 Min)
+[23:04:19] - [23] Client 192.168.0.1 Déconnecté (00:49:56 Min)

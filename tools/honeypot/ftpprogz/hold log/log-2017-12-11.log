@@ -1,0 +1,32 @@
+[18:53:02] - Serveur Démarré
+[18:53:02] - FTP Port: 21
+[18:59:06] - [1] Connecté à 90.26.141.108. Collecte du Nom d'utilisateur.
+[18:59:06] - [1] Usager VICTOR.POZEN Connecté IP: 90.26.141.108
+[18:59:06] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:59:06] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:59:19] - [1] Client 90.26.141.108 Déconnecté (00:00:13 Min)
+[19:31:25] - Serveur Démarré
+[19:31:25] - FTP Port: 21
+[20:47:18] - [1] Connecté à 90.26.141.108. Collecte du Nom d'utilisateur.
+[20:47:19] - [1] Usager VICTOR.POZEN Connecté IP: 90.26.141.108
+[20:47:19] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:19] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:36] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:53:00] - [2] Connecté à 90.26.141.108. Collecte du Nom d'utilisateur.
+[20:53:00] - [2] Usager VICTOR.POZEN Connecté IP: 90.26.141.108
+[20:53:00] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:53:00] - [2] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\ftp0986fr.zip
+[20:53:01] - [2] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\ftp0986fr.zip (431,02 K/S -   441 369 bytes)
+[20:53:32] - [2] Client 90.26.141.108 Déconnecté (00:00:31 Min)
+[21:02:23] - [1] Client 90.26.141.108 Déconnecté (00:15:04 Min)
+[21:09:53] - [3] Connecté à 90.26.141.108. Collecte du Nom d'utilisateur.
+[21:09:53] - [3] Usager VICTOR.POZEN Connecté IP: 90.26.141.108
+[21:09:53] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:09:53] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:10:20] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:10:33] - [4] Connecté à 90.26.141.108. Collecte du Nom d'utilisateur.
+[21:10:33] - [4] Usager VICTOR.POZEN Connecté IP: 90.26.141.108
+[21:10:33] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:10:33] - [4] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\abwsx1.exe
+[21:10:34] - [4] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\abwsx1.exe (2 135,70 K/S -  2 186 956 bytes)
+[21:11:05] - [4] Client 90.26.141.108 Déconnecté (00:00:32 Min)

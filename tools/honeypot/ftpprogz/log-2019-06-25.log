@@ -1,0 +1,38 @@
+[17:49:40] - Serveur Démarré
+[17:49:40] - FTP Port: 21
+[18:05:16] - Serveur Démarré
+[18:05:16] - FTP Port: 21
+[18:05:56] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:05:56] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:05:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:05:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:06:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:06:24] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:06:24] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:06:24] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:06:24] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:06:24] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[18:06:25] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[18:06:53] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe
+[18:06:54] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Firefox Setup Stub 50.1.0.exe (238,07 K/S -   243 784 bytes)
+[18:07:09] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CrucialFRScan.exe
+[18:07:10] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CrucialFRScan.exe (226,33 K/S -   231 760 bytes)
+[18:07:42] - [2] Client 192.168.0.1 Déconnecté (00:01:17 Min)
+[18:07:58] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:07:58] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:07:58] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:07:58] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:07:58] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_free_2988286822.exe
+[18:08:04] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_free_2988286822.exe (474,00 K/S -  2 426 856 bytes)
+[18:08:12] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\winrar.exe
+[18:08:18] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\winrar.exe (426,66 K/S -  2 621 400 bytes)
+[18:08:26] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe
+[18:09:32] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe (604,69 K/S -  41 486 400 bytes)
+[18:09:42] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[18:09:44] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (479,36 K/S -   981 728 bytes)
+[18:10:15] - [3] Client 192.168.0.1 Déconnecté (00:02:16 Min)
+[18:11:59] - [1] Client 192.168.0.1 Déconnecté (00:06:02 Min)
+[19:02:22] - [4] Connecté à 162.243.140.155. Collecte du Nom d'utilisateur.
+[19:02:32] - [4] Client 162.243.140.155 Déconnecté (00:00:09 Min)
+[19:29:11] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:29:11] - [5] Client 192.168.0.1 Déconnecté (00:00:00 Min)

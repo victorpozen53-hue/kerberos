@@ -1,0 +1,109 @@
+[10:15:35] - Serveur Démarré
+[10:15:36] - FTP Port: 21
+[10:27:02] - [1] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:27:02] - [1] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:27:02] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:27:02] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:27:10] - [1] Client 90.26.10.192 Déconnecté (00:00:07 Min)
+[10:29:53] - [2] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:29:53] - [2] Authentification Incorrect: Utilisateur KERBEROS.HTX IP: 90.26.10.192
+[10:29:53] - [2] Client 90.26.10.192 Déconnecté (00:00:00 Min)
+[10:30:01] - [3] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:30:01] - [3] Authentification Incorrect: Utilisateur KERBEROS.HTX IP: 90.26.10.192
+[10:30:01] - [3] Client 90.26.10.192 Déconnecté (00:00:00 Min)
+[10:32:02] - [4] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:32:02] - [4] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:32:02] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:32:02] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:32:05] - [4] Client 90.26.10.192 Déconnecté (00:00:02 Min)
+[10:33:14] - [5] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:33:14] - [5] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:33:14] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:33:14] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:33:24] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[10:34:10] - [6] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:34:10] - [6] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:34:10] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:34:10] - [6] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[10:34:11] - [6] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[10:34:14] - [6] Client 90.26.10.192 Déconnecté (00:00:03 Min)
+[10:34:14] - [5] Client 90.26.10.192 Déconnecté (00:01:00 Min)
+[10:36:07] - [7] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:36:07] - [7] Usager SPOKE.FILES Connecté IP: 90.26.10.192
+[10:36:07] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[10:36:07] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[10:36:09] - [7] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\progz\
+[10:36:29] - [7] Client 90.26.10.192 Déconnecté (00:00:22 Min)
+[10:48:41] - [8] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:48:41] - [8] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:48:41] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:48:41] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:48:46] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\
+[10:48:56] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\pub\
+[10:49:54] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[10:50:11] - [9] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[10:50:11] - [9] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[10:50:11] - [9] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[10:50:11] - [9] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\office ok.rar
+[10:59:37] - [9] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\rar\office ok.rar (1 455,86 K/S -  845 285 480 bytes)
+[11:00:09] - [9] Client 90.26.10.192 Déconnecté (00:09:57 Min)
+[11:04:02] - [10] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[11:04:02] - [10] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[11:04:02] - [10] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:04:02] - [10] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\AusLogics Disk Defrag.rar
+[11:04:04] - [10] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\rar\AusLogics Disk Defrag.rar (803,48 K/S -  1 645 525 bytes)
+[11:04:05] - [10] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\AusLogics.BoostSpeed.5.0.6.245 incl crack.rar
+[11:04:09] - [10] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\rar\AusLogics.BoostSpeed.5.0.6.245 incl crack.rar (1 575,28 K/S -  8 065 457 bytes)
+[11:04:27] - [10] Client 90.26.10.192 Déconnecté (00:00:24 Min)
+[11:04:27] - [8] Client 90.26.10.192 Déconnecté (00:15:45 Min)
+[11:38:18] - [11] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[11:38:18] - [11] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[11:38:18] - [11] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:38:19] - [11] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:38:23] - [11] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[11:38:56] - [12] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[11:38:56] - [12] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[11:38:56] - [12] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:38:56] - [12] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\AusLogics.BoostSpeed.5.0.6.245 incl crack.rar
+[11:39:00] - [12] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\rar\AusLogics.BoostSpeed.5.0.6.245 incl crack.rar (1 969,11 K/S -  8 065 457 bytes)
+[11:39:04] - [12] Client 90.26.10.192 Déconnecté (00:00:08 Min)
+[11:39:04] - [11] Client 90.26.10.192 Déconnecté (00:00:45 Min)
+[12:23:06] - [13] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[12:23:06] - [13] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[12:23:06] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:23:06] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:23:13] - [13] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:26:28] - [13] Client 90.26.10.192 Déconnecté (00:03:22 Min)
+[12:49:26] - [14] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[12:49:26] - [14] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[12:49:27] - [14] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:49:27] - [14] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:49:29] - [14] Client 90.26.10.192 Déconnecté (00:00:02 Min)
+[12:52:03] - [15] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[12:52:03] - [15] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[12:52:03] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:52:03] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:52:18] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\
+[12:52:31] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\down\
+[12:52:43] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\pour.xp\
+[12:52:49] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\pour.xp\sp3\
+[12:53:44] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\last.googd\
+[12:53:53] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\to save\
+[12:53:55] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\to save\c\
+[12:53:58] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\http2\to save\n\
+[12:54:08] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[12:54:13] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\windowsvista\
+[12:54:15] - [15] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\windowsvista\Vista Ultimate Edition\
+[12:54:20] - [16] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[12:54:20] - [16] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[12:54:20] - [16] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:54:20] - [16] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\windowsvista\Vista Ultimate Edition\Vista.iso
+[13:35:27] - [16] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\windowsvista\Vista Ultimate Edition\Vista.iso (-654,76 K/S - -1 654 065 152 bytes)
+[13:35:58] - [16] Client 90.26.10.192 Déconnecté (00:41:38 Min)
+[14:11:10] - Serveur Démarré
+[14:11:10] - FTP Port: 21
+[14:11:13] - [1] Connecté à 90.26.10.192. Collecte du Nom d'utilisateur.
+[14:11:13] - [1] Usager VICTOR.POZEN Connecté IP: 90.26.10.192
+[14:11:13] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:43:22] - [2] Connecté à 60.191.38.78. Collecte du Nom d'utilisateur.
+[15:43:22] - [2] Client 60.191.38.78 Déconnecté (00:00:00 Min)

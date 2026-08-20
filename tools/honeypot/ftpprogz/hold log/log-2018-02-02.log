@@ -1,0 +1,69 @@
+[01:15:06] - Serveur Démarré
+[01:15:06] - FTP Port: 21
+[15:34:58] - Serveur Démarré
+[15:34:58] - FTP Port: 21
+[15:36:10] - [1] Connecté à 192.168.0.38. Collecte du Nom d'utilisateur.
+[15:36:11] - [1] Client 192.168.0.38 Déconnecté (00:00:00 Min)
+[15:38:44] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:38:44] - [2] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[15:38:44] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:38:44] - [2] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:38:50] - [2] Client 192.168.0.1 Déconnecté (00:00:06 Min)
+[15:42:53] - [3] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[15:42:54] - [3] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[15:42:54] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:42:54] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:44:01] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\expo.loren
+[15:44:09] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\expo.loren\
+[15:44:14] - [4] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[15:44:14] - [4] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[15:44:14] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:44:15] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\expo.loren\art numerique loren venancio.exe
+[15:44:16] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\expo.loren\art numerique loren venancio.exe (902,21 K/S -   923 868 bytes)
+[15:44:22] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\expo.loren\MIKA.scr
+[15:44:23] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\expo.loren\MIKA.scr (1 025,80 K/S -  1 050 397 bytes)
+[15:44:54] - [4] Client 90.100.66.214 Déconnecté (00:00:39 Min)
+[16:19:51] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:19:51] - [5] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[16:19:52] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:19:52] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:19:57] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\expo.loren\
+[16:20:35] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:20:35] - [6] Usager VICTOR.POZEN Connecté IP: 192.168.0.1
+[16:20:35] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:20:35] - [6] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\expo.loren\art numerique loren venancio.exe
+[16:20:38] - [6] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\expo.loren\art numerique loren venancio.exe (451,11 K/S -   923 868 bytes)
+[16:20:41] - [6] Client 192.168.0.1 Déconnecté (00:00:06 Min)
+[16:20:41] - [5] Client 192.168.0.1 Déconnecté (00:00:49 Min)
+[16:35:26] - [7] Connecté à 107.170.230.250. Collecte du Nom d'utilisateur.
+[16:35:36] - [7] Client 107.170.230.250 Déconnecté (00:00:09 Min)
+[17:00:39] - [8] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[17:00:39] - [8] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[17:00:39] - [8] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:00:39] - [8] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\expo.loren\art.numerique.loren.venancio.exe
+[17:00:44] - [8] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\expo.loren\art.numerique.loren.venancio.exe (232,03 K/S -  1 187 992 bytes)
+[17:01:15] - [8] Client 90.100.66.214 Déconnecté (00:00:36 Min)
+[17:35:05] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:35:46] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\
+[17:35:48] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\tools\
+[17:35:56] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\tools\creat.icon.modified.by.m\
+[17:36:10] - [9] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[17:36:10] - [9] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[17:36:10] - [9] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:36:10] - [9] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\progz\tools\creat.icon.modified.by.m\IconWorkshop.exe
+[17:37:17] - [9] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\progz\tools\creat.icon.modified.by.m\IconWorkshop.exe (105,25 K/S -  7 113 439 bytes)
+[17:37:48] - [9] Client 90.100.66.214 Déconnecté (00:01:38 Min)
+[17:38:30] - [3] Client 90.100.66.214 Déconnecté (01:55:36 Min)
+[17:46:23] - [10] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[17:46:23] - [10] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[17:46:23] - [10] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:46:24] - [10] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:46:42] - [10] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\expo.loren\
+[17:46:53] - [11] Connecté à 90.100.66.214. Collecte du Nom d'utilisateur.
+[17:46:53] - [11] Usager VICTOR.POZEN Connecté IP: 90.100.66.214
+[17:46:53] - [11] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:46:53] - [11] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\expo.loren\favicon.ico
+[17:46:54] - [11] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\expo.loren\favicon.ico (13,12 K/S -   13 430 bytes)
+[17:46:57] - [11] Client 90.100.66.214 Déconnecté (00:00:03 Min)
+[17:46:57] - [10] Client 90.100.66.214 Déconnecté (00:00:33 Min)
+[18:35:15] - Serveur Arreté

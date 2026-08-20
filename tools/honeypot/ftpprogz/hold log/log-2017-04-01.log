@@ -1,0 +1,47 @@
+[11:46:36] - [29] Connecté à 192.168.0.10. Collecte du Nom d'utilisateur.
+[14:23:35] - [30] Connecté à 169.54.244.75. Collecte du Nom d'utilisateur.
+[14:23:45] - [30] Client 169.54.244.75 Déconnecté (00:00:09 Min)
+[16:25:43] - [29] Client 192.168.0.10 Déconnecté (04:39:07 Min)
+[18:51:04] - [31] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[18:51:04] - [31] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[18:51:04] - [31] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:51:04] - [31] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:51:12] - [31] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\bat\
+[18:51:18] - [31] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\bat\netstat -ano .bat
+[18:51:18] - [31] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\bat\netstat -ano .bat (0,02 K/S -    21 bytes)
+[18:51:20] - [31] Client 90.56.16.108 Déconnecté (00:00:16 Min)
+[19:10:25] - [32] Connecté à 188.109.213.182. Collecte du Nom d'utilisateur.
+[19:10:25] - [32] Usager ANONYMOUS Connecté IP: 188.109.213.182
+[19:10:25] - [32] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 188.109.213.182
+[19:10:27] - [32] Client 188.109.213.182 Déconnecté (00:00:01 Min)
+[21:38:36] - [33] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[21:38:36] - [33] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[21:38:36] - [33] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:38:36] - [33] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:38:39] - [33] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:38:55] - [33] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\deluge\
+[21:39:04] - [34] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[21:39:04] - [35] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[21:39:04] - [34] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[21:39:04] - [34] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:39:04] - [35] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[21:39:04] - [35] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:39:04] - [34] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\deluge\deluge-1.3.12-1-win32-py2.6-setup.exe
+[21:39:04] - [35] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\deluge\vcredist_x86.exe
+[21:39:11] - [35] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\deluge\vcredist_x86.exe (576,36 K/S -  4 131 336 bytes)
+[21:39:18] - [34] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\deluge\deluge-1.3.12-1-win32-py2.6-setup.exe (1 029,47 K/S -  14 758 443 bytes)
+[21:39:42] - [35] Client 90.56.16.108 Déconnecté (00:00:38 Min)
+[21:39:49] - [34] Client 90.56.16.108 Déconnecté (00:00:45 Min)
+[21:40:30] - [36] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[21:40:31] - [37] Connecté à 90.56.16.108. Collecte du Nom d'utilisateur.
+[21:40:31] - [36] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[21:40:31] - [36] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:40:31] - [37] Usager VICTOR.POZEN Connecté IP: 90.56.16.108
+[21:40:31] - [37] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:40:31] - [36] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\deluge\deluge-1.3.12-1-win32-py2.6-setup.exe
+[21:40:31] - [37] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\deluge\vcredist_x86.exe
+[21:40:36] - [37] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\deluge\vcredist_x86.exe (806,90 K/S -  4 131 336 bytes)
+[21:40:44] - [36] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\deluge\deluge-1.3.12-1-win32-py2.6-setup.exe (1 029,47 K/S -  14 758 443 bytes)
+[21:41:07] - [37] Client 90.56.16.108 Déconnecté (00:00:36 Min)
+[21:41:16] - [36] Client 90.56.16.108 Déconnecté (00:00:45 Min)
+[22:49:37] - [33] Client 90.56.16.108 Déconnecté (01:11:00 Min)

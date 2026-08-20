@@ -1,0 +1,29 @@
+[17:29:24] - Serveur Démarré
+[17:29:24] - FTP Port: 21
+[17:29:33] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:29:33] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:29:33] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:29:33] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:30:35] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:32:05] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:32:05] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:32:05] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:32:05] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:32:05] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\windows-movie-maker-2016-multi.exe
+[17:34:06] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\windows-movie-maker-2016-multi.exe (652,61 K/S -  80 860 795 bytes)
+[17:34:37] - [2] Client 192.168.0.1 Déconnecté (00:02:32 Min)
+[17:35:01] - [1] Client 192.168.0.1 Déconnecté (00:05:27 Min)
+[17:36:51] - [3] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[17:36:51] - [3] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[17:36:51] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:36:52] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:36:56] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:37:08] - [4] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[17:37:08] - [4] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[17:37:08] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:37:08] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:37:08] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\windows-movie-maker-2016-multi.exe
+[17:38:14] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\windowsvista\
+[17:49:55] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\windows-movie-maker-2016-multi.exe (102,95 K/S -  80 860 795 bytes)
+[17:50:27] - [4] Client 92.141.179.181 Déconnecté (00:13:19 Min)
+[17:51:53] - [3] Client 92.141.179.181 Déconnecté (00:15:01 Min)

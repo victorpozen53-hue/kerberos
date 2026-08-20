@@ -1,0 +1,23 @@
+[12:02:17] - Serveur Démarré
+[12:02:17] - FTP Port: 21
+[12:47:28] - [1] Connecté à 80.82.70.118. Collecte du Nom d'utilisateur.
+[12:47:59] - [1] Client 80.82.70.118 Déconnecté (00:00:30 Min)
+[17:52:58] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:52:58] - [2] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[22:25:59] - Serveur Démarré
+[22:25:59] - FTP Port: 21
+[22:29:45] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:29:46] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:29:46] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:29:46] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:29:52] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:30:35] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[22:30:35] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[22:30:35] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[22:30:35] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[22:30:35] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe
+[22:31:39] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe (633,03 K/S -  41 486 400 bytes)
+[22:32:03] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\vlc-2.2.6-win32.exe
+[22:32:53] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\vlc-2.2.6-win32.exe (604,51 K/S -  30 950 664 bytes)
+[22:33:23] - [2] Client 192.168.0.1 Déconnecté (00:02:47 Min)
+[22:33:54] - [1] Client 192.168.0.1 Déconnecté (00:04:08 Min)

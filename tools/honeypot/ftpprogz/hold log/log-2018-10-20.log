@@ -1,0 +1,145 @@
+[11:12:05] - Serveur Démarré
+[11:12:05] - FTP Port: 21
+[14:52:53] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:52:53] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:52:53] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:52:53] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:52:55] - [1] Client 192.168.0.1 Déconnecté (00:00:02 Min)
+[15:34:43] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:34:43] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:34:43] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:34:43] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:34:57] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\
+[15:35:28] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:35:28] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:35:28] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:35:28] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\
+[15:35:28] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\W7ULT.X86X64.FR.IT.NL.Aug2016.iso
+[15:35:59] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:35:59] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\
+[15:36:04] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[15:36:07] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:36:07] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:36:07] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:36:07] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\
+[15:36:07] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\windows-7-professional_x64_dvd_x15-65811.iso
+[15:55:43] - [4] MIRKO.POZEN: Echec de l'envoie du Fichier: D:\kerberos.htx\iso wk7\Windows 7 Professional x64 FR Copie originale\windows-7-professional_x64_dvd_x15-65811.iso (429,60 K/S -  517 330 944 bytes)
+[15:55:43] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\W7ULT.X86X64.FR.IT.NL.Aug2016.iso (-163,50 K/S - - 203 423 744 bytes)
+[15:55:43] - [4] Client 192.168.0.1 Déconnecté (00:19:36 Min)
+[15:55:43] - [3] Client 192.168.0.1 Déconnecté (00:20:15 Min)
+[15:55:43] - [2] Client 192.168.0.1 Déconnecté (00:20:59 Min)
+[16:30:34] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:30:34] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:30:34] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:30:34] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:30:52] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\
+[16:30:56] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\USB-tool\
+[16:30:57] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:30:57] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:30:57] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:30:57] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\USB-tool\
+[16:31:41] - [6] Client 192.168.0.1 Déconnecté (00:00:44 Min)
+[16:33:51] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:33:51] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:33:51] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:33:51] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Windows 7 SP1 Ultimate X86 X64 FR-IT-NL OEM ESD Aug 2016 {Gen2}\USB-tool\
+[16:33:56] - [7] Client 192.168.0.1 Déconnecté (00:00:04 Min)
+[16:33:56] - [5] Client 192.168.0.1 Déconnecté (00:03:22 Min)
+[16:35:58] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[16:35:58] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[16:35:58] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:35:58] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:36:48] - [8] Client 192.168.0.1 Déconnecté (00:00:49 Min)
+[16:36:48] - [9] Connecté à 192.168.0.50. Collecte du Nom d'utilisateur.
+[16:36:48] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.50
+[16:36:48] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:38:28] - [9] Client 192.168.0.50 Déconnecté (00:01:39 Min)
+[17:00:26] - [10] Connecté à 192.168.0.50. Collecte du Nom d'utilisateur.
+[17:00:26] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.50
+[17:00:26] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:00:35] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:01:34] - [11] Connecté à 192.168.0.50. Collecte du Nom d'utilisateur.
+[17:01:34] - [11] Usager MIRKO.POZEN Connecté IP: 192.168.0.50
+[17:01:34] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:01:35] - [11] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:01:35] - [11] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe
+[17:01:36] - [11] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe (6 804,73 K/S -  6 968 048 bytes)
+[17:02:06] - [11] Client 192.168.0.50 Déconnecté (00:00:31 Min)
+[17:14:44] - [10] Client 192.168.0.50 Déconnecté (00:14:17 Min)
+[17:18:48] - [12] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:18:48] - [12] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:18:48] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:18:49] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:19:41] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:19:53] - [13] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:19:53] - [13] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:19:53] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:19:53] - [13] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:19:53] - [13] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\kompozer-0.8b3.fr.win32.exe
+[17:20:03] - [13] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\kompozer-0.8b3.fr.win32.exe (603,82 K/S -  6 801 477 bytes)
+[17:20:10] - [13] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\never10.exe
+[17:20:10] - [13] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\never10.exe (82,98 K/S -   84 976 bytes)
+[17:20:28] - [12] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\stand bye pc.bat
+[17:20:28] - [12] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\stand bye pc.bat (0,04 K/S -    42 bytes)
+[17:20:30] - [13] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\spark_2_7_3.exe
+[17:22:02] - [13] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\spark_2_7_3.exe (653,26 K/S -  61 541 888 bytes)
+[17:22:33] - [13] Client 192.168.0.1 Déconnecté (00:02:40 Min)
+[17:47:44] - [14] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:47:44] - [14] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:47:44] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:47:44] - [14] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:47:44] - [14] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Tcpview.exe
+[17:47:45] - [14] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Tcpview.exe (110,80 K/S -   113 464 bytes)
+[17:48:16] - [14] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[17:48:58] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:49:12] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[17:49:17] - [15] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:49:17] - [15] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:49:17] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:49:17] - [15] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[17:49:17] - [15] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\AusLogics Disk Defrag.rar
+[17:49:19] - [15] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\AusLogics Disk Defrag.rar (535,65 K/S -  1 645 525 bytes)
+[17:49:50] - [15] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[17:50:00] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:50:00] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[17:50:14] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:50:14] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\
+[17:50:24] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\progz\tools\
+[17:50:41] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:50:41] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[17:50:43] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[17:51:08] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:51:08] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:51:16] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[17:51:22] - [12] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\crack\
+[17:51:22] - [16] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:51:22] - [17] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:51:22] - [16] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:51:22] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:51:22] - [17] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:51:22] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:51:22] - [16] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[17:51:22] - [17] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\crack\
+[17:51:22] - [16] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hdsentinel_setup.exe
+[17:51:24] - [17] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\crack\HDSentinel.exe
+[17:51:38] - [17] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\crack\HDSentinel.exe (311,12 K/S -  4 460 176 bytes)
+[17:51:54] - [16] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hdsentinel_setup.exe (549,74 K/S -  18 013 720 bytes)
+[17:52:09] - [17] Client 192.168.0.1 Déconnecté (00:00:47 Min)
+[17:52:25] - [16] Client 192.168.0.1 Déconnecté (00:01:03 Min)
+[17:58:07] - [18] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:58:07] - [18] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:58:08] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:58:08] - [18] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:58:08] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\DNSExit IpUpdater 2.0.exe
+[17:58:10] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\DNSExit IpUpdater 2.0.exe (610,30 K/S -  1 249 885 bytes)
+[17:58:12] - [18] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\ftp0986fr.zip
+[17:58:12] - [18] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\ftp0986fr.zip (431,02 K/S -   441 369 bytes)
+[17:58:43] - [18] Client 192.168.0.1 Déconnecté (00:00:35 Min)
+[18:01:50] - [12] Client 192.168.0.1 Déconnecté (00:43:02 Min)
+[18:24:16] - [19] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:24:16] - [19] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:24:16] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:24:16] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:24:25] - [19] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[21:27:50] - Serveur Démarré
+[21:27:50] - FTP Port: 21

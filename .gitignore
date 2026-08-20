@@ -1,0 +1,39 @@
+
+# Binaires MinGW et outils de compilation
+mingw*/
+build/
+*.zip
+*.rar
+*.exe
+*.dll
+*.a
+*.la
+
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+
+# Gros fichiers Honeypot et installateurs
+tools/honeypot/private/
+*.cab
+*.iso
+*.zip
+*.rar
+

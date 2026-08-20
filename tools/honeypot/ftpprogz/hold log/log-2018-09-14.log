@@ -1,0 +1,84 @@
+[20:32:08] - Serveur Démarré
+[20:32:08] - FTP Port: 21
+[20:38:13] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:38:13] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:38:13] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:38:14] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:38:16] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:39:51] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:39:51] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:39:51] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:39:51] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:39:55] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[20:39:59] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (319,57 K/S -   981 728 bytes)
+[20:40:29] - [2] Client 192.168.0.1 Déconnecté (00:00:38 Min)
+[20:40:53] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:40:53] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[20:41:04] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:41:04] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:41:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:41:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[20:41:04] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\media player classic.rar
+[20:41:09] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:41:09] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:41:09] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:41:09] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[20:41:09] - [4] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\office ok.rar
+[20:42:09] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\media player classic.rar (457,69 K/S -  29 994 997 bytes)
+[20:42:40] - [3] Client 192.168.0.1 Déconnecté (00:01:35 Min)
+[21:05:07] - [4] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\office ok.rar (574,04 K/S -  845 285 480 bytes)
+[21:05:38] - [4] Client 192.168.0.1 Déconnecté (00:24:29 Min)
+[21:42:46] - [5] Connecté à 107.170.197.213. Collecte du Nom d'utilisateur.
+[21:42:56] - [5] Client 107.170.197.213 Déconnecté (00:00:09 Min)
+[21:43:33] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:43:33] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:43:33] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:43:33] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[21:47:07] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\gamez\
+[21:47:22] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:47:22] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:47:22] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:47:22] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:47:23] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:47:23] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:47:23] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\gamez\
+[21:47:23] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\gamez\
+[21:47:23] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\DX-Ball.rar
+[21:47:23] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Artist Colony.rar
+[21:47:24] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\DX-Ball.rar (462,85 K/S -   473 955 bytes)
+[21:47:24] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\force9.zip
+[21:47:24] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\force9.zip (32,23 K/S -   33 005 bytes)
+[21:47:24] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\mario.zip
+[21:47:29] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\mario.zip (439,24 K/S -  1 799 122 bytes)
+[21:47:29] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\mario1.zip
+[21:47:29] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\mario1.zip (59,12 K/S -   60 540 bytes)
+[21:47:30] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\MasterMi.zip
+[21:47:31] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\MasterMi.zip (374,64 K/S -   383 628 bytes)
+[21:47:31] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\MasterMind.rar
+[21:47:32] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\MasterMind.rar (352,89 K/S -   722 713 bytes)
+[21:47:32] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Moorhuhn 2.rar
+[21:47:43] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Moorhuhn 2.rar (417,65 K/S -  4 704 364 bytes)
+[21:47:43] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Moorhuhn Winter-Edition.rar
+[21:47:53] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Moorhuhn Winter-Edition.rar (424,80 K/S -  3 914 933 bytes)
+[21:47:53] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\MRMATT.rar
+[21:47:56] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\MRMATT.rar (424,42 K/S -  1 303 810 bytes)
+[21:47:56] - [7] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Roads of Rome FR.rar
+[21:51:07] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Artist Colony.rar (428,89 K/S -  98 816 889 bytes)
+[21:51:08] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Stick.rar
+[21:51:08] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Stick.rar (182,73 K/S -   187 116 bytes)
+[21:51:08] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\troy.rar
+[21:51:10] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\troy.rar (366,52 K/S -   750 634 bytes)
+[21:51:10] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\Witches.1.1.rar
+[21:51:19] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Witches.1.1.rar (466,89 K/S -  4 302 823 bytes)
+[21:51:19] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\gamez\YAMSOLO.rar
+[21:51:20] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\YAMSOLO.rar (370,75 K/S -   379 646 bytes)
+[21:51:20] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[21:51:20] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\rar\My Games.rar
+[21:56:13] - [9] Connecté à 196.52.43.130. Collecte du Nom d'utilisateur.
+[21:56:45] - [9] Client 196.52.43.130 Déconnecté (00:00:32 Min)
+[21:57:29] - [10] Connecté à 196.52.43.103. Collecte du Nom d'utilisateur.
+[21:57:39] - [10] Client 196.52.43.103 Déconnecté (00:00:09 Min)
+[21:59:14] - [7] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\gamez\Roads of Rome FR.rar (360,43 K/S -  249 868 740 bytes)
+[21:59:46] - [7] Client 192.168.0.1 Déconnecté (00:12:23 Min)
+[22:20:19] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\rar\My Games.rar (614,39 K/S - 1 094 693 149 bytes)
+[22:20:55] - [8] Client 192.168.0.1 Déconnecté (00:33:32 Min)

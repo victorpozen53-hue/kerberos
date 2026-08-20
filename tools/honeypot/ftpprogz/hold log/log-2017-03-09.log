@@ -1,0 +1,32 @@
+[15:33:22] - Serveur Démarré
+[15:33:22] - FTP Port: 21
+[15:40:13] - Serveur Démarré
+[15:40:13] - FTP Port: 21
+[15:46:45] - Serveur Démarré
+[15:46:45] - FTP Port: 21
+[16:07:25] - Serveur Démarré
+[16:07:25] - FTP Port: 21
+[16:17:11] - [1] Connecté à 90.6.48.176. Collecte du Nom d'utilisateur.
+[16:17:11] - [1] Usager VICTOR.POZEN Connecté IP: 90.6.48.176
+[16:17:11] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:17:11] - [1] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[16:17:17] - [1] Client 90.6.48.176 Déconnecté (00:00:05 Min)
+[16:17:17] - [2] Connecté à 90.6.48.176. Collecte du Nom d'utilisateur.
+[16:17:17] - [2] Usager SPOKE.FILES Connecté IP: 90.6.48.176
+[16:17:17] - [2] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[16:17:17] - [2] SPOKE.FILES: Répertoire en Cours: F:\spoke.files\
+[16:17:20] - [2] Client 90.6.48.176 Déconnecté (00:00:02 Min)
+[18:34:22] - [3] Connecté à 90.6.48.176. Collecte du Nom d'utilisateur.
+[18:34:22] - [3] Usager VICTOR.POZEN Connecté IP: 90.6.48.176
+[18:34:22] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:34:22] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:34:45] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\bitnaby
+[18:34:45] - [4] Connecté à 90.6.48.176. Collecte du Nom d'utilisateur.
+[18:34:46] - [4] Usager VICTOR.POZEN Connecté IP: 90.6.48.176
+[18:34:46] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:34:46] - [3] VICTOR.POZEN: Nouveau Répertoire: D:\kerberos.htx\bitnaby
+[18:34:46] - [4] VICTOR.POZEN: Début d'Upload de D:\kerberos.htx\bitnaby\bitnami-modx-2.5.5pl-0-module-windows-installer.exe
+[18:34:53] - [4] VICTOR.POZEN: Fichier Upload: D:\kerberos.htx\bitnaby\bitnami-modx-2.5.5pl-0-module-windows-installer.exe (3 063,20 K/S -  21 956 856 bytes)
+[18:35:23] - [4] Client 90.6.48.176 Déconnecté (00:00:37 Min)
+[18:36:41] - [3] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\bitnaby\
+[18:38:12] - [3] Client 90.6.48.176 Déconnecté (00:03:50 Min)

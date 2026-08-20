@@ -1,0 +1,31 @@
+[06:52:49] - Serveur Démarré
+[06:52:49] - FTP Port: 21
+[08:37:33] - [1] Connecté à 216.218.206.66. Collecte du Nom d'utilisateur.
+[08:37:33] - [1] Client 216.218.206.66 Déconnecté (00:00:00 Min)
+[09:56:24] - [2] Connecté à 71.6.232.4. Collecte du Nom d'utilisateur.
+[09:56:24] - [2] Client 71.6.232.4 Déconnecté (00:00:00 Min)
+[10:50:30] - [3] Connecté à 116.75.181.113. Collecte du Nom d'utilisateur.
+[10:50:30] - [3] Usager ANONYMOUS Connecté IP: 116.75.181.113
+[10:50:30] - [3] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 116.75.181.113
+[10:50:30] - [3] Client 116.75.181.113 Déconnecté (00:00:00 Min)
+[17:15:10] - [4] Connecté à 196.52.43.60. Collecte du Nom d'utilisateur.
+[17:15:20] - [4] Client 196.52.43.60 Déconnecté (00:00:09 Min)
+[17:21:32] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:21:32] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:21:32] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:21:32] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:21:36] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:22:32] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:22:32] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:22:32] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:22:32] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:22:32] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\vlc-2.2.6-win32.exe
+[17:22:41] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:22:41] - [5] Client 192.168.0.1 Déconnecté (00:01:08 Min)
+[17:22:41] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:22:41] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:23:24] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\vlc-2.2.6-win32.exe (581,25 K/S -  30 950 664 bytes)
+[17:23:55] - [6] Client 192.168.0.1 Déconnecté (00:01:23 Min)
+[18:33:55] - [8] Connecté à 103.54.19.241. Collecte du Nom d'utilisateur.
+[18:33:55] - [8] Authentification Incorrect: Utilisateur ADMIN IP: 103.54.19.241
+[18:33:56] - [8] Client 103.54.19.241 Déconnecté (00:00:00 Min)

@@ -1,0 +1,32 @@
+[14:30:33] - Serveur Démarré
+[14:30:33] - FTP Port: 21
+[15:43:43] - [1] Connecté à 45.55.21.148. Collecte du Nom d'utilisateur.
+[15:43:53] - [1] Client 45.55.21.148 Déconnecté (00:00:09 Min)
+[18:23:00] - [2] Connecté à 118.193.31.179. Collecte du Nom d'utilisateur.
+[18:23:00] - [2] Client 118.193.31.179 Déconnecté (00:00:00 Min)
+[18:23:01] - [3] Connecté à 118.193.31.179. Collecte du Nom d'utilisateur.
+[18:23:04] - [3] Client 118.193.31.179 Déconnecté (00:00:03 Min)
+[19:57:36] - [4] Connecté à 86.218.226.57. Collecte du Nom d'utilisateur.
+[19:57:36] - [4] Usager VICTOR.POZEN Connecté IP: 86.218.226.57
+[19:57:36] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:57:36] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:57:53] - [4] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:58:36] - [5] Connecté à 86.218.226.57. Collecte du Nom d'utilisateur.
+[19:58:36] - [5] Usager VICTOR.POZEN Connecté IP: 86.218.226.57
+[19:58:36] - [5] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:58:36] - [5] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\Thunderbird Setup 45.8.0.exe
+[19:59:03] - [5] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\Thunderbird Setup 45.8.0.exe (1 275,04 K/S -  35 252 184 bytes)
+[19:59:34] - [5] Client 86.218.226.57 Déconnecté (00:00:58 Min)
+[20:27:56] - [6] Connecté à 86.218.226.57. Collecte du Nom d'utilisateur.
+[20:27:56] - [6] Usager VICTOR.POZEN Connecté IP: 86.218.226.57
+[20:27:56] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:27:56] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:28:06] - [6] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[20:30:11] - [7] Connecté à 86.218.226.57. Collecte du Nom d'utilisateur.
+[20:30:11] - [7] Usager VICTOR.POZEN Connecté IP: 86.218.226.57
+[20:30:11] - [7] VICTOR.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:30:11] - [7] VICTOR.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe
+[20:30:19] - [7] VICTOR.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ClassicShellSetup_4_2_5.exe (850,59 K/S -  6 968 048 bytes)
+[20:30:22] - [7] Client 86.218.226.57 Déconnecté (00:00:11 Min)
+[20:30:22] - [6] Client 86.218.226.57 Déconnecté (00:02:25 Min)
+[20:32:10] - [4] Client 86.218.226.57 Déconnecté (00:34:34 Min)

@@ -1,0 +1,65 @@
+[09:32:32] - [5] Connecté à 184.105.247.194. Collecte du Nom d'utilisateur.
+[09:32:32] - [5] Client 184.105.247.194 Déconnecté (00:00:00 Min)
+[09:52:35] - [6] Connecté à 43.241.195.223. Collecte du Nom d'utilisateur.
+[09:52:36] - [6] Usager ANONYMOUS Connecté IP: 43.241.195.223
+[09:52:36] - [6] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 43.241.195.223
+[09:52:36] - [6] Client 43.241.195.223 Déconnecté (00:00:00 Min)
+[17:43:34] - Serveur Démarré
+[17:43:34] - FTP Port: 21
+[18:40:12] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:40:12] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:40:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:40:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:40:19] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:41:42] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:41:42] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:41:42] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:41:42] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:41:42] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\ChromeSetup.exe
+[18:41:46] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\ChromeSetup.exe (220,87 K/S -  1 130 840 bytes)
+[18:41:49] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CrucialFRScan.exe
+[18:41:50] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CrucialFRScan.exe (226,33 K/S -   231 760 bytes)
+[18:42:07] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hdsentinel_setup.exe
+[18:42:27] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:42:27] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:42:27] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:42:27] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[18:42:27] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\HousecallLauncher.exe
+[18:42:33] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\HousecallLauncher.exe (325,92 K/S -  2 002 424 bytes)
+[18:42:37] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hdsentinel_setup.exe (567,47 K/S -  18 013 720 bytes)
+[18:43:03] - [3] Client 192.168.0.1 Déconnecté (00:00:36 Min)
+[18:43:08] - [2] Client 192.168.0.1 Déconnecté (00:01:26 Min)
+[18:51:30] - [1] Client 192.168.0.1 Déconnecté (00:11:17 Min)
+[19:21:50] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:21:50] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:21:50] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:21:50] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:22:00] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:22:18] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:22:18] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:22:18] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:22:18] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:22:18] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\CrucialFRScan.exe
+[19:22:19] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\CrucialFRScan.exe (226,33 K/S -   231 760 bytes)
+[19:22:31] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hdsentinel_setup.exe
+[19:22:37] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[19:22:37] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:22:37] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:22:37] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:22:37] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[19:22:38] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hard.disk.sentinel.pro.4.50.build.6845-patch.exe
+[19:23:04] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hard.disk.sentinel.pro.4.50.build.6845-patch.exe (6,65 K/S -   177 152 bytes)
+[19:23:05] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\Hard_Disk_Manager_keygen_by_Lz0.zip
+[19:23:19] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\Hard_Disk_Manager_keygen_by_Lz0.zip (355,20 K/S -  5 092 201 bytes)
+[19:23:19] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\HDS.Hard.Disk.Sentinel.Professional.v4.50.build.6845.patch-SND.zip
+[19:23:19] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\HDS.Hard.Disk.Sentinel.Professional.v4.50.build.6845.patch-SND.zip (121,15 K/S -   124 058 bytes)
+[19:23:19] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\hddentinel\hdsentinel_pro_setup.exe
+[19:23:36] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hdsentinel_setup.exe (270,64 K/S -  18 013 720 bytes)
+[19:23:54] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\hddentinel\hdsentinel_pro_setup.exe (496,61 K/S -  18 307 080 bytes)
+[19:24:05] - [6] Client 192.168.0.1 Déconnecté (00:01:27 Min)
+[19:24:05] - [5] Client 192.168.0.1 Déconnecté (00:01:46 Min)
+[19:24:05] - [4] Client 192.168.0.1 Déconnecté (00:02:14 Min)
+[20:52:18] - [7] Connecté à 196.52.43.125. Collecte du Nom d'utilisateur.
+[20:52:49] - [7] Client 196.52.43.125 Déconnecté (00:00:31 Min)
+[20:54:15] - [8] Connecté à 196.52.43.116. Collecte du Nom d'utilisateur.
+[20:54:25] - [8] Client 196.52.43.116 Déconnecté (00:00:09 Min)

@@ -1,0 +1,35 @@
+[14:29:34] - Serveur Démarré
+[14:29:34] - FTP Port: 21
+[14:29:35] - [1] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[14:29:35] - [1] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[14:29:35] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:29:35] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:32:46] - [1] Client 92.141.179.181 Déconnecté (00:03:10 Min)
+[14:47:57] - [2] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[14:47:58] - [2] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[14:47:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:47:58] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:48:12] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:49:20] - [3] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[14:49:20] - [3] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[14:49:20] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:49:20] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:49:20] - [3] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\pplfr165_x64comp.exe
+[14:49:24] - [3] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\pplfr165_x64comp.exe (77,61 K/S -   238 430 bytes)
+[14:49:55] - [3] Client 92.141.179.181 Déconnecté (00:00:34 Min)
+[14:52:08] - [4] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[14:52:08] - [4] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[14:52:08] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:52:08] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:52:09] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe
+[14:52:23] - [5] Connecté à 92.141.179.181. Collecte du Nom d'utilisateur.
+[14:52:23] - [5] Usager MIRKO.POZEN Connecté IP: 92.141.179.181
+[14:52:23] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:52:23] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[14:52:23] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\exe\slimdrivers_free_2988286822.exe
+[14:52:29] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\exe\slimdrivers_free_2988286822.exe (395,00 K/S -  2 426 856 bytes)
+[14:53:01] - [5] Client 92.141.179.181 Déconnecté (00:00:37 Min)
+[14:53:10] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\exe\vlc-media-player-3-0-4.exe (653,45 K/S -  41 486 400 bytes)
+[14:53:41] - [4] Client 92.141.179.181 Déconnecté (00:01:32 Min)
+[14:57:36] - [2] Client 92.141.179.181 Déconnecté (00:09:38 Min)
+[16:10:12] - Serveur Arreté

@@ -1,0 +1,20 @@
+[01:30:46] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[01:30:46] - [8] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[01:57:11] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[01:57:11] - [9] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[02:02:04] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[02:02:04] - [10] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[06:04:47] - [11] Connecté à 184.105.247.196. Collecte du Nom d'utilisateur.
+[06:04:48] - [11] Client 184.105.247.196 Déconnecté (00:00:00 Min)
+[09:13:18] - [12] Connecté à 66.165.164.72. Collecte du Nom d'utilisateur.
+[09:13:19] - [12] Usager ANONYMOUS Connecté IP: 66.165.164.72
+[09:13:19] - [12] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 66.165.164.72
+[09:13:19] - [12] Client 66.165.164.72 Déconnecté (00:00:00 Min)
+[12:01:56] - [13] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:01:56] - [13] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[13:09:29] - [14] Connecté à 103.73.213.27. Collecte du Nom d'utilisateur.
+[13:09:29] - [14] Authentification Incorrect: Utilisateur SYSTEM IP: 103.73.213.27
+[13:09:33] - [14] Client 103.73.213.27 Déconnecté (00:00:00 Min)
+[17:44:40] - [15] Connecté à 61.246.173.194. Collecte du Nom d'utilisateur.
+[17:44:40] - [15] Authentification Incorrect: Utilisateur FTP IP: 61.246.173.194
+[17:44:41] - [15] Client 61.246.173.194 Déconnecté (00:00:00 Min)

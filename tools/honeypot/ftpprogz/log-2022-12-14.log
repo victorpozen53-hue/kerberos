@@ -1,0 +1,38 @@
+[15:29:55] - Serveur Démarré
+[15:29:55] - FTP Port: 21
+[15:49:08] - [1] Connecté à 87.236.176.39. Collecte du Nom d'utilisateur.
+[15:49:16] - [1] Client 87.236.176.39 Déconnecté (00:00:08 Min)
+[16:49:32] - [2] Connecté à 192.241.208.36. Collecte du Nom d'utilisateur.
+[16:49:33] - [2] Client 192.241.208.36 Déconnecté (00:00:00 Min)
+[17:45:43] - [3] Connecté à 162.142.125.213. Collecte du Nom d'utilisateur.
+[17:45:59] - [3] Client 162.142.125.213 Déconnecté (00:00:15 Min)
+[18:25:15] - [4] Connecté à 86.209.137.107. Collecte du Nom d'utilisateur.
+[18:25:15] - [4] Usager MIRKO.POZEN Connecté IP: 86.209.137.107
+[18:25:15] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:25:15] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:25:19] - [4] Client 86.209.137.107 Déconnecté (00:00:03 Min)
+[18:32:41] - [5] Connecté à 198.235.24.149. Collecte du Nom d'utilisateur.
+[18:33:13] - [5] Client 198.235.24.149 Déconnecté (00:00:32 Min)
+[19:25:18] - [6] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[19:25:18] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.9
+[19:25:18] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:18] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:27] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:27] - [6] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\ssl
+[19:25:27] - [7] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[19:25:27] - [8] Connecté à 192.168.0.9. Collecte du Nom d'utilisateur.
+[19:25:27] - [8] Client 192.168.0.9 Déconnecté (00:00:00 Min)
+[19:25:28] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.9
+[19:25:28] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:28] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:25:28] - [6] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\ssl
+[19:25:28] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ssl\
+[19:25:28] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ssl\
+[19:25:28] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\ssl\code.crt
+[19:25:28] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\ssl\code.csr
+[19:25:28] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\ssl\code.crt (1,43 K/S -   1 464 bytes)
+[19:25:28] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\ssl\code.csr (1,06 K/S -   1 084 bytes)
+[19:25:28] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\ssl\code.key
+[19:25:28] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\ssl\code.key (1,70 K/S -   1 736 bytes)
+[19:25:59] - [7] Client 192.168.0.9 Déconnecté (00:00:31 Min)
+[19:26:00] - [6] Client 192.168.0.9 Déconnecté (00:00:41 Min)

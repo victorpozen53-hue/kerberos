@@ -1,0 +1,15 @@
+[17:02:32] - Serveur Démarré
+[17:02:32] - FTP Port: 21
+[17:05:45] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:05:45] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:05:45] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:05:45] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:05:59] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:06:42] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:06:42] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:06:42] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:06:43] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:06:43] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[17:06:44] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (479,36 K/S -   981 728 bytes)
+[17:06:51] - [2] Client 192.168.0.1 Déconnecté (00:00:09 Min)
+[17:06:51] - [1] Client 192.168.0.1 Déconnecté (00:02:36 Min)

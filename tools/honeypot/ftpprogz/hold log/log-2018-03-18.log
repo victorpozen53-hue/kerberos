@@ -1,0 +1,33 @@
+[12:22:56] - Serveur Démarré
+[12:22:57] - FTP Port: 21
+[13:28:46] - [1] Connecté à 43.228.74.127. Collecte du Nom d'utilisateur.
+[13:28:46] - [1] Authentification Incorrect: Utilisateur ADMIN IP: 43.228.74.127
+[13:28:47] - [1] Client 43.228.74.127 Déconnecté (00:00:00 Min)
+[13:35:17] - [2] Connecté à 176.106.3.164. Collecte du Nom d'utilisateur.
+[13:35:17] - [2] Client 176.106.3.164 Déconnecté (00:00:00 Min)
+[15:23:12] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:23:12] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:23:12] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:23:12] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:23:15] - [3] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[15:23:26] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:23:26] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:23:26] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:23:26] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:23:45] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\pascht tr2\
+[15:23:50] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\pascht tr2\install tr2\
+[15:24:17] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\pascht tr2\install tr2\data\
+[15:24:30] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\pascht tr2\install tr2\
+[15:24:30] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\pascht tr2\install tr2\fmv\
+[15:24:52] - [4] Client 192.168.0.1 Déconnecté (00:01:25 Min)
+[20:33:34] - Serveur Démarré
+[20:33:35] - FTP Port: 21
+[20:34:23] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[20:34:26] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[20:34:26] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:34:26] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:34:30] - [1] Client 192.168.0.1 Déconnecté (00:00:06 Min)
+[20:46:01] - [2] Connecté à 192.168.0.40. Collecte du Nom d'utilisateur.
+[20:46:01] - [2] Client 192.168.0.40 Déconnecté (00:00:00 Min)
+[20:47:09] - [3] Connecté à 192.168.0.40. Collecte du Nom d'utilisateur.
+[20:47:09] - [3] Client 192.168.0.40 Déconnecté (00:00:00 Min)

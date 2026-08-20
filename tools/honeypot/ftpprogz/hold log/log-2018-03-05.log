@@ -1,0 +1,467 @@
+[14:45:16] - Serveur Démarré
+[14:45:16] - FTP Port: 21
+[14:58:16] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:58:17] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:58:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:58:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:58:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:58:55] - [1] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\mg.volvo
+[14:59:10] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\mg.volvo\
+[14:59:17] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:59:17] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[14:59:17] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:59:17] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:59:17] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[14:59:17] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:59:18] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\mg.volvo\
+[14:59:18] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\mg.volvo\
+[14:59:18] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo.JPG
+[14:59:18] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo1.JPG
+[14:59:25] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo1.JPG (968,62 K/S -  6 943 052 bytes)
+[14:59:25] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo2.JPG
+[14:59:28] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo.JPG (676,34 K/S -  7 618 271 bytes)
+[14:59:29] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo3.JPG
+[14:59:32] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo2.JPG (928,93 K/S -  6 658 545 bytes)
+[14:59:32] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo4.JPG
+[14:59:38] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo3.JPG (849,58 K/S -  7 829 732 bytes)
+[14:59:38] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo5.JPG
+[14:59:41] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo4.JPG (786,88 K/S -  6 446 148 bytes)
+[14:59:41] - [3] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo6.JPG
+[14:59:48] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo5.JPG (679,38 K/S -  6 956 833 bytes)
+[14:59:48] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\mg.volvo\volvo7.JPG
+[14:59:50] - [3] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo6.JPG (904,00 K/S -  7 405 546 bytes)
+[14:59:55] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\mg.volvo\volvo7.JPG (1 194,20 K/S -  7 337 314 bytes)
+[15:00:21] - [3] Client 192.168.0.1 Déconnecté (00:01:03 Min)
+[15:00:21] - [2] Client 192.168.0.1 Déconnecté (00:01:03 Min)
+[15:00:21] - [1] Client 192.168.0.1 Déconnecté (00:02:04 Min)
+[15:52:13] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:52:13] - [4] Authentification Incorrect: Utilisateur VICTOR.POZEN IP: 192.168.0.1
+[15:52:13] - [4] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[15:52:33] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:52:33] - [5] Authentification Incorrect: Utilisateur VICTOR.POZEN IP: 192.168.0.1
+[15:52:33] - [5] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[15:53:08] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:53:08] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:53:08] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:53:08] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:53:20] - [6] Client 192.168.0.1 Déconnecté (00:00:11 Min)
+[15:53:55] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:53:55] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:53:55] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:53:55] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:54:01] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[15:54:07] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[15:55:03] - [7] Client 192.168.0.1 Déconnecté (00:01:07 Min)
+[15:55:32] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[15:55:33] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[15:55:33] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:55:33] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[15:55:36] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[15:55:43] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[15:56:12] - [8] Client 192.168.0.1 Déconnecté (00:00:40 Min)
+[19:13:23] - Serveur Démarré
+[19:13:23] - FTP Port: 21
+[19:15:15] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:15:16] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:15:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:15:17] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:15:23] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\
+[19:15:25] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\
+[19:15:33] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\ftp\progz\reactivate wk7\
+[19:15:50] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:15:50] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:15:56] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cr wk7\
+[19:15:59] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cr wk7\Nouveau dossier\
+[19:16:05] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:16:06] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[19:16:29] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:16:29] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\rar\
+[19:16:51] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:16:51] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\exe\
+[19:17:31] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:17:31] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:17:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:17:31] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\exe\
+[19:17:31] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\exe\pplfr165_x64comp.exe
+[19:17:33] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\exe\pplfr165_x64comp.exe (232,84 K/S -   238 430 bytes)
+[19:17:48] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:17:48] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\000\
+[19:17:51] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:17:51] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\1\
+[19:18:02] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:18:02] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\2\
+[19:18:05] - [2] Client 192.168.0.1 Déconnecté (00:00:33 Min)
+[19:18:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[19:18:12] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\cleusb 16go\
+[19:18:23] - [1] Client 192.168.0.1 Déconnecté (00:03:08 Min)
+[19:29:39] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:29:39] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:29:39] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:29:39] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:04] - [3] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\Hard Disk Sentinel
+[19:30:04] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:30:04] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:30:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:04] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:30:04] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:04] - [3] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\Hard Disk Sentinel
+[19:30:05] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:30:05] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:30:05] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[19:30:05] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\Hard Disk Sentinel\
+[19:30:05] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ar.lng
+[19:30:05] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ar.lng (42,02 K/S -   43 030 bytes)
+[19:30:05] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\afaapi.dll
+[19:30:05] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\arpro.lng
+[19:30:05] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\arpro.lng (7,20 K/S -   7 376 bytes)
+[19:30:06] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\afaapi.dll (682,14 K/S -   698 512 bytes)
+[19:30:06] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\be.lng
+[19:30:06] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\be.lng (52,19 K/S -   53 446 bytes)
+[19:30:06] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\bc_vbdll.dll
+[19:30:06] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\bepro.lng
+[19:30:06] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\bepro.lng (8,45 K/S -   8 648 bytes)
+[19:30:07] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\bc_vbdll.dll (590,14 K/S -   604 304 bytes)
+[19:30:07] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\bg.lng
+[19:30:07] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\bgpro.lng
+[19:30:07] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\bg.lng (51,42 K/S -   52 657 bytes)
+[19:30:07] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\bgpro.lng (8,47 K/S -   8 676 bytes)
+[19:30:07] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\cn.lng
+[19:30:07] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\cn.lng (30,35 K/S -   31 075 bytes)
+[19:30:07] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\cnpro.lng
+[19:30:07] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\cnpro.lng (4,96 K/S -   5 084 bytes)
+[19:30:07] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\cz.lng
+[19:30:07] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\cz.lng (45,13 K/S -   46 208 bytes)
+[19:30:07] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\czpro.lng
+[19:30:08] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\czpro.lng (7,57 K/S -   7 755 bytes)
+[19:30:08] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\da.lng
+[19:30:08] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\da.lng (33,76 K/S -   34 569 bytes)
+[19:30:08] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\dapro.lng
+[19:30:08] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\dapro.lng (7,95 K/S -   8 139 bytes)
+[19:30:08] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\de.lng
+[19:30:08] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\de.lng (53,95 K/S -   55 241 bytes)
+[19:30:08] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\depro.lng
+[19:30:08] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\depro.lng (8,66 K/S -   8 863 bytes)
+[19:30:08] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detect.dat
+[19:30:08] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detect.dat (88,89 K/S -   91 026 bytes)
+[19:30:09] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detect.dll
+[19:30:15] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detect.dll (28,94 K/S -   177 808 bytes)
+[19:30:15] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\deta.dll
+[19:30:15] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\deta.dll (37,14 K/S -   38 032 bytes)
+[19:30:15] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detjm.dll
+[19:30:15] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detp.dll
+[19:30:15] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detjm.dll (100,45 K/S -   102 856 bytes)
+[19:30:15] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detp.dll (115,14 K/S -   117 904 bytes)
+[19:30:15] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detrc.dll
+[19:30:15] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detpex.dlz
+[19:30:16] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detrc.dll (138,14 K/S -   141 456 bytes)
+[19:30:16] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detw.dll
+[19:30:16] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detw.dll (176,15 K/S -   180 376 bytes)
+[19:30:16] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detpex.dlz (676,67 K/S -   692 911 bytes)
+[19:30:16] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00.hdd
+[19:30:16] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00.hdd (0,47 K/S -    480 bytes)
+[19:30:16] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\detw64.dll
+[19:30:17] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\detw64.dll (215,65 K/S -   220 824 bytes)
+[19:30:17] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01.hdd
+[19:30:17] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01.hdd (23,91 K/S -   24 480 bytes)
+[19:30:17] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00_scsi.hdi
+[19:30:17] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_2.0_____Flash_Disk___5.00_scsi.hdi (20,83 K/S -   21 332 bytes)
+[19:30:17] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01_scsi.hdi
+[19:30:17] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Generic-_Compact_Flash_GENERIC_CF_READER01_1.01_scsi.hdi (20,83 K/S -   21 332 bytes)
+[19:30:17] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.dat
+[19:30:18] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.dat (3,16 K/S -   3 234 bytes)
+[19:30:18] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdd
+[19:30:18] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdd (23,91 K/S -   24 480 bytes)
+[19:30:18] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdi
+[19:30:18] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Hitachi_HDS721050CLA362_JP5570HF2Z8MNP_JP2OA3EA.hdi (0,65 K/S -    662 bytes)
+[19:30:18] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05.hdd
+[19:30:18] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05.hdd (23,91 K/S -   24 480 bytes)
+[19:30:18] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05_scsi.hdi
+[19:30:18] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DISKDATA_Multiple_Flash_Reader_GENERIC_SD_READER01_1.05_scsi.hdi (20,83 K/S -   21 332 bytes)
+[19:30:18] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\DriveAddRemoveLog.txt
+[19:30:18] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\DriveAddRemoveLog.txt (0,13 K/S -    136 bytes)
+[19:30:18] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\du.lng
+[19:30:18] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\du.lng (51,45 K/S -   52 681 bytes)
+[19:30:18] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\dupro.lng
+[19:30:18] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\dupro.lng (8,49 K/S -   8 698 bytes)
+[19:30:19] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\en.chm
+[19:30:19] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\en.lng
+[19:30:19] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\en.lng (47,34 K/S -   48 472 bytes)
+[19:30:19] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\enpro.lng
+[19:30:19] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\enpro.lng (7,75 K/S -   7 939 bytes)
+[19:30:19] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\fi.chm
+[19:30:20] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\en.chm (1 505,80 K/S -  1 541 923 bytes)
+[19:30:20] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\fi.lng
+[19:30:20] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\fi.lng (48,84 K/S -   50 016 bytes)
+[19:30:20] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\fipro.lng
+[19:30:20] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\fipro.lng (8,30 K/S -   8 502 bytes)
+[19:30:21] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\fnp_act_installer.dll
+[19:30:21] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\fi.chm (1 528,60 K/S -  1 565 319 bytes)
+[19:30:21] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\fr.lng
+[19:30:21] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\fr.lng (55,00 K/S -   56 316 bytes)
+[19:30:21] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\fnp_act_installer.dll (384,64 K/S -   393 872 bytes)
+[19:30:21] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\frpro.lng
+[19:30:21] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\gr.lng
+[19:30:21] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\frpro.lng (9,34 K/S -   9 566 bytes)
+[19:30:22] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\gr.lng (41,76 K/S -   42 761 bytes)
+[19:30:22] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\harddisksentinelupdate.exe
+[19:30:22] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\grpro.lng
+[19:30:22] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\grpro.lng (9,35 K/S -   9 578 bytes)
+[19:30:23] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\harddisksentinelupdate.exe (281,64 K/S -   288 400 bytes)
+[19:30:23] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hdd.jpg
+[19:30:23] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDnotify.wav
+[19:30:23] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hdd.jpg (10,04 K/S -   10 279 bytes)
+[19:30:23] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDnotify.wav (22,91 K/S -   23 456 bytes)
+[19:30:23] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSAction.exe
+[19:30:23] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSCtrl.exe
+[19:30:24] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSCtrl.exe (236,14 K/S -   241 808 bytes)
+[19:30:24] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe
+[19:30:26] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSAction.exe (368,32 K/S -   754 320 bytes)
+[19:30:26] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe.BAK
+[19:30:33] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe (544,46 K/S -  4 460 176 bytes)
+[19:30:33] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hdk
+[19:30:33] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hdk (0,51 K/S -    520 bytes)
+[19:30:35] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.exe.BAK (544,46 K/S -  4 460 176 bytes)
+[19:30:35] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hds
+[19:30:35] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.hds (0,51 K/S -    520 bytes)
+[19:30:35] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.ini
+[19:30:35] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.ini (5,17 K/S -   5 294 bytes)
+[19:30:35] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sta
+[19:30:35] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sta (1,95 K/S -   1 993 bytes)
+[19:30:35] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sys
+[19:30:36] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinel.sys (9,96 K/S -   10 200 bytes)
+[19:30:36] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsh
+[19:30:36] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsh (8,19 K/S -   8 390 bytes)
+[19:30:36] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsx
+[19:30:36] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hdsentinel.vsx (0,67 K/S -    686 bytes)
+[19:30:36] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDSentinelTray.exe
+[19:30:43] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDSentinelTray.exe (37,73 K/S -   270 480 bytes)
+[19:30:43] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hdsversion.txt
+[19:30:43] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\HDsirena.mp3
+[19:30:43] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hdsversion.txt (0,01 K/S -    11 bytes)
+[19:30:43] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\HDsirena.mp3 (57,68 K/S -   59 066 bytes)
+[19:30:43] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hds_eula_en.txt
+[19:30:43] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_en.txt (11,25 K/S -   11 521 bytes)
+[19:30:43] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hds_eula_hu.txt
+[19:30:43] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hds_eula_hu.txt (9,86 K/S -   10 097 bytes)
+[19:30:44] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hu.chm
+[19:30:44] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hu.lng
+[19:30:44] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hu.lng (50,08 K/S -   51 281 bytes)
+[19:30:44] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\hupro.lng
+[19:30:44] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hupro.lng (8,42 K/S -   8 623 bytes)
+[19:30:44] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\id.lng
+[19:30:44] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\id.lng (49,77 K/S -   50 968 bytes)
+[19:30:45] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\idpro.lng
+[19:30:45] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\idpro.lng (8,53 K/S -   8 738 bytes)
+[19:30:45] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\hu.chm (1 501,30 K/S -  1 537 327 bytes)
+[19:30:45] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\it.chm
+[19:30:45] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\it.lng
+[19:30:45] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\it.lng (51,54 K/S -   52 774 bytes)
+[19:30:45] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\itpro.lng
+[19:30:45] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\itpro.lng (8,74 K/S -   8 951 bytes)
+[19:30:45] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\jp.lng
+[19:30:46] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\jp.lng (46,25 K/S -   47 355 bytes)
+[19:30:46] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\jppro.lng
+[19:30:46] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\it.chm (1 451,50 K/S -  1 486 326 bytes)
+[19:30:46] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\jppro.lng (8,04 K/S -   8 237 bytes)
+[19:30:46] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\libeay32.dll
+[19:30:46] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\libxml2.dll
+[19:30:47] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\libxml2.dll (227,64 K/S -   233 104 bytes)
+[19:30:47] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\log.txt
+[19:30:47] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\log.txt (9,73 K/S -   9 968 bytes)
+[19:30:47] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\libeay32.dll (758,34 K/S -  1 553 072 bytes)
+[19:30:48] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\mkpro.lng
+[19:30:48] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\mk.lng
+[19:30:48] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\mkpro.lng (8,76 K/S -   8 971 bytes)
+[19:30:48] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\mk.lng (51,87 K/S -   53 112 bytes)
+[19:30:48] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\pl.lng
+[19:30:48] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\pl.chm
+[19:30:48] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\pl.lng (51,94 K/S -   53 184 bytes)
+[19:30:48] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\plpro.lng
+[19:30:48] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\plpro.lng (8,65 K/S -   8 857 bytes)
+[19:30:48] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\prdecode.dll
+[19:30:49] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\prdecode.dll (53,64 K/S -   54 928 bytes)
+[19:30:49] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\pl.chm (1 134,20 K/S -  1 161 383 bytes)
+[19:30:49] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\pri2plgnnapa.dll
+[19:30:49] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\prerrlog.dll
+[19:30:49] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\pri2plgnnapa.dll (91,64 K/S -   93 840 bytes)
+[19:30:49] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\prerrlog.dll (39,14 K/S -   40 080 bytes)
+[19:30:49] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ptbrpro.lng
+[19:30:49] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ptbr.lng
+[19:30:49] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ptbrpro.lng (8,72 K/S -   8 925 bytes)
+[19:30:49] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ptbr.lng (51,75 K/S -   52 990 bytes)
+[19:30:50] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ro.lng
+[19:30:50] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\removehds7.vbs
+[19:30:50] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\removehds7.vbs (0,50 K/S -    512 bytes)
+[19:30:50] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ro.lng (45,47 K/S -   46 565 bytes)
+[19:30:50] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ropro.lng
+[19:30:50] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ropro.lng (8,02 K/S -   8 217 bytes)
+[19:30:50] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ru.chm
+[19:30:50] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ru.lng
+[19:30:50] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ru.lng (48,95 K/S -   50 125 bytes)
+[19:30:51] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\rupro.lng
+[19:30:51] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\rupro.lng (7,78 K/S -   7 963 bytes)
+[19:30:51] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\sk.lng
+[19:30:51] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\sk.lng (47,54 K/S -   48 678 bytes)
+[19:30:51] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ru.chm (1 534,30 K/S -  1 571 111 bytes)
+[19:30:51] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\sp.lng
+[19:30:51] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\skpro.lng
+[19:30:51] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\sp.lng (11,83 K/S -   12 109 bytes)
+[19:30:51] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\skpro.lng (8,25 K/S -   8 445 bytes)
+[19:30:51] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Status.icd
+[19:30:51] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ssleay32.dll
+[19:30:52] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Status.icd (253,15 K/S -   259 224 bytes)
+[19:30:52] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Statusb.icd
+[19:30:52] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ssleay32.dll (330,61 K/S -   338 544 bytes)
+[19:30:52] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Statusg.icd
+[19:30:52] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Statusb.icd (253,15 K/S -   259 224 bytes)
+[19:30:52] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Statusn.icd
+[19:30:52] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Statusg.icd (253,15 K/S -   259 224 bytes)
+[19:30:52] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Statusw.icd
+[19:30:53] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Statusn.icd (253,15 K/S -   259 224 bytes)
+[19:30:53] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Storagetest.dll
+[19:30:53] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Statusw.icd (253,15 K/S -   259 224 bytes)
+[19:30:53] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storarc.dll
+[19:30:55] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Storagetest.dll (365,07 K/S -   747 664 bytes)
+[19:30:55] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storectrl.dll
+[19:30:56] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storectrl.dll (283,14 K/S -   289 936 bytes)
+[19:30:56] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storarc.dll (378,05 K/S -  1 161 360 bytes)
+[19:30:56] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storelib.dll
+[19:30:56] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storelib2.dlz
+[19:30:56] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storelib.dll (275,14 K/S -   281 744 bytes)
+[19:30:57] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storelibir-2.dll
+[19:30:57] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storelibir-2.dll (162,08 K/S -   165 968 bytes)
+[19:30:57] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storelib2.dlz (434,15 K/S -   889 148 bytes)
+[19:30:57] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\sw.lng
+[19:30:57] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\storelibir.dll
+[19:30:57] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\sw.lng (47,14 K/S -   48 274 bytes)
+[19:30:58] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\storelibir.dll (156,08 K/S -   159 824 bytes)
+[19:30:58] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\swpro.lng
+[19:30:58] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\tr.lng
+[19:30:58] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\swpro.lng (7,57 K/S -   7 753 bytes)
+[19:30:58] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\tr.lng (30,05 K/S -   30 775 bytes)
+[19:30:58] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\trpro.lng
+[19:30:58] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\trpro.lng (8,26 K/S -   8 455 bytes)
+[19:30:58] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\tw.lng
+[19:30:58] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\tw.lng (30,30 K/S -   31 032 bytes)
+[19:30:58] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\twpro.lng
+[19:30:58] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\twpro.lng (4,91 K/S -   5 024 bytes)
+[19:30:58] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\uk.lng
+[19:30:58] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\uk.lng (48,89 K/S -   50 059 bytes)
+[19:30:58] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\ukpro.lng
+[19:30:59] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\ukpro.lng (8,12 K/S -   8 316 bytes)
+[19:30:59] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\unins000.dat
+[19:30:59] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\unins000.dat (12,58 K/S -   12 883 bytes)
+[19:30:59] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\unins000.exe
+[19:30:59] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Vista_Status.icd
+[19:31:00] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\unins000.exe (680,95 K/S -   697 296 bytes)
+[19:31:00] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Vista_Status.icd (254,65 K/S -   260 760 bytes)
+[19:31:00] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusb.icd
+[19:31:00] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusg.icd
+[19:31:00] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusb.icd (254,65 K/S -   260 760 bytes)
+[19:31:00] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusg.icd (254,65 K/S -   260 760 bytes)
+[19:31:00] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusn.icd
+[19:31:00] - [4] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusw.icd
+[19:31:01] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusn.icd (254,65 K/S -   260 760 bytes)
+[19:31:01] - [4] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\Vista_Statusw.icd (254,65 K/S -   260 760 bytes)
+[19:31:01] - [5] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\Hard Disk Sentinel\winsched.txt
+[19:31:01] - [5] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\Hard Disk Sentinel\winsched.txt (11,50 K/S -   11 780 bytes)
+[19:31:28] - [5] Client 192.168.0.1 Déconnecté (00:01:24 Min)
+[19:31:29] - [4] Client 192.168.0.1 Déconnecté (00:01:24 Min)
+[19:31:29] - [3] Client 192.168.0.1 Déconnecté (00:01:49 Min)
+[19:51:42] - [6] Connecté à 196.52.43.94. Collecte du Nom d'utilisateur.
+[19:52:13] - [6] Client 196.52.43.94 Déconnecté (00:00:31 Min)
+[19:54:42] - [7] Connecté à 196.52.43.66. Collecte du Nom d'utilisateur.
+[19:54:42] - [7] Client 196.52.43.66 Déconnecté (00:00:00 Min)
+[21:18:37] - Serveur Arreté
+[21:21:20] - Serveur Démarré
+[21:21:20] - FTP Port: 21
+[21:24:02] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:24:02] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:24:02] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:24:02] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:24:06] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:24:13] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\000\
+[21:24:17] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\a trier\000\Serial.txt
+[21:24:17] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\a trier\000\Serial.txt (0,03 K/S -    30 bytes)
+[21:26:52] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:26:52] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\1\
+[21:27:00] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:27:00] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\2\
+[21:27:08] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:27:08] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[21:33:52] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:33:55] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\wwwroot\
+[21:33:59] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\wwwroot\img\
+[21:34:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:34:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\[www.Cpasbien.pe] Malwarebytes.Anti-Malware.Premium.v2.0.2.1012.Multilingual.Incl.Keygen-BRD\
+[21:35:32] - [8] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\a trier\[www.Cpasbien.pe] Malwarebytes.Anti-Malware.Premium.v2.0.2.1012.Multilingual.Incl.Keygen-BRD
+[21:35:32] - [8] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\a trier\[www.Cpasbien.pe] Malwarebytes.Anti-Malware.Premium.v2.0.2.1012.Multilingual.Incl.Keygen-BRD -> D:\kerberos.htx\a trier\ Malwarebytes.Anti-Malware.Premium.v2.0.2
+[21:35:36] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:35:36] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:35:36] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:35:55] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:36:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\FileZilla\
+[21:36:19] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\FileZilla\SProfiles\
+[21:36:20] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[21:36:20] - [9] Client 192.168.0.1 Déconnecté (00:00:44 Min)
+[21:36:20] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\dbghelp.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\DMHelp.chm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\DMSplash.spl
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FileZilla.chm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FileZilla.exe
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FileZilla.pdb
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FileZilla.xml
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FileZillaFrench.chm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FTPHelp.chm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FTPSplash.spl
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzGSS.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResBr.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResBu.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResCa.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResCh.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResChs.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResCze.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResDe.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResEs.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResFr.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResHu.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResIt.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResJp.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResKr.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResNor.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResPo.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResRu.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzResSk.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\FzSFtp.exe
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\GPL.html
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\legal.htm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\libeay32.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\puttylicense.html
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\readme.htm
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\RFTP.skn
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\RFTP.swf
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\ssleay32.dll
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\unins000.dat
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\uninstall.exe
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\zilladm.swf
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Adobe.Profile
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Gateway 2000.Profile
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Intel.Profile
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\IRS Tax Forms.Profile
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\McAfee.Profile
+[21:36:21] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Netscape.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Novell.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Sierra.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Symantec.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Walnut Creek CDROM.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\Winzip.Profile
+[21:36:22] - [8] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\a trier\FileZilla\SProfiles\ZD Net.Profile
+[21:36:22] - [8] MIRKO.POZEN: Répertoire Effacé: D:\kerberos.htx\a trier\FileZilla\SProfiles\
+[21:36:22] - [8] MIRKO.POZEN: Répertoire Effacé: D:\kerberos.htx\a trier\FileZilla\
+[21:37:08] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\FileZilla\SProfiles\
+[21:37:16] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:37:16] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[21:37:30] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\hddentinel\
+[21:38:30] - [8] Client 192.168.0.1 Déconnecté (00:14:28 Min)
+[21:38:41] - Serveur Arreté

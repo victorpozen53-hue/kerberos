@@ -1,0 +1,34 @@
+[14:28:18] - Serveur Démarré
+[14:28:18] - FTP Port: 21
+[14:35:13] - [1] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:35:13] - [1] Client 192.168.0.26 Déconnecté (00:00:00 Min)
+[14:40:40] - [2] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:40:40] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.26
+[14:40:40] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:40:40] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:41:04] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[14:41:04] - [2] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\iso linux
+[14:41:27] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\iso linux\
+[14:43:57] - [3] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:43:57] - [3] Client 192.168.0.26 Déconnecté (00:00:00 Min)
+[14:43:57] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso linux\chaletos1604-i686.iso
+[14:44:17] - [4] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:44:17] - [4] Client 192.168.0.26 Déconnecté (00:00:00 Min)
+[14:44:39] - [5] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:44:39] - [5] Client 192.168.0.26 Déconnecté (00:00:00 Min)
+[14:46:40] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso linux\chaletos1604-i686.iso (8 060,10 K/S - 1 345 323 008 bytes)
+[14:46:40] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso linux\kali-linux-2022.4-installer-amd64.iso
+[14:46:52] - [6] Connecté à 192.168.0.26. Collecte du Nom d'utilisateur.
+[14:46:52] - [6] Client 192.168.0.26 Déconnecté (00:00:00 Min)
+[14:54:01] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso linux\kali-linux-2022.4-installer-amd64.iso (-1 102,10 K/S - - 497 696 768 bytes)
+[14:56:01] - [2] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\iso linux\linuxmint-21.1-mate-64bit.iso
+[15:01:20] - [2] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\iso linux\linuxmint-21.1-mate-64bit.iso (-4 751,80 K/S - -1 552 218 112 bytes)
+[15:01:48] - [2] Client 192.168.0.26 Déconnecté (00:21:08 Min)
+[15:36:41] - [7] Connecté à 87.236.176.182. Collecte du Nom d'utilisateur.
+[15:36:49] - [7] Client 87.236.176.182 Déconnecté (00:00:08 Min)
+[16:15:42] - [8] Connecté à 13.52.212.108. Collecte du Nom d'utilisateur.
+[16:15:53] - [8] Client 13.52.212.108 Déconnecté (00:00:10 Min)
+[16:44:51] - [9] Connecté à 205.210.31.147. Collecte du Nom d'utilisateur.
+[16:45:00] - [9] Client 205.210.31.147 Déconnecté (00:00:09 Min)
+[17:28:57] - [10] Connecté à 198.235.24.175. Collecte du Nom d'utilisateur.
+[17:29:28] - [10] Client 198.235.24.175 Déconnecté (00:00:31 Min)

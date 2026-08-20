@@ -1,0 +1,32 @@
+[10:40:18] - Serveur Démarré
+[10:40:18] - FTP Port: 21
+[10:45:19] - Serveur Démarré
+[10:45:19] - FTP Port: 21
+[10:59:04] - Serveur Démarré
+[10:59:04] - FTP Port: 21
+[11:59:28] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[11:59:28] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[11:59:28] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:59:28] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[11:59:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\kalilinux\
+[12:00:09] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[12:00:09] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[12:00:09] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[12:00:09] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\kalilinux\
+[12:00:09] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\kalilinux\kali-linux-2018.4-i386.iso
+[12:00:12] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\kalilinux\kali-linux-2018.4-i386.iso (677,33 K/S -  2 080 768 bytes)
+[12:00:43] - [2] Client 192.168.0.1 Déconnecté (00:00:34 Min)
+[12:01:56] - [1] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\kalilinux\kali-linux-2018.4-amd64.iso
+[12:01:56] - [1] MIRKO.POZEN: Fichier Effacé : D:\kerberos.htx\kalilinux\kali-linux-2018.4-i386.iso
+[12:02:01] - [1] Client 192.168.0.1 Déconnecté (00:02:32 Min)
+[12:14:25] - [3] Connecté à 198.108.67.16. Collecte du Nom d'utilisateur.
+[12:14:25] - [3] Client 198.108.67.16 Déconnecté (00:00:00 Min)
+[15:45:00] - Serveur Arreté
+[17:57:18] - Serveur Démarré
+[17:57:18] - FTP Port: 21
+[18:36:47] - [4] Connecté à 192.168.0.54. Collecte du Nom d'utilisateur.
+[18:36:47] - [4] Client 192.168.0.54 Déconnecté (00:00:00 Min)
+[21:35:47] - Serveur Démarré
+[21:35:47] - FTP Port: 21
+[23:07:48] - [1] Connecté à 198.108.67.16. Collecte du Nom d'utilisateur.
+[23:07:48] - [1] Client 198.108.67.16 Déconnecté (00:00:00 Min)

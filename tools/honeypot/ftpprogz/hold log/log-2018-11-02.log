@@ -1,0 +1,280 @@
+[12:58:22] - Serveur Démarré
+[12:58:22] - FTP Port: 21
+[19:31:47] - Serveur Démarré
+[19:31:47] - FTP Port: 21
+[19:33:10] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:33:10] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:33:10] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:33:10] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:33:13] - [1] Client 192.168.0.1 Déconnecté (00:00:03 Min)
+[19:38:17] - [2] Connecté à 192.168.0.51. Collecte du Nom d'utilisateur.
+[19:38:17] - [2] Client 192.168.0.51 Déconnecté (00:00:00 Min)
+[20:02:45] - [3] Connecté à 196.52.43.102. Collecte du Nom d'utilisateur.
+[20:03:16] - [3] Client 196.52.43.102 Déconnecté (00:00:31 Min)
+[20:04:57] - [4] Connecté à 196.52.43.106. Collecte du Nom d'utilisateur.
+[20:05:07] - [4] Client 196.52.43.106 Déconnecté (00:00:09 Min)
+[20:47:21] - [5] Connecté à 77.132.5.209. Collecte du Nom d'utilisateur.
+[20:47:21] - [5] Usager MIRKO.POZEN Connecté IP: 77.132.5.209
+[20:47:21] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:22] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:54] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:54] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test
+[20:47:54] - [6] Connecté à 77.132.5.209. Collecte du Nom d'utilisateur.
+[20:47:54] - [7] Connecté à 77.132.5.209. Collecte du Nom d'utilisateur.
+[20:47:54] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:54] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test
+[20:47:54] - [6] Usager MIRKO.POZEN Connecté IP: 77.132.5.209
+[20:47:54] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:54] - [7] Usager MIRKO.POZEN Connecté IP: 77.132.5.209
+[20:47:54] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[20:47:54] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\
+[20:47:54] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test\FileZilla
+[20:47:54] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\
+[20:47:54] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:47:54] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:47:54] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test\FileZilla
+[20:47:55] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:47:55] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test\FileZilla\SProfiles
+[20:47:55] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:47:55] - [5] MIRKO.POZEN: Nouveau Répertoire: D:\kerberos.htx\fila test\FileZilla\SProfiles
+[20:47:55] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\DMHelp.chm
+[20:47:55] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\dbghelp.dll
+[20:48:00] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\DMHelp.chm (42,56 K/S -   217 914 bytes)
+[20:48:00] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\DMSplash.spl
+[20:48:03] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\dbghelp.dll (45,14 K/S -   323 584 bytes)
+[20:48:03] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FileZilla.chm
+[20:48:08] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\DMSplash.spl (42,80 K/S -   306 818 bytes)
+[20:48:08] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FileZilla.chm (55,11 K/S -   282 176 bytes)
+[20:48:08] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FileZilla.exe
+[20:48:09] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FileZilla.pdb
+[20:48:38] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FileZilla.exe (54,90 K/S -  1 630 208 bytes)
+[20:48:39] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FileZilla.xml
+[20:48:40] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FileZilla.xml (9,12 K/S -   9 339 bytes)
+[20:48:41] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FileZillaFrench.chm
+[20:48:49] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FileZillaFrench.chm (35,33 K/S -   289 419 bytes)
+[20:48:50] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FTPHelp.chm
+[20:48:54] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FTPHelp.chm (42,94 K/S -   175 885 bytes)
+[20:48:55] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FTPSplash.spl
+[20:49:01] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FTPSplash.spl (36,77 K/S -   263 540 bytes)
+[20:49:02] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzGSS.dll
+[20:49:05] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzGSS.dll (20,50 K/S -   62 976 bytes)
+[20:49:06] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResBr.dll
+[20:49:11] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResBr.dll (22,40 K/S -   114 688 bytes)
+[20:49:12] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResBu.dll
+[20:49:16] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResBu.dll (27,00 K/S -   110 592 bytes)
+[20:49:17] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResCa.dll
+[20:49:20] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResCa.dll (33,33 K/S -   102 400 bytes)
+[20:49:21] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResCh.dll
+[20:49:24] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResCh.dll (26,67 K/S -   81 920 bytes)
+[20:49:25] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResChs.dll
+[20:49:27] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResChs.dll (25,33 K/S -   77 824 bytes)
+[20:49:28] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResCze.dll
+[20:49:31] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResCze.dll (28,00 K/S -   86 016 bytes)
+[20:49:32] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResDe.dll
+[20:49:36] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResDe.dll (29,00 K/S -   118 784 bytes)
+[20:49:37] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResEs.dll
+[20:49:41] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResEs.dll (27,00 K/S -   110 592 bytes)
+[20:49:41] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResFr.dll
+[20:49:45] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResFr.dll (38,67 K/S -   118 784 bytes)
+[20:49:46] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResHu.dll
+[20:49:48] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FileZilla.pdb (68,07 K/S -  6 900 736 bytes)
+[20:49:48] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResHu.dll (32,00 K/S -   98 304 bytes)
+[20:49:48] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResIt.dll
+[20:49:49] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResJp.dll
+[20:49:50] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResIt.dll (56,00 K/S -   114 688 bytes)
+[20:49:50] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResJp.dll (36,00 K/S -   73 728 bytes)
+[20:49:51] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResKr.dll
+[20:49:51] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResNor.dll
+[20:49:52] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResKr.dll (84,00 K/S -   86 016 bytes)
+[20:49:52] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResNor.dll (44,00 K/S -   90 112 bytes)
+[20:49:53] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResPo.dll
+[20:49:53] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResRu.dll
+[20:49:54] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResPo.dll (54,00 K/S -   110 592 bytes)
+[20:49:55] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResRu.dll (52,00 K/S -   106 496 bytes)
+[20:49:55] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzResSk.dll
+[20:49:55] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\FzSFtp.exe
+[20:49:57] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzResSk.dll (44,00 K/S -   90 112 bytes)
+[20:49:57] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\GPL.html
+[20:49:58] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\GPL.html (16,16 K/S -   16 543 bytes)
+[20:49:59] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\legal.htm
+[20:49:59] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\FzSFtp.exe (66,00 K/S -   270 336 bytes)
+[20:49:59] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\legal.htm (1,17 K/S -   1 196 bytes)
+[20:49:59] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\libeay32.dll
+[20:49:59] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\Nouveau document texte.txt
+[20:49:59] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\Nouveau document texte.txt (0,04 K/S -  19 642 488 bytes)
+[20:50:00] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\puttylicense.html
+[20:50:00] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\puttylicense.html (1,21 K/S -   1 239 bytes)
+[20:50:01] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\readme.htm
+[20:50:03] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\readme.htm (27,32 K/S -   55 944 bytes)
+[20:50:04] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\RFTP.skn
+[20:50:13] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\libeay32.dll (63,14 K/S -   905 216 bytes)
+[20:50:14] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\RFTP.swf
+[20:50:18] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\RFTP.swf (36,02 K/S -   147 548 bytes)
+[20:50:18] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\SProfiles\
+[20:50:20] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Adobe.Profile
+[20:50:21] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Adobe.Profile (0,07 K/S -    76 bytes)
+[20:50:22] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Gateway 2000.Profile
+[20:50:23] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Gateway 2000.Profile (0,09 K/S -    89 bytes)
+[20:50:24] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Intel.Profile
+[20:50:24] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Intel.Profile (0,07 K/S -    76 bytes)
+[20:50:25] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\IRS Tax Forms.Profile
+[20:50:26] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\IRS Tax Forms.Profile (0,08 K/S -    82 bytes)
+[20:50:27] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\McAfee.Profile
+[20:50:27] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\McAfee.Profile (0,08 K/S -    78 bytes)
+[20:50:28] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Netscape.Profile
+[20:50:29] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Netscape.Profile (0,08 K/S -    82 bytes)
+[20:50:30] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Novell.Profile
+[20:50:30] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\RFTP.skn (76,83 K/S -  2 124 139 bytes)
+[20:50:30] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\SProfiles\
+[20:50:31] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Novell.Profile (0,08 K/S -    78 bytes)
+[20:50:31] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Sierra.Profile
+[20:50:31] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Symantec.Profile
+[20:50:31] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Sierra.Profile (0,08 K/S -    78 bytes)
+[20:50:31] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Symantec.Profile (0,08 K/S -    82 bytes)
+[20:50:31] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Walnut Creek CDROM.Profile
+[20:50:32] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Walnut Creek CDROM.Profile (0,09 K/S -    89 bytes)
+[20:50:32] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\Winzip.Profile
+[20:50:32] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\SProfiles\ZD Net.Profile
+[20:50:32] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\ZD Net.Profile (0,08 K/S -    77 bytes)
+[20:50:32] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:50:32] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\SProfiles\Winzip.Profile (0,08 K/S -    78 bytes)
+[20:50:33] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[20:50:33] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\ssleay32.dll
+[20:50:33] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\Thumbs.db
+[20:50:34] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\Thumbs.db (26,00 K/S -   26 624 bytes)
+[20:50:35] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\unins000.dat
+[20:50:36] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\ssleay32.dll (62,67 K/S -   192 512 bytes)
+[20:50:36] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\unins000.dat (14,06 K/S -   14 396 bytes)
+[20:50:36] - [6] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\uninstall.exe
+[20:50:36] - [7] MIRKO.POZEN: Début d'Upload de D:\kerberos.htx\fila test\FileZilla\zilladm.swf
+[20:50:37] - [6] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\uninstall.exe (30,86 K/S -   63 204 bytes)
+[20:50:38] - [7] MIRKO.POZEN: Fichier Upload: D:\kerberos.htx\fila test\FileZilla\zilladm.swf (66,87 K/S -   136 946 bytes)
+[20:51:09] - [7] Client 77.132.5.209 Déconnecté (00:03:15 Min)
+[20:51:09] - [6] Client 77.132.5.209 Déconnecté (00:03:15 Min)
+[20:55:24] - [5] Client 77.132.5.209 Déconnecté (00:08:03 Min)
+[21:06:07] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:06:07] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:06:07] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:06:07] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:06:14] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\
+[21:06:15] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[21:06:15] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\SProfiles\
+[21:06:15] - [9] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:06:15] - [10] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:06:15] - [9] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:06:15] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:06:15] - [10] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[21:06:15] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[21:06:15] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[21:06:15] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\
+[21:06:15] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\dbghelp.dll
+[21:06:15] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\DMHelp.chm
+[21:06:16] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\DMHelp.chm (212,81 K/S -   217 914 bytes)
+[21:06:16] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\DMSplash.spl
+[21:06:16] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\dbghelp.dll (316,00 K/S -   323 584 bytes)
+[21:06:16] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FileZilla.chm
+[21:06:17] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\DMSplash.spl (299,63 K/S -   306 818 bytes)
+[21:06:17] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FileZilla.exe
+[21:06:17] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FileZilla.chm (275,56 K/S -   282 176 bytes)
+[21:06:17] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FileZilla.pdb
+[21:06:20] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FileZilla.exe (398,00 K/S -  1 630 208 bytes)
+[21:06:20] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FileZilla.xml
+[21:06:21] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FileZilla.xml (9,12 K/S -   9 339 bytes)
+[21:06:21] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FileZillaFrench.chm
+[21:06:21] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FileZillaFrench.chm (282,64 K/S -   289 419 bytes)
+[21:06:21] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FTPHelp.chm
+[21:06:22] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FTPHelp.chm (171,76 K/S -   175 885 bytes)
+[21:06:22] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FTPSplash.spl
+[21:06:23] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FTPSplash.spl (257,36 K/S -   263 540 bytes)
+[21:06:23] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzGSS.dll
+[21:06:23] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzGSS.dll (61,50 K/S -   62 976 bytes)
+[21:06:23] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResBr.dll
+[21:06:23] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResBr.dll (112,00 K/S -   114 688 bytes)
+[21:06:23] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResBu.dll
+[21:06:24] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResBu.dll (108,00 K/S -   110 592 bytes)
+[21:06:24] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResCa.dll
+[21:06:24] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResCa.dll (100,00 K/S -   102 400 bytes)
+[21:06:24] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResCh.dll
+[21:06:24] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResCh.dll (80,00 K/S -   81 920 bytes)
+[21:06:24] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResChs.dll
+[21:06:24] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResChs.dll (76,00 K/S -   77 824 bytes)
+[21:06:25] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResCze.dll
+[21:06:25] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResCze.dll (84,00 K/S -   86 016 bytes)
+[21:06:25] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResDe.dll
+[21:06:25] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResDe.dll (116,00 K/S -   118 784 bytes)
+[21:06:25] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResEs.dll
+[21:06:25] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResEs.dll (108,00 K/S -   110 592 bytes)
+[21:06:25] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResFr.dll
+[21:06:25] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResFr.dll (116,00 K/S -   118 784 bytes)
+[21:06:25] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResHu.dll
+[21:06:26] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResHu.dll (96,00 K/S -   98 304 bytes)
+[21:06:26] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResIt.dll
+[21:06:26] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResIt.dll (112,00 K/S -   114 688 bytes)
+[21:06:26] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResJp.dll
+[21:06:26] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResJp.dll (72,00 K/S -   73 728 bytes)
+[21:06:26] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResKr.dll
+[21:06:26] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResKr.dll (84,00 K/S -   86 016 bytes)
+[21:06:26] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResNor.dll
+[21:06:27] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResNor.dll (88,00 K/S -   90 112 bytes)
+[21:06:27] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResPo.dll
+[21:06:27] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResPo.dll (108,00 K/S -   110 592 bytes)
+[21:06:27] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResRu.dll
+[21:06:27] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResRu.dll (104,00 K/S -   106 496 bytes)
+[21:06:27] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzResSk.dll
+[21:06:27] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzResSk.dll (88,00 K/S -   90 112 bytes)
+[21:06:28] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\FzSFtp.exe
+[21:06:28] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FzSFtp.exe (264,00 K/S -   270 336 bytes)
+[21:06:28] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\GPL.html
+[21:06:28] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\GPL.html (16,16 K/S -   16 543 bytes)
+[21:06:28] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\legal.htm
+[21:06:29] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\legal.htm (1,17 K/S -   1 196 bytes)
+[21:06:29] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\libeay32.dll
+[21:06:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\libeay32.dll (442,00 K/S -   905 216 bytes)
+[21:06:31] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\puttylicense.html
+[21:06:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\puttylicense.html (1,21 K/S -   1 239 bytes)
+[21:06:31] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\readme.htm
+[21:06:31] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\readme.htm (54,63 K/S -   55 944 bytes)
+[21:06:31] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\RFTP.skn
+[21:06:31] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\FileZilla.pdb (449,27 K/S -  6 900 736 bytes)
+[21:06:32] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\RFTP.swf
+[21:06:32] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\RFTP.swf (144,09 K/S -   147 548 bytes)
+[21:06:32] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\ssleay32.dll
+[21:06:32] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\ssleay32.dll (188,00 K/S -   192 512 bytes)
+[21:06:33] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\Thumbs.db
+[21:06:33] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\Thumbs.db (26,00 K/S -   26 624 bytes)
+[21:06:33] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\unins000.dat
+[21:06:33] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\unins000.dat (14,06 K/S -   14 396 bytes)
+[21:06:33] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\uninstall.exe
+[21:06:33] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\uninstall.exe (61,72 K/S -   63 204 bytes)
+[21:06:33] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\zilladm.swf
+[21:06:33] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\zilladm.swf (133,74 K/S -   136 946 bytes)
+[21:06:33] - [9] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\SProfiles\
+[21:06:34] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Adobe.Profile
+[21:06:34] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Adobe.Profile (0,07 K/S -    76 bytes)
+[21:06:34] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Gateway 2000.Profile
+[21:06:34] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Gateway 2000.Profile (0,09 K/S -    89 bytes)
+[21:06:34] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Intel.Profile
+[21:06:34] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Intel.Profile (0,07 K/S -    76 bytes)
+[21:06:34] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\IRS Tax Forms.Profile
+[21:06:34] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\IRS Tax Forms.Profile (0,08 K/S -    82 bytes)
+[21:06:35] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\McAfee.Profile
+[21:06:35] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\McAfee.Profile (0,08 K/S -    78 bytes)
+[21:06:35] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Netscape.Profile
+[21:06:35] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Netscape.Profile (0,08 K/S -    82 bytes)
+[21:06:35] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Novell.Profile
+[21:06:35] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Novell.Profile (0,08 K/S -    78 bytes)
+[21:06:35] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\RFTP.skn (691,45 K/S -  2 124 139 bytes)
+[21:06:35] - [10] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\fila test\FileZilla\SProfiles\
+[21:06:35] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Sierra.Profile
+[21:06:35] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Sierra.Profile (0,08 K/S -    78 bytes)
+[21:06:35] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Symantec.Profile
+[21:06:35] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Symantec.Profile (0,08 K/S -    82 bytes)
+[21:06:35] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Walnut Creek CDROM.Profile
+[21:06:35] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Walnut Creek CDROM.Profile (0,09 K/S -    89 bytes)
+[21:06:36] - [9] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\Winzip.Profile
+[21:06:36] - [9] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\Winzip.Profile (0,08 K/S -    78 bytes)
+[21:06:36] - [10] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\fila test\FileZilla\SProfiles\ZD Net.Profile
+[21:06:36] - [10] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\fila test\FileZilla\SProfiles\ZD Net.Profile (0,08 K/S -    77 bytes)
+[21:06:40] - [10] Client 192.168.0.1 Déconnecté (00:00:24 Min)
+[21:06:40] - [9] Client 192.168.0.1 Déconnecté (00:00:24 Min)
+[21:06:40] - [8] Client 192.168.0.1 Déconnecté (00:00:32 Min)

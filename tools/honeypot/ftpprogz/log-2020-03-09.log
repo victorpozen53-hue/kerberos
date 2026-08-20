@@ -1,0 +1,26 @@
+[03:26:09] - [4] Connecté à 45.62.121.240. Collecte du Nom d'utilisateur.
+[03:26:09] - [4] Client 45.62.121.240 Déconnecté (00:00:00 Min)
+[06:02:19] - [5] Connecté à 122.228.19.79. Collecte du Nom d'utilisateur.
+[06:02:38] - [5] Client 122.228.19.79 Déconnecté (00:00:19 Min)
+[14:43:34] - [6] Connecté à 192.241.207.116. Collecte du Nom d'utilisateur.
+[14:43:44] - [6] Client 192.241.207.116 Déconnecté (00:00:09 Min)
+[21:30:27] - Serveur Démarré
+[21:30:27] - FTP Port: 21
+[21:53:50] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:53:50] - [1] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[21:54:11] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:54:11] - [2] Usager ANONYMOUS Connecté IP: 192.168.0.1
+[21:54:11] - [2] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 192.168.0.1
+[21:54:11] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:54:11] - [2] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[21:54:33] - [3] Authentification Incorrect: Utilisateur LOCIOSERVER IP: 192.168.0.1
+[21:54:33] - [3] Client 192.168.0.1 Déconnecté (00:00:21 Min)
+[21:55:14] - [4] Connecté à 192.241.224.49. Collecte du Nom d'utilisateur.
+[21:55:24] - [4] Client 192.241.224.49 Déconnecté (00:00:09 Min)
+[21:56:01] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:56:01] - [5] Usager ANONYMOUS Connecté IP: 192.168.0.1
+[21:56:02] - [5] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 192.168.0.1
+[21:56:02] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[21:56:02] - [5] Client 192.168.0.1 Déconnecté (00:00:00 Min)
+[21:56:36] - [6] Authentification Incorrect: Utilisateur LOCIOSERVER IP: 192.168.0.1
+[21:56:36] - [6] Client 192.168.0.1 Déconnecté (00:00:34 Min)

@@ -1,0 +1,77 @@
+[17:08:52] - Serveur Démarré
+[17:08:52] - FTP Port: 21
+[17:13:54] - [1] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:13:55] - [1] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:13:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:13:55] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:14:04] - [1] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:15:02] - [2] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[17:15:03] - [2] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[17:15:03] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[17:15:03] - [2] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[17:15:03] - [2] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[17:15:04] - [2] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (479,36 K/S -   981 728 bytes)
+[17:15:35] - [2] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[18:26:05] - [1] Client 192.168.0.1 Déconnecté (01:12:11 Min)
+[18:29:04] - [3] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:29:04] - [3] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:29:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:29:04] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:29:13] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\rar\
+[18:29:42] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:29:42] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\000\
+[18:29:46] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:29:46] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\
+[18:29:49] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\
+[18:29:53] - [3] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\a trier\douwloads\winrar5.01\
+[18:30:04] - [3] Client 192.168.0.1 Déconnecté (00:01:00 Min)
+[18:57:32] - [4] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:57:32] - [4] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:57:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:32] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:37] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\DRIVERS\
+[18:57:49] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:57:49] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\
+[18:57:53] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\12000\
+[18:57:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\
+[18:57:57] - [4] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\epson drivers to server\
+[18:58:33] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson31729eu.exe
+[18:58:33] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson31729eu.exe -> D:\kerberos.htx\drivers scannaer epsongt\12000\epson31729eu.exe
+[18:58:33] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson4080eu.exe
+[18:58:33] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson4080eu.exe -> D:\kerberos.htx\drivers scannaer epsongt\12000\epson4080eu.exe
+[18:58:37] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson drivers to server
+[18:58:37] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson drivers to server -> D:\kerberos.htx\drivers scannaer epsongt\12000\epson drivers to server
+[18:58:42] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson drivers to server
+[18:58:42] - [4] MIRKO.POZEN: Fichier Renommé: D:\kerberos.htx\drivers scannaer epsongt\epson drivers to server -> D:\kerberos.htx\drivers scannaer epsongt\12000\epson drivers to server
+[18:58:47] - [5] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:58:47] - [6] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[18:58:47] - [5] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:58:47] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:58:47] - [6] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[18:58:47] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[18:58:47] - [5] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\12000\
+[18:58:47] - [6] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\drivers scannaer epsongt\12000\
+[18:58:47] - [6] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\drivers scannaer epsongt\12000\epson4080eu.exe
+[18:58:47] - [5] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\drivers scannaer epsongt\12000\epson31729eu.exe
+[18:58:54] - [6] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\drivers scannaer epsongt\12000\epson4080eu.exe (393,36 K/S -  2 819 584 bytes)
+[18:59:15] - [5] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\drivers scannaer epsongt\12000\epson31729eu.exe (738,14 K/S -  21 164 032 bytes)
+[18:59:25] - [6] Client 192.168.0.1 Déconnecté (00:00:37 Min)
+[18:59:46] - [5] Client 192.168.0.1 Déconnecté (00:00:58 Min)
+[19:09:57] - [4] Client 192.168.0.1 Déconnecté (00:12:25 Min)
+[19:18:10] - [7] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:18:10] - [7] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:18:10] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:18:10] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:18:13] - [7] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:19:18] - [8] Connecté à 192.168.0.1. Collecte du Nom d'utilisateur.
+[19:19:18] - [8] Usager MIRKO.POZEN Connecté IP: 192.168.0.1
+[19:19:18] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\
+[19:19:18] - [8] MIRKO.POZEN: Répertoire en Cours: D:\kerberos.htx\exe\
+[19:19:18] - [8] MIRKO.POZEN: Début du Téléchargement de: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe
+[19:19:20] - [8] MIRKO.POZEN: Fichier envoyé: D:\kerberos.htx\exe\slimdrivers_2-3-0-1_fr_412744.exe (958,72 K/S -   981 728 bytes)
+[19:19:51] - [8] Client 192.168.0.1 Déconnecté (00:00:32 Min)
+[19:21:16] - [7] Client 192.168.0.1 Déconnecté (00:03:06 Min)
+[20:50:38] - [9] Connecté à 109.64.71.64. Collecte du Nom d'utilisateur.
+[20:50:38] - [9] Usager ANONYMOUS Connecté IP: 109.64.71.64
+[20:50:38] - [9] Mot de Passe Incorrect: Utilisateur ANONYMOUS IP: 109.64.71.64
+[20:50:39] - [9] Client 109.64.71.64 Déconnecté (00:00:00 Min)
