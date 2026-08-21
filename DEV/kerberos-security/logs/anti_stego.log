@@ -4,3 +4,6 @@
 [2026-08-19 22:04:19] [START] 🔍 [Anti-Stego] Guard démarré — Surveillance steganographie active
 [2026-08-19 22:04:19] [WATCH] 👁️ Surveillance active de 3 dossier(s)
 [2026-08-19 22:04:19] [ERROR] ❌ Erreur surveillance: name 'time' is not defined
+[2026-08-21 16:20:47] [START] 🔍 [Anti-Stego] Guard démarré — Surveillance steganographie active
+[2026-08-21 16:20:47] [WATCH] 👁️ Surveillance active de 3 dossier(s)
+[2026-08-21 16:20:49] [ERROR] ❌ Erreur surveillance: name 'time' is not defined

@@ -3,12 +3,12 @@
   "current_dna": {
     "core": "9cb5bdc01a9fb9297152c9d022d3bd8e0a1dcb69b192a3d1f6825cc420a76686",
     "size_bytes": 7992,
-    "computed_at": "2026-08-19T20:04:13.911614+00:00",
+    "computed_at": "2026-08-21T14:20:40.849190+00:00",
     "telomere_start": "23212f7573722f62696e2f656e7620707974686f6e330a23202d2a2d20636f64",
     "telomere_end": "2067726f676e65e280a6206574206d7574652e20f09f90baf09fa7ac5c6e2229",
     "magic": "2321",
     "format": "Python script",
-    "path": "F:\\dev\\kerberos-security\\guards\\guard_genome.py",
+    "path": "H:\\kerberos\\DEV\\kerberos-security\\guards\\guard_genome.py",
     "modified_at": 1771430008.0
   },
   "telomere_check": {
@@ -18,15 +18,10 @@
     "start_null_ratio": "0/32",
     "end_null_ratio": "0/32",
     "issues": [],
-    "timestamp": "2026-08-19T20:04:13.910609+00:00"
+    "timestamp": "2026-08-21T14:20:40.848182+00:00"
   },
-  "last_check": "2026-08-19T20:04:13.933590+00:00",
+  "last_check": "2026-08-21T14:20:40.877567+00:00",
   "history": [
-    {
-      "dna_core": "9cb5bdc01a9fb9297152c9d022d3bd8e0a1dcb69b192a3d1f6825cc420a76686",
-      "timestamp": "2026-02-28T14:39:56.639881+00:00",
-      "status": "stable"
-    },
     {
       "dna_core": "9cb5bdc01a9fb9297152c9d022d3bd8e0a1dcb69b192a3d1f6825cc420a76686",
       "timestamp": "2026-02-28T16:06:47.341651+00:00",
@@ -70,6 +65,11 @@
     {
       "dna_core": "9cb5bdc01a9fb9297152c9d022d3bd8e0a1dcb69b192a3d1f6825cc420a76686",
       "timestamp": "2026-08-19T20:04:13.933590+00:00",
+      "status": "stable"
+    },
+    {
+      "dna_core": "9cb5bdc01a9fb9297152c9d022d3bd8e0a1dcb69b192a3d1f6825cc420a76686",
+      "timestamp": "2026-08-21T14:20:40.877567+00:00",
       "status": "stable"
     }
   ]
